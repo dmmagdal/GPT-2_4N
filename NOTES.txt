@@ -1,0 +1,22 @@
+Notes to myself on the slight modifications I made to the original repository.
+
+A few changes were made to the repository since initially cloning it.
+1) Tensorflow was changed from v1.12.0 to v1.14.0 to avoid an error that was occuring with the
+   former version. Tensorflow v1.14.0 handles that error. See https://www.github.com/openai/gpt-3/
+   issues/178 for details.
+2) The list of available models to download from OpenAI are as follows:
+      A) 124M
+      B) 345M
+      C) 355M
+      D) 774M
+      E) 1558M
+      F) 1.5B
+   All of the above models have been downloaded, however, only models A, C, D, and E were originally
+   listed in the documentation (DEVELOPERS.md). Updates to the documentation (again, DEVELOPERS.md)
+   to include the other two models (B and F) have already been included.
+3) All python3 modules listed in the requirements.txt do not need the versions specified in the
+   document. It is best to use the most recent module versions and downgrade the version when the
+   model does not work.
+4) The original repository can be found at https://www.github.com/openai/gpt-2.git (this slightly
+   modified copy of the repository exists to have easy and permenant access to the "vanilla" copy of
+   the model at all times).

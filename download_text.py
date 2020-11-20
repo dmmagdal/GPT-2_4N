@@ -382,7 +382,8 @@ class AO3():
 
         # Get the download element from the page.
         download_element = page_soup.find("li", {"class": "download"})
-
+        if download_element == None:
+            return
 
         # From the downloadab element, extract the entries that have the URL extensions
         # for the different download sources. Iterate over the contents of each entry.
@@ -434,7 +435,7 @@ class AO3():
     
     # Download all available texts.
     # @param: limit, an integer value representing the maximum number of texts to be
-    #   downloaded. Default value is 10000.
+    #   downloaded. Default value is 5000.
     # @param: word_count, the minimum number of words a text should have if it is to
     #   be downloaded. Default value is 5000
     # @param: hits, the minumum number of hits a textu should have if it is to be
@@ -443,7 +444,7 @@ class AO3():
     # @param: complete, a boolean value representing whether the texts downloaded need
     #   to be completed. Default value is "T" (True).
     # @return: Returns nothing.
-    def download_from_ao3(self, limit=10000, word_count=5000, hits=5000, sort="desc", complete="T"):
+    def download_from_ao3(self, limit=5000, word_count=5000, hits=5000, sort="desc", complete="T"):
         # Update the search criteria based on the arguments.
         self.criteria["word_count"] = str(word_count)
         self.criteria["hits"] = str(hits)

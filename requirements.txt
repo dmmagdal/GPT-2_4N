@@ -27,4 +27,5 @@ tensorflow==1.15.0
 tensorflow-estimator==1.15.1
 textblob==0.15.3
 tqdm==4.46.0
+toposort==1.5
 XlsxWriter==1.0.4

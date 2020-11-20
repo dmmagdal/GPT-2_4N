@@ -51,7 +51,7 @@ def main():
         print(trainer_error.decode("utf-8"))
         print("Failed to clone n-sheppard repo.")
         exit(1)
-    os.rename("gpt-2", "gpt-2-training")
+    os.rename("gpt-2", "gpt-2-finetuning")
 
     # Clone the github repository from openAI for the GPT-2 model.
     print("Cloning OpenAI repo for GPT-2 to gpt-2 folder...")

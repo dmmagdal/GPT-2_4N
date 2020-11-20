@@ -1,0 +1,8 @@
+RESOURCES
+
+Some helpful links on dealing with GPT-2.
+    https://github.com/nshepperd/gpt-2/issues 
+    https://medium.com/ai-innovation/beginners-guide-to-retrain-gpt-2-117m-to-generate-custom-text-content-8bb5363d8b7f
+    https://minimaxir.com/2019/09/howto-gpt2/
+    https://www.youtube.com/watch?v=5iK-IuvatxI&ab_channel=GarrettPete
+    https://openai.com/blog/gpt-2-1-5b-release/
