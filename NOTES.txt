@@ -20,3 +20,12 @@ A few changes were made to the repository since initially cloning it.
 4) The original repository can be found at https://www.github.com/openai/gpt-2.git (this slightly
    modified copy of the repository exists to have easy and permenant access to the "vanilla" copy of
    the model at all times).
+5) This does not pertain to this branch (master) of the repository, but to a separate branch created
+   by n-sheppard. His branch allows people to fine tune the GPT-2 model with their own datasets. In
+   that branch, the train.py should be modified in such a way that there is a definite end to
+   training the new models. At the moment, the training runs in a while True loop and does not stop
+   until the user enters Ctrl + C. Rather than use that method, create a static variable called
+   MAX_STEPS and set it to some value (1000+ or so, the model saves roughly every 1000 steps and
+   creates a checkpoint every 100 steps). Then comment out the while True statement and put
+   while counter <= MAX_STEPS instead. Save this change to the train.py file(s) in that repository
+   before attempting to train your own models.

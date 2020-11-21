@@ -10,6 +10,7 @@
 import os
 import sys
 import json
+import time
 import platform
 import subprocess
 from datetime import datetime
@@ -235,7 +236,6 @@ def load_text_to_memory(model_name, sources):
 def main():
     # Check the version of python running.
     python_command = get_python_version()
-    print(python_command)
 
     # Check for all the required directories (GPT-2 repository from OpenAI and the
     # GPT-2-finetuning repository from n-sheppard).
@@ -373,21 +373,40 @@ def main():
     print(output.decode("utf-8"))
     if len(error) != 0:
         print(error.decode("utf-8"))
-    os.remove("./gpt-2-finetuning/src/" + today + "_" + model_selected + "_" + user_name + ".npz")
+    '''
+    src_files = os.listdir(".")
+    npz_file = today + "_" + model_selected + "_" + user_name + ".npz"
+    while npz_file not in src_files:
+        src_files = os.listdir(".")
+    time.sleep(15)
+    os.remove(npz_file)
+    #os.remove("./gpt-2-finetuning/src/" + today + "_" + model_selected + "_" + user_name + ".npz")
 
     # Once training is complete, copy it from the src/checkpoint/run1 folder in the
     # n-sheppard repository and save it under a new folder named unique model name +
     # "_trained".
     print("Copying trained model to its own folder in ./gpt=2-finetuning/src/models...")
-    os.mkdir("./gpt-2-finetuning/src/models/" + unique_model_name + "_trained")
-    copy_tree("./gpt-2-finetuning/src/checkpoints/run1",
-                "./gpt-2-finetuning/src/models/" + unique_model_name + "_trained")
+    os.mkdir("./models/" + unique_model_name + "_trained")
+    src_files = os.listdir(".")
+    while "checkpoints" not in src_files:
+        src_files = os.listdir(".")
+    copy_tree("./checkpoints/run1",
+                "./models/" + unique_model_name + "_trained")
+    #os.mkdir("./gpt-2-finetuning/src/models/" + unique_model_name + "_trained")
+    #copy_tree("./gpt-2-finetuning/src/checkpoints/run1",
+    #            "./gpt-2-finetuning/src/models/" + unique_model_name + "_trained")
     model_files = ["encoder.json", "hparams.json", "vocab.bpe"]
     for m_file in model_files:
-        copyfile("./gpt-2-finetuning/src/models/" + model_selected + "/" + m_file, 
-                    "./gpt-2-finetuning/src/models/" + unique_model_name + "_trained/" + m_file)
-    rmtree("./gpt-2-finetuning/src/checkpoint")
+        copyfile("./models/" + model_selected + "/" + m_file, 
+                    "./models/" + unique_model_name + "_trained/" + m_file)
+        #copyfile("./gpt-2-finetuning/src/models/" + model_selected + "/" + m_file, 
+        #            "./gpt-2-finetuning/src/models/" + unique_model_name + "_trained/" + m_file)
+    rmtree("./checkpoint")
+    #rmtree("./gpt-2-finetuning/src/checkpoint")
+    rmtree("./samples")
+    #rmtree("./gpt-2-finetuning/src/samples")
     os.chdir("../../")
+    '''
 
     # Exit the program.
     print("Model created. Exiting program.")
