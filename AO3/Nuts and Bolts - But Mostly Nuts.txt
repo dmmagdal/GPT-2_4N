@@ -1,0 +1,485 @@
+
+
+
+
+Nuts and Bolts - But - Chekhov - Marvel Avengers Movies
+p.message{text-align:center}.meta h1{font-size:1.5em;text-align:center}.meta h2{font-size:1.25em;text-align:center}.meta h2{page-break-before:always}.meta .byline{text-align:center}.meta dl.tags{border:1px solid;padding:1em}.meta dd{margin:-1em 0 0 10em}.meta .endnote-link{font-size:.8em}#chapters{font-family:"Nimbus Roman No9 L","Times New Roman",serif;padding:1em}.userstuff{font-family:"Nimbus Roman No9 L","Times New Roman",serif;padding:1em}.toc-heading{display:none}
+
+
+
+Preface
+
+Nuts and Bolts - But Mostly Nuts
+    Posted originally on the Archive of Our Own at http://archiveofourown.org/works/569926.
+  
+
+
+Rating:
+General Audiences
+Archive Warning:
+Choose Not To Use Archive Warnings
+Category:
+M/M
+Fandom:
+Marvel Avengers Movies Universe, The Avengers (2012), Avengers (Marvel) - All Media Types
+Relationship:
+Steve Rogers/Tony Stark
+Character:
+Tony Stark, Steve Rogers, Pepper Potts
+Additional Tags:
+Androids, Transhumanism, Robot Feels, Alternate Universe, Tony Stark Feels, Tony Stark Needs a Hug, Tony Angst, Pre-Slash Steve Rogers/Tony Stark
+Stats:
+
+        Published: 2012-11-22
+          Completed: 2012-12-12
+          Chapters: 10/10
+        Words: 15667
+      
+
+Nuts and Bolts - But Mostly Nuts
+by Chekhov
+Summary
+There are no heroes in this world - only Tony Stark, and his money, and his brains, and his robots... And he's made quite the progress: In a few weeks, his first line of home-access humanoid androids is going to go up on the market for the world to enjoy!But Tony has something else captivating his attention - an old model of the very first antique robot he'd discovered in the old freezer tank of his father's basement. This robot is something else, something different. It insists that it's name is Steve Rogers... and Steve seems to be keeping quite a few secrets from the genius who pulled him out of an ice-cube.
+Notes
+The story is complete, but I have not yet worked over it and edited, so I will be posting it in sections as I go along. Your input and any mistakes I might have made in continuity and/or general things is greatly appreciated.
+
+
+
+
+Prologue
+
+
+
+The hall hushed. Seamlessly, the last few visitors slipped into the back rows of the auditorium and slid themselves into the assigned seating. The whirr of the moving walkway was muted and the lights dimmed gradually. A beep sounded shyly off in the corner. Someone on the side adjusted their phone with some embarrassment and then settled back in. The silence crackled with electricity.“Ladies!” the man on the podium cried out in glee, throwing up his arms in welcome. “…and that other not important gender…”A small surf of giggles rose up and then impatiently died down again.“I trust that you all had a good fifteen-minute break, and I hope you were just itching to get back to business – I know I was. I purchased a very special backscratcher for the itch, as a matter of fact. Very easily, without even opening up my laptop or so much as lifting a finger to my eBay app. But I’m sure that’s not news, seeing as how we’ve been discussing the more fine-line details of android support systems for the past hour or so.” The speaker flashed a stainless smile and turned around to glance at the lady behind him, by the curtain. “Pepper, let’s demonstrate, shall we?”The elegant figure moved forward, ginger hair swinging behind her back as she walked over, creating an effect akin to nearly swimming. The elegance of the steps was enough to cause mild vertigo – and immediately, the audience reacted accordingly, almost hilariously in sync, by tilting their heads to the side. The speaker’s eyes slipped over to them and then moved away again quickly, hiding a smirk. No matter what, humans could still tell what was and wasn’t one of them. An innate instinct… perhaps even a spiritual one. Something he might have to fix in the future.Pepper arrived at his side quickly – but by then he was almost already too lost in thought to continue with the presentation.“Let me see – how about we go shopping? Just for an example. Right here, right now, no gadgets, no credit cards… Well, not ones you have to pull out, anyway. Nothing is required in terms of effort except the effort of talking to a pretty lady.”More laughter, though quieter now. They were listening.“How about a trampoline? I think that sounds like a great idea. Let’s buy a trampoline, Pep.” He smiled at his eager crowd. “What brand shall we look for? Anyone has any experience with these things?”After a little while, someone in the front called out a name.“Good – I’ll trust you completely, young man. I hope you don’t disappoint me, seeing as I consider my jumping experience to be extremely crucial to my work ethic… Now then, we can set a price range – a delivery time range, a size, a color, anything you want. The specifics are as endless as the internet itself.” He clasped his hands together. “Let’s say I want a pink one – as big as the swimming pool!”Pepper paused after a second and then looked up. “There are 9 hits to your description. Indicate price range?” she asked politely.“The most expensive one they have,” he replied, and then grinned at the chuckling observers again. “Buy it on my Paypal account.”“One hot-pink trampoline, diameter 5 meters, shipping out from Florida by Business-class mail. Confirm?” Pepper inquired.“Make that Express delivery,” he corrected.“Express delivery mail - change made. Confirm?”“Fire away.” He rubbed his hands together happily. “This should be fun. You’re all invited, of course! But not to jump; just to watch me jump. You can take pictures – I’ll make sure to wear something flattering. Or nothing. Which, for me, is flattering anyway.” He laughed along with them this time and then motioned for Pepper to move back. “Now, ladies and gentlemen, this order was made on terms of voice recognition. You could also go into the settings and change it to either fingerprint and iris-scan identity confirmation. Your personal android will know whether you are actually you – and not your uncle bob, and not your twin. We have taken precautions to make this experience safe, and you can believe that I am working to better it every day. This includes not only purchases but also bank transactions, stock market moves, business strategies and bill payments… Is there anything I missed? I mean, you all know I own a backscratcher now – or I will when I get home and the package is there, waiting for me – but do you really think I’ll scratch my own back? No! Pepper will do it for me, of course, she’s that much of a sweetheart.”More laughter – he sensed his ending kick. They were already impressed. He had to wrap this up neatly. “This isn’t only a personal at-home PC encased in nice hardware – if you know what I mean, ey? This leading technology will make itself available to medical facilities, to business corporations, to elderly homes – everywhere we can stand to combine the power of the future with the old, familiar smile of the past. We’re not just doing entertainment, here, ladies and gentlemen! We’re opening a new door into interaction with our own technology! This is the first step into what could be the most seamless ascent into an impossibly more efficient system of not only existing but also LIVING. And we all love to do that, don’t we? Now, if you have any questions…” He waved his arms, spread them out, and threw a broad fishing net glance at the audience.For a while, no one said anything. Shocked, they were, probably, by the looks of it. That didn’t bother him one bit, though. He expected that. But then a hand went up in the back of the auditorium.“I’m sorry if this is prying, but we know that the first androids were developed by your father, some years ago – the non-working proto-types.”He grinned, imitating his Crest commercial smile. “That’s correct.” “And I know you’ve managed to further the research to finally bring them to life,” the questioner continued. “Recent rumors have suggested that you have discovered one of the antiques in your father's holding cells – the very first android to ever be developed 50 years ago, and that you have finally managed to upgrade the system enough to interact with the interface and make the android useable.“Yes, that is true as well,” There was nodding to accompany this, and steepling his fingers together expectantly.“Do you plan to donate this android to the museum?”A flicker of an unexpressed emotion crossed the smiling face. It seemed like the corner of the mouth holding up the smile flinched and let go, but then caught the shining grin again. “No, I do not.”Everyone was watching him now. The reporter continued “Then what, pray tell, do you plan to use the android for, Mr. Stark?”Tony Stark pursed his lips, folded his hands behind his back and tipped back on his heels like a four-year old. This time, instead of faltering, his grin seemed to grow – and although the physical manifestation of his joy had limits, it seemed that the utter excitement emanating from his persona was endless. His eyes sparkled. “For science,” he replied.
+
+
+
+Ears of a Patriot
+Chapter Notes
+Who do you think has it worse with the ice jokes? Steve or Han Solo? Anyone know? Anyone have guesses? We'll run some polls.
+
+
+
+“Starting up core programs – run a virus scan?”
+“No need, JARVIS,” Stark replied briskly, his hand conducting almost habitually the orchestra of programs on his wall desktop. He flung away a minesweeper game, then beckoned it back again to complete the field. On the left, behind the window, he could see the sinusoidal pulsations of the electricity slowly beginning to course through the body on the table behind him. They were weak for the time being, but they would be enough to bring the antique out of its beauty sleep. 
+“Core programs running smoothly so far, sir. There’s a slight hitch on the operator behind the optical nerve. Could be a loose link. Shall I take a look?”
+Stark turned on his heel, clapping his palms together and pursing his lips. His gaze scanned the length of the body clad in an outdated blue jumpsuit and then moved to the face – the strongly outlined jaw and the nose, all ending on the stern curve of the brow. The android’s facial features seemed to have been manufactured to the request of ‘perpetual worry’. Even in his so-called sleep, the mouth was turned slightly downwards in a concerned frown. 
+The genius in the room leaned down a little farther, looking at the eyelashes. A little too long for such a muscular kid. There was a mismatch of style, it seemed. 
+“Which eye is it?” he asked, taking out a small light. 
+“The left, sir.”
+Carefully, he pulled back the lid, revealing a pale blue iris behind it. He shone the pen down into the depth of the pupil, squinted, and then hummed, more so for poetic effect than for the announcement of an unexpected discovery. “Yes, there might be a leak in the liquid,” he muttered. “We can get on that later. I don’t really care about its vision right n—”
+The pupil twitched, dilated, and then suddenly the eye moved away and the lid forcibly closed, forcing out Stark’s prying fingertips. He stepped back, tucking the pen into his back pocket and watched as the android came to. He wasn’t sure what to expect – this was only the second awakening after the machine’s ancient slumber in the company freezer (tucked in nice and snug beside the ancient Mayan slabs his father had also somehow come by). The first lucid period had just been diagnostics… but now that he had restored and re-coded some of the bases, the thing that his father had frankenstined together piece by piece would have to run on its own initiative.Running on its own initiative so far seemed to involve rolling over to its side for no reason other than to stare blearily at the ground and then grope for the side of the metal table, blinking every which direction in a distracted manner.  
+“Run vocal command prompt – Core Analysis System Check,” he told it. 
+The android twisted its neck around to look at him. Needlessly, it lifted its hand and pushed back some of the Labrador-colored hair hanging down over its eyes. Stark crossed his arms and lifted his right eyebrow. The appraised situation didn’t look too bleak, but it also looked mighty boring for the time being. There was a distinct lack of a response. His feet carried him around the table, and he noted mentally that the android attempted to keep looking at him, and even pulled itself up into a sitting position on the table. It continued to act disoriented. 
+“JARVIS.”
+“Sir.”
+“Run more diagnostics – check the speech processor. It looks like there’s something wrong with its voice.” The dark-haired man leaned in closer, almost within sniffing distance. To his great surprise, the android leaned back a little.
+Fascinated, Stark moved two inches further. The android retreated again, and lifted its eyebrows in what could only be interpreted as a human expression of befuddlement and distrust.
+“There’s nothing wrong with my voice system,” it said suddenly. 
+“Oh,” Stark promptly quit his game of lean-in and smiled in a bit of triumph. “Disregard that, JARVIS. Seems like the fellow was just shy.” 
+The blue eyes moved off to the side and the mouth formed a small ‘o’ and then closed again. The gaze of the curious antique returned to his face. The eyes narrowed. The chin moved upwards in an arc of barely 30 degrees, created an altogether expression akin to that of a small puppy, trying to figure out a big problem. 
+“Who are you?” it inquired finally with some confusion.
+“Mr. Stark,” the said man replied, smiled as if there was a camera present, and pulled out his hand. “Pleased to meet you.”
+The machine’s chin-angle increased by a distinct amount. “You’re not Stark.”
+“Not the Stark you know, that was my father,” the current Stark replied, and pulled back his unreturned handshake. “But generations change. Things happen. You wouldn’t know anything about that, I highly doubt there’s a program in you that explains the birds and the bees…” He hesitated, thinking it over. Would that be something he might have to focus on before releasing the next beta line of androids? 
+But this was no time for planning. This was a time for exploration. 
+“I’m glad to see everything seems to be running…. Somewhat smoothly. It’ll make it so much easier to run my tests. I can’t wait to find out what makes you tick…” He leaned in again, but this time, the machine made no move to escape his observations. “Give me a comprehensive list of major linguistic response modules you are running right now.”
+The android quirked an eyebrow.
+Stark mirrored it. “In… alphabetical order?” he tried hopefully. 
+“I don’t… know how to do that?” the android replied.
+“What?” the man asked.
+“What?” the robot echoed. 
+“…what about what?” Stark frowned.
+“About who?” The machine mirrored the frown.
+“Who’s on first,” Stark replied, waited for a beat, and then shook his head in dismay. “Ah… Pity. You don’t have a recognition for that? We’ll write you one. That’s a classic.”
+The look he received in response was nothing short of accusatory – mainly aimed at his sanity. 
+“Look – I just want a list of linguistic programs you are running… at this time. Names… developers… you must have that down somewhere, they had to have documented it. I would hope. Maybe they didn’t… hmm… But your phonetic support seems fine, and you’re not having troubles with anything. It’s a bit outdated, though.”
+“What is?”
+“Your form of speech.”
+Lost in thought now, Stark turned back around, beginning what would be the first of many pacing sessions across an undeserving strip of floor space. After what he estimated was about one-sixteenth of a mile, he turned back to the pet-project on the operating table again. 
+“What about any processors? File names?” he tried hopefully.
+The robot shook his head slowly. “I don’t know.”
+“Your motor program? The programs coded to control your muscle groups? Who developed them?”
+“I don’t know.”
+“Access to archival files during the coding of your primary systems?”
+“I don’t know?”
+“Is that what you’re programmed to respond by default?” Stark snapped.
+“No,” the answer was fired back with tight courtesy.
+“No?”
+“Yes.”
+“You mean no?”
+“I mean – I don’t know what I mean anymore!” the robot fired back. “But I do know that I don’t know the answer to any of your questions. I don’t even know the date and time.”
+Stark shrugged his shoulders with a bit of sympathy. “Well, that’s to be expected. You were too busy being Walt Disney to keep up with your internal clock.”
+The android paused again, his eyes clouded over with some sort of processing. Some CPU usage was finally showing itself in its expression. “I do know one more thing…”
+“Yes?” Stark asked eagerly, leaning back in. 
+“My name.”
+This caused a bit of a take-back. The man recovered quickly, however, snuck his hands back into his pockets and forced a tight smile. “Really now? Well let’s hear it then.”
+The blue eyes made their way back to him, and for a split second, Tony Stark felt himself being scrutinized; Scrutinized only as one could be scrutinized by an incompetent ancient android with the eyelashes of a child and the mouth of a worrier and the ears of a patriot.
+“Rogers,” the android said. “Steve Rogers.”
+
+
+
+Napoleon
+Chapter Notes
+My chapters are about a page and a half in word doc, so even if I'm estimating about 10-ish chapters, it will not be an extremely dragged-out story. Just in case anyone was wondering.
+
+
+
+Tony Stark was surprised – and not pleasantly so – to be woken up the very next morning to the sound of something that was NOT a German pop song about a cup of coffee. Seeing as his algorithm for predicting Pepper’s playlist shuffle for his morning wakeup routine was so far running smoothly, the break of the winning streak was more than somewhat disappointing.
+Slightly more so than the fact that what did wake him was the sound of a loud noise somewhere in the kitchen area of his living quarters. 
+He opened his eyes, laying still for a little while, and then turned his head to the side, staring at the door of his bedroom. Everything had fallen quiet again. 
+“JARVIS,” he said.
+“Good morning sir.”
+“No it’s not,” Stark replied. “What did he break.”
+“The coffee machine, sir. Shall I order a new one online?”
+“No,” Stark muttered, swinging his legs off the side of his mattress and sprinting to the door. It slid open for him a millisecond too late, almost clipping his shoulder. He would have to adjust that later – an exit for an unpleasant situation had to be in pace with the rest of him. “No, no, no,” he sang to himself quietly, turning the corner and sliding to a stop in front of the granite kitchen counter which stretched the length of his bar-room floor. “No,” he said, pointing a finger at the paused android who had been caught unawares looking into the fridge. “No. Bad. Sit.”
+The android looked up at him, almost looking startled by the sudden entrance. “Good morning,” it said and then looked down, surveying Tony’s lower body. “Are those batman underwear?”
+“They glow in the dark, what of it?” Stark shot back defensively, and then shook his head to clear the clutter. “Wait, no. No. Shut the fridge. You broke my coffee-maker. That was custom-order from Germany.”
+“Germany?” the robot asked, suddenly looking tense for an unknown reason. “Why would anyone order a coffee-maker from—”
+“No,” Stark pressed. “Just… close the refrigerator. Back away slowly. I do not want you breaking anything else.”
+“I’m sorry about that,” the blond admitted, pushing the door shut. “It didn’t even look like a coffee machine. Too many buttons. I didn’t know what it did, I swear. I just poked it.”
+“Poked it?” Stark asked quietly.
+There was a small grimace of guilt again flashing on the android’s face. “Poked it with 600 volts maybe.”
+Stark let out a particularly traumatic groan and threaded his fingers into his hair, trying to pull it clear off his head, while at the same time bending his back dramatically as if he were about to topple over from distress. “Rogers Steve Rogers you are not even alive for more than 24 hours and so help me if this keeps up you will be going back in the freezer! Yesterday’s little prancing through the control room of the air regulators was enough and the thing with the elevator put me over the edge – my coffee machine might be the last straw!”
+Rogers Steve Rogers gave him a wary look. “Look, Tony…”
+“Don’t call me that!” Stark snapped hurriedly, feeling suddenly too naked in his batman underwear for his liking. “Do. Not. My father is not alive anymore, therefore I am mister Stark. I do not care what your settings say. Change them.”
+“I can’t,” the android muttered defensively. “Can’t access it.”
+After a long, heavy stare, Stark finally let out a pressurized hiss of air from his lungs. “Alright. Okay. Fine. Let’s try this again, shall we? Let’s start from the beginning. Why aren’t you in the testing chamber where I left you?”
+“I heard a noise.”
+“You heard a noise.”
+“Yes sir.”
+“Don’t call me sir.” The genius rubbed his face. “What kind of noise.”
+“I thought I heard someone walking around at night. So I went to look. Opened the door and went down one level… there was a suspicious round device – looked like something that might have been a spy, maybe. So I picked it up and disabled it.” Rogers looked up at Stark again. “I put it on the couch.”
+Looking worried, the man turned around, stalking back to the couch and hurrying to find what appeared to be the remains of…
+“You broke Napoleon!” he yelled immediately upon recognizing the pieces of the vacuum robot. With great care, Stark picked up the cover skeleton of the machine and looked at it. “Did you short circuit him?!”
+“Napoleon?” the android echoed. 
+“My own design – cleans everything in the house except for the cold storage. Fitting, I thought, since he conquered everything except… oh well.” Stark sniffed dramatically and then turned to glare at his antique over his shoulder. “And you broke him. How in the world do you look at a vacuum and think it’s a spy?!” 
+“It looked suspicious.”
+“YOU look suspicious.”
+Rogers Steve Rogers might have looked offended, except Tony Stark knew that androids of any design were not made to understand offense, let alone experience it in their own persona. They did not even have a persona. They had orders, a programming to run and respond to. 
+So what the hell was Rogers’ programming?!
+Without finding an answer, he moved himself back to the kitchen and put his hands squarely on the machine’s wide back, pushing him out of the space of breakable expensive things and into the hallway. “Alright, no more suspicious noises for you – back in the testing chamber.” 
+“I really am sorry about the—”
+“I don’t actually care,” cut in Stark. “Just go. Go. Sit. Stay. Roll over. I don’t care what you do. But don’t touch anything. Not the walls, not the buttons… got it?”
+“Got it.”
+“That’s an order.”
+“Yes sir.”
+“Don’t call me sir.”
+Having finished pushing, he released the door lock into the chamber again and motioned for the android to go back in and sit down on the metal examination table. 
+“Yes Tony,” Rogers said.
+“Hey, now… Oh nevermind.” He rubbed his temple, looked back at the slightly worried blue eyes and then turned around and marched out again. 
+Two seconds passed. During these two seconds, Steve Rogers sighed to himself and looked around at the glowing monitors surrounding him on all sides. He briefly considered what it might have meant that people could order coffee-makers from Germany. 
+ The door opened again, and Stark peeked back in, his expression mirroring that of concern and confusion enough to take Steve for a loop. He stared at Stark and Stark stared back at him. 
+“Why,” asked Stark, “were you looking in my fridge?”
+A small silence hung in the air for a moment while they held their gazes level.
+“I was hungry,” Rogers replied.
+“Oh, of course,” the genius muttered, and then closed the door again. Two more seconds passed. During these two seconds, Tony Stark stood in the empty hallway and stared at the wall. He briefly considered the amount of unbelievable things that had already happened within fifteen minutes of his waking moments. 
+Most likely, a hungry android would not be the strangest thing he would be facing.
+
+
+
+My Little Tony
+Chapter Notes
+Man, this entire story is just the two of them arguing and staring at each other intently and basically bathing in a hot tub full of sexual tension, isn't it?
+
+
+
+Tony Stark pushed up his welding mask and listened. There was a beeping behind him, but that was not of his concern. There was something on fire to the left of him, but that was also not concerning. There were idiots on the TV in the corner of the room – concerning, but fixing them as a whole was an unattainable goal.
+Still, he felt a disturbance in the force.
+“JARVIS,” he whispered, almost worried that Rogers Steve Rogers would hear him. “What is he doing now?”
+“Still hooked up to the modem, sir, using the web browser now. He has won 4 out of 9 solitaire games in the past 20 minutes and managed to make it to the Google homepage.”
+Stark pulled off his welding mask completely. “Where did he go from there?”
+“Would you like a complete internet history, sir?”
+Stark winced internally and then told himself to get over it. He had to know, one way or another, so he pulled up the screen out from the desk and tapped the browsing window, waiting for his request to be processed. The loading ring animation was spinning a little too slowly. “What’s taking so long?” he asked with a frown – not a concerned frown, but the kind of frown that an uncle wears when he is handed his nephew for the first time and the nephew isn’t wearing diapers and poses a possible risk of bodily function.
+“My apologies sir. His proxy settings are a bit out of date – there’s an error in the syntax which is looping me back to the request and not letting the information pass through. Might take a little while for me to go through…”
+“Just forget it,” the man sighed, dusting off his hands and spinning on his heel and heading back towards the elevator. “I’ll ask him myself.”
+As the capsule ascended from the sub-basement floors to the higher levels of Stark Tower, the genius millionaire playboy philanthropist folded his hands behind his back and watched the lights flash by. He briefly considered the oddity of the situation at hand. Steve Rogers hadn’t been as open as he wanted to be with his information. The first real questions which he seemed to have an answer to were always labeled as ‘Classified’ and he refused to give them out even when faced with the threat of a swift disassembly into his more miniature parts, or the alteration of his current wardrobe. Every time he was faced with any threat, it fact, he reacted with a little stubborn frown and the formation of a neat ‘v’ shaped fold in the middle of his eyebrows and just the light widening of his nostrils. The detail of the reactions entranced Tony more than he cared to admit - especially after he instinctively touched the robot’s mouth to get a better look for the mechanisms controlling the muscles in the cheeks and nearly got punched. 
+It could be argued that the robot overreacted, but then again, Stark had never been good with people at close proximity. They all looked so nice from afar, when they were smiling at him, waving at him, adoring him.. They were nice for sex and things. To an extent. Some of them clung a little too much, or expected more the morning after. 
+But Steve wasn’t a ‘people’. He was a robot. A robot put together, some years ago, by his father. It was familiar, logical, and something that should have, in theory, been totally controllable. It should have been something easy to understand. It shouldn’t have been such a hassle, such a mystery, such a pain in the ass…
+The elevator doors slid open with a hiss and Stark snapped out of his thinking process. He looked up and about, not surprised to find Rogers on the couch beside Napoleon the roomba, his eyes glazed over while his system seemed to rush through mass tons of information on the great and wide reaches of the internet.
+“Find anything good yet?” he asked loudly, interrupting the robot and forcing him to look around as Tony circled the couch, reminiscent of a great white shark. “Tell me what you’re reading.”
+“Um… oh, an article,” Rogers replied dazedly. “On… Something called Wikipedia.” He reached up and re-adjusted the ethernet cord attached to the back of his neck. “It’s about um… the Cold War.”
+“Oh yeah, that was a thing,” Stark said, nodding lightly. “Find any other good articles on the Wiki?”
+Steve looked up at him again and re-adjusted his military-rigid sitting position on the lazy black-leather couch uncomfortably. His hands were on his knees, slightly clenched, as if the motion somehow aided his processors. “Yes. World War II, the civil rights movement, the Vietnam war, Iraq war… There are lots of blue letters on every page. Like doors into new articles.” He hesitated, for a moment distracted, and then looked back up at Stark. “Do they ever end?”
+Stark widened his eyes a little. “No,” he whispered in a mysterious voice. “Never. They go on forever.”
+Looking mildly terrified, Rogers returned his attention to the black wall ahead of him. “Oh.”
+“Don’t look up TV Tropes,” Stark recommended with a smirk. “Or 4chan.”
+Steve looked over his shoulder as he sensed the genius walking away again, going towards the kitchen. “Four-what?”
+“Nevermind, I’ll just block it,” Stark muttered, pulling out his phone and downloading some parental controls. “Oh, and I suppose I should block every My Little Pony reference while I’m at it…” 
+“My Little Tony?” Steve’s eyebrow quirked. 
+“Your listening skills are seriously compromised when your CPU usage is over 30%, aren’t they?” Stark inquired, removing a mug from the cabinets and shoving it into the space on his new coffeemaker. “Why are you reading about wars, anyway? There’s probably a timeline on there somewhere to bring you up to speed on the current level of technology…”
+Rogers was quiet for long enough that Stark began to think the question would have to be repeated, but then he turned his head to the side and, not looking directly at the scientist, muttered: “Just force of habit, I guess.”
+“You guess?” Stark asked just as quietly. Holding his warmed mug full of caffeine, he walked back over, pacing behind the couch on which the robot was seated. “What does guessing involve, anyway? Comparing possible motives behind the programming which is directing you to the sources of these articles? And what kind of code-word is ‘force of habit’? Are you simply picking and choosing from your lexicon of human expressions, or is there some alternative reasoning behind the utilization of this one?”
+Steve looked away again and, for a moment, Stark wondered why a robot had such a complex set of reactions which were meant to look like offended embarrassment.
+“I just speak,” the robot muttered. “There’s no comparing, no lexicon. Whatever programming you’re trying to find, you can forget about finding it, because even I don’t know how it works.” He suddenly unplugged the LAN cable, stood up and turned back to Stark. Even with the couch between them, Tony felt thoroughly threatened. The robot was about a head taller than he was. 
+After a bit of silence, Mr. Stark pulled back his shoulders and leveled his gaze, trying to be at his most executive. “What?” he asked.
+“I should be asking you that,” Steve replied, almost testily. “You’re the one that keeps going around asking me questions I can’t answer. Why do you care, anyway? I’m just an old antique, aren’t I? Just accept that I’m broken – I was never made to answer your questions, or fit into the laws of what robots are supposed to be like today. Is that so hard to accept?” 
+“Yes,” Tony replied cooly. “Because my father made you, and because at least I could understand him – or I thought I could. Because you are my inheritance. Because you make no sense, not your programming, not your face—”
+Steve grimaced in befuddlement. “My face…? What does my face have to do with—”
+“Your face!” Tony burst out. “Why is it like that? Why are you talking back to me? Why are you doing the things you do? You’re supposed to be predictable! My father’s designs always made sense. Always! But you don’t make sense! Why don’t you!”
+“Well I’m sorry for not making sense!” Steve bit back. 
+“Well you should be!” Tony snapped.
+“Fine! I am!”
+“Good!”
+“Great!”
+“You’re welcome!”  
+Tony pulled back. “Are you sassing me?”
+Immediately, all of Rogers’ frustration-emotion expressions erased themselves, only to be promptly replaced with more confusion and head-tilting. “Am I what?”
+The elevator door opened and Pepper stepped out, her hands busy with several colorful presentation folders. “Mr. Stark,” she said, “you have a meeting scheduled in ten minutes. Your taxi is here to take you to the Robotics Association Headquarters.”
+Stark looked at her, and then back at Steve, studying the blue eyes which were still trained on him. Then, in a moment, the eyes removed themselves and Steve looked away, his jaw tightening. He looked… uncomfortable.
+It, Tony reminded himself. Not ‘he’. It’s not a human. It’s a robot.
+“I’ll be down there in a moment, Pep,” he said, although he never once took his eyes off of Rogers. 
+The elevator doors clicked shut again.
+“Want me back in the testing chamber?” Steve muttered quietly, his eyes on the floor. 
+Tony let out a deep breath and also looked away. He felt lost. “No,” he replied, forcing himself to move away. “It shouldn’t take long. Just don’t… break anything. Please.”
+It was the strangest thing – almost like the feeling of a small jolt of electricity – he could feel Steve staring at his back as he moved away. Maybe it was a setting, a program that Steve had been keeping in his confidential folders. Maybe it was something else, a secret development he wouldn’t ever find in his fathers’ papers.
+It had to be something, anything, that made sense. 
+Because robots were supposed to make sense.
+Even when humans did not.
+
+
+
+Lasagna
+Chapter Notes
+This chapter is one of the reasons this entire fix is tagged "Tony needs a hug".
+
+
+
+On his drive back from the meeting, Pepper, who had previously been sorting the information she’d recorded, leaned over and looked at him. “Your adrenaline levels have risen and your heart-rate is at 140 bpm,” she said quietly. “Do you require anything to alleviate the symptoms, sir?”“No, I’m fine,” Stark muttered, rubbing his chest. “You should take your medication,” she said, and, when he gave her a dry look, her green eyes flashed up to him. “I’m merely following the programmed protocol, sir. It is you yourself that told me to be extra insistent if and when you should respond to safety measures with stubbornness.”Tony pursed his lips and sighed through his nose. “Fine,” he quipped. “Medicine away.”While Pepper extracted the two colorful pills from her little hand-bag, Stark looked out the window at the city as it flashed by. There was traffic on the streets again. Why hadn’t he invented flying cars yet? Wasn’t that one of his high-school science projects? Oh, right, it was, but the teacher’s son killed it by pointing out a paradox in the equation for the magnetic system as applied to acceleration. By the time Tony had written a proof to make up for it, the science fair had ended and his project was trumped. “Sir,” Pepper said, offering him her palm and a glass of water. He thanked her quietly, took the pills and downed them, then sniffed the water without looking at it.“Get me whiskey.”“That’s unadvisable,” she replied.“Then advise it,” he fired back and handed her the full glass. “I failed bio-chem anyway.”Humans really were despicable when they were jealous, he thought. He knew it back then and he knew it now. This entire board committee was the very embodiment of crippling embarrassment over their inadequacy. At his very approach, they broke out in a hateful cold sweat. Every molecule in their bodies recognized Tony Stark’s cologne, and they all salivated at the thought of making the smell mix with the smell of his blood. They were closer to animals than they would ever dare to admit. Just a pack of wolves, circling a superiority complex that was more complex than anything else. Why didn’t they just see how useless it was? He was better, his designs were better! Instead of working on them, they ignored his pushing and prodding in favor of fighting over inexplicable details. They didn’t trust him.The car slowed to a stop at a red light and Tony Stark was faced with a commercial of himself and Pepper – both smiling happily at the screen, with the graphics of the company design surrounding them. “Androids – man’s new best friend? Or something more?”Stark sighed. It was always double standards with them, always. Even when it came to the antique. They wanted Pepper’s blueprints first, now they wanted Rogers Steve Rogers, too. They would pry him from Tony’s cold, dead fingers if they could. They would put Tony’s cold, dead fingers on display at the museum right next to Rogers, in fact. He wasn’t sure which exhibit would collect more donations. “For science?" the old man at the head of the table had demanded, beating his fist on the polished oak. “Is this some sort of joke? The entire world has been waiting for this sort of archeological archive for decades, and you decide to pocket it for the sake of pulling it apart like an old TV set?!”"Yes, I do, and I thought that I was rather clever, thank you. I don’t need your opinion."“But I NEED your cooperation, Mr. Stark! I need you to grow up and see past your late-night entertainments!”“They are NOT entertainments! This research is crucial to my work!” He had felt his heartbeat stutter at that moment, but he dared not back down. “Your father’s designs are crucial to the museum!”“My father’s designs and my father’s robot belong to ME!”He had walked out after that. They stared at his back, judging him. He burned on the inside. He could feel the flames licking at his heels in their eyes. A heretic – that was all he was to them. If they could, they would burn him at the stake for his crimes. They were no better than the religious bigots they despised so much.They were no better than anyone. Every last one of them was worse than the other, in at least ten ways.“Sir,” Pepper said, her voice close to his ear.He opened his eyes and realized that he was hunched over in the back seat on his limousine, his fingers clutching fistfuls of his own hair. His teeth were biting into his tongue. Breathing was getting hard again. Past the dark half-coils of his own bangs, he could see Pepper’s ginger waterfall of hair, spilling off of her shoulder to the side as she leaned closer to him. “We’re home,” she said softly, her hand on his back, the way he programmed her to do when these sorts of things happened. “Would you like to go through the breathing exercises?” “No, not now,” he gasped, and then wiped his mouth, tasting blood. He straightened up again and closed his eyes, leaning back. “No, I’m fine. You can go.”She went, obedient as she was. She had no programming that had any options for refusal. A human would have stayed, probably. They would have insisted. They would have thought their own judgment of the situation to be better than his own. Which was, coincidentally, why he preferred Pepper.He slammed the door of the limo shut with extra force, and then headed for the elevator. He knew that it was unwise to do anything else but go to bed, and that was his entire intention. He would sleep until sunrise, and then until sundown. And then he would order eleven pizzas, and eat only ten of them. He would drown himself in Diet Coke, kill all his brain-cells and donate his riches to charity. He would do all these things. That was the plan. It was, at least, until the doors slid open on his own floor and the beautiful stench of lasagna drove a left hook into his nose. Tony stayed where he was, mouth slightly agape, eyes fixed straight ahead at the scene in his kitchen. The exact kitchen where Rogers Steve Rogers had broken his coffee machine. The exact kitchen where, at this particular moment, Rogers Steve Rogers, wearing a red and gold apron with the Stark Industries logo on it, was pulling a steaming lasagna out of the $8000 stove while humming something suspiciously patriotic. The elevator doors dinged after their elapsed time and slowly closed. Tony stood in the dark for a moment, shocked, and then smacked the open-door button again.The doors opened. Nothing changed. Steve, still wearing the apron and now setting the lasagna on the kitchen counter-top, looked over at him and smiled lightly.“Oh, you’re back.”Ding, said the elevator, and started to close again.Tony barely had the time to pull a hand between the doors and stop it, and then drag himself through the gap and hover, almost without realizing it, to the food. He was, for the first and probably last time in his life, unbelievably speechless. “All along, your confidential programming was that of a HOUSE WIFE?!”Okay, so maybe he wasn’t totally speechless.Rogers Steve Rogers yanked off his mittens and rolled his eyes. “What, don’t men cook in the 21st century?”“I thought they didn’t cook in the… whatever your… century… was…” Tony mumbled. He circled the lasagna like a slumbering, unsuspecting prey. “Did you do this?!”
+“I figured, based on my analysis of your observed diet that you were due to have a heart-attack about… uh…” Steve squinted at the calendar on the wall, “…six years ago. So I decided to intervene. I also figured it might make you less… cranky.” “I’m not cranky,” Tony snorted, glanced at Steve, and found himself tangled up in the most withering look a robot would ever achieve. He turned back his gaze, feeling thoroughly schooled in facial expressions. “Fine,” he said, deciding that at least since he had the role of a five-year-old down to a science, he might as well flaunt the skill. “Well what am I supposed to do with it?”“Eating it would be a good first step,” Steve said, striding back into the kitchen. “I’ll get you a fork.”“Eating would be a good first step,” Stark imitated in a high-pitched voice, and then grabbed at the fork Steve was offering him. “Great Asimov, thank you for you have delivered me from evil,” he whispered, aiming his utensil at different points in the lasagna, as if trying to decide the best point to strike.Finally, he stabbed at the corner, scraped out an overabundance of dripping cheese and red sauce and shoved it into his mouth. “Owwffff—” he groaned immediately, opening his mouth. “Eef hawth!” “Of course it’s hot,” Steve said, sliding a glass of water with ice across the counter towards him. Tony immediately took care to pour it into his mouth, right on top of the lasagna, which he had refused to remove, even through the pain of the burn. He couldn’t recall the last time he had something other than box-food at home. Mostly, he ordered out. That is, he ordered in. And stayed in. He had kind of forgotten that food was a thing that could be prepared with your two very own hands.Or the hands of a house-wife-robot. “Do you like it?” asked Steve, observing as Mr. Stark plowed the fields of lasagna row by row, shoving each forkful into his mouth. Abruptly this stopped and Mr. Stark looked up at him. “Fhu hou wanth fome?” he asked, eyes wide. “No,” Steve replied, for some reason failing to maintain eye-contact. “Tried. Can’t do it. Looks like the feelings of hunger are just uh… glitches.”Tony wiped red sauce from his chin, swallowed and frowned. “Interesting,” he said, drinking some water. “So does it just… come back out? Or is there just no place for it to go?”“Yeah, I kinda messed up my vocal filters for a moment, but then I got it all out.” The robot still wasn’t looking at him. “So is it good, I mean, because this is my first time… cooking.”Tony’s platter-sized eyes grew two times larger. “What? How did you…?”“Downloaded a cookbook,” Steve said, and finally smiled again, tapping his temple. “All up in here. Found some old recipes that my—”They both fell quiet and Steve seemed to pale.Tony squinted. Were his eyes playing tricks on him?“—my programmers seemed to try to put into the… files… But they were damaged,” the robot finished. He scratched at the back of his neck. His ears were red. Fascinated, Tony shoved another forkful behind his cheek. “Are you blushing?” he asked after his teeth ground the food into microscopic particles again. He pointed his utensil at the robot. “That looks like blushing. How are you doing that?”“Do you like it or not?” Steve asked, looking now most authentically annoyed.Lost in his own thoughts and the food, Mr. Stark inspected the annihilated lasagna critically. “Well it’s edible, I mean, I ate it, right?”Steve’s magnificent facial expressions underwent another metamorphosis. This time towards the sad end.“Look, sorry, I mean, I don’t know! I can’t… compare it to anything exactly. But it’s delicious! I ate it!” he repeated, motioning towards the pan. “I’ll lick it clean if that’ll convince you!”“No,” Steve replied, although he seemed less sad. He looked between Tony and the destroyed lasagna. “Hasn’t anyone ever cooked for you before?”“I never programmed Pepper to—” Tony took a pause to belch heartily and wiped his mouth again, “—have those kind of features… I usually don’t like to clutter the kitchen, I need the extra space for coffee and alcohol.”“And leftover pizza?” Steve asked, lifting an eyebrow and giving him a wry smile. “I cleaned out your fridge. Unless you’re trying to grow something sentient in there, that kind of a mess cannot be good.”“Did you read about that, too?” Tony asked, crossing his arms and leaning back on the stool.“No, that’s common sense!” Steve said. “Anyone would know that! Except you, apparently. I don’t know how people can come into your kitchen without becoming seriously affected.”“Well, that’s the thing, you see – people don’t come into my kitchen,” Tony informed, his fingers tightening around his elbows. “They never have and they never do.”Steve appeared skeptical. “You have staff—”“Robots,” Tony interrupted, one finger coming up to stop his speech in mid-air like a conductor’s baton holding a coda. “Robot staff. Napoleon’s progeny.”“All of them?!” Steve was gaping now. “All robots?”“Yep,” Tony grinned proudly. “It’s very efficient. I don’t have to pay them because I created them! I think that’s dictatorship… or no, wait, that’s religion.”Steve’s expression was frozen on the gaping part. “Don’t you have people over? Friends? Family?”“My father’s passed, as is my mother, as you very well know,” the genius replied quietly. “And really, do I look like the kind of person that has friends?”“You’re not that bad.”“You haven’t lived with me long enough. And you’re a robot.”Steve fell quiet for a second, looked away, rubbed his shoulder and then looked back at Tony. His eyes seemed a little darker shade of blue. Then abruptly, as if by force, he moved past whatever offence that had registered on his sensors. “Don’t you get lonely?” he asked, looking back, now quizzical.“Why would I?” Tony fired back. He continued to stare down the machine across the counter from him. “Get lonely from what? I don’t get bored, if that’s what you’re asking. I have work. I have Pepper if I need assistance or another pair of hands. Or a super-computer.”“What if you need someone to talk to?” “I talk to myself just fine.”“And that really works?” Steve gave him another one of his skeptical smiles. That seemed to be a recurring expression. It was not one that Tony liked. It mocked him. It made him feel like he was a child. “Yes it works,” the man replied testily. “I prefer conversations with the intelligent people. ...Person.”Steve tipped his chin down, eyes burning into the humans’. “Riiight,” he said slowly. “And what about… emotional support?”“What are you, a therapist? That’s your programming now? House-wife therapist?” The answer came out more snappily than was intended.“Would you forget my programming for a second?” Steve snapped back.“And why would I do that?”“Why do you want to know, anyway?”“Why wouldn’t I want to know? Knowing is my job! YOU are my job! In case you forgot it, I pulled you out of my refrigerator!” Tony jabbed a finger at his chest. “You are my robot, and robots are my job!”Steve’s eyes darkened again. “You act more like a robot than anyone else I’ve met so far!” “Well I’m bad at being human!” Tony snarled. The kitchen was suddenly eerily silent. The soft buss of the fridge dissolved into a whirr, and then clicked off. Steve continued to glare, although now he did not say anything.Tony’s chest heaved, and his eyes bore into Steve’s dark-blue ones. “I’m bad at it,” he hissed. “I never fit in with them, and they never wanted to fit in with me. What business of yours is it who I’m friends with? Who I choose to surround myself with? What do you know about fitting in?! Your little icecube-tray was molded for you! You don’t even know how I envy you!” For half a second, his breath hitched. “What I wouldn’t do to have my life be quite so well-designed! Instead – no – I get to be the unproportional bolt in a machine three decades too old for my ideas. Instead I get mocked, I get laughed at, and I pop right out of the clockwork. And you think I want to go back? To live among the humans, where I have to be reminded that I’m so unlike them? That I’m different, that they don’t want me?” Tony stood up, flinging the fork in the sink. “Maybe I do suck at being human. But what would you know about it? You’re lucky enough to not be one.” He threw another scalding gaze at the figure by the counter and then stalked away, leaving the cooling pan of lasagna, and his robot, behind. His bed was already there, waiting for him, as he shoved a shoulder into his room. He yanked off his shirt and fell into the sheets face-down. Then he turned his head to the side, breathing through his nostrils and glaring across the room. He needed to ask JARVIS to shut the lights off. Instead, he got up, thundered back to the wall and hit the manual touch-screen, pulling down the gradient with one finger, still shaking lightly. Then he blindly stormed back and fell down a second time, aiming precisely for the same spot. He didn’t feel like a very intelligent conversation at that moment.
+
+
+
+C.A.P.T.A.I.N.
+
+
+
+Waking up was not half as easy as falling asleep. Between the sudden bleeping and JARVIS’ voice, he could not, for an entire thirty seconds, identify where the floor and the ceiling were. Then he felt around blindly for his pillow, pulled it over his head and groaned into the mattress.
+“MMmmwhat…?” he muttered, smacking his lips. His mouth felt like sandpaper.
+“Security breech, sir,” JARVIS supplied helpfully. “Also, antique model 8740 has not been located within the perimeters of the tower within the last two hours.”
+“Yes… good,” Tony slurred sleepily, and then tensed.
+Half a second later, the pillow was launched into the ceiling of the room, made a neat arc through the middle and landed, with precision, onto the dresser, sliding over the top and knocking over the most expensive bottle of cologne sold in New York. 
+“What?!” Tony Stark snapped, sitting up and kicking away his bedsheets. He didn’t quite remember why he was still in his work pants, but it did not make him happy. “Located within the… last two hours? Who’s not been located?”
+“Antique model number 874—”
+“PEPPER!” Tony bellowed, grappling with the corner of the mattress and finally succeeding in untangling his left foot as he hopped towards the door. Ungracefully, he yanked his jacket off of the side of his work-chair and somehow made his way through the door and out into the hallway. The kitchen, as expected, was empty. His security system was still beeping. “PEPPER!” he yelled again, looking around. The lasagna pan was no longer on the counter. Everything looked clean, like nothing had ever happened.  
+The elevator doors dinged as they opened and Pepper stepped through, neat and pristine. For a moment, Tony was baffled by her lack of pajamas, and then he hit himself on the side of the head, attempting to dislodge the last sleep-heavy dumb thoughts. “Where’s Rogers?” he asked.
+“Not in the tower, sir, according to our scans,” she replied. “Also, there’s been a security breech registered on the eighth floor. Broken window.”
+“My windows don’t break.”
+“I am aware,” Pepper conceded. “However, this is what the scans read.”
+Tony scowled and then glared at the ceiling, which was still beeping. “JARVIS, turn that off! I get it! Security breech!”
+“Apologies, sir,” JARVIS replied, and the beeping finally seized.
+Tony whirled back to Pepper. “Where’s Rogers?” he repeated. “What do you mean he’s not in the tower? How did he leave?”
+“We aren’t sure yet,” Pepper admitted, not showing any embarrassment about the fact and turning around on her toes when Tony stalked by her and into the elevator. She followed him in and then turned back to face the door. “Our system monitors the location of each resident on a two-hour check. The model went missing somewhere within the span of the last two hours.”
+“Only every two hours? You only check up on everyone every two hours? Why not five minutes?” Tony demanded, glancing back at her. “Who came up with that dumb-ass plan?”
+“You did,” Pepper replied unflinchingly. “It’s a part of your energy-efficient schema.”
+“Energy-efficient, right. Because we can’t afford to waste money on tower-power.” He hissed through his clenched teeth and looked up at the level display as the numbers rolled to the eighth floor. As soon as the doors began to open, he slid through them sideways and headed towards the open hall on the left, where the testing chamber was. He had a bad feeling, and that was even before he saw the sliding motion-activated door scrunched to the side like paper. 
+Inside was eerily empty. Some of the monitors were glowing, but they were of no concern. The operating table was rolled off to the side, just far enough to make room in front of the main computer. 
+“JARVIS,” Tony called out, his eyes glued to its dark screen. “Has my file cabinet been accessed?”
+ “Yes sir,” came the reply. “But only the non-password-protected documents. The only other use registered was that of the Stark industries archives.” 
+Tony pulled out the keyboard. “How did he access those?”
+“He had the passcode, sir.”
+“How? That passcode hasn’t been changed since my father—” Tony stopped himself and groaned. “Of course. Confidential.” He poised his hands over the keyboard, staring at the startup screen. “Well what did he do there, then? Give me the browsed file history.”
+As he spoke, the windows were already beginning to pop up in front of him, layering themselves over in diagonal rows. Stark’s eyes flashed from one to the other and he mouthed the titles to himself until, finally, something in the corner caught his eye. “What’s this?” he muttered, mainly to himself, pulling the window to the forefront. 
+“Capitol Army Program Trial Against Institutionalized Nazism,” JARVIS supplied. "Better known simply as CAPTAIN."
+“Thanks, I can read,” the genius mumbled. Feeling a nervous rock forming in the pit of his stomach, he opened up the contents menu and pulled out the first few overviews, and then continued on to the technical schemas. “Great Darwin,” he whispered breathlessly as the plethora of designs spilled out onto the desktop before him. Leg mechanisms – an entire folder of diagrams for the robotic Achilles tendon; hand prototypes; coordinated muscle group wiring; sketches of the workings of the biomechanical human eye; a heart plan… Tony’s eyes widened as he stared at the words surrounding the rather simple drawing of the two prosthetic valves. 
+The energy source… the infamous arc reactor… it was right there, a simple sketch between the overlay of a synthetic ribcage…
+“Some boys discover their father’s pornography collection,” he whispered. “I would have been happy with a few vintage playboys. But this… is …” He closed his eyes and shook his head. “And I never figured it out.”
+CAPTAIN – he heard about it. He heard his father refer to it, even, wistfully, towards the end of his days. He figured that Captain was a person, an esteemed face in the military programs his father was running. Perhaps a colleague, or even a friend… He never made the connection that Captain might be the very first successful robotic experiment that the military put out in an attempt to pull themselves one step ahead of the Axis powers. It seemed impossible, yet the rumors always seemed like more than just that… In a world of fallen hopes, in a world of war and nuclear bombs, a super-human warrior would be like a shining beacon of light. 
+It was supposed to be a weapon that didn’t feel pain, didn’t feel remorse, didn’t accept defeat… yet could blend right in with the rest of the soldiers, provide itself with a perfect cover, undermine the enemy and come out as a ready-made hero. Tony had read plenty about it the first time he went snooping through his dad’s files at the age of 13, but at that point in time, the program had been nameless. 
+It disappeared towards the end of the war, right before V-E day. Wiped itself from the archives and faded into the background. Assumed failure echoed in the military bases, but perhaps that hadn’t been the case after all. Maybe the written report of the disappearance near the arctic was nothing but a cover-up for the real location of the model. And maybe his father had been the only one to know what had really happened. And maybe his father had known the place where no one would bother to come looking.
+It wasn’t that hard to accept with the facts right before him. Steve Rogers was CAPTAIN.
+And Tony Stark had de-frosted a military-grade weapon of war.
+And… that military-grade weapon of war had cooked him lasagna. 
+The brilliant, darkening analysis of a seemingly horrifying situation screeched to a halt. 
+Lasagna just did not fit in with the rest of the plot.
+How did you get lasagna – not to mention the apron, oven mitts and excellent facial expressions – out of a war robot? Was it all a brilliant attempt to fit in? Like the Terminator? 
+“Sir?” Pepper said, right behind his shoulder. 
+He jumped a little, looked back at her, and cleared his throat to gloss over the fact that he had been standing in front of the computer silently for about five minutes now. 
+“Right,” he said. “So. We have a weapon of mass destruction on the run somewhere in New York city, and I’m an idiot. We should probably do something about that.” 
+Pepper remained silent. 
+“How about,” he began slowly, turning around. “You meet me downstairs at the car in five minutes. I have to go get a few things. While you’re waiting, calibrate our search scans to span the widest radius we can manage, and put the infrared to 350 degrees. Captain Steve Rogers should run as hot as a toasty oven, and he’ll be the only oven in New York city capable of running at speeds of over 90 mph.”
+ “Yes sir,” Pepper replied with an incline of her head and promptly disappeared.
+So, the weapon-of-mass-destruction bit was about to be taken care of.
+As for the he-was-an-idiot part… well, that would have to wait.
+At least until he figured out what it was with the lasagna.
+
+
+
+Tunnel
+Chapter Notes
+This one's fairly short, kids.
+
+
+
+“Anything on the scans yet?” he asked again, looking up from his tablet. “Not yet,” Pepper replied from beside him, just as she had done the past fourteen times he had asked her the same question. “We’re going to take a left here and check the bay area.”“Good,” Stark said distractedly, looking down at the thin sheet of glass on his lap. The words and diagrams were already seared into his brain, yet the actual information on them was hard to digest. His father, as always, schooled him in progression. A heart with a power-source that potent was enough to light up New York for a week, at least. At the energy-levels on which Steve Rogers was running, it was no great surprise that he had come back to life so easily. There was juice left in that arc-reactor yet. And there was plenty of it – plenty, in fact, to power…Well. That was another matter entirely. And as he had confessed, he had failed bio-chem.But of course, only because he had overslept for the exam. “Pepper,” he said slowly. She looked up at him, no doubt sensing the minute change of tone. Her self-learning program was currently in the middle of forming an algorithm for predicting statements and identifying rhetorical questions. He wondered if she had already figured out, by the prosodic elements in his tone, where this topic was going to take them. “After all of this is over…” he began, “…I mean, once we have Captain under control and things settle down with this whole Robotics Association… do you think it would be possible…”She tilted her head a little, listening. Her almond-shaped eyes glinted, reflecting off of a street-light. The mascara on them weighed her eyelids, made her look a little more sarcastic than she could have been. Why had he designed her that way? Artistic license? He didn’t recall. “I mean, would you find it advisable to attempt a transp—”The infrared scanner suddenly burst into a song of worried trilling, cutting right through the idea and forcing their heads together over the screen, which was now showing a moving red dot on the left side. “Is he… in the middle of a wall?” Tony asked in befuddlement, taking the glass screen and looking at it more carefully. After a second, it dawned on him and he moved his fingers over the controls impatiently, flipping the view around. “Underground… that must be a tunnel.  Subway or a sewer line…”The car pulled to a stop and Pepper unclipped her seatbelt, not at all bothered when Tony began to clamber out right over her lap. Just as she moved to get out of the car, however, he pushed a hand against her shoulder, stopping her. “No, I’ll go.” His assistant raised her eyes to him. “That’s not advisable.”“I didn’t program you to be an advisor,” he muttered, popping open the trunk and going around to the back. Inside lay an elongated black box plated with alloy – but there was a subtle lock on the side. He pressed his finger against the thumbpad, popped it open and slid the top aside to reveal a mess of wiring and steel beneath it. It more resembled the ugly evolutionary stage of an arm guard than a weapon, but as soon as he strapped the buckles around his wrist, elbow and bicep, the streams between the iron plates began to glow red. He flexed his fist and then looked into his palm, watching as the power bud in the middle started to glow. “Sir,” Pepper said, still sitting where he had left her. “Going out into the tunnel alone can be potentially hazardous to your physical safety.”Glancing back, he didn’t fail to give her a small smile. “Just a flesh wound, then?”Her face didn’t falter in its seriousness. “I’m armed, don’t worry.” Even to himself, his voice seemed a little too happy to be sane. “A program like CAPTAIN is bound to be well-oriented in any sort of pursuit, especially one where it’s trapped. The best form of offense we have now is surprise.” He yanked his jacket sleeve down over the arm-strap weapon. “Just wait for me here, I’ll be on the radio. If something happens…”Pepper looked at him expectantly, silent.“…well, I don’t know. Do whatever.” He shrugged, ignoring her blank stare, and marched away, jumping over the side of the wall to the staircase right below and bouncing down the steps which led under the bridge. Down there was a sewer arc – and one of the bars on the exit was wrenched out of the way. It didn’t take too long to guess who had done that.Hooking his ring finger into the trigger port, Tony Stark crouched forward, moving into the darkness to begin his hunt.
+
+
+
+Suicide
+
+
+
+“Welcome back to the world, Mr. Stark. I must admit, you surprised me…”Mr. Stark peeled apart his eyes for the second time that night, blinking against the harsh lighting which was, most unpleasantly, and seemingly on purpose, aimed directly into his face. If he didn’t know better, he would think he was back in the FBI basement, being interrogated again. Or at that one frat party…Well, the two were basically the same event, separated by a few years and a few million dollars.“…I expected your capture to be a lot more difficult,” the voice continued, ignoring the way his prisoner rolled his head and blinked his eyes, trying to shake off his disorientation. “Instead you appear to have walked right into my trap.”“That was difficult enough in itself, I must admit,” Tony muttered back, ignoring the stinging pain in the side of his head for the sake of back-talk. “I’m not used to being trapped by shit. Literally.” He squeezed his eyes shut, and then tried to rub his nose, only to realize that both of his hands were bound behind his back with… felt like a ziptie. There was something familiar about that, too… something about a lady who started his evening with a hit-the-ground-running introduction to BDSM. Though her ropes had felt much better; much more secure. He reckoned he could probably get out of this, if he could concentrate for long enough without getting a new layer of headaches. “Enough chatter,” the voice from the darker part of the tiny enclosed space said (an echo, Tony noted – probably a tunnel, probably still under the city). “Where is it, Stark.”“Where’s what?”“Don’t play dumb,” the mysterious interrogator hissed (although, the mystery was quickly being dispelled). “Or are you not playing? Perhaps that fall from the ladder knocked out your genius. Fragile thing, isn’t it? Brilliance?”Tony sniffed quietly. His soaked shirt and jacket felt cold. Perhaps he was coming down with something. “Not any more fragile than your feelings. Now what is it you’re looking for?”“The antique! What else?”“Did the Association send you? No, wait, that would be my first guess, and that would be too easy. Far too simple for simpletons like them. So simple, in fact, that I won’t even waste my breath on that guess because no one, not even them, could be that stupid… could they?” He huffed a disappointed huff and flipped his head, trying to get his hair out of his eyes. “I don’t have it.”“Like hell you don’t.” There was a very pronounced click from the middle of the darkness behind him, very much like that of a cocking gun. But that was way too obvious to be real, thought Tony. “Give me its location, and maybe I’ll let you out alive.”“Bite me,” said Tony.A cold metal mouth, much like that of a familiar Glock, settled against the back of his neck. "I'll do better than bite."His heartbeat picked up pace. He could practically feel his pupils dilating.“You won’t get very far shooting me there, you know,” he said, and licked his lips, which had gone dry from breathing through his mouth. “You have no formal training, do you? You’re completely off-target. Are you trying to intimidate me, or martyr me? There are much better tactics, all you need to do is watch a couple of Western cowboy mov—”The gun moved further up, to the dip at the meet of his cranium and neck. “You are testing a madman, Stark,” the voice hissed. “I will kill you. Or do you doubt that?”Tony closed his eyes. There was doubt in him.But it was the wrong kind.It was doubt of his own fear.His fear had left him.There was only the thrill and the adrenaline.He had never felt better.“Try me,” he whispered, knees tensing, elbows locking. He clenched his fists. If he did this just right, the zipties around his hands could be broken in the same line of movement as the combination required to escape this situation.He only had a few seconds. “You are playing a fool’s game,” the man whispered.Tony began to count in his head.The gun pressed tighter. “Just give me the answer.”“Go fuck yourself,” Tony whispered. “That antique is mine.”“And what gives you that idea?” the voice inquired quietly.Tony lifted his heels up an inch off of the floor.“He cooked me lasagna,” he replied.“Wh—”SMACK-THUD-CRACKTony opened his eyes, looked around. He was still sitting on the chair, still tied up.There was a dirty, gritty, homeless-looking man with a red bandana on his neck laying by his right foot, sporting an impressive head wound.“Man,” Tony said quietly to himself. “I am good.”There was water dripping somewhere off in the distance. The danger had passed, but there was no denying that the fight wasn’t over yet. The problem was – Tony wasn’t that good. He couldn’t even anticipate that good. Or pull off that good.“What the hell was that?” Steve demanded, stepping around the chair and glaring at him from the front, where there was a gap in the darkness. “What are you doing?”“Sitting here, chatting up an old friend,” Tony said nonchalantly, sniffing lightly and then looking up at him, squinting with one eye. “What does it look like I’m doing? Nothing like a good old bondage session between bffs.”“That was suicide,” the robot burst out, and his uncanny details twisted into disgust and anger. “You were going to let him shoot you!”“I had a plan,” Tony replied cooly.“A plan?”“Yes.”“To avoid getting shot while tied to a chair.”“Yes.”“What was it?”Tony took a few more seconds, looked around for inspiration, and then grinned again. “It was you!”“Me.”“Yes.”“Your plan was me.”“Yes.”“Coming in and punching him at the last second.”“Exactly!” Tony grinned wider. “Isn’t it brilliant? You were brilliant. Well done, old chap! I would give you a handshake, maybe a good old pat on the back… but my hands are a little tied. Mind helping with that?” He shrugged his shoulders meaningfully. Steve Rogers was ignoring him, still angry. “I’m not buying that.”Tony rolled his eyes. “I’m not selling it. Get me out, wonder-boy.”“Did you actually have a plan or didn’t you?” he demanded.For a second, the fury from last night returned to Tony’s eyes. He shook it off like a heavy load, unsheathed it from his shoulders and tucked it away into his pocket again in one single move of his chin. “What is it going to take? A pat on the head? No, I didn’t have a plan. I prayed to the god I don’t even believe in to give the one miracle in the world to an atheist. Now get me out. That’s an order.”Slowly, unwillingly, the robot moved around behind him and cut the binds. As soon as they were loose, Tony began to rub his wrists, staring at the red welts on the protruding bones. “Thanks much. Now if you’re done with your little temper tantrum, we should really get back to the Tower.” He put his hands on his knees, feeling like a grandpa. “My legs might be asleep… wanna carry me?”Steve wasn’t answering, but at least he hadn’t run off.“Come on, you’re not going to resist, are you?” Tony asked. “I have more than enough resources to track you down again. This was just a slight detour in my plan. You can’t just keep running all the time, because you… you have no place to go.” The genius looked up.“I could go to the army,” Steve mumbled quietly, staring at the wall.There was a tense silence for a count of two seconds.“And do what?” Tony demanded after those seconds elapsed. “Fight for the good of mankind? Fight war with lasagna? You do realize that you’re the equivalent of a nuke, don’t you? They’re not going to strap you into a canon and shoot you across the ocean, and they’re not going to hand you over to food network either. They’re going to lock you in a containment tank and study you like a new species of octopus pulled out of the ocean.” “That sounds familiar,” Steve remarked flatly. Suppressing a soft groan, Tony rubbed the bridge of his nose, ignoring the growing ache in his chest. “They’re going to pull you apart into separate little bolts. And probably not put you back together.”“And how would that be different from what your plan was?” Steve demanded. Tony pushed himself up slowly. “I would have put you back together.”“Really now?” Steve asked, a note of bitterness in his voice. “And what for? Why not just sell me to some museum? Make more profit?”Continuing to not look, Tony slowly pressed the heels on his hands against the sides of the chair and slid himself off of it, bit by bit. “Isn’t profit what you’re all about? Don’t you think I’ve read more than enough about you? You and your history – how much you hate people, how much you love money? I got the hint, you know. My processors aren’t as slow as you say they are. You don’t want me there. You’re planning to pull me to bits anyway; you’re just waiting to finish analyzing me. You were only keeping me around because you couldn’t figure out my… my weird… facial expressions.”The genius was still moving around the chair. “Oh,” said Tony, his voice a little strained. “I… figured them out…” His fingers slipped for a second, and then he gripped the back of it tightly. His knuckles were going white. “Did you now.” Steve was flat.Tony nodded. “Yep. Right before I got… ambushed, as a matter of fact. While I was knee-deep in shit, chasing after you.”“And what did you figure out?” Steve asked. By now his voice had significantly dropped in volume.“Oh, you know, stuff,” Tony said. “Top secret. Can’t tell you. Confidential.” He chuckled dryly, and then took a short breath. Steve was silent. “Why didn’t you sell me out to him?” he asked, voice quieter now.This was a crucial moment, Tony knew. He had to be honest about this. He had decided on this a long time ago – however long that was. However long it had been since he’d started to suspect… well, that was when it went downhill, really. His suspicions turning out to be right was just the icing on the cake. On a bloody disgusting cake of irony that was his life at the moment.He had to get this right.He had to get itLeftRightHe shook his head.He shook a hand ...shook a hand off of his shoulder.“…re you okay?” The voice sounded hazy for some reason. Steve Rogers touched his shoulder again, drifting into his line of sight. “Hey… what’s going on…?”“I’m…fine…” Tony choked out. He felt himself tipping, but the hands on his shoulders stopped him again. He could feel Steve turning him around, making him face forward. Making him look into those concerned, blue eyes.He wondered if the eyes were real. How much was real? How much had he missed, looking, poking around in the wrong organs? He never once bothered to look in the most important place.“Tony,” Steve said, tapping his cheek. “Hey, what’s wrong? Talk to me.”“I’m… yeah.” Tony closed his eyes and opened them again, and then lifted his hand, trying to mirror the CAPTAIN’s gesture. “You’re… you’re not that bad,” he said, forcing out every word. His brain was slowing down. It was taking him longer and longer to download every word. His wifi was disconnecting. His explorer bar had long ago quit unexpectedly. “For being… part human…”Steve's eyes widened.But by that time Tony was already falling.
+
+
+
+Funeral Fireworks
+Chapter Notes
+spoiler warning: steve is a chobit
+ 
+ 
+ 
+(no, he's not.)
+
+        See the end of the chapter for more notes
+
+
+
+
+“I must have done something right.”
+Tony decided long before he woke up that if he was going to come back from cardiac arrest, he would do it with a bang. Well, he wasn’t feeling up to the good old banging right off the bat, but he did feel well enough to put his vocal chords to good use as soon as his brain was back up and running. 
+When his eyes reached the same state of efficiency, he opened them and peeked out through the bright sunlight at the figure sitting on the edge of this bed, legs crossed, spine perfectly straight. If he didn’t know any better, he would have thought that it was a life-sized Buddha statuette. Except with more muscle. And blonde hair. And the ears of a patriot.
+“Glad to see you’re awake,” Steve said quietly. 
+“Glad to see you retained the ability to feel glad. And that you didn’t run off after I passed out.” Tony sighed contently and closed his eyes again. “These silk sheets are much nicer than the sewer floor.”
+“Passed out is a nice way of putting it,” Steve debunked testily. “Your heart stopped.”
+“Yes. It does that sometimes. Performance issues.” He tried hard to ignore the strange sensation in his chest now. “Glad to see that you stopped the rapid failure.”
+“A temporary fix. It was lucky that Pepper was there quickly. And she told me that this isn’t the first time that this has happened.” 
+“Well.” What could one say to that? “I do make a habit of chasing military boy-nukes into city sewers. I make sure to schedule a chasing at least once a month. Not very often that I get tied to a chair, though.” 
+“And how often do you go into cardiac arrest?”
+Tony opened his eyes again and stared at his ceiling. He needed redecorating. It was too boring. Maybe he could pin a screen up there; play Tetris when he was bored. 
+“Tony.” The voice on his bed was insistent. 
+“I don’t keep track, honestly,” he answered, realizing there was no easy escape. “It got kind of tedious after the first fifteen times. I understand it might be difficult for you to imagine, but the drama actually slows me down, in this case. I try to keep it on the down-low. I certainly never intended to end our important conversation on such a rude note. Forgive me, if you will, for collapsing into your handsome man-arms mid-confession.”
+Steve looked away. “Yes, about that.”
+Tony pursed his lips. 
+“You know now.” There was no hesitation in Steve’s voice.
+“I am actually rather surprised you didn’t tell me earlier,” Tony said. “It would have been quite nice to know that I wasn’t dealing with a robot in the first place. Would have solved a lot of my glitches whenever I attempted to run scans.”
+“You didn’t like humans,” Steve muttered, looking down. “And even though I’m not technically… fully…”
+“75% of your brain still is. Frontal lobe, that’s…” Tony grimaced. “That’s quite a chunk of grey matter. That’s quite an important chunk of grey matter. That’s not something that’s easy to ignore.”
+Steve shook his head. “It’s not exactly a conversation starter.”
+“And lasagna is?” Tony asked, looking over at him incredulously.  
+They stared at each other until one corner of Steve’s mouth began to pull itself upward shyly and he shook his head, half-laughing. “I just… didn’t know what else to do. How to get through to you.”
+“Why would you ever want to get through to me? There’s nothing to get through to.” Tony threw up his arms, but they only made it a foot in the air before dropping uselessly to the sides again. “Just… what were you thinking? What if I did pull you apart? And pulled the wrong thing?!”
+“And what if you had died?” Steve demanded, looking serious again. “Down in the sewers?”
+“I wouldn’t have.” The confidence was still there. He wondered if it would ever leave. If it was a good indicator for when his life was about to actually end. Would his confidence drain beforehand, or not? Would he die believing himself to be invincible? It was certainly worth at least once test-run…. He could analyze the results when he was at his own—
+“Tony, you are dying.”
+Tony remained quiet. 
+“Pepper told me.”
+Tony didn’t make a sound.
+“I forced her to give me clearance – she told me everything. The sickness. The medication. It’s not enough anymore, is it? Especially with how long you try to avoid it? Any day could be your last, and you’re out there, running around sewers…”
+“What am I supposed to do?” Tony snapped. “Grovel? Beg for a miracle? Boil a soup of myself in a broth of self-pity? No thank you.” He yanked his head around to glare at Rogers again. “That’s not what I do.”
+“You’re right – it’s not. You look for a solution, you discover, you build!” Steve pointed a finger at him accusingly. “But where was that? Where was all of that, when you had the chance? I was right there. You know what’s inside my chest, you know the arc reactor is the power source. I’ve seen your research, here and there, and I know what it could be used for. Pepper knows, so now I know. And instead of working on that, you stalked around after me, trying to pick my brains… why? What took you so long?”
+“Shouldn’t you be a little more grateful?” Tony demanded. “I thought you didn’t want to be pulled apart!”
+“I don’t want you to die!” Steve shot back. “Or is this another suicidal episode?”
+“No, this is an episode of me trying to do something right for humanity!” Tony fired back hotly. “All this time, I was puzzling over how a robot could possibly be better at being human than I was… and now I know. It’s because you are. It’s because you’re actually human – arguably a better human than I am.”
+“My entire body is a machine,” Steve ground out.
+“Yes, most of it, and a nice one at that, but that’s not what makes us human, is it? I would, arguably, be more human with your kind of brain, even if my arms and legs were prosthetic…”
+“Or if your heart was,” the man cut in, holding up a hand. “Look, stop. You have what you need, don’t you? The arc reactor – you can use it to build yourself a new heart. Pepper told me you already had plans to do it anyway. You can’t hold off any longer. You have to do it now, otherwise you’re going to die.”
+Tony stared at him.
+“Maybe not today, maybe not tomorrow, but you will,” Steve said.
+“And if I do it… if I take that thing out of you and put it in myself, then you will,” Tony said flatly.
+“Well, that’s…” Steve looked away. “…that’s not really as vital.”
+“Isn’t it?” the bedridden genius asked.
+“Think of it as deactivating a nuke.” 
+“Oh, humor me,” Tony snorted weakly. “We both know who’s the more dangerous one in this situation. And I can tell you one thing – it isn’t the nuke that cooked me lasagna. Rogers, I don’t care how you were made. Or what for. The point is you, realistically, make a better human than me at this point.”
+Steve looked back at him, brows furrowed. 
+“If one of us has to go, the world should get to keep a ready-made superhero. Especially one who can cook.” Tony grinned lightly and shrugged. “Who knows? With your potential…”
+“Are you even being serious right now?” Steve demanded. “Are you listening to yourself?!”
+“Well, look, I was worried too, at first… because of the whole… made-to-win wars thing… the super-military-grade weapon thing… but that was before I realized how this worked. Because my father wouldn’t create a killing machine – oh no! That was far too easy for him. He pulled a human piece into the mix – a frontal lobe of a real, living boy who volunteered for the new military program. He gave the weapon control. And he handed that control to the brain of a soldier that has all the ferocity of a… kitten, honestly.”
+Steve shook his head, staring blankly at the floor. “I’m still dangerous.”
+“Dangerous? Oh yeah, you’re a real terror. Disabling vacuum robots and short-circuiting coffee-makers. The world will tremble at your villany.” Tony shivered sarcastically. “I’m getting goosebumps just thinking about all your evil deeds.”
+“Can you be serious for just a moment?” Steve snapped. “You’re on your deathbed, for pete’s sake, and you’re—”
+“You think this is my deathbed?” Tony exclaimed. “Oh no, are you kidding? This isn’t nearly fancy enough. If I’m gonna die on a bed, I’m gonna die on a fancy bed. It will be read and black, and made out of a Porche, and it will have at least ten naked women on it…” 
+“Tony—”
+“Make than eleven. I think even numbers are bad luck, aren’t they? I read that in a magazine once.” Tony began propping himself up by his elbows. “Come on, wonder-boy. Bring me my handheld, I need to start planning my eulogy…”
+“No,” Steve said quietly. “You’re not planning anything. Because you’re not going to die.”
+“Well that’s okay, I’ve already written it,” Tony said, waving him off. “I have to make sure to embarrass myself as much as possible…. Fireworks. What do you think about fireworks? At the funeral? Do they make black fireworks?”
+“Tony—” Steve’s voice was rising into anger again.
+“Maybe a slideshow of all of my sex tapes…”
+“Tony.” The CAPTAIN suddenly moved, one strong hand coming to grip the genius’ shoulder. “You’re not dying, not if I can help it.”
+“Neither are you.”
+“Not if you’ll build me a new heart afterward.”
+Tony looked down at the hand on his shoulder, and then measured Rogers with a withering look. “You honestly expect me to take on that responsibility? You honestly would trust someone like me to—”
+“To do the impossible, to stun the newspapers, to bring an antique back to working order and to campaign its role as the next American superhero? And make a huge profit, and bring it under your wing of a corporation as another brand?”
+Suddenly, Tony’s eyes were glowing. Like they’d entered a candy shop. “Well, if you put it that way…”
+“Think about it, Tony. You come out of your health decline… and suddenly, the antique is fixed… and you’re the only one that knows how it works, knows what it can do for the world,” Steve said quietly.
+“He,” Tony corrected. “Knows what he can do for the world. World-peace, namely.” He could feel his heartbeat accelerating in excitement, and that was probably a bad idea, but oh well.
+“Jumping over all buildings in front of video-cameras… fighting crime… It would all be very extravagant. Huge amounts of publicity.”
+“We would need a cheesy name.”
+Steve smiled with one corner of his mouth. “You can choose.”
+“Captain America,” Tony whispered, his eyes alight with promise.
+Steve snorted, chuckled, and then rubbed his face, leaning away. “Yeah, alright… okay… you might have to convince me of that one…”
+“Oh, come on, it’s perfect! And cheesy. People love cheesy! I can make merchandise… Make piles of money…”
+“Exactly.” Steve grinned. 
+Tony leaned back into the headboard, his eyes somewhere far away. Already planning. Already designing.
+Steve moved back to the edge of the bed too. 
+There was little else to be done.
+The door opened, and Pepper stepped through, carrying a tray with juice and pancakes on it. Tony barely noticed her, and took the juice, took a long gulp. Steve watched, his eyes slightly sad, from the bedside. 
+As Tony handed back the glass he finally snapped out of his trance and looked back at Steve.
+“Look, we still have to talk this over,” he said. “You haven’t convinced me yet.”
+“Yes I have,” Steve said quietly. “Your surgery is scheduled to start in an hour. We have Pepper on staff, and your two other medical androids. They’ve already prepped your default designs. All they need is the core, and Pepper already knows how to extract that, I gave her the files. She’ll incorporate it into your prototype.”
+Tony looked at Pepper, who remained expressionless. 
+Women, thought Tony bitterly. Then he looked at Steve’s assertive, annoying face. Men. “And you think I’m going to just go quietly?”
+Steve looked down, at his hand.
+Tony followed his gaze and slowly, his mouth thinned into a neat line of disappointment. “You spiked my drink. You fucking ass… ash… shit…” He rubbed his mouth. Rubbed his eyes. “What if…”
+Rogers leaned slightly closer. 
+Fighting off the earliest stages of drugged sleep, the genius pushed his brain to work and lift his eyes again, meeting the sad, blue ones only a few feet away. He struggled to hold the gaze steady. “What if,” he said again, “I fail… What if I can’t fix you… after you fix me…?”
+The corners of Steve’s mouth ghosted a smile. “I trust you.” 
+Tony shook his head slowly. “I… don’t…”
+Pepper came forward and took the glass from his weakening hand, setting it on the bedside table while the genius slumped back into bed. 
+“You… bosh… fah’red…” he grunted angrily. 
+Steve leaned in, pulling him slightly down, getting his head onto the pillow, into a more comfortable position. “I’ll see you on the other side,” he said.  
+“See ya,” murmured Tony sleepily, mentally noting to himself that he would have to get this habit of passing out in Rogers Steve Roger’s arms under control. 
+ And possibly himself, while he was at it.
+Because if he was going to be the manager of the world’s first-ever superhero, he might have to mature a bit.
+Just a little.
+Maybe.
+
+
+
+Chapter End Notes
+Man, you guys might be disappointed to find out that THERE IS NO SEX.
+I think I did not make it clear, but just in case you were wondering... I did not write a sex scene.I just make it really convincing, so you are lured into reading this... BUT THERE IS NO SEX.
+wow.... it's crazy...
+NEXT IS THE EPILOGUE
+which consists of tony passing out repeatedly in steve's handsome man-arms
+
+
+Epilogue
+
+
+
+The crowd roared, expectant. There was red scattered in the streets. People trampled through puddles of it, tearing themselves through the gates, thirsty to get what they had been promised. They were, Tony found, a rather terrifying bunch. It felt reminiscent of launching himself into a lion’s cage when he had absolutely no experience with the circus. 
+Well, maybe he had some experience. There was that one time. 
+“You ready?” he asked quietly, peeking around the corner, over the top of his sunglasses. He could see the masses moving together, like a giant amoeba. He could hear them chanting. “It looks bloodthirsty out there.”
+Steve imitated his action, his head coming in neatly over the top of Tony’s, since he was a bit taller, and then leaned back in. “Yeah, about as ready as I can be, I guess.”
+“Don’t worry, everything’s gonna be fine,” Tony reassured, turning back around and inspecting their handywork. He reached up, adjusted the collar a little, only to have Steve swat him irritably away. “We’re prepared. You’re feeling fine, right?”
+“For the thousandth time, yes,” Steve muttered, fidgeting with his shield slightly, trying to adjust the straps that didn’t need adjusting. “I’m fine.”
+“Vitals all normal?” Stark looked up at him. “Should we run another system check?”
+Steve rolled his eyes. “Not another one.”
+“I’m just… taking precautions.”
+“Unnecessary precautions.”
+“Come on, just let me check one last time.”
+“For the love of god, Tony…” Steve began.
+“I’ll show you mine if you show me yours,” Tony fired off with a grin, and immediately reached down, yanking apart his suit jacket, reaching in to unbutton the collar down to his chest, flashing Steve a full-eye view of the glowing panel sitting ingrained deeply into his sternum, slightly offset to the left. “Eh? Eh? What do you think? C’mon, Captain, open up.”
+Giving the man his most dry look, Steve imitated the action, pulling down the zipper just a bit and then grabbing back the flap to reveal the thin, white wifebeater underneath. A mirror image of Tony’s arc reactor sat in the middle of his own chest, glowing happily. “See?” he said. “Everything is working fine. We’re gonna run out of time with this…”
+“Just… stay.” Tony reached in without asking, poking the side of the steel curve and sliding out a tiny glass screen, squinting to look at something that lit up on the surface. “Okay… Yes, alright… I think you’re good to go.”
+“Which is what I said, two minutes ago,” Steve pointed out, doing his suit up again white Tony readjusted his tux. “But you had to go yanking our clothes…” He paused, looking past Tony’s shoulder.
+Tony looked around, followed his gaze, and waved happily at Pepper, who was standing in the doorway.
+ “…off,” finished Steve, pursing his lips and then giving his ‘manager’ another pointed look. “Can we start now?”
+“Yes,” Tony said, and reached out as Pepper approached, taking the clip-board from her. “Thanks, but you’re still fired.”
+“You’re not in charge of that decision, Mr. Stark,” Pepper said pleasantly with a smile, and looked at Steve, who smiled back at her. “But here are your documents – the links are now repositioned on the tabs up above the main speech notes, so make sure you click and hold to switch. Do you need a bottle of water?”
+“No,” Tony said, running a hand through his hair and turning on his heel, facing the open door and stepping towards the spotlight. “We’re all set. Fire the big guns.”
+Pepper looked at her palm pilot and pressed down the button. “Fireworks in 3… 2… 1…”
+Tony stepped forward and yanked off his glasses. 
+“Ladies and gentlemen, may I introduce… your first-ever superhero… the fighter of crime and evil… and the first and best weapon against war…
+…CAPTAIN AMERICA!”
+“…Copyright of Stark Industries all rights reserved.”
+
+
+
+
+Afterword
+Please drop by the archive and comment to let the author know if you enjoyed their work!
+
+
+

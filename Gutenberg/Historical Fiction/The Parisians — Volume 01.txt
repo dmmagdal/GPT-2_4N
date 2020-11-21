@@ -1,0 +1,2862 @@
+The Project Gutenberg EBook The Parisians, by E. B. Lytton, Book 1.
+#164 in our series by Edward Bulwer-Lytton
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**EBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These EBooks Were Prepared By Thousands of Volunteers*****
+
+
+Title: The Parisians, Book 1.
+
+Author: Edward Bulwer-Lytton
+
+Release Date: March 2005  [EBook #7737]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on May 20, 2003]
+
+Edition: 10
+
+Language: English
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE PARISIANS, B1, LYTTON ***
+
+
+
+
+Produced by David Widger
+
+
+
+
+
+                              THE PARISIANS
+
+                         By Edward Bulwer-Lytton
+
+
+PREFATORY NOTE.
+
+(BY THE AUTHOR'S SON.)
+
+"The Parisians" and "Kenelm Chillingly" were begun about the same time,
+and had their common origin in the same central idea.  That idea first
+found fantastic expression in "The Coming Race;" and the three books,
+taken together, constitute a special group, distinctly apart from all the
+other works of their author.
+
+The satire of his earlier novels is a protest against false social
+respectabilities; the humour of his later ones is a protest against the
+disrespect of social realities.  By the first he sought to promote social
+sincerity and the free play of personal character; by the last, to
+encourage mutual charity and sympathy amongst all classes, on whose
+interrelation depends the character of society itself.  But in these
+three books, his latest fictions, the moral purpose is more definite and
+exclusive.  Each of them is an expostulation against what seemed to him
+the perilous popularity of certain social and political theories, or a
+warning against the influence of certain intellectual tendencies upon
+individual character and national life.  This purpose, however, though
+common to the three fictions, is worked out in each of them by a
+different method.  "The Coming Race" is a work of pure fancy, and the
+satire of it is vague and sportive.  The outlines of a definite purpose
+are more distinctly drawn in "Chillingly,"--a romance which has the
+source of its effect in a highly wrought imagination.  The humour and
+pathos of "Chillingly" are of a kind incompatible with the design of "The
+Parisians," which is a work of dramatized observation.  "Chillingly" is a
+romance; "The Parisians" is a novel.  The subject of "Chillingly" is
+psychological; that of "The  Parisians"  is social.  The author's  object
+in  "Chillingly"  being to illustrate the effects of "modern ideas" upon
+an individual character, he has confined his narrative to the biography
+of that one character; hence the simplicity of plot and small number of
+dramatis personae, whereby the work gains in height and depth what it
+loses in breadth of surface.  "The Parisians," on the contrary, is
+designed to illustrate the effect of "modern ideas" upon a whole
+community.  This novel is therefore panoramic in the profusion and
+variety of figures presented by it to the reader's imagination.  No
+exclusive prominence is vouchsafed to any of these figures.  All of them
+are drawn and coloured with an equal care, but by means of the bold,
+broad touches necessary for their effective presentation on a canvas so
+large and so crowded.  Such figures are, indeed, but the component
+features of one great form, and their actions only so many modes of one
+collective impersonal character,--that of the Parisian Society of
+Imperial and Democratic France; a character everywhere present and busy
+throughout the story, of which it is the real hero or heroine.  This
+society was doubtless selected for characteristic illustration as being
+the most advanced in the progress of "modern ideas."  Thus, for a
+complete perception of its writer's fundamental purpose, "The Parisians"
+should be read in connection with "Chillingly," and these two books in
+connection with "The Coming Race."  It will then be perceived that
+through the medium of alternate fancy, sentiment, and observation,
+assisted by humour and passion, these three books (in all other respects
+so different from each other) complete the presentation of the same
+purpose under different aspects, and thereby constitute a group of
+fictions which claims a separate place of its own in any thoughtful
+classification of their author's works.
+
+One last word to those who will miss from these pages the connecting and
+completing touches of the master's hand.  It may be hoped that such a
+disadvantage, though irreparable, is somewhat mitigated by the essential
+character of the work itself.  The aesthetic merit of this kind of novel
+is in the vivacity of a general effect produced by large, swift strokes
+of character; and in such strokes, if they be by a great artist, force
+and freedom of style must still be apparent, even when they are left
+rough and unfinished.  Nor can any lack of final verbal correction much
+diminish the intellectual value which many of the more thoughtful
+passages of the present work derive from a long, keen, and practical
+study of political phenomena, guided by personal experience of public
+life, and enlightened by a large, instinctive knowledge of the human
+heart.
+
+Such a belief is, at least, encouraged by the private communications
+spontaneously made to him who expresses it, by persons of political
+experience and social position in France, who have acknowledged the
+general accuracy of the author's descriptions, and noticed the suggestive
+sagacity and penetration of his occasional comments on the circumstances
+and sentiments he describes.
+
+
+
+
+INTRODUCTORY CHAPTER.
+
+They who chance to have read the "Coming Race" may perhaps remember that
+I, the adventurous discoverer of the land without a sun, concluded the
+sketch of my adventures by a brief reference to the malady which, though
+giving no perceptible notice of its encroachments, might, in the opinion
+of my medical attendant, prove suddenly fatal.
+
+I had brought my little book to this somewhat melancholy close a few
+years before the date of its publication, and in the meanwhile I was
+induced to transfer my residence to Paris, in order to place myself under
+the care of an English physician, renowned for his successful treatment
+of complaints analogous to my own.
+
+I was the more readily persuaded to undertake this journey,--partly
+because I enjoyed a familiar acquaintance with the eminent physician
+referred to, who had commenced his career and founded his reputation in
+the United States; partly because I had become a solitary man, the ties
+of home broken, and dear friends of mine were domiciled in Paris, with
+whom I should be sure of tender sympathy and cheerful companionship.  I
+had reason to be thankful for this change of residence: the skill of Dr.
+C_____ soon restored me to health.  Brought much into contact with
+various circles of Parisian society, I became acquainted with the persons
+and a witness of the events that form the substance of the tale I am
+about to submit to the public, which has treated my former book with so
+generous an indulgence.  Sensitively tenacious of that character for
+strict and unalloyed veracity which, I flatter myself, my account of the
+abodes and manners of the Vril-ya has established, I could have wished to
+preserve the following narrative no less jealously guarded than its
+predecessor from the vagaries of fancy.  But Truth undisguised, never
+welcome in any civilized community above ground, is exposed at this time
+to especial dangers in Paris; and my life would not be worth an hour's
+purchase if I exhibited her 'in puris naturalibus' to the eyes of a
+people wholly unfamiliarized to a spectacle so indecorous.  That care
+for one's personal safety which is the first duty of thoughtful man
+compels me therefore to reconcile the appearance of 'la Verite' to the
+'bienseances' of the polished society in which 'la Liberte' admits no
+opinion not dressed after the last fashion.
+
+Attired as fiction, Truth may be peacefully received; and, despite the
+necessity thus imposed by prudence, I indulge the modest hope that I do
+not in these pages unfaithfully represent certain prominent types of the
+brilliant population which has invented so many varieties of Koom-Posh;
+
+     [Koom-Posh, Glek-Nas.  For the derivation of these terms and their
+     metaphorical signification, I must refer the reader to the "Coming
+     Race," chapter xii., on the language of the Vril-ya.  To those who
+     have not read or have forgotten that historical composition, it may
+     be convenient to state briefly that Koom-Posh with the Vril-ya is
+     the name for the government of the many, or the ascendency of the
+     most ignorant or hollow, and may be loosely rendered Hollow-Bosh.
+     When Koom-Posh degenerates from popular ignorance into the popular
+     ferocity which precedes its decease, the name for that state of
+     things is Glek-Nas; namely, the universal strife-rot.]
+
+and even when it appears hopelessly lost in the slough of a Glek-Nas,
+re-emerges fresh and lively as if from an invigorating plunge into the
+Fountain of Youth.  O Paris, 'foyer des idees, et oeil du monde!'--
+animated contrast to the serene tranquillity of the Vril-ya, which,
+nevertheless, thy noisiest philosophers ever pretend to make the goal
+of their desires: of all communities on which shines the sun and descend
+the rains of heaven, fertilizing alike wisdom and folly, virtue and vice;
+in every city men have yet built on this earth,--mayest thou, O Paris, be
+the last to brave the wands of the Coming Race and be reduced into
+cinders for the sake of the common good!
+                                                       TISH.
+
+PARIS, August 28, 1872.
+
+
+
+
+                              THE PARISIANS.
+
+                         By Edward Bulwer-Lytton
+
+
+                                 BOOK I.
+
+
+CHAPTER I.
+
+It was a bright day in the early spring of 1869.  All Paris seemed to
+have turned out to enjoy itself.  The Tuileries, the Champs Elysees, the
+Bois de Boulogne, swarmed with idlers.  A stranger might have wondered
+where Toil was at work, and in what nook Poverty lurked concealed.
+A millionaire from the London Exchange, as he looked round on the
+magasins, the equipages, the dresses of the women; as he inquired the
+prices in the shops and the rent of apartments,--might have asked
+himself, in envious wonder, How on earth do those gay Parisians live?
+What is their fortune?  Where does it come from?
+
+As the day declined, many of the scattered loungers crowded into the
+Boulevards; the cafes and restaurants began to light up.
+
+About this time a young man, who might be some five or six and twenty,
+was walking along the Boulevard des Italiens, heeding little the throng
+through which he glided his solitary way: there was that in his aspect
+and bearing which caught attention.  He looked a somebody; but though
+unmistakably a Frenchman, not a Parisian.  His dress was not in the
+prevailing mode: to a practised eye it betrayed the taste and the cut
+of a provincial tailor.  His gait was not that of the Parisian,--less
+lounging, more stately; and, unlike the Parisian, he seemed indifferent
+to the gaze of others.
+
+Nevertheless there was about him that air of dignity or distinction which
+those who are reared from their cradle in the pride of birth acquire so
+unconsciously that it seems hereditary and inborn.  It must also be
+confessed that the young man himself was endowed with a considerable
+share of that nobility which Nature capriciously distributes among her
+favourites with little respect for their pedigree and blazon, the
+nobility of form and face.  He was tall and well shaped, with graceful
+length of limb and fall of shoulders; his face was handsome, of the
+purest type of French masculine beauty,--the nose inclined to be
+aquiline, and delicately thin, with finely-cut open nostrils; the
+complexion clear,--the eyes large, of a light hazel, with dark lashes,
+--the hair of a chestnut brown, with no tint of auburn,--the beard and
+mustache a shade darker, clipped short, not disguising the outline of
+lips, which were now compressed, as if smiles had of late been unfamiliar
+to them; yet such compression did not seem in harmony with the
+physiognomical character of their formation, which was that assigned
+by Lavater to temperaments easily moved to gayety and pleasure.
+
+Another man, about his own age, coming quickly out of one of the streets
+of the Chausee d'Antin, brushed close by the stately pedestrian above
+described, caught sight of his countenance, stopped short, and exclaimed,
+"Alain!"  The person thus abruptly accosted turned his eye tranquilly on
+the eager face, of which all the lower part was enveloped in black beard;
+and slightly lifting his hat, with a gesture of the head that implied,
+"Sir, you are mistaken; I have not the honour to know you," continued his
+slow indifferent way.  The would-be acquaintance was not so easily
+rebuffed.  "Peste," he said, between his teeth, "I am certainly right.
+He is not much altered: of course I AM; ten years of Paris would improve
+an orang-outang."  Quickening his step, and regaining the side of the man
+he had called "Alain," he said, with a well-bred mixture of boldness and
+courtesy in his tone and countenance,
+
+"Ten thousand pardons if I am wrong.  Put surely I accost Alain de
+Kerouec, son of the Marquis de Rochebriant."
+
+"True, sir; but--"
+
+"But you do not remember me, your old college friend, Frederic
+Lemercier?"
+
+"Is it possibly?" cried Alain, cordially, and with an animation which
+charged the whole character of his countenance.  "My dear Frederic, my
+dear friend, this is indeed good fortune!  So you, too, are at Paris?"
+
+"Of course; and you?  Just come, I perceive," he added, somewhat
+satirically, as, linking his arm in his new-found friend's, he glanced at
+the cut of that friend's coat-collar.
+
+"I have been herd a fortnight," replied Alain.
+
+"Hem!  I suppose you lodge in the old Hotel de Rochebriant.  I passed it
+yesterday, admiring its vast facade, little thinking you were its
+inmate."
+
+"Neither am I; the hotel does not belong to me; it was sold some years
+ago by my father."
+
+"Indeed!  I hope your father got a good price for it; those grand hotels
+have trebled their value within the last five years.  And how is your
+father?  Still the same polished grand seigneur?  I never saw him but
+once, you know; and I shall never forget his smile, style grand monarque,
+when he patted me on the head and tipped me ten napoleons."
+
+"My father is no more," said Alain, gravely; "he has been dead nearly
+three years."
+
+"Ciel!  forgive me; I am greatly shocked.  Hem!  so you are now the
+Marquis de Rochebriant, a great historical name, worth a large sum in the
+market.  Few such names left.  Superb place your old chateau, is it not?"
+
+"A superb place, no--a venerable ruin, yes!"
+
+"Ah, a ruin! so much the better.  All the bankers are mad after ruins: so
+charming an amusement to restore them.  You will restore yours, without
+doubt.  I will introduce you to such an architect! has the 'moyen age' at
+his fingers' ends.  Dear,--but a genius."
+
+The young Marquis smiled,--for since he had found a college friend, his
+face showed that it could smile,--smiled, but not cheerfully, and
+answered,
+
+"I have no intention to restore Rochebriant.  The walls are solid: they
+have weathered the storms of six centuries, they will last my time, and
+with me the race perishes."
+
+"Bah! the race perish, indeed! you will marry.  'Parlez moi de ca': you
+could not come to a better man.  I have a list of all the heiresses at
+Paris, bound in russia leather.  You may take your choice out of twenty.
+Ah, if I were but a Rochebriant!  It is an infernal thing to come into
+the world a Lemercier.  I am a democrat, of course.  A Lemercier would be
+in a false position if he were not.  But if any one would leave me twenty
+acres of land, with some antique right to the De and a title, faith,
+would not I be an aristocrat, and stand up for my order?  But now we have
+met, pray let us dine together.  Ah! no doubt you are engaged every day
+for a month.  A Rochebriant just new to Paris must be 'fete' by all the
+Faubourg."
+
+"No," answered Alain, simply, "I am not engaged; my range of acquaintance
+is more circumscribed than you suppose."
+
+"So much the better for me.  I am luckily disengaged today, which is not
+often the case, for I am in some request in my own set, though it is not
+that of the Faubourg.  Where shall we dine?--at the Trois Freres?"
+
+"Wherever you please.  I know no restaurant at Paris, except a very
+ignoble one, close by my lodging."
+
+"'Apropos', where do you lodge?" "Rue de l'Universite, Numero ___."
+
+"A fine street, but 'triste'.  If you have no longer your family hotel,
+you have no excuse to linger in that museum of mummies, the Faubourg St.
+Germain; you must go into one of the new quarters by the Champs Elysees.
+Leave it to me; I'll find you a charming apartment.  I know one to be had
+a bargain,--a bagatelle,--five hundred naps a-year.  Cost you about two
+or three thousand more to furnish tolerably, not showily.  Leave all to
+me.  In three days you shall be settled.  Apropos! horses!  You must have
+English ones.  How many?--three for the saddle, two for your 'coupe'?
+I'll find them for you.  I will write to London to-morrow: Reese [Rice]
+is your man."
+
+"Spare yourself that trouble, my dear Frederic.  I keep no horses and no
+coupe.  I shall not change my apartment."  As he said this, Rochebriant
+drew himself up somewhat haughtily.
+
+"Faith," thought Lemercier, "is it possible that the Marquis is poor?
+No.  I have always heard that the Rochebriants were among the greatest
+proprietors in Bretagne.  Most likely, with all his innocence of the
+Faubourg St. Germain, he knows enough of it to be aware that I, Frederic
+Lemercier, am not the man to patronize one of its greatest nobles.
+'Sacre bleu!' if I thought that; if he meant to give himself airs to me,
+his old college friend,--I would--I would call him out."
+
+Just as M. Lemercier had come to that bellicose resolution, the Marquis
+said, with a smile which, though frank, was not without a certain grave
+melancholy in its expression, "My dear Frederic, pardon me if I seem to
+receive your friendly offers ungraciously.  But I believe that I have.
+reasons you will approve for leading at Paris a life which you certainly
+will not envy;" then, evidently desirous to change the subject, he said
+in a livelier tone, "But what a marvellous city this Paris of ours is!
+Remember I had never seen it before: it burst on me like a city in the
+Arabian Nights two weeks ago.  And that which strikes me most--I say it
+with regret and a pang of conscience--is certainly not the Paris of
+former times, but that Paris which M. Buonaparte--I beg pardon, which the
+Emperor--has called up around him, and identified forever with his reign.
+It is what is new in Paris that strikes and enthrals me.  Here I see the
+life of France, and I belong to her tombs!"
+
+"I don't quite understand you," said Lemercier.  "If you think that
+because your father and grandfather were Legitimists, you have not the
+fair field of living ambition open to you under the Empire, you never
+were more mistaken.  'Moyen age,' and even rococo, are all the rage.
+You have no idea how valuable your name would be either at the Imperial
+Court or in a Commercial Company.  But with your fortune you are
+independent of all but fashion and the Jockey Club.
+
+"And 'apropos' of that, pardon me,--what villain made your coat?--let me
+know; I will denounce him to the police."  Half amused, half amazed,
+Alain Marquis de Rochebriant looked at Frederic Lemercier much as a good-
+tempered lion may look upon a lively poodle who takes a liberty with his
+mane, and after a pause he replied curtly, "The clothes I wear at Paris
+were made in Bretagne; and if the name of Rochebriant be of any value at
+all in Paris, which I doubt, let me trust that it will make me
+acknowledged as 'gentilhomme,' whatever my taste in a coat or whatever
+the doctrines of a club composed--of jockeys."
+
+"Ha, ha!" cried Lemercier, freeing himself from the arm of his friend,
+and laughing the more irresistibly as he encountered the grave look of
+the Marquis.  "Pardon me,--I can't help it,--the Jockey Club,--composed
+of jockeys!--it is too much!--the best joke.  My dear, Alain, there is
+some of the best blood of Europe in the Jockey Club; they would exclude
+a plain bourgeois like me.  But it is all the same: in one respect you
+are quite right.  Walk in a blouse if you please: you are still
+Rochebriant; you would only be called eccentric.  Alas!  I am obliged to
+send to London for my pantaloons: that comes of being a Lemercier.  But
+here we are in the Palais Royal."
+
+
+
+
+CHAPTER II.
+
+The salons of the Trois Freres were crowded; our friends found a table
+with some little difficulty.  Lemercier proposed a private cabinet,
+which, for some reason known to himself, the Marquis declined.
+
+Lemercier spontaneously and unrequested ordered the dinner and the wines.
+
+While waiting for their oysters, with which, when in season, French 'bon-
+vivants' usually commence their dinner, Lemercier looked round the salon
+with that air of inimitable, scrutinizing, superb impertinence which
+distinguishes the Parisian dandy.  Some of the ladies returned his glance
+coquettishly, for Lemercier was 'beau garcon;' others turned aside
+indignantly, and muttered something to the gentlemen dining with them.
+The said gentlemen, when old, shook their heads, and continued to eat
+unmoved; when young, turned briskly round, and looked at first fiercely
+at M. Lemercier, but, encountering his eye through the glass which he had
+screwed into his socket, noticing the hardihood of his countenance and
+the squareness of his shoulders, even they turned back to the tables,
+shook their heads, and continued to eat unmoved, just like the old ones.
+
+"Ah!" cried Lemercier, suddenly, "here comes a man you should know, 'mon
+cher.'  He will tell you how to place your money,--a rising man, a coming
+man, a future minister.  Ah! 'bon jour,' Duplessis, 'bon jour,'" kissing
+his hand to a gentleman who had just entered and was looking about him
+for a seat.  He was evidently well and favourably known at the Trois
+Freres.  The waiters had flocked round him, and were pointing to a table
+by the window, which a saturnine Englishman, who had dined off a
+beefsteak and potatoes, was about to vacate.
+
+M. Duplessis, having first assured himself, like a prudent man, that his
+table was secure, having ordered his oysters, his chablis, and his
+'potage a la bisque,' now paced calmly and slowly across the salon, and
+halted before Lemercier.
+
+Here let me pause for a moment, and give the reader a rapid sketch of the
+two Parisians.
+
+Frederic Lemercier is dressed, somewhat too showily, in the extreme of
+the prevalent fashion.  He wears a superb pin in his cravat,--a pin worth
+two thousand francs; he wears rings on his fingers, 'breloques' to his
+watch-chain.  He has a warm though dark complexion, thick black eyebrows,
+full lips, a nose somewhat turned up, but not small, very fine large dark
+eyes, a bold, open, somewhat impertinent expression of countenance;
+withal decidedly handsome, thanks to colouring, youth, and vivacity of
+regard.
+
+Lucien Duplessis, bending over the table, glancing first with curiosity
+at the Marquis de Rochebriant, who leans his cheek on his hand and seems
+not to notice him, then concentrating his attention on Frederic
+Lemercier, who sits square with his hands clasped,--Lucien Duplessis
+is somewhere between forty and fifty, rather below the middle height,
+slender, but not slight,--what in English phrase is called "wiry."
+He is dressed with extreme simplicity: black frockcoat buttoned up; black
+cravat worn higher than men who follow the fashions wear their neckcloths
+nowadays; a hawk's eye and a hawk's beak; hair of a dull brown, very
+short, and wholly without curl; his cheeks thin and smoothly shaven,
+but he wears a mustache and imperial, plagiarized from those of his
+sovereign, and, like all plagiarisms, carrying the borrowed beauty to
+extremes, so that the points of mustache and imperial, stiffened and
+sharpened by cosmetics which must have been composed of iron, looked like
+three long stings guarding lip and jaw from invasion; a pale olive-brown
+complexion, eyes small, deep-sunk, calm, piercing; his expression of face
+at first glance not striking, except for quiet immovability.  Observed
+more heedfully, the expression was keenly intellectual,--determined about
+the lips, calculating about the brows: altogether the face of no ordinary
+man, and one not, perhaps, without fine and high qualities, concealed
+from the general gaze by habitual reserve, but justifying the confidence
+of those whom he admitted into his intimacy.
+
+"Ah, mon cher," said Lemercier, "you promised to call on me yesterday at
+two o'clock.  I waited in for you half an hour; you never came."
+
+"No; I went first to the Bourse.  The shares in that Company we spoke of
+have fallen; they will fall much lower: foolish to buy in yet; so the
+object of my calling on you was over.  I took it for granted you would
+not wait if I failed my appointment.  Do you go to the opera to-night?"
+
+"I think not; nothing worth going for: besides, I have found an old
+friend, to whom I consecrate this evening.  Let me introduce you to the
+Marquis de Rochebriant.  Alain, M. Duplessis."
+
+The two gentlemen bowed.
+
+"I had the honour to be known to Monsieur your father," said Duplessis.
+
+"Indeed," returned Rochebriant.  "He had not visited Paris for many years
+before he died."
+
+"It was in London I met him, at the house of the Russian Princess C____."
+
+The Marquis coloured high, inclined his head gravely, and made no reply.
+Here the waiter brought the oysters and the chablis, and Duplessis
+retired to his own table.
+
+"That is the most extraordinary man," said Frederic, as he squeezed the
+lemon over his oysters, "and very much to be admired."
+
+"How so?  I see nothing at least to admire in his face," said the
+Marquis, with the bluntness of a provincial.
+
+"His face.  Ah! you are a Legitimist,--party prejudice.  He dresses his
+face after the Emperor; in itself a very clever face, surely."
+
+"Perhaps, but not an amiable one.  He looks like a bird of prey."
+
+"All clever men are birds of prey.  The eagles are the heroes, and the
+owls the sages.  Duplessis is not an eagle nor an owl.  I should rather
+call him a falcon, except that I would not attempt to hoodwink him."
+
+"Call him what you will," said the Marquis, indifferently; "M. Duplessis
+can be nothing to me."
+
+"I am not so sure of that," answered Frederic, somewhat nettled by the
+phlegm with which the Provincial regarded the pretensions of the
+Parisian.  "Duplessis, I repeat it, is an extraordinary man.  Though
+untitled, he descends from your old aristocracy; in fact, I believe,
+as his name shows, from the same stem as the Richelieus.  His father was
+a great scholar, and I believe be has read much himself.  Might have
+distinguished himself in literature or at the bar, but his parents died
+fearfully poor; and some distant relations in commerce took charge of
+him, and devoted his talents to the 'Bourse.'  Seven years ago he lived
+in a single chamber, 'au quatrieme,' near the Luxembourg.  He has now a
+hotel, not large but charming, in the Champs Elysees, worth at least six
+hundred thousand francs.  Nor has he made his own fortune alone, but that
+of many others; some of birth as high as your own.  He has the genius of
+riches, and knocks off a million as a poet does an ode, by the force of
+inspiration.  He is hand-in-glove with the Ministers, and has been
+invited to Compiegne by the Emperor.  You will find him very useful."
+
+Alain made a slight movement of incredulous dissent, and changed the
+conversation to reminiscences of old school-boy days.
+
+The dinner at length came to a close.  Frederic rang for the bill,--
+glanced over it.  "Fifty-nine francs," said he, carelessly flinging down
+his napoleon and a half.  The Marquis silently drew forth his purse and
+extracted the same sum.  When they were out of the restaurant, Frederic
+proposed adjourning to his own rooms.  "I can promise you an excellent
+cigar, one of a box given to me by an invaluable young Spaniard attached
+to the Embassy here.  Such cigars are not to be had at Paris for money,
+nor even for love; seeing that women, however devoted and generous, never
+offer you anything better than a cigarette.  Such cigars are only to be
+had for friendship.  Friendship is a jewel."
+
+"I never smoke," answered the Marquis, "but I shall be charmed to come to
+your rooms; only don't let me encroach on your good-nature.  Doubtless
+you have engagements for the evening."
+
+"None till eleven o'clock, when I have promised to go to a soiree to
+which I do not offer to take you; for it is one of those Bohemian
+entertainments at which it would do you harm in the Faubourg to assist,
+--at least until you have made good your position.  Let me see, is not
+the Duchesse de Tarascon a relation of yours?"
+
+"Yes; my poor mother's first cousin."
+
+"I congratulate you.  'Tres grande dame.'  She will launch you in 'puro
+coelo,' as Juno might have launched one of her young peacocks."
+
+"There has been no acquaintance between our houses," returned the
+Marquis, dryly, "since the mesalliance of her second nuptials."
+
+"Mesalliance! second nuptials!  Her second husband was the Duc de
+Tarascon."
+
+"A duke of the First Empire, the grandson of a butcher."
+
+"Diable! you are a severe genealogist, Monsieur le Marquis.  How can
+you consent to walk arm-in-arm with me, whose great-grandfather supplied
+bread to the same army to which the Due de Tarascon's grandfather
+furnished the meat?"
+
+"My dear Frederic, we two have an equal pedigree, for our friendship
+dates from the same hour.  I do not blame the Duchesse de Tarascon for
+marrying the grandson of a butcher, but for marrying the son of a man
+made duke by a usurper.  She abandoned the faith of her house and the
+cause of her sovereign.  Therefore her marriage is a blot on our
+scutcheon."
+
+Frederic raised his eyebrows, but had the tact to pursue the subject
+no further.  He who interferes in the quarrels of relations must pass
+through life without a friend.
+
+The young men now arrived at Lemercier's apartment, an entresol looking
+on the Boulevard des Italiens, consisting of more rooms than a bachelor
+generally requires; low-pitched, indeed, but of good dimensions, and
+decorated and furnished with a luxury which really astonished the
+provincial, though, with the high-bred pride of an oriental, he
+suppressed every sign of surprise.
+
+Florentine cabinets, freshly retouched by the exquisite skill of Mombro;
+costly specimens of old Sevres and Limoges; pictures and bronzes and
+marble statuettes,--all well chosen and of great price, reflected from
+mirrors in Venetian frames,--made a 'coup d'oeil' very favourable to that
+respect which the human mind pays to the evidences of money.  Nor was
+comfort less studied than splendour.  Thick carpets covered the floors,
+doubled and quilted portieres excluded all draughts from chinks in the
+doors.  Having allowed his friend a few minutes to contemplate and admire
+the 'salle a manger' and 'salon' which constituted his more state
+apartments, Frederic then conducted him into a small cabinet, fitted up
+with scarlet cloth and gold fringes, whereon were artistically arranged
+trophies of Eastern weapons and Turkish pipes with amber mouthpieces.
+
+There, placing the Marquis at ease on a divan and flinging himself on
+another, the Parisian exquisite ordered a valet, well dressed as himself,
+to bring coffee and liqueurs; and after vainly pressing one of his
+matchless cigars on his friend, indulged in his own Regalia.
+
+"They are ten years old," said Frederic, with a tone of compassion at
+Alain's self-inflicted loss,--"ten years old.  Born therefore about the
+year in which we two parted--"
+
+"When you were so hastily summoned from college," said the Marquis, "by
+the news of your father's illness.  We expected you back in vain.  Have
+you been at Paris ever since?"
+
+"Ever since; my poor father died of that illness.  His fortune proved
+much larger than was suspected: my share amounted to an income from
+investments in stocks, houses, etc., to upwards of sixty thousand francs
+a-year; and as I wanted six years to my majority of course the capital on
+attaining my majority would be increased by accumulation.  My mother
+desired to keep me near her; my uncle, who was joint guardian with her,
+looked with disdain on our poor little provincial cottage; so promising
+an heir should acquire his finishing education under masters at Paris.
+Long before I was of age, I was initiated into politer mysteries of our
+capital than those celebrated by Eugene Sue.  When I took possession of
+my fortune five years ago, I was considered a Croesus; and really for
+that patriarchal time I was wealthy.  Now, alas! my accumulations have
+vanished in my outfit; and sixty thousand francs a-year is the least a
+Parisian can live upon.  It is not only that all prices have fabulously
+increased, but that the dearer things become, the better people live.
+When I first came out, the world speculated upon me; now, in order to
+keep my standing, I am forced to speculate on the world.  Hitherto I have
+not lost; Duplessis let me into a few good things this year, worth one
+hundred thousand francs or so.  Croesus consulted the Delphic Oracle.
+Duplessis was not alive in the time of Croesus, or Croesus would have
+consulted Duplessis."
+
+Here there was a ring at the outer door of the apartment, and in another
+minute the valet ushered in a gentleman somewhere about the age of
+thirty, of prepossessing countenance, and with the indefinable air of
+good-breeding and 'usage du monde.'  Frederic started up to greet
+cordially the new-comer, and introduced him to the Marquis under the name
+of "Sare Grarm Varn."
+
+"Decidedly," said the visitor, as he took off his paletot and seated
+himself beside the Marquis,--"decidedly, my dear Lemercier," said he, in
+very correct French, and with the true Parisian accent and intonation,
+"you Frenchmen merit that praise for polished ignorance of the language
+of barbarians which a distinguished historian bestows on the ancient
+Romans.  Permit me, Marquis, to submit to you the consideration whether
+Grarm Varn is a fair rendering of my name as truthfully printed on this
+card."
+
+The inscription on the card, thus drawn from its case and placed in
+Alain's hand, was--
+
+                         MR. GRAHAM VANE,
+
+                              No. __ Rue d'Anjou.
+
+The Marquis gazed at it as he might on a hieroglyphic, and passed it on
+to Lemercier in discreet silence.
+
+That gentleman made another attempt at the barbarian appellation.
+
+"'Grar--ham Varne.'  'C'est ca!'  I triumph!  all difficulties yield to
+French energy."
+
+Here the coffee and liqueurs were served; and after a short pause the
+Englishman, who had very quietly been observing the silent Marquis,
+turned to him and said, "Monsieur le Marquis, I presume it was your
+father whom I remember as an acquaintance of my own father at Ems.
+It is many years ago; I was but a child.  The Count de Chambord was then
+at that enervating little spa for the benefit of the Countess's health.
+If our friend Lemercier does not mangle your name as he does mine, I
+understand him to say that you are the Marquis de Rochebriant."
+
+"That is my name: it pleases me to hear that my father was among those
+who flocked to Ems to do homage to the royal personage who deigns to
+assume the title of Count de Chambord."
+
+"My own ancestors clung to the descendants of James II. till their claims
+were buried in the grave of the last Stuart, and I honour the gallant men
+who, like your father, revere in an exile the heir to their ancient
+kings."
+
+The Englishman said this with grace and feeling; the Marquis's heart
+warmed to him at once.
+
+"The first loyal 'gentilhome' I have met at Paris," thought the
+Legitimist; "and, oh, shame! not a Frenchman!"  Graham Vane, now
+stretching himself and accepting the cigar which Lemercier offered him,
+said to that gentleman "You who know your Paris by heart--everybody and
+everything therein worth the knowing, with many bodies and many things
+that are not worth it--can you inform me who and what is a certain lady
+who every fine day may be seen walking in a quiet spot at the outskirts
+of the Bois de Boulogne, not far from the Baron de Rothschild's villa?
+The said lady arrives at this selected spot in a dark-blue coupe without
+armorial bearings, punctually at the hour of three.  She wears always the
+same dress,--a kind of gray pearl-coloured silk, with a 'cachemire'
+shawl.  In age she may be somewhat about twenty--a year or so more or
+less--and has a face as haunting as a Medusa's; not, however, a face to
+turn a man into a stone, but rather of the two turn a stone into a man.
+A clear paleness, with a bloom like an alabaster lamp with the light
+flashing through.  I borrow that illustration from Sare Scott, who
+applied it to Milor Bee-ren."
+
+"I have not seen the lady you describe," answered Lemercier, feeling
+humiliated by the avowal; "in fact, I have not been in that sequestered
+part of the Bois for months; but I will go to-morrow: three o'clock you
+say,--leave it to me; to-morrow evening, if she is a Parisienne, you
+shall know all about her.  But, mon cher, you are not of a jealous
+temperament to confide your discovery to another."
+
+"Yes, I am of a very jealous temperament," replied the Englishman; "but
+jealousy comes after love, and not before it.  I am not in love; I am
+only haunted.  To-morrow evening, then, shall we dine at Philippe's,
+seven o'clock?"
+
+"With all my heart," said Lemercier; "and you too, Alain?"
+
+"Thank you, no," said the Marquis, briefly; and he rose, drew on his
+gloves, and took up his hat.
+
+At these signals of departure, the Englishman, who did not want tact nor
+delicacy, thought that he had made himself 'de trop' in the 'tete-a-tete'
+of two friends of the same age and nation; and, catching up his paletot,
+said hastily, "No, Marquis, do not go yet, and leave our host in
+solitude; for I have an engagement which presses, and only looked in at
+Lemercier's for a moment, seeing the light at his windows.  Permit me to
+hope that our acquaintance will not drop, and inform me where I may have
+the honour to call on you."
+
+"Nay," said the Marquis; "I claim the right of a native to pay my
+respects first to the foreigner who visits our capital, and," he added
+in a lower tone, "who speaks so nobly of those who revere its exiles."
+
+The Englishman saluted, and walked slowly towards the door; but on
+reaching the threshold turned back and made a sign to Lemercier,
+unperceived by Alain.
+
+Frederic understood the sign, and followed Graham Vane into the adjoining
+room, closing the door as he passed.
+
+"My dear Lemercier, of course I should not have intruded on you at this
+hour on a mere visit of ceremony.  I called to say that the Mademoiselle
+Duval whose address you sent me is not the right one,--not the lady whom,
+knowing your wide range of acquaintance, I asked you to aid me in finding
+out."
+
+"Not the right Duval?  Diable!  she answered your description, exactly."
+
+"Not at all."
+
+"You said she was very pretty and young,--under twenty."
+
+"You forgot that I said she deserved that description twenty-one years
+ago."
+
+"Ah, so you did; but some ladies are always young.  'Age,' says a wit in
+the 'Figaro,' 'tis a river which the women compel to reascend to its
+source when it has flowed onward more than twenty years.'  Never mind:
+'soyez tranquille;' I will find your Duval yet if she is to be found.
+But why could not the friend who commissioned you to inquire choose a
+name less common?  Duval! every street in Paris has a shop-door over
+which is inscribed the name of Duval."
+
+"Quite true, there is the difficulty; however, my dear Lemercier, pray
+continue to look out for a Louise Duval who was young and pretty twenty-
+one years ago: this search ought to interest me more than that which I
+entrusted to you tonight, respecting the pearly-robed lady; for in the
+last I but gratify my own whim, in the first I discharge a promise to a
+friend.  You, so perfect a Frenchman, know the difference; honour is
+engaged to the first.  Be sure you let me know if you find any other
+Madame or Mademoiselle Duval; and of course you remember your promise not
+to mention to any one the commission of inquiry you so kindly undertake.
+I congratulate you on your friendship for M. de Rochebriant.  What a
+noble countenance and manner!"
+
+Lemercier returned to the Marquis.  "Such a pity you can't dine with us
+to-morrow.  I fear you made but a poor dinner to-day.  But it is always
+better to arrange the menu beforehand.  I will send to Philippe's
+tomorrow.  Do not be afraid."
+
+The Marquis paused a moment, and on his young face a proud struggle was
+visible.  At last he said, bluntly and manfully,
+
+"My dear Frederic, your world and mine are not and cannot be the same.
+Why should I be ashamed to own to my old schoolfellow that I am poor,
+--very poor; that the dinner I have shared with you to-day is to me a
+criminal extravagance?  I lodge in a single chamber on the fourth-story;
+I dine off a single plat at a small restaurateur's; the utmost income I
+can allow to myself does not exceed five thousand francs a year: my
+fortunes I cannot hope much to improve.  In his own country Alain de
+Rochebriant has no career."  Lemercier was so astonished by this
+confession that he remained for some moments silent, eyes and mouth both
+wide open; at length he sprang up, embraced his friend well-nigh sobbing,
+and exclaimed, "'Tant mieux pour moi!'  You must take your lodging with
+me.  I have a charming bedroom to spare.  Don't say no.  It will raise my
+own position to say 'I and Rochebriant keep house together.'  It must be
+so.  Come here to-morrow.  As for not having a career,--bah!  I and
+Duplessis will settle that.  You shall be a millionaire in two years.
+Meanwhile we will join capitals: I my paltry notes, you your grand name.
+Settled!"
+
+"My dear, dear Frederic," said the young noble, deeply affected, "on
+reflection you will see what you propose is impossible.  Poor I may be
+without dishonour; live at another man's cost I cannot do without
+baseness.  It does not require to be 'gentilhomme' to feel that: it is
+enough to be a Frenchman.  Come and see me when you can spare the time.
+There is my address.  You are the only man in Paris to whom I shall be at
+home.  Au revoir."  And breaking away from Lemercier's clasp, the Marquis
+hurried off.
+
+
+
+
+CHAPTER III.
+
+Alain reached the house in which he lodged.  Externally a fine house, it
+had been the hotel of a great family in the old regime.  On the first
+floor were still superb apartments, with ceilings painted by Le Brun,
+with walls on which the thick silks still seemed fresh.  These rooms were
+occupied by a rich 'agent de change;' but, like all such ancient palaces,
+the upper stories were wretchedly defective even in the comforts which
+poor men demand nowadays: a back staircase, narrow, dirty, never lighted,
+dark as Erebus, led to the room occupied by the Marquis, which might be
+naturally occupied by a needy student or a virtuous 'grisette.'  But
+there was to him a charm in that old hotel, and the richest 'locataire'
+therein was not treated with a respect so ceremonious as that which at
+tended the lodger on the fourth story.  The porter and his wife were
+Bretons; they came from the village of Rochebriant; they had known
+Alain's parents in their young days; it was their kinsman who had
+recommended him to the hotel which they served: so, when he paused at
+the lodge for his key, which he had left there, the porter's wife was in
+waiting for his return, and insisted on lighting him upstairs and seeing
+to his fire, for after a warm day the night had turned to that sharp
+biting cold which is more trying in Paris than even in London.
+
+The old woman, running up the stairs before him, opened the door of his
+room, and busied herself at the fire.  "Gently, my good Marthe," said he,
+"that log suffices.  I have been extravagant to-day, and must pinch for
+it."
+
+"M. le Marquis jests," said the old woman, laughing.
+
+"No, Marthe; I am serious.  I have sinned, but I shall reform.  'Entre
+nous,' my dear friend, Paris is very dear when one sets one's foot out
+of doors: I must soon go back to Rochebriant."
+
+"When M. le Marquis goes back to Rochebriant he must take with him a
+Madame la Marquise,--some pretty angel with a suitable dot."
+
+"A dot suitable to the ruins of Rochebriant would not suffice to repair
+them, Marthe: give me my dressing-gown, and good-night."
+
+"'Bon repos, M. le Marquis! beaux reves, et bel avenir.'"
+
+"'Bel avenir!'" murmured the young man, bitterly, leaning his cheek on
+his hand; "what fortune fairer than the present can be mine? yet inaction
+in youth is more keenly felt than in age.  How lightly I should endure
+poverty if it brought poverty's ennobling companion, Labour,--denied to
+me!  Well, well; I must go back to the old rock: on this ocean there is
+no sail, not even an oar, for me."
+
+Alain de Rochebriant had not been reared to the expectation of poverty.
+The only son of a father whose estates were large beyond those of most
+nobles in modern France, his destined heritage seemed not unsuitable to
+his illustrious birth.  Educated at a provincial academy, he had been
+removed at the age of sixteen to Rochebriant, and lived there simply and
+lonelily enough, but still in a sort of feudal state, with an aunt, an
+elder and unmarried sister to his father.
+
+His father he never saw but twice after leaving college.  That brilliant
+seigneur visited France but rarely, for very brief intervals, residing
+wholly abroad.  To him went all the revenues of Rochebriant save what
+sufficed for the manage of his son and his sister.  It was the cherished
+belief of these two loyal natures that the Marquis secretly devoted his
+fortune to the cause of the Bourbons; how, they knew not, though they
+often amused themselves by conjecturing: and, the young man, as he grew
+up, nursed the hope that he should soon hear that the descendant of Henri
+Quatre had crossed the frontier on a white charger and hoisted the old
+gonfalon with its 'fleur-de-lis.'  Then, indeed, his own career would be
+opened, and the sword of the Kerouecs drawn from its sheath.  Day after
+day he expected to hear of revolts, of which his noble father was
+doubtless the soul.  But the Marquis, though a sincere Legitimist, was
+by no means an enthusiastic fanatic.  He was simply a very proud, a very
+polished, a very luxurious, and, though not without the kindliness and
+generosity which were common attributes of the old French noblesse, a
+very selfish grand seigneur.
+
+Losing his wife (who died the first year of marriage in giving birth to
+Alain) while he was yet very young, he had lived a frank libertine life
+until he fell submissive under tho despotic yoke of a Russian Princess,
+who, for some mysterious reason, never visited her own country and
+obstinately refused to reside in France.  She was fond of travel, and
+moved yearly from London to Naples, Naples to Vienna, Berlin, Madrid,
+Seville, Carlsbad, Baden-Baden,--anywhere for caprice or change, except
+Paris.  This fair wanderer succeeded in chaining to herself the heart and
+the steps of the Marquis de Rochebriant.
+
+She was very rich; she lived semi-royally.  Hers was just the house in
+which it suited the Marquis to be the 'enfant qate.'  I suspect that,
+cat-like, his attachment was rather to the house than to the person of
+his mistress.  Not that he was domiciled with the Princess; that would
+have been somewhat too much against the proprieties, greatly too much
+against the Marquis's notions of his own dignity.  He had his own
+carriage, his own apartments, his own suite, as became so grand a
+seigneur and the lover of so grand a dame.  His estates, mortgaged before
+he came to them, yielded no income sufficient for his wants; he mortgaged
+deeper and deeper, year after year, till he could mortgage them no more.
+He sold his hotel at Paris; he accepted without scruple his sister's
+fortune; he borrowed with equal 'sang froid' the two hundred thousand
+francs which his son on coming of age inherited from his mother.
+Alain yielded that fortune to him without a murmur,--nay, with pride;
+he thought it destined to go towards raising a regiment for the
+fleur-de-lis.
+
+To do the Marquis justice, he was fully persuaded that he should shortly
+restore to his sister and son what he so recklessly took from them.  He
+was engaged to be married to his Princess so soon as her own husband
+died.  She had been separated from the Prince for many years, and every
+year it was said he could not last a year longer.  But he completed the
+measure of his conjugal iniquities by continuing to live; and one day,
+by mistake, Death robbed the lady of the Marquis instead of the Prince.
+
+This was an accident which the Marquis had never counted upon.  He was
+still young enough to consider himself young; in fact, one principal
+reason for keeping Alain secluded in Bretagne was his reluctance to
+introduce into the world a son "as old as myself" he would say
+pathetically.  The news of his death, which happened at Baden after a
+short attack of bronchitis caught in a supper 'al fresco' at the old
+castle, was duly transmitted to Rochebriant by the Princess; and the
+shock to Alain and his aunt was the greater because they had seen so
+little of the departed that they regarded him as a heroic myth, an
+impersonation of ancient chivalry, condemning himself to voluntary exile
+rather than do homage to usurpers.  But from their grief they were soon
+roused by the terrible doubt whether Rochebriant could still be retained
+in the family.  Besides the mortgagees, creditors from half the capitals
+in Europe sent in their claims; and all the movable effects transmitted
+to Alain by his father's confidential Italian valet, except sundry
+carriages and horses which were sold at Baden for what they would fetch,
+were a magnificent dressing-case, in the secret drawer of which were some
+bank-notes amounting to thirty thousand francs, and three large boxes
+containing the Marquis's correspondence, a few miniature female
+portraits, and a great many locks of hair.
+
+Wholly unprepared for the ruin that stared him in the face, the young
+Marquis evinced the natural strength of his character by the calmness
+with which he met the danger, and the intelligence with which he
+calculated and reduced it.
+
+By the help of the family notary in the neighbouring town, he made
+himself master of his liabilities and his means; and he found that, after
+paying all debts and providing for the interest of the mortgages, a
+property which ought to have realized a rental of L10,000 a year yielded
+not more than L400.  Nor was even this margin safe, nor the property out
+of peril; for the principal mortgagee, who was a capitalist in Paris
+named Louvier, having had during the life of the late Marquis more than
+once to wait for his half-yearly interest longer than suited his
+patience,--and his patience was not enduring,--plainly declared that if
+the same delay recurred he should put his right of seizure in force; and
+in France still more than in England, bad seasons seriously affect the
+security of rents.  To pay away L9,600 a year regularly out of L10,000,
+with the penalty of forfeiting the whole if not paid,--whether crops may
+fail, farmers procrastinate, and timber fall in price,--is to live with
+the sword of Damocles over one's head.
+
+For two years and more, however, Alain met his difficulties with prudence
+and vigour; he retrenched the establishment hitherto kept at the chateau,
+resigned such rural pleasures as he had been accustomed to indulge, and
+lived like one of his petty farmers.  But the risks of the future
+remained undiminished.
+
+"There is but one way, Monsieur le Marquis," said the family notary,
+M. Hebert, "by which you can put your estate in comparative safety.
+Your father raised his mortgages from time to time, as he wanted money,
+and often at interest above the average market interest.  You may add
+considerably to your income by consolidating all these mortgages into one
+at a lower percentage, and in so doing pay off this formidable mortgagee,
+M. Louvier, who, I shrewdly suspect, is bent upon becoming the proprietor
+of Rochebriant.  Unfortunately those few portions of your land which were
+but lightly charged, and, lying contiguous to small proprietors, were
+coveted by them, and could be advantageously sold, are already gone to
+pay the debts of Monsieur the late Marquis.  There are, however, two
+small farms which, bordering close on the town of S_____, I think I could
+dispose of for building purposes at high rates; but these lands are
+covered by M. Louvier's general mortgage, and he has refused to release
+them, unless the whole debt be paid.  Were that debt therefore
+transferred to another mortgagee, we might stipulate for their exception,
+and in so doing secure a sum of more than 100,000 francs, which you could
+keep in reserve for a pressing or unforeseen occasion, and make the
+nucleus of a capital devoted to the gradual liquidation of the charges on
+the estate.  For with a little capital, Monsieur le Marquis, your rent-
+roll might be very greatly increased, the forests and orchards improved,
+those meadows round S_____  drained and irrigated.  Agriculture is
+beginning to be understood in Bretagne, and your estate would soon double
+its value in the hands of a spirited capitalist.  My advice to you,
+therefore, is to go to Paris, employ a good 'avoue,' practised in such
+branch of his profession, to negotiate the consolidation of your
+mortgages upon terms that will enable you to sell outlying portions,
+and so pay off the charge by instalments agreed upon; to see if some safe
+company or rich individual can be found to undertake for a term of years
+the management of your forests, the draining of the S_____  meadows, the
+superintendence of your fisheries, etc.  They, it is true, will
+monopolize the profits for many years,--perhaps twenty; but you are a
+young man: at the end of that time you will reenter on your estate with
+a rental so improved that the mortgages, now so awful, will seem to you
+comparatively trivial."
+
+In pursuance of this advice, the young Marquis had come to Paris
+fortified with a letter from M. Hebert to an 'avoue' of eminence, and
+with many letters from his aunt to the nobles of the Faubourg connected
+with his house.  Now one reason why M. Hebert had urged his client to
+undertake this important business in person, rather than volunteer his
+own services in Paris, was somewhat extra-professional.  He had a sincere
+and profound affection for Alain; he felt compassion for that young life
+so barrenly wasted in seclusion and severe privations; he respected, but
+was too practical a man of business to share, those chivalrous sentiments
+of loyalty to an exiled dynasty which disqualified the man for the age he
+lived in, and, if not greatly modified, would cut him off from the hopes
+and aspirations of his eager generation.  He thought plausibly enough
+that the air of the grand metropolis was necessary to the mental health,
+enfeebled and withering amidst the feudal mists of Bretagne; that once in
+Paris, Alain would imbibe the ideas of Paris, adapt himself to some
+career leading to honour and to fortune, for which he took facilities
+from his high birth, an historical name too national for any dynasty not
+to welcome among its adherents, and an intellect not yet sharpened by
+contact and competition with others, but in itself vigorous, habituated
+to thought, and vivified by the noble aspirations which belong to
+imaginative natures.
+
+At the least, Alain would be at Paris in the social position which would
+afford him the opportunities of a marriage, in which his birth and rank
+would be readily accepted as an equivalent to some ample fortune that
+would serve to redeem the endangered seigneuries.  He therefore warned
+Alain that the affair for which he went to Paris might be tedious, that
+lawyers were always slow, and advised him to calculate on remaining
+several months, perhaps a year; delicately suggesting that his rearing
+hitherto had been too secluded for his age and rank, and that a year at
+Paris, even if he failed in the object which took him there, would not be
+thrown away in the knowledge of men and things that would fit him better
+to grapple with his difficulties on his return.
+
+Alain divided his spare income between his aunt and himself, and had come
+to Paris resolutely determined to live within the L200 a year which
+remained to his share.  He felt the revolution in his whole being that
+commenced when out of sight of the petty principality in which he was the
+object of that feudal reverence, still surviving in the more unfrequented
+parts of Bretagne, for the representatives of illustrious names connected
+with the immemorial legends of the province.
+
+The very bustle of a railway, with its crowd and quickness and
+unceremonious democracy of travel, served to pain and confound and
+humiliate that sense of individual dignity in which he had been nurtured.
+He felt that, once away from Rochebriant, he was but a cipher in the sum
+of human beings.  Arrived at Paris, and reaching the gloomy hotel to
+which he had been recommended, he greeted even the desolation of that
+solitude which is usually so oppressive to a stranger in the metropolis
+of his native land.  Loneliness was better than the loss of self in the
+reek and pressure of an unfamiliar throng.  For the first few days he had
+wandered over Paris without calling even on the 'avoue' to whom M. Hebert
+had directed him.  He felt with the instinctive acuteness of a mind
+which, under sounder training, would have achieved no mean distinction,
+that it was a safe precaution to imbue himself with the atmosphere of the
+place, and seize on those general ideas which in great capitals are so
+contagious that they are often more accurately caught by the first
+impressions than by subsequent habit, before he brought his mind into
+collision with those of the individuals he had practically to deal with.
+
+At last he repaired to the 'avoue,' M. Gandrin, Rue St. Florentin.  He
+had mechanically formed his idea of the abode and person of an 'avoue'
+from his association with M. Hebert.  He expected to find a dull house in
+a dull street near the centre of business, remote from the haunts of
+idlers, and a grave man of unpretending exterior and matured years.
+
+He arrived at a hotel newly fronted, richly decorated, in the fashionable
+quartier close by the Tuileries.  He entered a wide 'porte cochere,' and
+was directed by the concierge to mount 'au premier.'  There, first
+detained in an office faultlessly neat, with spruce young men at smart
+desks, he was at length admitted into a noble salon, and into the
+presence of a gentleman lounging in an easy-chair before a magnificent
+bureau of 'marqueterie, genre Louis Seize,' engaged in patting a white
+curly lapdog, with a pointed nose and a shrill bark.
+
+The gentleman rose politely on his entrance, and released the dog, who,
+after sniffing the Marquis, condescended not to bite.
+
+"Monsieur le Marquis," said M. Gandrin, glancing at the card and the
+introductory note from M. Hebert, which Alain had sent in, and which lay
+on the 'secretaire' beside heaps of letters nicely arranged and labelled,
+"charmed to make the honour of your acquaintance; just arrived at Paris?
+So M. Hebert--a very worthy person whom I have never seen, but with whom
+I have had correspondence--tells me you wish for my advice; in fact, he
+wrote to me some days ago, mentioning the business in question,--
+consolidation of mortgages.  A very large sum wanted, Monsieur le
+Marquis, and not to be had easily."
+
+"Nevertheless," said Alain, quietly, "I should imagine that there must
+be many capitalists in Paris willing to invest in good securities at fair
+interest."
+
+"You are mistaken, Marquis; very few such capitalists.  Men worth money
+nowadays like quick returns and large profits, thanks to the magnificent
+system of 'Credit Mobilier,' in which, as you are aware, a man may place
+his money in any trade or speculation without liabilities beyond his
+share.  Capitalists are nearly all traders or speculators."
+
+"Then," said the Marquis, half rising, "I am to presume, sir, that you
+are not likely to assist me."
+
+"No, I don't say that, Marquis.  I will look with care into the matter.
+Doubtless you have with you an abstract of the, necessary documents, the
+conditions of the present mortgages, the rental of the estate, its
+probable prospects, and so forth."
+
+"Sir, I have such an abstract with me at Paris; and having gone into
+it myself with M. Hebert, I can pledge you my word that it is strictly
+faithful to the facts."
+
+The Marquis said this with naive simplicity, as if his word were quite
+sufficient to set that part of the question at rest.  M. Gandrin smiled
+politely and said, "'Eh bien,' M. le Marquis: favour me with the
+abstract; in a week's time you shall have my opinion.  You enjoy Paris?
+Greatly improved under the Emperor.  'Apropos,' Madame Gandrin receives
+tomorrow evening; allow me that opportunity to present you to her."
+Unprepared for the proffered hospitality, the Marquis had no option but
+to murmur his gratification and assent.
+
+In a minute more he was in the streets.  The next evening he went to
+Madame Gandrin's,--a brilliant reception,--a whole moving flower-bed of
+"decorations" there.  Having gone through the ceremony of presentation to
+Madame Gandrin,--a handsome woman dressed to perfection, and conversing
+with the secretary to an embassy,--the young noble ensconced himself in
+an obscure and quiet corner, observing all and imagining that he escaped
+observation.  And as the young men of his own years glided by him, or as
+their talk reached his ears, he became aware that from top to toe, within
+and without, he was old-fashioned, obsolete, not of his race, not of his
+day.  His rank itself seemed to him a waste-paper title-deed to a
+heritage long lapsed.  Not thus the princely seigneurs of Rochebriant
+made their 'debut' at the capital of their nation.  They had had the
+'entree' to the cabinets of their kings; they had glittered in the halls
+of Versailles; they had held high posts of distinction in court and camp;
+the great Order of St. Louis had seemed their hereditary appanage.  His
+father, though a voluntary exile in manhood, had been in childhood a
+king's page, and throughout life remained the associate of princes; and
+here, in an 'avoue's soiree,' unknown, unregarded, an expectant on an
+'avoue's' patronage, stood the last lord of Rochebriant.
+
+It is easy to conceive that Alain did not stay long.  But he stayed long
+enough to convince him that on L200 a year the polite society of Paris,
+even as seen at M. Gandrin's, was not for him.  Nevertheless, a day or
+two after, he resolved to call upon the nearest of his kinsmen to whom
+his aunt had given him letters.  With the Count de Vandemar, one of his
+fellow-nobles of the sacred Faubourg, he should be no less Rochebriant,
+whether in a garret or a palace.  The Vandemars, in fact, though for many
+generations before the First Revolution a puissant and brilliant family,
+had always recognized the Rochebriants as the head of their house,--the
+trunk from which they had been slipped in the fifteenth century, when a
+younger son of the Rochebriants married a wealthy heiress and took the
+title with the lands of Vandemar.
+
+Since then the two families had often intermarried.  The present count
+had a reputation for ability, was himself a large proprietor, and might
+furnish advice to guide Alain in his negotiations with M. Gandrin.  The
+Hotel do Vandemar stood facing the old Hotel de Rochebriant; it was less
+spacious, but not less venerable, gloomy, and prison-like.
+
+As he turned his eyes from the armorial scutcheon which still rested,
+though chipped and mouldering, over the portals of his lost ancestral
+house, and was about to cross the street, two young men, who seemed two
+or three years older than himself, emerged on horseback from the Hotel
+de Vandemar.
+
+Handsome young men, with the lofty look of the old race, dressed with the
+punctilious care of person which is not foppery in men of birth, but
+seems part of the self-respect that appertains to the old chivalric point
+of honour.  The horse of one of these cavaliers made a caracole which
+brought it nearly upon Alain as he was about to cross.  The rider,
+checking his steed, lifted his hat to Alain and uttered a word of apology
+in the courtesy of ancient high-breeding, but still with condescension as
+to an inferior.  This little incident, and the slighting kind of notice
+received from coevals of his own birth, and doubtless his own blood,--for
+he divined truly that they were the sons of the Count de Vandemar,--
+disconcerted Alain to a degree which perhaps a Frenchman alone can
+comprehend.  He had even half a mind to give up his visit and turn back.
+However, his native manhood prevailed over that morbid sensitiveness
+which, born out of the union of pride and poverty, has all the effects
+of vanity, and yet is not vanity itself.
+
+The Count was at home, a thin spare man with a narrow but high forehead,
+and an expression of countenance keen, severe, and 'un peu moqueuse.'
+
+He received the Marquis, however, at first with great cordiality,
+kissed him on both sides of his cheek, called him "cousin," expressed
+immeasurable regret that the Countess was gone out on one of the missions
+of charity in which the great ladies of the Faubourg religiously interest
+themselves, and that his sons had just ridden forth to the Bois.
+
+As Alain, however, proceeded, simply and without false shame,
+to communicate the object of his visit at Paris, the extent of his
+liabilities, and the penury of his means, the smile vanished from
+the Count's face.  He somewhat drew back his fauteuil in the movement
+common to men who wish to estrange themselves from some other man's
+difficulties; and when Alain came to a close, the Count remained some
+moments seized with a slight cough; and, gazing intently on the carpet,
+at length he said, "My dear young friend, your father behaved extremely
+ill to you,--dishonourably, fraudulently."
+
+"Hold!" said the Marquis, colouring high.  "Those are words no man can
+apply to my father in my presence."
+
+The Count stared, shrugged his shoulders, and replied with 'sang froid,'
+"Marquis, if you are contented with your father's conduct, of course it
+is no business of mine: he never injured me.  I presume, however, that,
+considering my years and my character, you come to me for advice: is it
+so?"
+
+Alain bowed his head in assent.
+
+"There are four courses for one in your position to take," said the
+Count, placing the index of the right hand successively on the thumb and
+three fingers of the left,--"four courses, and no more.
+
+"First.  To do as your notary recommended: consolidate your mortgages,
+patch up your income as you best can, return to Rochebriant, and devote
+the rest of your existence to the preservation of your property.  By that
+course your life will be one of permanent privation, severe struggle; and
+the probability is that you will not succeed: there will come one or two
+bad seasons, the farmers will fail to pay, the mortgagee will foreclose,
+and you may find yourself, after twenty years of anxiety and torment,
+prematurely old and without a sou.
+
+"Course the second.  Rochebriant, though so heavily encumbered as to
+yield you some such income as your father gave to his chef de cuisine,
+is still one of those superb 'terres' which bankers and Jews and stock-
+jobbers court and hunt after, for which they will give enormous sums.
+If you place it in good hands, I do not doubt that you could dispose
+of the property within three months, on terms that would leave you a
+considerable surplus, which, invested with judgment, would afford you
+whereon you could live at Paris in a way suitable to your rank and age.
+Need we go further?--does this course smile to you?"
+
+"Pass on, Count; I will defend to the last what I take from my ancestors,
+and cannot voluntarily sell their roof-tree and their tombs."
+
+"Your name would still remain, and you would be just as well received
+in Paris, and your 'noblesse' just as implicitly conceded, if all Judaea
+encamped upon Rochebriant.  Consider how few of us 'gentilshommes' of the
+old regime have any domains left to us.  Our names alone survive: no
+revolution can efface them."
+
+"It may be so, but pardon me; there are subjects on which we cannot
+reason,--we can but feel.  Rochebriant may be torn from me, but I cannot
+yield it."
+
+"I proceed to the third course.  Keep the chateau and give up its
+traditions; remain 'de facto' Marquis of Rochebriant, but accept the new
+order of things.  Make yourself known to the people in power.  They will
+be charmed to welcome you a convert from the old noblesse is a guarantee
+of stability to the new system.  You will be placed in diplomacy;
+effloresce into an ambassador, a minister,--and ministers nowadays
+have opportunities to become enormously rich."
+
+"That course is not less impossible than the last.  Till Henry V.
+formally resign his right to the throne of Saint Louis, I can be servant
+to no other man seated on that throne."
+
+"Such, too, is my creed," said the Count, "and I cling to it; but my
+estate is not mortgaged, and I have neither the tastes nor the age for
+public employments.  The last course is perhaps better than the rest; at
+all events it is the easiest.  A wealthy marriage; even if it must be a
+'mesalliance.'  I think at your age, with your appearance, that your name
+is worth at least two million francs in the eyes of a rich 'roturier'
+with an ambitious daughter."
+
+"Alas!" said the young man, rising, "I see I shall have to go back to
+Rochebriant.  I cannot sell my castle, I cannot sell my creed, and I
+cannot sell my name and myself."
+
+"The last all of us did in the old 'regime,' Marquis.  Though I still
+retain the title of Vandemar, my property comes from the Farmer-General's
+daughter, whom my great-grandfather, happily for us, married in the days
+of Louis Quinze.  Marriages with people of sense and rank have always
+been 'marriages de convenance' in France.  It is only in 'le petit monde'
+that men having nothing marry girls having nothing, and I don't believe
+they are a bit the happier for it.  On the contrary, the 'quarrels de
+menage' leading to frightful crimes appear by the 'Gazette des Tribunaux'
+to be chiefly found among those who do not sell themselves at the altar."
+
+The old Count said this with a grim 'persiflage.'  He was a Voltairian.
+
+Voltairianism, deserted by the modern Liberals of France, has its chief
+cultivation nowadays among the wits of the old 'regime.'  They pick up
+its light weapons on the battle-field on which their fathers perished,
+and re-feather against the 'canaille' the shafts which had been pointed
+against the 'noblesse.'
+
+"Adieu, Count," said Alain, rising; "I do not thank you less for your
+advice because I have not the wit to profit by it."
+
+"'Au revoir,' my cousin; you will think better of it when you have been
+a month or two at Paris.  By the way, my wife receives every Wednesday;
+consider our house yours."
+
+"Count, can I enter into the world which Madame la Comtesse receives, in
+the way that becomes my birth, on the income I take from my fortune?"
+
+The Count hesitated.  "No," said he at last, frankly; "not because you
+will be less welcome or less respected, but because I see that you have
+all the pride and sensitiveness of a 'seigneur de province.'  Society
+would therefore give you pain, not pleasure.  More than this, I know,
+by the remembrance of my own youth and the sad experience of my own
+sons, that you would be irresistibly led into debt, and debt in your
+circumstances would be the loss of Rochebriant.  No; I invite you to
+visit us.  I offer you the most select but not the most brilliant circles
+of Paris, because my wife is religious, and frightens away the birds of
+gay plumage with the scarecrows of priests and bishops.  But if you
+accept my invitation and my offer, I am bound, as an old man of the world
+to a young kinsman, to say that the chances are that you will be ruined."
+
+"I thank you, Count, for your candour; and I now acknowledge that I have
+found a relation and a guide," answered the Marquis, with nobility of
+mien that was not without a pathos which touched the hard heart of the
+old man.
+
+"Come at least whenever you want a sincere if a rude friend;" and though
+he did not kiss his cousin's cheek this time, he gave him, with more
+sincerity, a parting shake of the hand.
+
+And these made the principal events in Alain's Paris life till he met
+Frederic Lemercier.  Hitherto he had received no definite answer from
+M. Gandrin, who had postponed an interview, not having had leisure to
+make himself master of all the details in the abstract sent to him.
+
+
+
+
+CHAPTER IV.
+
+The next day, towards the afternoon, Frederic Lemercier, somewhat
+breathless from the rapidity at which he had ascended to so high an
+eminence, burst into Alain's chamber.
+
+"'Br-r!  mon cher;' what superb exercise for the health--how it must
+strengthen the muscles and expand the chest!  After this who should
+shrink from scaling Mont Blanc?  Well, well.  I have been meditating on
+your business ever since we parted.  But I would fain know more of its
+details.  You shall confide them to me as we drive through the Bois.  My
+coupe is below, and the day is beautiful; come."
+
+To the young Marquis, the gayety, the heartiness of his college friend
+were a cordial.  How different from the dry counsels of the Count de
+Vandemar!  Hope, though vaguely, entered into his heart.  Willingly he
+accepted Frederic's invitation, and the young men were soon rapidly borne
+along the Champs Elysees.  As briefly as he could Alain described the
+state of his affairs, the nature of his mortgages, and the result of his
+interview with M. Gandrin.
+
+Frederic listened attentively.  "Then Gandrin has given you as yet no
+answer?"
+
+"None; but I have a note from him this morning asking me to call
+to-morrow."
+
+"After you have seen him, decide on nothing,--if he makes you any offer.
+Get back your abstract, or a copy of it, and confide it to me.  Gandrin
+ought to help you; he transacts affairs in a large way.  'Belle
+clientele' among the millionnaires.  But his clients expect fabulous
+profits, and so does he.  As for your principal mortgagee, Louvier, you
+know, of course, who he is."
+
+"No, except that M. Hebert told me that he was very rich."
+
+"'Rich'  I should think so; one of the Kings of Finance, Ah! observe
+those young men on horseback."
+
+Alain looked forth and recognized the two cavaliers whom he had
+conjectured to be the sons of the Count de Vandemar.
+
+"Those 'beaux garcons' are fair specimens of your Faubourg," said
+Frederic; "they would decline my acquaintance because my grandfather kept
+a shop, and they keep a shop between them."
+
+"A shop!  I am mistaken, then.  Who are they?"
+
+"Raoul and Enguerrand, sons of that mocker of man, the Count de
+Vandemar."
+
+"And they keep a shop!  You are jesting."
+
+"A shop at which you may buy gloves and perfumes, Rue de la Chaussee
+d'Antin.  Of course they don't serve at the counter; they only invest
+their pocket-money in the speculation; and, in so doing, treble at least
+their pocket-money, buy their horses, and keep their grooms."
+
+"Is it possible! nobles of such birth!  How shocked the Count would be
+if he knew it!"
+
+"Yes, very much shocked if he was supposed to know it.  But he is too
+wise a father not to give his sons limited allowances and unlimited
+liberty, especially the liberty to add to the allowances as they please.
+Look again at them; no better riders and more affectionate brothers since
+the date of Castor and Pollux.  Their tastes indeed differ--Raoul is
+religious and moral, melancholy and dignified; Enguerrand is a lion of
+the first water,--elegant to the tips of his nails.  These demigods
+nevertheless are very mild to mortals.  Though Enguerrand is the best
+pistol-shot in Paris, and Raoul the best fencer, the first is so good-
+tempered that you would be a brute to quarrel with him, the last so true
+a Catholic, that if you quarrelled with him you need not fear his sword.
+He would not die in the committal of what the Church holds a mortal sin."
+
+"Are you speaking ironically?  Do you mean to imply that men of the name
+of Vandemar are not brave?"
+
+On the contrary, I believe that, though masters of their weapons, they
+are too brave to abuse their skill; and I must add that, though they are
+sleeping partners in a shop, they would not cheat you of a farthing.
+Benign stars on earth, as Castor and Pollux were in heaven."
+
+"But partners in a shop!"
+
+"Bah! when a minister himself, like the late M. de M______, kept a shop,
+and added the profits of 'bons bons' to his revenue, you may form some
+idea of the spirit of the age.  If young nobles are not generally
+sleeping partners in shops, still they are more or less adventurers in
+commerce.  The Bourse is the profession of those who have no other
+profession.  You have visited the Bourse?"
+
+"No."
+
+"No! this is just the hour.  We have time yet for the Bois.  Coachman,
+drive to the Bourse."
+
+"The fact is," resumed Frederic, "that gambling is one of the wants of
+civilized men.  The 'rouge-et-noir' and 'roulette' tables are forbidden;
+the hells closed: but the passion for making money without working for it
+must have its vent, and that vent is the Bourse.  As instead of a hundred
+wax-lights you now have one jet of gas, so instead of a hundred hells you
+have now one Bourse, and--it is exceedingly convenient; always at hand;
+no discredit being seen there as it was to be seen at Frascati's; on the
+contrary, at once respectable, and yet the mode."
+
+The coupe stops at the Bourse, our friends mount the steps, glide through
+the pillars, deposit their canes at a place destined to guard them, and
+the Marquis follows Frederic up a flight of stairs till he gains the open
+gallery round a vast hall below.  Such a din! such a clamour!
+disputations, wrangling, wrathful.
+
+Here Lemercier distinguished some friends, whom he joined for a few
+minutes.
+
+Alain left alone, looked down into the hall.  He thought himself in some
+stormy scene of the First Revolution.  An English contested election in
+the market-place of a borough when the candidates are running close on
+each other--the result doubtful, passions excited, the whole borough in
+civil war--is peaceful compared to the scene at the Bourse.
+
+Bulls and bears screaming, bawling, gesticulating, as if one were about
+to strangle the other; the whole, to an uninitiated eye, a confusion, a
+Babel, which it seems absolutely impossible to reconcile to the notion of
+quiet mercantile transactions, the purchase and sale of shares and
+stocks.  As Alain gazed bewildered, he felt himself gently touched, and,
+looking round, saw the Englishman.
+
+"A lively scene!" whispered Mr. Vane.  "This is the heart of Paris: it
+beats very loudly."
+
+"Is your Bourse in London like this?"
+
+"I cannot tell you: at our Exchange the general public are not admitted:
+the privileged priests of that temple sacrifice their victims in closed
+penetralia, beyond which the sounds made in the operation do not travel
+to ears profane.  But had we an Exchange like this open to all the world,
+and placed, not in a region of our metropolis unknown to fashion, but in
+some elegant square in St. James's or at Hyde Park Corner, I suspect that
+our national character would soon undergo a great change, and that all
+our idlers and sporting-men would make their books there every day,
+instead of waiting long months in 'ennui' for the Doncaster and the
+Derby.  At present we have but few men on the turf; we should then have
+few men not on Exchange, especially if we adopt your law, and can
+contrive to be traders without risk of becoming bankrupts.  Napoleon I.
+called us a shopkeeping nation.  Napoleon III. has taught France to excel
+us in everything, and certainly he has made Paris a shopkeeping city."
+
+Alain thought of Raoul and Enguerrand, and blushed to find that what he
+considered a blot on his countrymen was so familiarly perceptible to a
+foreigner's eye.
+
+"And the Emperor has done wisely, at least for the time," continued the
+Englishman, with a more thoughtful accent.  "He has found vent thus for
+that very dangerous class in Paris society to which the subdivision of
+property gave birth; namely the crowd of well-born, daring young men
+without fortune and without profession.  He has opened the 'Bourse' and
+said, 'There, I give you employment, resource, an 'avenir.''  He has
+cleared the byways into commerce and trade, and opened new avenues of
+wealth to the noblesse, whom the great Revolution so unwisely beggared.
+What other way to rebuild a 'noblesse' in France, and give it a chance
+of power be side an access to fortune? But to how many sides of your
+national character has the Bourse of Paris magnetic attraction!  You
+Frenchmen are so brave that you could not be happy without facing
+danger, so covetous of distinction that you would pine yourselves away
+without a dash, coute quo coute, at celebrity and a red ribbon.  Danger!
+look below at that arena: there it is; danger daily, hourly.  But there
+also is celebrity; win at the Bourse, as of old in a tournament, and
+paladins smile on you, and ladies give you their scarves, or, what is
+much the same, they allow you to buy their cachemires.  Win at the
+Bourse,--what follows?  the Chamber, the Senate, the Cross, the
+Minister's 'portefeuille.'  I might rejoice in all this for the sake of
+Europe,--could it last, and did it not bring the consequences that
+follow the demoralization which attends it.  The Bourse and the Credit
+Mobilier keep Paris quiet, at least as quiet as it can be. These are the
+secrets of this reign of splendour; these the two lions couchants on
+which rests the throne of the Imperial reconstructor."
+
+Alain listened surprised and struck.  He had not given the Englishman
+credit for the cast of mind which such reflections evinced.
+
+Here Lemercier rejoined them, and shook hands with Graham Vane, who,
+taking him aside, said, "But you promised to go to the Bois, and indulge
+my insane curiosity about the lady in the pearl-coloured robe?"
+
+"I have not forgotten; it is not half-past two yet; you said three.
+'Soyez tranquille;' I drive thither from the Bourse with Rochebriant."
+
+"Is it necessary to take with you that very good-looking Marquis?"
+
+"I thought you said you were not jealous, because not yet in love.
+However, if Rochebriant occasions you the pang which your humble servant
+failed to inflict, I will take care that he do not see the lady."
+
+"No," said the Englishman; "on consideration, I should be very much
+obliged to any one with whom she would fall in love.  That would
+disenchant me.  Take the Marquis by all means."
+
+Meanwhile Alain, again looking down, saw just under him, close by one
+of the pillars, Lucien Duplessis.  He was standing apart from the throng,
+a small space cleared round himself, and two men who had the air of
+gentlemen of the 'beau monde,' with whom he was conferring.  Duplessis,
+thus seen, was not like the Duplessis at the restaurant.  It would be
+difficult to explain what the change was, but it forcibly struck Alain:
+the air was more dignified, the expression keener; there was a look of
+conscious power and command about the man even at that distance; the
+intense, concentrated intelligence of his eye, his firm lip, his marked
+features, his projecting, massive brow, would have impressed a very
+ordinary observer.  In fact, the man was here in his native element; in
+the field in which his intellect gloried, commanded, and had signalized
+itself by successive triumphs.  Just thus may be the change in the great
+orator whom you deemed insignificant in a drawing-room, when you see his
+crest rise above a reverential audience; or the great soldier, who was
+not distinguishable from the subaltern in a peaceful club, could you see
+him issuing the order to his aids-de-camp amidst the smoke and roar of
+the battle-field.
+
+"Ah, Marquis!" said Graham Vane, "are you gazing at Duplessis?  He is the
+modern genius of Paris.  He is at once the Cousin, the Guizot, and the
+Victor Hugo of speculation.  Philosophy, Eloquence, audacious Romance,--
+all Literature now is swallowed up in the sublime epic of 'Agiotage,' and
+Duplessis is the poet of the Empire."
+
+"Well said, M. Grarm Varn," cried Frederic, forgetting his recent lesson
+in English names.  "Alain underrates that great man.  How could an
+Englishman appreciate him so well?"
+
+"'Ma foi!'" returned Graham, quietly.  "I am studying to think at Paris,
+in order some day or other to know how to act in London.  Time for the
+Bois.  Lemercier, we meet at seven,--Philippe's."
+
+
+
+
+CHAPTER V.
+
+"What do you think of the Bourse?" asked Lemercier, as their carriage
+took the way to the Bois.
+
+"I cannot think of it yet; I am stunned.  It seems to me as if I had been
+at a 'Sabbat,' of which the wizards were 'agents de change,' but not less
+bent upon raising Satan."
+
+"Pooh!  the best way to exorcise Satan is to get rich enough not to be
+tempted by him.  The fiend always loved to haunt empty places; and of all
+places nowadays he prefers empty purses and empty stomachs."
+
+"But do all people get rich at the Bourse? or is not one man's wealth
+many men's ruin?"
+
+"That is a question not very easy to answer; but under our present system
+Paris gets rich, though at the expense of individual Parisians.  I will
+try and explain.  The average luxury is enormously increased even in my
+experience; what were once considered refinements and fopperies are now
+called necessary comforts.  Prices are risen enormously, house-rent
+doubled within the last five or six years; all articles of luxury are
+very much dearer; the very gloves I wear cost twenty per cent more than I
+used to pay for gloves of the same quality.  How the people we meet live,
+and live so well, is an enigma that would defy AEdipus if AEdipus were
+not a Parisian.  But the main explanation is this: speculation and
+commerce, with the facilities given to all investments, have really
+opened more numerous and more rapid ways to fortune than were known a few
+years ago.
+
+"Crowds are thus attracted to Paris, resolved to venture a small capital
+in the hope of a large one; they live on that capital, not on their
+income, as gamesters do.  There is an idea among us that it is necessary
+to seem rich in order to become rich.  Thus there is a general
+extravagance and profusion.  English milords marvel at our splendour.
+Those who, while spending their capital as their income, fail in their
+schemes of fortune, after one, two, three, or four years, vanish.  What
+becomes of them, I know no more than I do what becomes of the old moons.
+Their place is immediately supplied by new candidates.  Paris is thus
+kept perennially sumptuous and splendid by the gold it engulfs.  But then
+some men succeed,--succeed prodigiously, preternaturally; they make
+colossal fortunes, which are magnificently expended.  They set an example
+of show and pomp, which is of course the more contagious because so many
+men say, 'The other day those millionnaires were as poor as we are; they
+never economized; why should we?'  Paris is thus doubly enriched,--by the
+fortunes it swallows up, and by the fortunes it casts up; the last being
+always reproductive, and the first never lost except to the individuals."
+
+"I understand: but what struck me forcibly at the scene we have left was
+the number of young men there; young men whom I should judge by their
+appearance to be gentlemen, evidently not mere spectators,--eager,
+anxious, with tablets in their hands.  That old or middle-aged men should
+find a zest in the pursuit of gain I can understand, but youth and
+avarice seem to me a new combination, which Moliere never divined in his
+'Avare.'"
+
+"Young men, especially if young gentlemen, love pleasure; and pleasure in
+this city is very dear.  This explains why so many young men frequent the
+Bourse.  In the old gaining now suppressed, young men were the majority;
+in the days of your chivalrous forefathers it was the young nobles, not
+the old, who would stake their very mantles and swords on a cast of the
+die.  And, naturally enough, _mon cher_; for is not youth the season of
+hope, and is not hope the goddess of gaming, whether at _rouge-et-noir_
+or the Bourse?"
+
+Alain felt himself more and more behind his generation.  The acute
+reasoning of Lemercier humbled his _amour propre_.  At college Lemercier
+was never considered Alain's equal in ability or book-learning.  What a
+stride beyond his school-fellow had Lemercier now made!  How dull and
+stupid the young provincial felt himself to be as compared with the easy
+cleverness and half-sportive philosophy of the Parisian's fluent talk!
+
+He sighed with a melancholy and yet with a generous envy.  He had too
+fine a natural perception not to acknowledge that there is a rank of mind
+as well as of birth, and in the first he felt that Lemercier might well
+walk before a Rochebriant; but his very humility was a proof that he
+underrated himself.
+
+Lemercier did not excel him in mind, but in experience.  And just as the
+drilled soldier seems a much finer fellow than the raw recruit, because
+he knows how to carry himself, but after a year's discipline the raw
+recruit may excel in martial air the upright hero whom he now
+despairingly admires, and never dreams he can rival; so set a mind from a
+village into the drill of a capital, and see it a year after; it may
+tower a head higher than its recruiting-sergeant.
+
+
+
+
+CHAPTER VI.
+
+"I believe," said Lemercier, as the _coupe_ rolled through the lively
+alleys of the Bois de Boulogne, "that Paris is built on a loadstone, and
+that every Frenchman with some iron globules in his blood is irresistibly
+attracted towards it.  The English never seem to feel for London the
+passionate devotion that we feel for Paris.  On the contrary, the London
+middle class, the commercialists, the shopkeepers, the clerks, even the
+superior artisans compelled to do their business in the capital, seem
+always scheming and pining to have their home out of it, though but in a
+suburb."
+
+"You have been in London, Frederic?"
+
+"Of course; it is the mode to visit that dull and hideous metropolis."
+
+"If it be dull and hideous, no wonder the people who are compelled to do
+business in it seek the pleasures of home out of it."
+
+"It is very droll that though the middle class entirely govern the
+melancholy Albion, it is the only country in Europe in which the middle
+class seem to have no amusements; nay, they legislate against amusement.
+They have no leisure-day but Sunday; and on that day they close all their
+theatres, even their museums and picture-galleries.  What amusements
+there may be in England are for the higher classes and the lowest."
+
+"What are the amusements of the lowest class?"
+
+"Getting drunk."
+
+"Nothing else?"
+
+"Yes.  I was taken at night under protection of a policeman to some
+cabarets, where I found crowds of that class which is the stratum below
+the working class; lads who sweep crossings and hold horses, mendicants,
+and, I was told, thieves, girls whom a servant-maid would not speak to,
+very merry, dancing quadrilles and waltzes, and regaling themselves on
+sausages,--the happiest-looking folks I found in all London; and, I must
+say, conducting themselves very decently."
+
+"Ah!" Here Lemercier pulled the check-string.  "Will you object to a walk
+in this quiet alley?  I see some one whom I have promised the Englishman
+to--But heed me, Alain, don't fall in love with her."
+
+
+
+
+CHAPTER VII.
+
+The lady in the pearl-coloured dress!  Certainly it was a face that might
+well arrest the eye and linger long on the remembrance.
+
+There are certain "beauty-women" as there are certain "beauty-men," in
+whose features one detects no fault, who are the show figures of any
+assembly in which they appear, but who, somehow or other, inspire no
+sentiment and excite no interest; they lack some expression, whether of
+mind, or of soul, or of heart, without which the most beautiful face is
+but a beautiful picture.  This lady was not one of those "beauty-women."
+Her features taken singly were by no means perfect, nor were they set off
+by any brilliancy of colouring.  But the countenance aroused and
+impressed the imagination with a belief that there was some history
+attached to it, which you longed to learn.  The hair, simply parted over
+a forehead unusually spacious and high for a woman, was of lustrous
+darkness; the eyes, of a deep violet blue, were shaded with long lashes.
+
+Their expression was soft and mournful, but unobservant.  She did not
+notice Alain and Lemercier as the two men slowly passed her.  She seemed
+abstracted, gazing into space as one absorbed in thought or revery.  Her
+complexion was clear and pale, and apparently betokened delicate health.
+
+Lemercier seated himself on a bench beside the path, and invited Alain to
+do the same.  "She will return this way soon," said the Parisian, "and we
+can observe her more attentively and more respectfully thus seated than
+if we were on foot; meanwhile, what do you think of her?  Is she French?
+is she Italian? can she be English?"
+
+"I should have guessed Italian, judging by the darkness of the hair and
+the outline of the features; but do Italians have so delicate a fairness
+of complexion?"
+
+"Very rarely; and I should guess her to be French, judging by the
+intelligence of her expression, the simple neatness of her dress, and by
+that nameless refinement of air in which a Parisienne excels all the
+descendants of Eve,--if it were not for her eyes.  I never saw a
+Frenchwoman with eyes of that peculiar shade of blue; and if a
+Frenchwoman had such eyes, I flatter myself she would have scarcely
+allowed us to pass without making some use of them."
+
+"Do you think she is married?" asked Alain.
+
+"I hope so; for a girl of her age, if _comme il faut_, can scarcely walk
+alone in the Bois, and would not have acquired that look so intelligent,
+--more than intelligent,--so poetic."
+
+"But regard that air of unmistakable distinction; regard that expression
+of face,-so pure, so virginal: _comme il faut_ she must be."
+
+As Alain said these last words, the lady, who had turned back, was
+approaching them, and in full view of their gaze.  She seemed unconscious
+of their existence as before, and Lemercier noticed that her lips moved
+as if she were murmuring inaudibly to herself.
+
+She did not return again, but continued her walk straight on till at the
+end of the alley she entered a carriage in waiting for her, and was
+driven off.
+
+"Quick, quick!" cried Lemercier, running towards his own coupe; "we must
+give chase."
+
+Alain followed somewhat less hurriedly, and, agreeably to instructions
+Lemercier had already given to his coachman, the Parisian's coupe set off
+at full speed in the track of the strange lady's, which was still in
+sight.
+
+In less than twenty minutes the carriage in chase stopped at the grille
+of one of those charming little villas to be found in the pleasant suburb
+of A-----; a porter emerged from the lodge, opened the gate; the carriage
+drove in, again stopped at the door of the house, and the two gentlemen
+could not catch even a glimpse of the lady's robe as she descended from
+the carriage and disappeared within the house.
+
+"I see a cafe yonder," said Lemercier; "let us learn all we can as to the
+fair unknown, over a _sorbet_ or a _petit verre_."  Alain silently, but
+not reluctantly, consented.  He felt in the fair stranger an interest new
+to his existence.
+
+They entered the little cafe, and in a few minutes Lemercier, with the
+easy _savoir vivre_ of a Parisian, had extracted from the _garcon_ as
+much as probably any one in the neighbourhood knew of the inhabitants of
+the villa.
+
+It had been hired and furnished about two months previously in the name
+of Signora Venosta; but, according to the report of the servants, that
+lady appeared to be the gouvernante or guardian of a lady much younger,
+out of whose income the villa was rented and the household maintained.
+
+It was for her the _coupe_ was hired from Paris.  The elder lady very
+rarely stirred out during the day, but always accompanied the younger in
+any evening visits to the theatre or the houses of friends.
+
+It was only within the last few weeks that such visits had been made.
+
+The younger lady was in delicate health, and under the care of an English
+physician famous for skill in the treatment of pulmonary complaints.  It
+was by his advice that she took daily walking exercise in the Bois.  The
+establishment consisted of three servants, all Italians, and speaking but
+imperfect French.  The _garcon_ did not know whether either of the ladies
+was married, but their mode of life was free from all scandal or
+suspicion; they probably belonged to the literary or musical world, as
+the _garcon_ had observed as their visitors the eminent author M. Savarin
+and his wife; and, still more frequently, an old man not less eminent as
+a musical composer.
+
+"It is clear to me now," said Lemercier, as the two friends reseated
+themselves in the carriage, "that our pearly _ange_ is some Italian
+singer of repute enough in her own country to have gained already a
+competence; and that, perhaps on account of her own health or her
+friend's, she is living quietly here in the expectation of some
+professional engagement, or the absence of some foreign lover."
+
+"Lover! do you think that?" exclaimed Alain, in a tone of voice that
+betrayed pain.
+
+"It is possible enough; and in that case the Englishman may profit little
+by the information I have promised to give him."
+
+"You have promised the Englishman?"
+
+"Do you not remember last night that he described the lady, and said that
+her face haunted him: and I--"
+
+"Ah! I remember now.  What do you know of this Englishman?  He is rich, I
+suppose."
+
+"Yes, I hear he is very rich now; that an uncle lately left him an
+enormous sum of money.  He was attached to the English Embassy many years
+ago, which accounts for his good French and his knowledge of Parisian
+life.  He comes to Paris very often, and I have known him some time.
+Indeed he has intrusted to me a difficult and delicate commission.  The
+English tell me that his father was one of the most eminent members of
+their Parliament, of ancient birth, very highly connected, but ran out
+his fortune and died poor; that our friend had for some years to maintain
+himself, I fancy, by his pen; that he is considered very able; and, now
+that his uncle has enriched him, likely to enter public life and run a
+career as distinguished as his father's."
+
+"Happy man! happy are the English," said the Marquis, with a sigh; and as
+the carriage now entered Paris, he pleaded the excuse of an engagement,
+bade his friend goodby, and went his way musing through the crowded
+streets.
+
+
+
+
+CHAPTER VIII.
+
+LETTER FROM ISAURA CICOGNA TO MADAME DE GRANTMESNIL.
+
+                                                 VILLA D'-----, A------.
+
+I can never express to you, my beloved Eulalie, the strange charm which a
+letter from you throws over my poor little lonely world for days after it
+is received.  There is always in it something that comforts, something
+that sustains, but also a something that troubles and disquiets me.  I
+suppose Goethe is right, "that it is the property of true genius to
+disturb all settled ideas," in order, no doubt, to lift them into a
+higher level when they settle down again.
+
+Your sketch of the new work you are meditating amid the orange groves of
+Provence interests me intensely; yet, do you forgive me when I add that
+the interest is not without terror?  I do not find myself able to
+comprehend how, amid those lovely scenes of Nature, your mind voluntarily
+surrounds itself with images of pain and discord.  I stand in awe of the
+calm with which you subject to your analysis the infirmities of reason
+and the tumults of passion.  And all those laws of the social state which
+seem to me so fixed and immovable you treat with so quiet a scorn, as if
+they were but the gossamer threads which a touch of your slight woman's
+hand could brush away.  But I cannot venture to discuss such subjects
+with you.  It is only the skilled enchanter who can stand safely in the
+magic circle, and compel the spirits that he summons, even if they are
+evil, to minister to ends in which he foresees a good.
+
+We continue to live here very quietly, and I do not as yet feel the worse
+for the colder climate.  Indeed, my wonderful doctor, who was recommended
+to me as American, but is in reality English, assures me that a single
+winter spent here under his care will suffice for my complete
+re-establishment.  Yet that career, to the training for which so many
+years have been devoted, does not seem to me so alluring as it once did.
+
+I have much to say on this subject, which I defer till I can better
+collect my own thoughts on it; at present they are confused and
+struggling.  The great Maestro has been most gracious.
+
+In what a radiant atmosphere his genius lives and breathes!  Even in his
+cynical moods, his very cynicism has in it the ring of a jocund music,--
+the laugh of Figaro, not of Mephistopheles.
+
+We went to dine with him last week.  He invited to meet us Madame S-----,
+who has this year conquered all opposition, and reigns alone, the great
+S-----; Mr. T--------, a pianist of admirable promise; your friend
+M. Savarin, wit, critic, and poet, with his pleasant, sensible wife;
+and a few others, who, the Maestro confided to me in a whisper, were
+authorities in the press.  After dinner S----- sang to us, magnificently,
+of course.  Then she herself graciously turned to me, said how much she
+had heard from the Maestro in my praise, and so and so.  I was persuaded
+to sing after her.  I need not say to what disadvantage.  But I forgot my
+nervousness; I forgot my audience; I forgot myself, as I always do when
+once my soul, as it were, finds wing in music, and buoys itself in the
+air, relieved from the sense of earth.  I knew not that I had succeeded
+till I came to a close, and then my eyes resting on the face of the grand
+prima donna, I was seized with an indescribable sadness, with a keen pang
+of remorse.  Perfect artiste though she be, and with powers in her own
+realm of art which admit of no living equal, I saw at once that I had
+pained her: she had grown almost livid; her lips were quivering, and it
+was only with a great effort that she muttered out some faint words
+intended for applause.  I comprehended by an instinct how gradually there
+can grow upon the mind of an artist the most generous that jealousy which
+makes the fear of a rival annihilate the delight in art.  If ever I
+should achieve S-----'s fame as a singer, should I feel the same.
+jealousy?--I think not now, but I have not been tested.  She went away
+abruptly.  I spare you the recital of the compliments paid to me by my
+other auditors, compliments that gave me no pleasure; for on all lips,
+except those of the Maestro, they implied, as the height of eulogy, that
+I had inflicted torture upon S-----.  "If so," said he, "she would be as
+foolish as a rose that was jealous of the whiteness of a lily.  You would
+do yourself great wrong, my child, if you tried to vie with the rose in
+its own colour."
+
+He patted my bended head as he spoke, with that kind of fatherly
+king-like fondness with which he honours me; and I took his hand in mine,
+and kissed it gratefully.  "Nevertheless," said Savarin, "when the lily
+comes out there will be a furious attack on it, made by the clique that
+devotes itself to the rose: a lily clique will be formed en revanche, and
+I foresee a fierce paper war.  Do not be frightened at its first
+outburst: every fame worth having must be fought for."
+
+Is it so? have you had to fight for your fame, Eulalie?  and do you hate
+all contests as much as I do?
+
+Our only other gayety since I last wrote was a soiree at M. Louvier's.
+That republican millionaire was not slow in attending to the kind letter
+you addressed to him recommending us to his civilities.  He called at
+once, placed his good offices at our disposal, took charge of my modest
+fortune, which he has invested, no doubt, as safely as it is
+advantageously in point of interest, hired our carriage for us, and in
+short has been most amiably useful.
+
+At his house we met many to me most pleasant, for they spoke with such
+genuine appreciation of your works and yourself.  But there were others
+whom I should never have expected to meet under the roof of a Croesus who
+has so great a stake in the order of things established.  One young man--
+a noble whom he specially presented to me, as a politician who would be
+at the head of affairs when the Red Republic was established--asked me
+whether I did not agree with him that all private property was public
+spoliation, and that the great enemy to civilization was religion, no
+matter in what form.
+
+He addressed to me these tremendous questions with an effeminate lisp,
+and harangued on them with small feeble gesticulations of pale dirty
+fingers covered with rings.
+
+I asked him if there were many who in France shared his ideas.
+
+"Quite enough to carry them some day," he answered with a lofty smile.
+"And the day may be nearer than the world thinks, when my confreres will
+be so numerous that they will have to shoot down each other for the sake
+of cheese to their bread."
+
+That day nearer than the world thinks!  Certainly, so far as one may
+judge the outward signs of the world at Paris, it does not think of such
+things at all.  With what an air of self-content the beautiful city
+parades her riches!  Who can gaze on her splendid palaces, her gorgeous
+shops, and believe that she will give ear to doctrines that would
+annihilate private rights of property; or who can enter her crowded
+churches, and dream that she can ever again install a republic too
+civilized for religion?
+
+Adieu.  Excuse me for this dull letter.  If I have written on much that
+has little interest even for me, it is that I wish to distract my mind
+from brooding over the question that interests me most, and on which I
+most need your counsel.  I will try to approach it in my next.
+
+                                                 ISAURA.
+
+
+
+FROM THE SAME TO THE SAME.
+
+Eulalie, Eulalie!--What mocking spirit has been permitted in this modern
+age of ours to place in the heart of woman the ambition which is the
+prerogative of men?  You indeed, so richly endowed with a man's genius,
+have a right to man's aspirations.  But what can justify such ambition in
+me?  Nothing but this one unintellectual perishable gift of a voice that
+does but please in uttering the thoughts of others.  Doubtless I could
+make a name familiar for its brief time to the talk of Europe,--a name,
+what name? a singer's name.  Once I thought that name a glory.  Shall I
+ever forget the day when you first shone upon me; when, emerging from
+childhood as from a dim and solitary bypath, I stood forlorn on the great
+thoroughfare of life, and all the prospects before me stretched sad in
+mists and in rain?  You beamed on me then as the sun coming out from the
+cloud and changing the face of earth; you opened to my sight the fairy-
+land of poetry and art; you took me by the hand and said, "Courage!
+there is at each step some green gap in the hedgerows, some, soft escape
+from the stony thoroughfare.  Beside the real life expands the ideal life
+to those who seek it.  Droop not, seek it: the ideal life has its
+sorrows, but it never admits despair; as on the ear of him who follows
+the winding course of a stream, the stream ever varies the note of its
+music,--now loud with the rush of the falls; now low and calm as it
+glides by the level marge of smooth banks; now sighing through the stir
+of the reeds; now babbling with a fretful joy as some sudden curve on the
+shore stays its flight among gleaming pebbles,--so to the soul of the
+artist is the voice of the art ever fleeting beside and before him.
+Nature gave thee the bird's gift of song: raise the gift into art, and
+make the art thy companion.
+
+"Art and Hope were twin-born, and they die together."  See how faithfully
+I remember, methinks, your very words.  But the magic of the words, which
+I then but dimly understood, was in your smile and in your eye, and the
+queen-like wave of your hand as if beckoning to a world which lay before
+you, visible and familiar as your native land.  And how devotedly, with
+what earnestness of passion, I gave myself up to the task of raising my
+gift into an art!  I thought of nothing else, dreamed of nothing else;
+and oh, now sweet to me then were words of praise!  "Another year yet,"
+at length said the masters, "and you ascend your throne among the queens
+of song."  Then--then--I would have changed for no other throne on earth
+my hope of that to be achieved in the realms of my art.  And then came
+that long fever: my strength broke down, and the Maestro said, "Rest, or
+your voice is gone, and your throne is lost forever."  How hateful that
+rest seemed to me!  You again came to my aid.  You said, "The time you
+think lost should be but time improved.  Penetrate your mind with other
+songs than the trash of Libretti.  The more you habituate yourself to the
+forms, the more you imbue yourself with the spirit, in which passions
+have been expressed and character delineated by great writers, the more
+completely you will accomplish yourself in your own special art of singer
+and actress."  So, then, you allured me to a new study.  Ah! in so doing
+did you dream that you diverted me from the old ambition?  My knowledge
+of French and Italian, and my rearing in childhood, which had made
+English familiar to me, gave me the keys to the treasure-houses of three
+languages.  Naturally I began with that in which your masterpieces are
+composed.  Till then I had not even read your works.  They were the first
+I chose.  How they impressed, how they startled me! what depths in the
+mind of man, in the heart of woman, they revealed to me!  But I owned to
+you then, and I repeat it now, neither they nor any of the works in
+romance and poetry which form the boast of recent French literature
+satisfied yearnings for that calm sense of beauty, that divine joy in a
+world beyond this world, which you had led me to believe it was the
+prerogative of ideal art to bestow.  And when I told you this with the
+rude frankness you had bid me exercise in talk with you, a thoughtful,
+melancholy shade fell over your face, and you said quietly, "You are
+right, child; we, the French of our time, are the offspring of
+revolutions that settled nothing, unsettled all: we resemble those
+troubled States which rush into war abroad in order to re-establish peace
+at home.  Our books suggest problems to men for reconstructing some
+social system in which the calm that belongs to art may be found at last:
+but such books should not be in your hands; they are not for the
+innocence and youth of women as yet unchanged by the systems which
+exist."  And the next day you brought me 'l'asso's great poem, the
+"Gerusalemme Liberata," and said, smiling, "Art in its calm is here."
+
+You remember that I was then at Sorrento by the order of my physician.
+Never shall I forget the soft autumn day when I sat amongst the lonely
+rocklets to the left of the town,--the sea before me, with scarce a
+ripple; my very heart steeped in the melodies of that poem, so marvellous
+for a strength disguised in sweetness, and for a symmetry in which each
+proportion blends into the other with the perfectness of a Grecian
+statue.  The whole place seemed to me filled with the presence of the
+poet to whom it had given birth.  Certainly the reading of that poem
+formed an era in my existence: to this day I cannot acknowledge the
+faults or weaknesses which your criticisms pointed out; I believe because
+they are in unison with my own nature, which yearns for harmony, and,
+finding that, rests contented.  I shrink from violent contrasts, and can
+discover nothing tame and insipid in a continuance of sweetness and
+serenity.  But it was not till after I had read "La Gerusalemme" again
+and again, and then sat and brooded over it, that I recognized the main
+charm of the poem in the religion which clings to it as the perfume
+clings to a flower,--a religion sometimes melancholy, but never to me
+sad.  Hope always pervades it.  Surely if, as you said, "Hope is twin-
+born with art," it is because art at its highest blends itself
+unconsciously with religion, and proclaims its affinity with hope by its
+faith in some future good more perfect than it has realized in the past.
+
+Be this as it may, it was in this poem so pre-eminently Christian that I
+found the something which I missed and craved for in modern French
+masterpieces; even yours,--a something spiritual, speaking to my own
+soul, calling it forth; distinguishing it as an essence apart from mere
+human reason; soothing, even when it excited; making earth nearer to
+heaven.  And when I ran on in this strain to you after my own wild
+fashion, you took my head between your hands and kissed me, and said,
+"Happy are those who believe! long may that happiness be thine!"  Why did
+I not feel in Dante the Christian charm that I felt in Tasso?  Dante in
+your eyes, as in those of most judges, is infinitely the greater genius;
+but reflected on the dark stream of that genius the stars are so
+troubled, the heaven so threatening.
+
+Just as my year of holiday was expiring, I turned to English literature;
+and Shakspeare, of course, was the first English poet put into my hands.
+It proves how childlike my mind still was, that my earliest sensation in
+reading him was that of disappointment.  It was not only that, despite my
+familiarity with English (thanks chiefly to the care of him whom I call
+my second father), there is much in the metaphorical diction of
+Shakspeare which I failed to comprehend; but he seemed to me so far like
+the modern French writers who affect to have found inspiration in his
+muse, that he obtrudes images of pain and suffering without cause or
+motive sufficiently clear to ordinary understandings, as I had taught
+myself to think it ought to be in the drama.
+
+He makes Fate so cruel that we lose sight of the mild deity behind her.
+Compare, in this, Corneille's "Polyeucte," with the "Hamlet."  In the
+first an equal calamity befalls the good, but in their calamity they are
+blessed.  The death of the martyr is the triumph of his creed.  But when
+we have put down the English tragedy,--when Hamlet and Ophelia are
+confounded in death with Polonius and the fratricidal king, we see not
+what good end for humanity is achieved.  The passages that fasten on our
+memory do not make us happier and holier: they suggest but terrible
+problems, to which they give us no solution.
+
+In the "Horaces" of Corneille there are fierce contests, rude passions,
+tears drawn from some of the bitterest sources of human pity; but then
+through all stands out, large and visible to the eyes of all spectators,
+the great ideal of devoted patriotism.  How much of all that has been
+grandest in the life of France, redeeming even its worst crimes of
+revolution in the love of country, has had its origin in the "Horaces" of
+Corneille.  But I doubt if the fates of Coriolanus and Caesar and Brutus
+and Antony, in the giant tragedies of Shakspeare, have made Englishmen
+more willing to die for England.  In fine, it was long before--I will not
+say I understood or rightly appreciated Shakspeare, for no Englishman
+would admit that I or even you could ever do so, but before I could
+recognize the justice of the place his country claims for him as the
+genius without an equal in the literature of Europe.  Meanwhile the
+ardour I had put into study, and the wear and tear of the emotions which
+the study called forth, made themselves felt in a return of my former
+illness, with symptoms still more alarming; and when the year was out I
+was ordained to rest for perhaps another year before I could sing in
+public, still less appear on the stage.  How I rejoiced when I heard that
+fiat! for I emerged from that year of study with a heart utterly
+estranged from the profession in which I had centred my hopes before--
+Yes, Eulalie, you had bid me accomplish myself for the arts of utterance;
+by the study of arts in which thoughts originate the words they employ;
+and in doing so I had changed myself into another being.  I was forbidden
+all fatigue of mind: my books were banished, but not the new self which
+the books had formed.  Recovering slowly through the summer, I came
+hither two months since, ostensibly for the advice of Dr. C-------, but
+really in the desire to commune with my own heart and be still.
+
+And now I have poured forth that heart to you, would you persuade me
+still to be a singer?  If you do, remember at least how jealous and
+absorbing the art of the singer and the actress is,--how completely I
+must surrender myself to it, and live among books or among dreams no
+more.  Can I be anything else but singer? and if not, should I be
+contented merely to read and to dream?
+
+I must confide to you one ambition which during the lazy Italian summer
+took possession of me; I must tell you the ambition, and add that I have
+renounced it as a vain one.  I had hoped that I could compose, I mean in
+music.  I was pleased with some things I did: they expressed in music
+what I could not express in words; and one secret object in coming here
+was to submit them to the great Maestro.  He listened to them patiently:
+he complimented me on my accuracy in the mechanical laws of composition;
+he even said that my favourite airs were "touchants et gracieux."
+
+And so he would have left me, but I stopped him timidly, and said, "Tell
+me frankly, do you think that with time and study I could compose music
+such as singers equal to myself would sing to?"
+
+"You mean as a professional composer?"
+
+"Well, yes."
+
+"And to the abandonment of your vocation as a singer?"
+
+"Yes."
+
+"My dear child, I should be your worst enemy if I encouraged such a
+notion: cling to the career in which you call be greatest; gain but
+health, and I wager my reputation on your glorious success on the stage.
+What can you be as a composer?  You will set pretty music to pretty
+words, and will be sung in drawing-rooms with the fame a little more or
+less that generally attends the compositions of female amateurs.  Aim at
+something higher, as I know you would do, and you will not succeed.  Is
+there any instance in modern times, perhaps in any times, of a female
+composer who attains even to the eminence of a third-rate opera-writer?
+Composition in letters may be of no sex.  In that Madame Dudevant and
+your friend Madame de Grantmesnil can beat most men; but the genius of
+musical composition is _homme_, and accept it as a compliment when I say
+that you are essentially _femme_."
+
+He left me, of course, mortified and humbled; but I feel he is right as
+regards myself, though whether in his depreciation of our whole sex I
+cannot say.  But as this hope has left me, I have become more disquieted,
+still more restless.  Counsel me, Eulalie; counsel, and, if possible,
+comfort me.
+                                                  ISAURA.
+
+
+
+FROM THE SAME TO THE SAME.
+
+No letter from you yet, and I have left you in peace for ten days.  How
+do you think I have spent them?  The Maestro called on us with
+M. Savarin, to insist on our accompanying them on a round of the
+theatres.  I had not been to one since my arrival.  I divined that the
+kind-hearted composer had a motive in this invitation.  He thought that
+in witnessing the applauses bestowed on actors, and sharing in the
+fascination in which theatrical illusion holds an audience, my old
+passion for the stage, and with it the longing for an artiste's fame,
+would revive.
+
+In my heart I wished that his expectations might be realized.  Well for
+me if I could once more concentrate all my aspirations on a prize within
+my reach!
+
+We went first to see a comedy greatly in vogue, and the author thoroughly
+understands the French stage of our day.  The acting was excellent in its
+way.  The next night we went to the Odeon, a romantic melodrama in six
+acts, and I know not how many tableaux.  I found no fault with the acting
+there.  I do not give you the rest of our programme.  We visited all the
+principal theatres, reserving the opera and Madame S------  for the last.
+Before I speak of the opera, let me say a word or two on the plays.
+
+There is no country in which the theatre has so great a hold on the
+public as in France; no country in which the successful dramatist has so
+high a fame; no country perhaps in which the state of the stage so
+faithfully represents the moral and intellectual condition of the people.
+I say this not, of course, from my experience of countries which I have
+not visited, but from all I hear of the stage in Germany and in England.
+
+The impression left on my mind by the performances I witnessed is, that
+the French people are becoming dwarfed.  The comedies that please them
+are but pleasant caricatures of petty sections in a corrupt society.
+They contain no large types of human nature; their witticisms convey no
+luminous flashes of truth; their sentiment is not pure and noble,--it is
+a sickly and false perversion of the impure and ignoble into travesties
+of the pure and noble.
+
+Their melodramas cannot be classed as literature: all that really remains
+of the old French genius is its vaudeville.  Great dramatists create
+great parts.  One great part, such as a Rachel would gladly have
+accepted, I have not seen in the dramas of the young generation.
+
+High art has taken refuge in the opera; but that is not French opera.
+I do not complain so much that French taste is less refined.  I complain
+that French intellect is lowered.  The descent from "Polyeucte" to "Ruy
+Blas" is great, not so much in the poetry of form as in the elevation of
+thought; but the descent from "Ruy Blas" to the best drama now produced
+is out of poetry altogether, and into those flats of prose which give not
+even the glimpse of a mountain-top.
+
+But now to the opera.  S------ in Norma!  The house was crowded, and its
+enthusiasm as loud as it was genuine.  You tell me that S------ never
+rivalled Pasta, but certainly her Norma is a great performance.  Her
+voice has lost less of its freshness than I had been told, and what is
+lost of it her practised management conceals or carries off.
+
+The Maestro was quite right: I could never vie with her in her own line;
+but conceited and vain as I may seem even to you in saying so, I feel in
+my own line that I could command as large an applause,--of course taking
+into account my brief-lived advantage of youth.  Her acting, apart from
+her voice, does not please me.  It seems to me to want intelligence of
+the subtler feelings, the under-current of emotion which constitutes the
+chief beauty of the situation and the character.  Am I jealous when I say
+this?  Read on and judge.
+
+On our return that night, when I had seen the Venosta to bed, I went into
+my own room, opened the window, and looked out.  A lovely night, mild as
+in spring at Florence,--the moon at her full, and the stars looking so
+calm and so high beyond our reach of their tranquillity.  The evergreens
+in the gardens of the villas around me silvered over, and the summer
+boughs, not yet clothed with leaves, were scarcely visible amid the
+changeless smile of the laurels.  At the distance lay Paris, only to be
+known by its innumerable lights.  And then I said to myself,
+
+"No, I cannot be an actress; I cannot resign my real self for that
+vamped-up hypocrite before the lamps.  Out on those stage-robes and
+painted cheeks!  Out on that simulated utterance of sentiments learned by
+rote and practised before the looking-glass till every gesture has its
+drill!"
+
+Then I gazed on those stars which provoke our questionings, and return no
+answer, till my heart grew full,--so full,--and I bowed my head and wept
+like a child.
+
+
+
+
+FROM THE SAME TO THE SAME.
+
+And still no letter from you!  I see in the journals that you have left
+Nice.  Is it that you are too absorbed in your work to have leisure to
+write to me?  I know you are not ill, for if you were, all Paris would
+know of it.  All Europe has an interest in your health.  Positively I
+will write to you no more till a word from yourself bids me do so.
+
+I fear I must give up my solitary walks in the Bois de Boulogne: they
+were very dear to me, partly because the quiet path to which I confined
+myself was that to which you directed me as the one you habitually
+selected when at Paris, and in which you had brooded over and revolved
+the loveliest of your romances; and partly because it was there that,
+catching, alas! not inspiration but enthusiasm from the genius that had
+hallowed the place, and dreaming I might originate music, I nursed my own
+aspirations and murmured my own airs.  And though so close to that world
+of Paris to which all artists must appeal for judgment or audience, the
+spot was so undisturbed, so sequestered.  But of late that path has lost
+its solitude, and therefore its charm.
+
+Six days ago the first person I encountered in my walk was a man whom I
+did not then heed.  He seemed in thought, or rather in revery, like
+myself; we passed each other twice or thrice, and I did not notice
+whether he was young or old, tall or short; but he came the next day, and
+a third day, and then I saw that he was young, and, in so regarding him,
+his eyes became fixed on mine.  The fourth day he did not come, but two
+other men came, and the look of one was inquisitive and offensive.  They
+sat themselves down on a bench in the walk, and though I did not seem to
+notice them, I hastened home; and the next day, in talking with our kind
+Madame Savarin, and alluding to these quiet walks of mine, she hinted,
+with the delicacy which is her characteristic, that the customs of Paris
+did not allow demoiselles _comme il faut_ to walk alone even in the most
+sequestered paths of the Bois.
+
+I begin now to comprehend your disdain of customs which impose chains so
+idly galling on the liberty of our sex.
+
+We dined with the Savarins last evening: what a joyous nature he has!
+Not reading Latin, I only know Horace by translations, which I am told
+are bad; but Savarin seems to me a sort of half Horace,--Horace on his
+town-bred side, so playfully well-bred, so good-humoured in his
+philosophy, so affectionate to friends, and so biting to foes.  But
+certainly Savarin could not have lived in a country farm upon endives and
+mallows.  He is town-bred and Parisian, _jusqu'au bout des ongles_.  How
+he admires you, and how I love him for it!  Only in one thing he
+disappoints me there.  It is your style that he chiefly praises:
+certainly that style is matchless; but style is only the clothing of
+thought, and to praise your style seems to me almost as invidious as the
+compliment to some perfect beauty, not on her form and face, but on her
+taste and dress.
+
+We met at dinner an American and his wife,--a Colonel and Mrs. Morley:
+she is delicately handsome, as the American women I have seen generally
+are, and with that frank vivacity of manner which distinguishes them from
+English women.  She seemed to take a fancy to me, and we soon grew very
+good friends.
+
+She is the first advocate I have met, except yourself, of that doctrine
+upon the rights of Women, of which one reads more in the journals than
+one hears discussed in salons.  Naturally enough I felt great interest in
+that subject, more especially since my rambles in the Bois were
+forbidden; and as long as she declaimed on the hard fate of the women
+who, feeling within them powers that struggle for air and light beyond
+the close precinct of household duties, find themselves restricted from
+fair rivalry with men in such fields of knowledge and toil and glory as
+men since the world began have appropriated to themselves, I need not say
+that I went with her cordially: you can guess that by my former letters.
+But when she entered into the detailed catalogue of our exact wrongs and
+our exact rights, I felt all the pusillanimity of my sex and shrank back
+in terror.
+
+Her husband, joining us when she was in full tide of eloquence, smiled at
+me with a kind of saturnine mirth.  "Mademoiselle, don't believe a word
+she says: it is only tall talk!  In America the women are absolute
+tyrants, and it is I who, in concert with my oppressed countrymen, am
+going in for a platform agitation to restore the Rights of Men."
+
+Upon this there was a lively battle of words between the spouses, in
+which, I must own, I thought the lady was decidedly worsted.
+
+No, Eulalie, I see nothing in these schemes for altering our relations
+towards the other sex which would improve our condition.  The
+inequalities we suffer are not imposed by law,--not even by convention:
+they are imposed by nature.
+
+Eulalie, you have had an experience unknown to me: you have loved.  In
+that day did you,--you, round whom poets and sages and statesmen gather,
+listening to your words as to an oracle,--did you feel that your pride of
+genius had gone out from you, that your ambition lived in whom you loved,
+that his smile was more to you than the applause of a world?
+
+I feel as if love in a woman must destroy her rights of equality, that it
+gives to her a sovereign even in one who would be inferior to herself if
+her love did not glorify and crown him.  Ah! if I could but merge this
+terrible egotism which oppresses me, into the being of some one who is
+what I would wish to be were I man!  I would not ask him to achieve fame.
+Enough if I felt that he was worthy of it, and happier methinks to
+console him when he failed than to triumph with him when he won.  Tell
+me, have you felt this?  When you loved did you stoop as to a slave, or
+did you bow down as to a master?
+
+
+
+FROM MADAME DE GRANTMESNIL TO ISAURA CICOGNA.
+
+_Chere enfant_,--All your four letters have reached me the same day.  In
+one of my sudden whims I set off with a few friends on a rapid tour along
+the Riviera to Genoa, thence to Turin on to Milan.  Not knowing where we
+should rest even for a day, my letters were not forwarded.
+
+I came back to Nice yesterday, consoled for all fatigues in having
+insured that accuracy in description of localities which my work
+necessitates.
+
+You are, my poor child, in that revolutionary crisis through which genius
+passes in youth before it knows its own self, and longs vaguely to do or
+to be a something other than it has done or has been before.  For, not to
+be unjust to your own powers, genius you have,--that inborn undefinable
+essence, including talent, and yet distinct from it.  Genius you have,
+but genius unconcentrated, undisciplined.  I see, though you are too
+diffident to say so openly, that you shrink from the fame of singer,
+because, fevered by your reading, you would fain aspire to the thorny
+crown of author.  I echo the hard saying of the Maestro: I should be your
+worst enemy did I encourage you to forsake a career in which a dazzling
+success is so assured, for one in which, if it were your true vocation,
+you would not ask whether you were fit for it; you would be impelled to
+it by the terrible star which presides over the birth of poets.
+
+Have you, who are so naturally observant, and of late have become so
+reflective, never remarked that authors, however absorbed in their own
+craft, do not wish their children to adopt it?  The most successful
+author is perhaps the last person to whom neophytes should come for
+encouragement.  This I think is not the case with the cultivators of the
+sister arts.
+
+The painter, the sculptor, the musician, seem disposed to invite
+disciples and welcome acolytes.  As for those engaged in the practical
+affairs of life, fathers mostly wish their sons to be as they have been.
+
+The politician, the lawyer, the merchant, each says to his children,
+"Follow my steps."  All parents in practical life would at least agree
+in this,--they would not wish their sons to be poets.  There must be some
+sound cause in the world's philosophy for this general concurrence of
+digression from a road of which the travellers themselves say to those
+whom they love best, "Beware!"
+
+Romance in youth is, if rightly understood, the happiest nutriment of
+wisdom in after-years; but I would never invite any one to look upon the
+romance of youth as a thing
+
+               "To case in periods and embalm in ink."
+
+Enfant, have you need of a publisher to create romance?  Is it not in
+yourself?  Do not imagine that genius requires for its enjoyment the
+scratch of the pen and the types of the printer.  Do not suppose that the
+poet, the romancier, is most poetic, most romantic, when he is striving,
+struggling, labouring, to check the rush of his ideas, and materialize
+the images which visit him as souls into such tangible likenesses of
+flesh and blood that the highest compliment a reader can bestow on them
+is to say that they are lifelike:  No: the poet's real delight is not in
+the mechanism of composing; the best part of that delight is in the
+sympathies he has established with innumerable modifications of life and
+form, and art and Nature, sympathies which are often found equally keen
+in those who have not the same gift of language.  The poet is but the
+interpreter.  What of?--Truths in the hearts of others.  He utters what
+they feel.  Is the joy in the utterance?  Nay, it is in the feeling
+itself.  So, my dear, dark-bright child of song, when I bade thee open,
+out of the beaten thoroughfare, paths into the meads and river-banks at
+either side of the formal hedgerows, rightly dost thou add that I
+enjoined thee to make thine art thy companion.  In the culture of that
+art for which you are so eminently gifted, you will find the ideal life
+ever beside the real.  Are you not ashamed to tell me that in that art
+you do but utter the thoughts of others?  You utter them in music;
+through the music you not only give to the thoughts a new character, but
+you make them reproductive of fresh thoughts in your audience.
+
+You said very truly that you found in composing you could put into music
+thoughts which you could not put into words.  That is the peculiar
+distinction of music.  No genuine musician can explain in words exactly
+what he means to convey in his music.
+
+How little a libretto interprets an opera; how little we care even to
+read it!  It is the music that speaks to us; and how?--Through the human
+voice.  We do not notice how poor are the words which the voice warbles.
+It is the voice itself interpreting the soul of the musician which
+enchants and enthralls us.  And you who have that voice pretend to
+despise the gift.  What! despise the power of communicating delight!--the
+power that we authors envy; and rarely, if ever, can we give delight with
+so little alloy as the singer.
+
+And when an audience disperses, can you guess what griefs the singer
+may have comforted? what hard hearts he may have softened?  what high
+thoughts he may have awakened?
+
+You say, "Out on the vamped-up hypocrite!  Out on the stage-robes and
+painted cheeks!"
+
+I say, "Out on the morbid spirit which so cynically regards the mere
+details by which a whole effect on the minds and hearts and souls of
+races and nations can be produced!"
+
+There, have I scolded you sufficiently?  I should scold you more, if I
+did not see in the affluence of your youth and your intellect the cause
+of your restlessness.  Riches are always restless.  It is only to poverty
+that the gods give content.
+
+You question me about love; you ask if I have ever bowed to a master,
+ever merged my life in another's: expect no answer on this from me.
+Circe herself could give no answer to the simplest maid, who, never
+having loved, asks, "What is love?"
+
+In the history of the passions each human heart is a world in itself; its
+experience profits no others.  In no two lives does love play the same
+part or bequeath the same record.
+
+I know not whether I am glad or sorry that the word "love" now falls on
+my ear with a sound as slight and as faint as the dropping of a leaf in
+autumn may fall on thine.
+
+I volunteer but this lesson, the wisest I can give, if thou canst
+understand it: as I bade thee take art into thy life, so learn to look on
+life itself as an art.  Thou couldst discover the charm in Tasso; thou
+couldst perceive that the requisite of all art, that which pleases, is in
+the harmony of proportion.  We lose sight of beauty if we exaggerate the
+feature most beautiful.
+
+Love proportioned adorns the homeliest existence; love disproportioned
+deforms the fairest.
+
+Alas! wilt thou remember this warning when the time comes in which it may
+be needed?
+
+E----- G-------.
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE PARISIANS, B1, LYTTON ***
+
+****** This file should be named 7737.txt or 7737.zip ********
+
+Corrected EDITIONS of our eBooks get a new NUMBER, b164w11.txt
+VERSIONS based on separate sources get new LETTER, b164w10a.txt
+
+This eBook was produced by David Widger
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart 
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

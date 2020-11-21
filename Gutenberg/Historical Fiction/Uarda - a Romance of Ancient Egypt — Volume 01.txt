@@ -1,0 +1,2386 @@
+The Project Gutenberg EBook Uarda by Georg Ebers, Volume 1.
+#1 in our series by Georg Ebers
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**EBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These EBooks Were Prepared By Thousands of Volunteers*****
+
+
+Title: Uarda, Volume 1.
+
+Author: Georg Ebers
+
+Release Date: April, 2004  [EBook #5439]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on April 29, 2002]
+
+Edition: 10
+
+Language: English
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK UARDA BY GEORG EBERS, V1 ***
+
+
+
+This eBook was produced by David Widger 
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+UARDA
+
+Volume 1.
+
+By Georg Ebers
+
+
+
+THE HISTORICAL ROMANCES OF GEORG EBERS
+
+UARDA
+
+A ROMANCE OF ANCIENT EGYPT
+
+Translated from the German by Clara Bell
+
+
+
+
+                              DEDICATION.
+
+               Thou knowest well from what this book arose.
+               When suffering seized and held me in its clasp
+               Thy fostering hand released me from its grasp,
+               And from amid the thorns there bloomed a rose.
+               Air, dew, and sunshine were bestowed by Thee,
+               And Thine it is; without these lines from me.
+
+
+
+PREFACE.
+
+In the winter of 1873 I spent some weeks in one of the tombs of the
+Necropolis of Thebes in order to study the monuments of that solemn city
+of the dead; and during my long rides in the silent desert the germ was
+developed whence this book has since grown.  The leisure of mind and body
+required to write it was given me through a long but not disabling
+illness.
+
+In the first instance I intended to elucidate this story--like my
+"Egyptian Princess"--with numerous and extensive notes placed at the end;
+but I was led to give up this plan from finding that it would lead me to
+the repetition of much that I had written in the notes to that earlier
+work.
+
+The numerous notes to the former novel had a threefold purpose.  In the
+first place they served to explain the text; in the second they were a
+guarantee of the care with which I had striven to depict the
+archaeological details in all their individuality from the records of the
+monuments and of Classic Authors; and thirdly I hoped to supply the
+reader who desired further knowledge of the period with some guide to his
+studies.
+
+In the present work I shall venture to content myself with the simple
+statement that I have introduced nothing as proper to Egypt and to the
+period of Rameses that cannot be proved by some authority; the numerous
+monuments which have descended to us from the time of the Rameses, in
+fact enable the enquirer to understand much of the aspect and arrangement
+of Egyptian life, and to follow it step try step through the details of
+religious, public, and private life, even of particular individuals.  The
+same remark cannot be made in regard to their mental life, and here many
+an anachronism will slip in, many things will appear modern, and show the
+coloring of the Christian mode of thought.
+
+Every part of this book is intelligible without the aid of notes; but,
+for the reader who seeks for further enlightenment, I have added some
+foot-notes, and have not neglected to mention such works as afford more
+detailed information on the subjects mentioned in the narrative.
+
+The reader who wishes to follow the mind of the author in this work
+should not trouble himself with the notes as he reads, but merely at the
+beginning of each chapter read over the notes which belong to the
+foregoing one.  Every glance at the foot-notes must necessarily disturb
+and injure the development of the tale as a work of art.  The story
+stands here as it flowed from one fount, and was supplied with notes only
+after its completion.
+
+A narrative of Herodotus combined with the Epos of Pentaur, of which so
+many copies have been handed down to us, forms the foundation of the
+story.
+
+The treason of the Regent related by the Father of history is referable
+perhaps to the reign of the third and not of the second Rameses.  But it
+is by no means certain that the Halicarnassian writer was in this case
+misinformed; and in this fiction no history will be inculcated, only as a
+background shall I offer a sketch of the time of Sesostris, from a
+picturesque point of view, but with the nearest possible approach to
+truth.  It is true that to this end nothing has been neglected that could
+be learnt from the monuments or the papyri; still the book is only a
+romance, a poetic fiction, in which I wish all the facts derived from
+history and all the costume drawn from the monuments to be regarded as
+incidental, and the emotions of the actors in the story as what I attach
+importance to.
+
+But I must be allowed to make one observation.  From studying the
+conventional mode of execution of ancient Egyptian art--which was
+strictly subject to the hieratic laws of type and proportion--we have
+accustomed ourselves to imagine the inhabitants of the Nile-valley in the
+time of the Pharaohs as tall and haggard men with little distinction of
+individual physiognomy, and recently a great painter has sought to
+represent them under this aspect in a modern picture.  This is an error;
+the Egyptians, in spite of their aversion to foreigners and their strong
+attachment to their native soil, were one of the most intellectual and
+active people of antiquity; and he who would represent them as they
+lived, and to that end copies the forms which remain painted on the walls
+of the temples and sepulchres, is the accomplice of those priestly
+corrupters of art who compelled the painters and sculptors of the
+Pharaonic era to abandon truth to nature in favor of their sacred laws of
+proportion.
+
+He who desires to paint the ancient Egyptians with truth and fidelity,
+must regard it in some sort as an act of enfranchisement; that is to say,
+he must release the conventional forms from those fetters which were
+peculiar to their art and altogether foreign to their real life.  Indeed,
+works of sculpture remain to us of the time of the first pyramid, which
+represent men with the truth of nature, unfettered by the sacred canon.
+We can recall the so-called "Village Judge" of Bulaq, the "Scribe" now in
+Paris, and a few figures in bronze in different museums, as well as the
+noble and characteristic busts of all epochs, which amply prove how great
+the variety of individual physiognomy, and, with that, of individual
+character was among the Egyptians.  Alma Tadelna in London and Gustav
+Richter in Berlin have, as painters, treated Egyptian subjects in a
+manner which the poet recognizes and accepts with delight.
+
+Many earlier witnesses than the late writer Flavius Vopiscus might be
+referred to who show us the Egyptians as an industrious and peaceful
+people, passionately devoted it is true to all that pertains to the other
+world, but also enjoying the gifts of life to the fullest extent, nay
+sometimes to excess.
+
+Real men, such as we see around us in actual life, not silhouettes
+constructed to the old priestly scale such as the monuments show us--real
+living men dwelt by the old Nile-stream; and the poet who would represent
+them must courageously seize on types out of the daily life of modern men
+that surround him, without fear of deviating too far from reality, and,
+placing them in their own long past time, color them only and clothe them
+to correspond with it.
+
+I have discussed the authorities for the conception of love which I have
+ascribed to the ancients in the preface to the second edition of "An
+Egyptian Princess."
+
+With these lines I send Uarda into the world; and in them I add my thanks
+to those dear friends in whose beautiful home, embowered in green, bird-
+haunted woods, I have so often refreshed my spirit and recovered my
+strength, where I now write the last words of this book.
+
+               Rheinbollerhutte, September 22, 1876.
+                                                  GEORG EBERS.
+
+
+
+
+PREFACE
+
+TO THE FIFTH GERMAN EDITION.
+
+The earlier editions of "Uarda" were published in such rapid succession,
+that no extensive changes in the stereotyped text could be made; but from
+the first issue, I have not ceased to correct it, and can now present to
+the public this new fifth edition as a "revised" one.
+
+Having felt a constantly increasing affection for "Uarda" during the time
+I was writing, the friendly and comprehensive attention bestowed upon it
+by our greatest critics and the favorable reception it met with in the
+various classes of society, afforded me the utmost pleasure.
+
+I owe the most sincere gratitude to the honored gentlemen, who called my
+attention to certain errors, and among them will name particularly
+Professor Paul Ascherson of Berlin, and Dr. C. Rohrbach of Gotha.  Both
+will find their remarks regarding mistakes in the geographical location
+of plants, heeded in this new edition.
+
+The notes, after mature deliberation, have been placed at the foot of the
+pages instead of at the end of the book.
+
+So many criticisms concerning the title "Uarda" have recently reached my
+ears, that, rather by way of explanation than apology, I will here repeat
+what I said in the preface to the third edition.
+
+This title has its own history, and the more difficult it would be for me
+to defend it, the more ready I am to allow an advocate to speak for me,
+an advocate who bears a name no less distinguished than that of G. E.
+Lessing, who says:
+
+"Nanine?  (by Voltaire, 1749).  What sort of title is that?  What
+thoughts does it awake?  Neither more nor less than a title should
+arouse.  A title must not be a bill of fare.  The less it betrays of the
+contents, the better it is.  Author and spectator are both satisfied, and
+the ancients rarely gave their comedies anything but insignificant
+names."
+
+This may be the case with "Uarda," whose character is less prominent than
+some others, it is true, but whose sorrows direct the destinies of my
+other heroes and heroines.
+
+Why should I conceal the fact?  The character of "Uarda" and the present
+story have grown out of the memory of a Fellah girl, half child, half
+maiden, whom I saw suffer and die in a hut at Abu el Qurnah in the
+Necropolis of Thebes.
+
+I still persist in the conviction I have so frequently expressed, the
+conviction that the fundamental traits of the life of the soul have
+undergone very trivial modifications among civilized nations in all times
+and ages, but will endeavor to explain the contrary opinion, held by my
+opponents, by calling attention to the circumstance, that the expression
+of these emotions show considerable variations among different peoples,
+and at different epochs.  I believe that Juvenal, one of the ancient
+writers who best understood human nature, was right in saying:
+
+              "Nil erit ulterius, quod nostris moribus addat
+               Posteritas: eadem cupient facientque minores."
+
+Leipsic, October 15th, 1877.
+
+
+
+
+U A R D A.
+
+
+CHAPTER I.
+
+By the walls of Thebes--the old city of a hundred gates--the Nile spreads
+to a broad river; the heights, which follow the stream on both sides,
+here take a more decided outline; solitary, almost cone-shaped peaks
+stand out sharply from the level background of the many-colored.
+limestone hills, on which no palm-tree flourishes and in which no humble
+desert-plant can strike root.  Rocky crevasses and gorges cut more or
+less deeply into the mountain range, and up to its ridge extends the
+desert, destructive of all life, with sand and stones, with rocky cliffs
+and reef-like, desert hills.
+
+Behind the eastern range the desert spreads to the Red Sea; behind the
+western it stretches without limit, into infinity.  In the belief of the
+Egyptians beyond it lay the region of the dead.
+
+Between these two ranges of hills, which serve as walls or ramparts to
+keep back the desert-sand, flows the fresh and bounteous Nile, bestowing
+blessing and abundance; at once the father and the cradle of millions of
+beings.  On each shore spreads the wide plain of black and fruitful soil,
+and in the depths many-shaped creatures, in coats of mail or scales,
+swarm and find subsistence.
+
+The lotos floats on the mirror of the waters, and among the papyrus reeds
+by the shore water-fowl innumerable build their nests.  Between the river
+and the mountain-range lie fields, which after the seed-time are of a
+shining blue-green, and towards the time of harvest glow like gold.  Near
+the brooks and water-wheels here and there stands a shady sycamore; and
+date-palms, carefully tended, group themselves in groves.  The fruitful
+plain, watered and manured every year by the inundation, lies at the foot
+of the sandy desert-hills behind it, and stands out like a garden flower-
+bed from the gravel-path.
+
+In the fourteenth century before Christ--for to so remote a date we must
+direct the thoughts of the reader--impassable limits had been set by the
+hand of man, in many places in Thebes, to the inroads of the water; high
+dykes of stone and embankments protected the streets and squares, the
+temples and the palaces, from the overflow.
+
+Canals that could be tightly closed up led from the dykes to the land
+within, and smaller branch-cuttings to the gardens of Thebes.
+
+On the right, the eastern bank of the Nile, rose the buildings of the
+far-famed residence of the Pharaohs.  Close by the river stood the
+immense and gaudy Temples of the city of Amon; behind these and at a
+short distance from the Eastern hills--indeed at their very foot and
+partly even on the soil of the desert--were the palaces of the King and
+nobles, and the shady streets in which the high narrow houses of the
+citizens stood in close rows.
+
+Life was gay and busy in the streets of the capital of the Pharaohs.
+
+The western shore of the Nile showed a quite different scene.  Here too
+there was no lack of stately buildings or thronging men; but while on the
+farther side of the river there was a compact mass of houses, and the
+citizens went cheerfully and openly about their day's work, on this side
+there were solitary splendid structures, round which little houses and
+huts seemed to cling as children cling to the protection of a mother.
+And these buildings lay in detached groups.
+
+Any one climbing the hill and looking down would form the notion that
+there lay below him a number of neighboring villages, each with its
+lordly manor house.  Looking from the plain up to the precipice of the
+western hills, hundreds of closed portals could be seen, some solitary,
+others closely ranged in rows; a great number of them towards the foot of
+the slope, yet more half-way up, and a few at a considerable height.
+
+And even more dissimilar were the slow-moving, solemn groups in the
+roadways on this side, and the cheerful, confused throng yonder.  There,
+on the eastern shore, all were in eager pursuit of labor or recreation,
+stirred by pleasure or by grief, active in deed and speech; here, in the
+west, little was spoken, a spell seemed to check the footstep of the
+wanderer, a pale hand to sadden the bright glance of every eye, and to
+banish the smile from every lip.
+
+And yet many a gaily-dressed bark stopped at the shore, there was no lack
+of minstrel bands, grand processions passed on to the western heights;
+but the Nile boats bore the dead, the songs sung here were songs of
+lamentation, and the processions consisted of mourners following the
+sarcophagus.
+
+We are standing on the soil of the City of the Dead of Thebes.
+
+Nevertheless even here nothing is wanting for return and revival, for to
+the Egyptian his dead died not.  He closed his eyes, he bore him to the
+Necropolis, to the house of the embalmer, or Kolchytes, and then to the
+grave; but he knew that the souls of the departed lived on; that the
+justified absorbed into Osiris floated over the Heavens in the vessel of
+the Sun; that they appeared on earth in the form they choose to take upon
+them, and that they might exert influence on the current of the lives of
+the survivors.  So he took care to give a worthy interment to his dead,
+above all to have the body embalmed so as to endure long: and had fixed
+times to bring fresh offerings for the dead of flesh and fowl, with
+drink-offerings and sweet-smelling essences, and vegetables and flowers.
+
+Neither at the obsequies nor at the offerings might the ministers of the
+gods be absent, and the silent City of the Dead was regarded as a favored
+sanctuary in which to establish schools and dwellings for the learned.
+
+So it came to pass that in the temples and on the site Of the Necropolis,
+large communities of priests dwelt together, and close to the extensive
+embalming houses lived numerous Kolchytes, who handed down the secrets of
+their art from father to son.
+
+Besides these there were other manufactories and shops.  In the former,
+sarcophagi of stone and of wood, linen bands for enveloping mummies, and
+amulets for decorating them, were made; in the latter, merchants kept
+spices and essences, flowers, fruits, vegetables and pastry for sale.
+Calves, gazelles, goats, geese and other fowl, were fed on enclosed
+meadow-plats, and the mourners betook themselves thither to select what
+they needed from among the beasts pronounced by the priests to be clean
+for sacrifice, and to have them sealed with the sacred seal.  Many bought
+only part of a victim at the shambles--the poor could not even do this.
+They bought only colored cakes in the shape of beasts, which symbolically
+took the place of the calves and geese which their means were unable to
+procure.  In the handsomest shops sat servants of the priests, who
+received forms written on rolls of papyrus which were filled up in the
+writing room of the temple with those sacred verses which the departed
+spirit must know and repeat to ward off the evil genius of the deep, to
+open the gate of the under world, and to be held righteous before Osiris
+and the forty-two assessors of the subterranean court of justice.
+
+What took place within the temples was concealed from view, for each was
+surrounded by a high enclosing wall with lofty, carefully-closed portals,
+which were only opened when a chorus of priests came out to sing a pious
+hymn, in the morning to Horus the rising god, and in the evening to Tum
+the descending god.
+
+     [The course of the Sun was compared to that of the life of Man.
+     He rose as the child Horns, grew by midday to the hero Ra, who
+     conquered the Uraeus snake for his diadem, and by evening was an old
+     Man, Tum.  Light had been born of darkness, hence Tum was regarded
+     as older than Horns and the other gods of light.]
+
+As soon as the evening hymn of the priests was heard, the Necropolis was
+deserted, for the mourners and those who were visiting the graves were
+required by this time to return to their boats and to quit the City of
+the Dead.  Crowds of men who had marched in the processions of the west
+bank hastened in disorder to the shore, driven on by the body of watchmen
+who took it in turns to do this duty and to protect the graves against
+robbers.  The merchants closed their booths, the embalmers and workmen
+ended their day's work and retired to their houses, the priests returned
+to the temples, and the inns were filled with guests, who had come hither
+on long pilgrimages from a distance, and who preferred passing the night
+in the vicinity of the dead whom they had come to visit, to going across
+to the bustling noisy city farther shore.
+
+The voices of the singers and of the wailing women were hushed, even the
+song of the sailors on the numberless ferry boats from the western shore
+to Thebes died away, its faint echo was now and then borne across on the
+evening air, and at last all was still.
+
+A cloudless sky spread over the silent City of the Dead, now and then
+darkened for an instant by the swiftly passing shade of a bat returning
+to its home in a cave or cleft of the rock after flying the whole evening
+near the Nile to catch flies, to drink, and so prepare itself for the
+next day's sleep.  From time to time black forms with long shadows
+glided over the still illuminated plain--the jackals, who at this hour
+frequented the shore to slake their thirst, and often fearlessly showed
+themselves in troops in the vicinity of the pens of geese and goats.
+
+It was forbidden to hunt these robbers, as they were accounted sacred to
+the god Anubis, the tutelary of sepulchres; and indeed they did little
+mischief, for they found abundant food in the tombs.
+
+     [The jackal-headed god Anubis was the son of Osiris and Nephthys,
+     and the jackal was sacred to him.  In the earliest ages even he is
+     prominent in the nether world.  He conducts the mummifying process,
+     preserves the corpse, guards the Necropolis, and, as Hermes
+     Psychopompos (Hermanubis), opens the way for the souls.  According
+     to Plutarch "He is the watch of the gods as the dog is the watch of
+     men."]
+
+The remnants of the meat offerings from the altars were consumed by them;
+to the perfect satisfaction of the devotees, who, when they found that by
+the following day the meat had disappeared, believed that it had been
+accepted and taken away by the spirits of the underworld.
+
+They also did the duty of trusty watchers, for they were a dangerous foe
+for any intruder who, under the shadow of the night, might attempt to
+violate a grave.
+
+Thus--on that summer evening of the year 1352 B.C., when we invite the
+reader to accompany us to the Necropolis of Thebes--after the priests'
+hymn had died away, all was still in the City of the Dead.
+
+The soldiers on guard were already returning from their first round when
+suddenly, on the north side of the Necropolis, a dog barked loudly; soon
+a second took up the cry, a third, a fourth.  The captain of the watch
+called to his men to halt, and, as the cry of the dogs spread and grew
+louder every minute, commanded them to march towards the north.
+
+The little troop had reached the high dyke which divided the west bank of
+the Nile from a branch canal, and looked from thence over the plain as
+far as the river and to the north of the Necropolis.  Once more the word
+to "halt" was given, and as the guard perceived the glare of torches in
+the direction where the dogs were barking loudest, they hurried forward
+and came up with the author of the disturbance near the Pylon of the
+temple erected by Seti I., the deceased father of the reigning King
+Rameses II.
+
+     [The two pyramidal towers joined by a gateway which formed the
+     entrance to an Egyptian temple were called the Pylon.]
+
+The moon was up, and her pale light flooded the stately structure, while
+the walls glowed with the ruddy smoky light of the torches which flared
+in the hands of black attendants.
+
+A man of sturdy build, in sumptuous dress, was knocking at the brass-
+covered temple door with the metal handle of a whip, so violently that
+the blows rang far and loud through the night.  Near him stood a litter,
+and a chariot, to which were harnessed two fine horses.  In the litter
+sat a young woman, and in the carriage, next to the driver, was the tall
+figure of a lady.  Several men of the upper classes and many servants
+stood around the litter and the chariot.  Few words were exchanged; the
+whole attention of the strangely lighted groups seemed concentrated on
+the temple-gate.  The darkness concealed the features of individuals, but
+the mingled light of the moon and the torches was enough to reveal to the
+gate-keeper, who looked down on the party from a tower of the Pylon, that
+it was composed of persons of the highest rank; nay, perhaps of the royal
+family.
+
+He called aloud to the one who knocked, and asked him what was his will.
+
+He looked up, and in a voice so rough and imperious, that the lady in the
+litter shrank in horror as its tones suddenly violated the place of the
+dead, he cried out--"How long are we to wait here for you--you dirty
+hound?  Come down and open the door and then ask questions.  If the
+torch-light is not bright enough to show you who is waiting, I will score
+our name on your shoulders with my whip, and teach you how to receive
+princely visitors."
+
+While the porter muttered an unintelligible answer and came down the
+steps within to open the door, the lady in the chariot turned to her
+impatient companion and said in a pleasant but yet decided voice, "You
+forget, Paaker, that you are back again in Egypt, and that here you have
+to deal not with the wild Schasu,--[A Semitic race of robbers in the cast
+of Egypt.]--but with friendly priests of whom we have to solicit a favor.
+We have always had to lament your roughness, which seems to me very ill-
+suited to the unusual circumstances under which we approach this
+sanctuary."
+
+Although these words were spoken in a tone rather of regret than of
+blame, they wounded the sensibilities of the person addressed; his wide
+nostrils began to twitch ominously, he clenched his right hand over the
+handle of his whip, and, while he seemed to be bowing humbly, he struck
+such a heavy blow on the bare leg of a slave who was standing near to
+him, an old Ethiopian, that he shuddered as if from sudden cold, though-
+knowing his lord only too well--he let no cry of pain escape him.
+Meanwhile the gate-keeper had opened the door, and with him a tall young
+priest stepped out into the open air to ask the will of the intruders.
+
+Paaker would have seized the opportunity of speaking, but the lady in the
+chariot interposed and said:
+
+"I am Bent-Anat, the daughter of the King, and this lady in the litter is
+Nefert, the wife of the noble Mena, the charioteer of my father.  We were
+going in company with these gentlemen to the north-west valley of the
+Necropolis to see the new works there.  You know the narrow pass in the
+rocks which leads up the gorge.  On the way home I myself held the reins
+and I had the misfortune to drive over a girl who sat by the road with a
+basket full of flowers, and to hurt her--to hurt her very badly I am
+afraid.  The wife of Mena with her own hands bound up the child, and then
+she carried her to her father's house--he is a paraschites--[One who
+opened the bodies of the dead to prepare them for being embalmed.]--
+Pinem is his name.  I know not whether he is known to you."
+
+"Thou hast been into his house, Princess?"
+
+"Indeed, I was obliged, holy father," she replied, "I know of course that
+I have defiled myself by crossing the threshold of these people, but--"
+
+"But," cried the wife of Mena, raising herself in her litter, "Bent-Anat
+can in a day be purified by thee or by her house-priest, while she can
+hardly--or perhaps never--restore the child whole and sound again to the
+unhappy father."
+
+"Still, the den of a paraschites is above every thing unclean," said the
+chamberlain Penbesa, master of the ceremonies to the princess,
+interrupting the wife of Mena, "and I did not conceal my opinion when
+Bent-Anat announced her intention of visiting the accursed hole in
+person.  I suggested," he continued, turning to the priest, "that she
+should let the girl be taken home, and send a royal present to the
+father."
+
+"And the princess?"  asked the priest.
+
+"She acted, as she always does, on her own judgment," replied the master
+of the ceremonies.
+
+"And that always hits on the right course," cried the wife of Mena.
+
+"Would to God it were so!"  said the princess in a subdued voice.  Then
+she continued, addressing the priest, "Thou knowest the will of the Gods
+and the hearts of men, holy father, and I myself know that I give alms
+willingly and help the poor even when there is none to plead for them but
+their poverty.  But after what has occurred here, and to these unhappy
+people, it is I who come as a suppliant."
+
+"Thou?"  said the chamberlain.
+
+"I," answered the princess with decision.  The priest who up to this
+moment had remained a silent witness of the scene raised his right hand
+as in blessing and  spoke.
+
+"Thou hast done well.  The Hathors fashioned thy heart and the Lady of
+Truth guides it.  Thou hast broken in on our night-prayers to request us
+to send a doctor to the injured girl?"
+
+     [Hathor was Isis under a substantial form.  She is the goddess of
+     the pure, light heaven, and bears the Sun-disk between cow-horns on
+     a cow's head or on a human head with cow's ears.  She was named the
+     Fair, and all the pure joys of life are in her gift.  Later she was
+     regarded as a Muse who beautifies life with enjoyment, love, song,
+     and the dance.  She appears as a good fairy by the cradle of
+     children and decides their lot in life.  She bears many names: and
+     several, generally seven, Hathors were represented, who personified
+     the attributes and influence of the goddess.]
+
+"Thou hast said."
+
+"I will ask the high-priest to send the best leech for outward wounds
+immediately to the child.  But where is the house of the paraschites
+Pinem?  I do not know it."
+
+"Northwards from the terrace of Hatasu,--[A great queen of the 18th
+dynasty and guardian of two Pharaohs]--close to--; but I will charge one
+of my attendants to conduct the leech.  Besides, I want to know early in
+the morning how the child is doing.--Paaker."
+
+The rough visitor, whom we already know, thus called upon, bowed to the
+earth, his arms hanging by his sides, and asked:
+
+"What dost thou command?"
+
+"I appoint you guide to the physician," said the princess.  "It will be
+easy to the king's pioneer to find the little half-hidden house again--
+
+     [The title here rendered pioneer was that of an officer whose duties
+     were those at once of a scout and of a Quarter-Master General.  In
+     unknown and comparatively savage countries it was an onerous post.
+     --Translator.]
+
+besides, you share my guilt, for," she added, turning to the priest,
+"I confess that the misfortune happened because I would try with my
+horses to overtake Paaker's Syrian racers, which he declared to be
+swifter than the Egyptian horses.  It was a mad race."
+
+"And Amon be praised that it ended as it did," exclaimed the master of
+the ceremonies.  "Packer's chariot lies dashed in pieces in the valley,
+and his best horse is badly hurt."
+
+"He will see to him when he has taken the physician to the house of the
+paraschites," said the princess.  "Dost thou know, Penbesa--thou anxious
+guardian of a thoughtless girl--that to-day for the first time I am glad
+that my father is at the war in distant Satiland?"--[Asia].
+
+"He would not have welcomed us kindly!"  said the master of the
+ceremonies, laughing.
+
+"But the leech, the leech!"  cried Bent-Anat.  "Packer, it is settled
+then.  You will conduct him, and bring us to-morrow morning news of the
+wounded girl."
+
+Paaker bowed; the princess bowed her head; the priest and his companions,
+who meanwhile had come out of the temple and joined him, raised their
+hands in blessing, and the belated procession moved towards the Nile.
+
+Paaker remained alone with his two slaves; the commission with which the
+princess had charged him greatly displeased him.  So long as the
+moonlight enabled him to distinguish the litter of Mena's wife, he gazed
+after it;  then he endeavored to recollect the position of the hut of the
+paraschites.  The captain of the watch still stood with the guard at the
+gate of the temple.
+
+"Do you know the dwelling of Pinem the paraschites?"  asked Paaker.
+
+"What do you want with him?"
+
+"That is no concern of yours," retorted Paaker.
+
+"Lout!"  exclaimed the captain, "left face and forwards, my men."
+
+"Halt!"  cried Paaker in a rage.  "I am the king's chief pioneer."
+
+"Then you will all the more easily find the way back by which you came.
+March."
+
+The words were followed by a peal of many-voiced laughter: the re-echoing
+insult so confounded Paaker that he dropped his whip on the ground.  The
+slave, whom a short time since he had struck with it, humbly picked it up
+and then followed his lord into the fore court of the temple.  Both
+attributed the titter, which they still could hear without being able to
+detect its origin, to wandering spirits.  But the mocking tones had been
+heard too by the old gate-keeper, and the laughers were better known to
+him than to the king's pioneer; he strode with heavy steps to the door of
+the temple through the black shadow of the pylon, and striking blindly
+before him called out--
+
+"Ah! you good-for-nothing brood of Seth.
+
+     [The Typhon of the Greeks.  The enemy  of Osiris, of truth,  good
+     and purity.  Discord and strife in nature.  Horns who fights against
+     him for his father Osiris, can throw him and stun him, but never
+     annihilate him.]
+
+"You gallows-birds and brood of hell--I am coming."
+
+The giggling ceased; a few youthful figures appeared in the moonlight,
+the old man pursued them panting, and, after a short chase, a troop of
+youths fled back through the temple gate.
+
+The door-keeper had succeeded in catching one miscreant, a boy of
+thirteen, and held him so tight by the ear that his pretty head seemed to
+have grown in a horizontal direction from his shoulders.
+
+"I will take you before the school-master, you plague-of-locusts, you
+swarm of bats!"  cried the old man out of breath.  But the dozen of
+school-boys, who had availed themselves of the opportunity to break out
+of bounds, gathered coaxing round him, with words of repentance, though
+every eye sparkled with delight at the fun they had had, and of which no
+one could deprive them; and when the biggest of them took the old man's
+chin, and promised to give him the wine which his mother was to send him
+next day for the week's use, the porter let go his prisoner--who tried to
+rub the pain out of his burning ear--and cried out in harsher tones than
+before:
+
+"You will pay me, will you, to let you off!  Do you think I will let your
+tricks pass?  You little know this old man.  I will complain to the Gods,
+not to the school-master; and as for your wine, youngster, I will offer
+it as a libation, that heaven may forgive you."
+
+
+
+
+CHAPTER II.
+
+The temple where, in the fore-court, Paaker was waiting, and where the
+priest had disappeared to call the leech, was called the "House of Seti"
+--[It is still standing and known as the temple of Qurnah.]--and was one
+of the largest in the City of the Dead.  Only that magnificent building
+of the time of the deposed royal race of the reigning king's grandfather
+--that temple which had been founded by Thotmes III., and whose gate-way
+Amenophis III.  had adorned with immense colossal statues--[That which
+stands to the north is the famous musical statue, or Pillar of Memmon]--
+exceeded it in the extent of its plan; in every other respect it held the
+pre-eminence among the sanctuaries of the Necropolis.  Rameses I. had
+founded it shortly after he succeeded in seizing the Egyptian throne; and
+his yet greater son Seti carried on the erection, in which the service of
+the dead for the Manes of the members of the new royal family was
+conducted, and the high festivals held in honor of the Gods of the under-
+world.  Great sums had been expended for its establishment, for the
+maintenance of the priesthood of its sanctuary, and the support of the
+institutions connected with it.  These were intended to be equal to the
+great original foundations of priestly learning at Heliopolis and
+Memphis; they were regulated on the same pattern, and with the object of
+raising the new royal residence of Upper Egypt, namely Thebes, above the
+capitals of Lower Egypt in regard to philosophical distinction.
+
+One of the most important of these foundations was a very celebrated
+school of learning.
+
+     [Every detail of this description of an Egyptian school is derived
+     from sources dating from the reign of Rameses II.  and his
+     successor, Merneptah.]
+
+First there was the high-school, in which priests, physicians, judges,
+mathematicians, astronomers, grammarians, and other learned men, not only
+had the benefit of instruction, but, subsequently, when they had won
+admission to the highest ranks of learning, and attained the dignity of
+"Scribes," were maintained at the cost of the king, and enabled to pursue
+their philosophical speculations and researches, in freedom from all
+care, and in the society of fellow-workers of equal birth and identical
+interests.
+
+An extensive library, in which thousands of papyrus-rolls were preserved,
+and to which a manufactory of papyrus was attached, was at the disposal
+of the learned; and some of them were intrusted with the education of the
+younger disciples, who had been prepared in the elementary school, which
+was also dependent on the House--or university--of Seti.  The lower
+school was open to every son of a free citizen, and was often frequented
+by several hundred boys, who also found night-quarters there.  The
+parents were of course required either to pay for their maintenance, or
+to send due supplies of provisions for the keep of their children at
+school.
+
+In a separate building lived the temple-boarders, a few sons of the
+noblest families, who were brought up by the priests at a great expense
+to their parents.
+
+Seti I., the founder of this establishment, had had his own sons, not
+excepting Rameses, his successor, educated here.
+
+The elementary schools were strictly ruled, and the rod played so large a
+part in them, that a pedagogue could record this saying: "The scholar's
+ears are at his back: when he is flogged then he hears."
+
+Those youths who wished to pass up from the lower to the high-school had
+to undergo an examination.  The student, when he had passed it, could
+choose a master from among the learned of the higher grades, who
+undertook to be his philosophical guide, and to whom he remained attached
+all his life through, as a client to his patron.  He could obtain the
+degree of "Scribe" and qualify for public office by a second examination.
+
+Near to these schools of learning there stood also a school of art, in
+which instruction was given to students who desired to devote themselves
+to architecture, sculpture, or painting; in these also the learner might
+choose his master.
+
+Every teacher in these institutions belonged to the priesthood of the
+House of Seti.  It consisted of more than eight hundred members, divided
+into five classes, and conducted by three so-called Prophets.
+
+The first prophet was the high-priest of the House of Seti, and at the
+same time the superior of all the thousands of upper and under servants
+of the divinities which belonged to the City of the Dead of Thebes.
+
+The temple of Seti proper was a massive structure of limestone.  A row of
+Sphinxes led from the Nile to the surrounding wall, and to the first vast
+pro-pylon, which formed the entrance to a broad fore-court, enclosed on
+the two sides by colonnades, and beyond which stood a second gate-way.
+When he had passed through this door, which stood between two towers, in
+shape like truncated pyramids, the stranger came to a second court
+resembling the first, closed at the farther end by a noble row of
+pillars, which formed part of the central temple itself.
+
+The innermost and last was dimly lighted by a few lamps.
+
+Behind the temple of Seti stood large square structures of brick of the
+Nile mud, which however had a handsome and decorative effect, as the
+humble material of which they were constructed was plastered with lime,
+and that again was painted with colored pictures and hieroglyphic
+inscriptions.
+
+The internal arrangement of all these houses was the same.  In the midst
+was an open court, on to which opened the doors of the rooms of the
+priests and philosophers.  On each side of the court was a shady, covered
+colonnade of wood, and in the midst a tank with ornamental plants.  In
+the upper story were the apartments for the scholars, and instruction was
+usually given in the paved courtyard strewn with mats.
+
+The most imposing was the house of the chief prophets; it was
+distinguished by its waving standards and stood about a hundred paces
+behind the temple of Seti, between a well kept grove and a clear lake--
+the sacred tank of the temple; but they only occupied it while fulfilling
+their office, while the splendid houses which they lived in with their
+wives and children, lay on the other side of the river, in Thebes proper.
+
+The untimely visit to the temple could not remain unobserved by the
+colony of sages.  Just as ants when a hand breaks in on their dwelling,
+hurry restlessly hither and thither, so an unwonted stir had agitated,
+not the school-boys only, but the teachers and the priests.  They
+collected in groups near the outer walls, asking questions and hazarding
+guesses.  A messenger from the king had arrived--the princess Bent-Anat
+had been attacked by the Kolchytes--and a wag among the school-boys who
+had got out, declared that Paaker, the king's pioneer, had been brought
+into the temple by force to be made to learn to write better.  As the
+subject of the joke had formerly been a pupil of the House of Seti, and
+many delectable stories of his errors in penmanship still survived in the
+memory of the later generation of scholars, this information was received
+with joyful applause; and it seemed to have a glimmer of probability, in
+spite of the apparent contradiction that Paaker filled one of the highest
+offices near the king, when a grave young priest declared that he had
+seen the pioneer in the forecourt of the temple.
+
+The lively discussion, the laughter and shouting of the boys at such an
+unwonted hour, was not unobserved by the chief priest.
+
+This remarkable prelate, Ameni the son of Nebket, a scion of an old and
+noble family, was far more than merely the independent head of the
+temple-brotherhood, among whom he was prominent for his power and wisdom;
+for all the priesthood in the length and breadth of the land acknowledged
+his supremacy, asked his advice in difficult cases, and never resisted
+the decisions in spiritual matters which emanated from the House of Seti
+--that is to say, from Ameni.  He was the embodiment of the priestly
+idea; and if at times he made heavy--nay extraordinary--demands on
+individual fraternities, they were submitted to, for it was known by
+experience that the indirect roads which he ordered them to follow all
+converged on one goal, namely the exaltation of the power and dignity of
+the hierarchy.  The king appreciated this remarkable man, and had long
+endeavored to attach him to the court, as keeper of the royal seal; but
+Ameni was not to be induced to give up his apparently modest position;
+for he contemned all outward show and ostentatious titles; he ventured
+sometimes to oppose a decided resistance to the measures of the Pharaoh,
+
+     [Pharaoh is the Hebrew form of the Egyptian Peraa--or Phrah.  "The
+     great house," "sublime house," or "high gate" is the literal
+     meaning.]
+
+and was not minded to give up his unlimited control of the priests for
+the sake of a limited dominion over what seemed to him petty external
+concerns, in the service of a king who was only too independent and hard
+to influence.
+
+He regularly arranged his mode and habits of life in an exceptional way.
+
+Eight days out of ten he remained in the temple entrusted to his charge;
+two he devoted to his family, who lived on the other bank of the Nile;
+but he let no one, not even those nearest to him, know what portion of
+the ten days he gave up to recreation.  He required only four hours of
+sleep.  This he usually took in a dark room which no sound could reach,
+and in the middle of the day; never at night, when the coolness and quiet
+seemed to add to his powers of work, and when from time to time he could
+give himself up to the study of the starry heavens.
+
+All the ceremonials that his position required of him, the cleansing,
+purification, shaving, and fasting he fulfilled with painful exactitude,
+and the outer bespoke the inner man.
+
+Ameni was entering on his fiftieth year; his figure was tall, and had
+escaped altogether the stoutness to which at that age the Oriental is
+liable.  The shape of his smoothly-shaven head was symmetrical and of a
+long oval; his forehead was neither broad nor high, but his profile was
+unusually delicate, and his face striking; his lips were thin and dry,
+and his large and piercing eyes, though neither fiery nor brilliant, and
+usually cast down to the ground under his thick eyebrows, were raised
+with a full, clear, dispassionate gaze when it was necessary to see and
+to examine.
+
+The poet of the House of Seti, the young Pentaur, who knew these eyes,
+had celebrated them in song, and had likened them to a well-disciplined
+army which the general allows to rest before and after the battle, so
+that they may march in full strength to victory in the fight.
+
+The refined deliberateness of his nature had in it much that was royal as
+well as priestly; it was partly intrinsic and born with him, partly the
+result of his own mental self-control.  He had many enemies, but calumny
+seldom dared to attack the high character of Amemi.
+
+The high-priest looked up in astonishment, as the disturbance in the
+court of the temple broke in on his studies.
+
+The room in which he was sitting was spacious and cool; the lower part of
+the walls was lined with earthenware tiles, the upper half plastered and
+painted.  But little was visible of the masterpieces of the artists of
+the establishment, for almost everywhere they were concealed by wooden
+closets and shelves, in which were papyrus-rolls and wax-tablets.  A
+large table, a couch covered with a panther's skin, a footstool in front
+of it, and on it a crescent-shaped support for the head, made of ivory,
+
+     [A support of crescent form on which the Egyptians rested their
+     heads.  Many specimens were found in the catacombs, and similar
+     objects are still used in Nubia]
+
+several seats, a stand with beakers and jugs, and another with flasks of
+all sizes, saucers, and boxes, composed the furniture of the room, which
+was lighted by three lamps, shaped like birds and filled with kiki oil.--
+[Castor oil, which was used in the lamps.]
+
+Ameni wore a fine pleated robe of snow-white linen, which reached to his
+ankles, round his hips was a scarf adorned with fringes, which in front
+formed an apron, with broad, stiffened ends which fell to his knees; a
+wide belt of white and silver brocade confined the drapery of his robe.
+Round his throat and far down on his bare breast hung a necklace more
+than a span deep, composed of pearls and agates, and his upper arm was
+covered with broad gold bracelets.  He rose from the ebony seat with
+lion's feet, on which he sat, and beckoned to a servant who squatted by
+one of the walls of the sitting-room.  He rose and without any word of
+command from his master, he silently and carefully placed on the high-
+priest's bare head a long and thick curled wig,
+
+     [Egyptians belonging to the higher classes wore wigs on their shaven
+     heads.  Several are preserved in museums.]
+
+and threw a leopard-skin, with its head and claws overlaid with gold-
+leaf, over his shoulders.  A second servant held a metal mirror before
+Ameni, in which he cast a look as he settled the panther-skin and head-
+gear.
+
+A third servant was handing him the crosier, the insignia of his dignity
+as a prelate, when a priest entered and announced the scribe Pentaur.
+
+Ameni nodded, and the young priest who had talked with the princess Bent-
+Anat at the temple-gate came into the room.
+
+Pentaur knelt and kissed the hand of the prelate, who gave him his
+blessing, and in a clear sweet voice, and rather formal and unfamiliar
+language--as if he were reading rather than speaking, said:
+
+"Rise, my son; your visit will save me a walk at this untimely hour,
+since you can inform me of what disturbs the disciples in our temple.
+Speak."
+
+"Little of consequence has occurred, holy father," replied Pentaur.  "Nor
+would I have disturbed thee at this hour, but that a quite unnecessary
+tumult has been raised by the youths; and that the princess Bent-Anat
+appeared in person to request the aid of a physician.  The unusual hour
+and the retinue that followed her--"
+
+"Is the daughter of Pharaoh sick?"  asked the prelate.
+
+"No, father.  She is well--even to wantonness, since--wishing to prove
+the swiftness of her horses--she ran over the daughter of the paraschites
+Pinem.  Noble-hearted as she is, she herself carried the sorely-wounded
+girl to her house."
+
+"She entered the dwelling of the unclean."
+
+"Thou hast said."
+
+"And she now asks to be purified?"
+
+"I thought I might venture to absolve her, father, for the purest
+humanity led her to the act, which was no doubt a breach of discipline,
+but--"
+
+"But," asked the high-priest in a grave voice and he raised his eyes
+which he had hitherto on the ground.
+
+"But," said the young priest, and now his eyes fell, "which can surely be
+no crime.  When Ra--[The Egyptian Sun-god.]--in his golden bark sails
+across the heavens, his light falls as freely and as bountifully on the
+hut of the despised poor as on the Palace of the Pharaohs; and shall the
+tender human heart withhold its pure light--which is benevolence--from
+the wretched, only because they are base?"
+
+"It is the  poet  Pentaur that speaks," said the prelate, "and not the
+priest to whom the privilege was given to be initiated into the highest
+grade of the sages, and whom I call my brother and my equal.  I have no
+advantage over you, young man, but perishable learning, which the past
+has won for you as much as for me--nothing but certain perceptions and
+experiences that offer nothing new, to the world, but teach us, indeed,
+that it is our part to maintain all that is ancient in living efficacy
+and practice.  That which you promised a few weeks since, I many years
+ago vowed to the Gods; to guard knowledge as the exclusive possession of
+the initiated.  Like fire, it serves those who know its uses to the
+noblest ends, but in the hands of children--and the people, the mob, can
+never ripen into manhood--it is a destroying brand, raging and
+unextinguishable, devouring all around it, and destroying all that has
+been built and beautified by the past.  And how can we remain the Sages
+and continue to develop and absorb all learning within the shelter of our
+temples, not only without endangering the weak, but for their benefit?
+You know and have sworn to act after that knowledge.  To bind the crowd
+to the faith and the institutions of the fathers is your duty--is the
+duty of every priest.  Times have changed, my son; under the old kings
+the fire, of which I spoke figuratively to you--the poet--was enclosed in
+brazen walls which the people passed stupidly by.  Now I see breaches in
+the old fortifications; the eyes of the uninitiated have been sharpened,
+and one tells the other what he fancies he has spied, though half-
+blinded, through the glowing rifts."
+
+A slight emotion had given energy to the tones of the speaker, and while
+he held the poet spell-bound with his piercing glance he continued:
+
+"We curse and expel any one of the initiated who enlarges these breaches;
+we punish even the friend who idly neglects to repair and close them with
+beaten brass!"
+
+"My father!"  cried Pentaur, raising his head in astonishment while the
+blood mounted to his cheeks.  The high-priest went up to him and laid
+both hands on his shoulders.
+
+They were of equal height and of equally symmetrical build;  even the
+outline of their features was similar.  Nevertheless no one would have
+taken them to be even distantly related; their countenances were so
+infinitely unlike in expression.
+
+On the face of one were stamped a strong will and the power of firmly
+guiding his life and commanding himself; on the other, an amiable desire
+to overlook the faults and defects of the world, and to contemplate life
+as it painted itself in the transfiguring magic-mirror of his poet's
+soul.  Frankness and enjoyment spoke in his sparkling eye, but the subtle
+smile on his lips when he was engaged in a discussion, or when his soul
+was stirred, betrayed that Pentaur, far from childlike carelessness, had
+fought many a severe mental battle, and had tasted the dark waters of
+doubt.
+
+At this moment mingled feelings were struggling in his soul.  He felt as
+if he must withstand the speaker; and yet the powerful presence of the
+other exercised so strong an influence over his mind, long trained to
+submission, that he was silent, and a pious thrill passed through him
+when Ameni's hands were laid on his shoulders.
+
+"I blame you," said the high-priest, while he firmly held the young man,
+"nay, to my sorrow I must chastise you; and yet," he said, stepping back
+and taking his right hand, "I rejoice in the necessity, for I love you
+and honor you, as one whom the Unnameable has blessed with high gifts and
+destined to great things.  Man leaves a weed to grow unheeded or roots it
+up but you are a noble tree, and I am like the gardener who has forgotten
+to provide it with a prop, and who is now thankful to have detected a
+bend that reminds him of his neglect.  You look at me enquiringly, and I
+can see in your eyes that I seem to you a severe judge.  Of what are you
+accused?  You have suffered an institution of the past to be set aside.
+It does not matter--so the short-sighted and heedless think; but I say to
+you, you have doubly transgressed, because the wrong-doer was the king's
+daughter, whom all look up to, great and small, and whose actions may
+serve as an example to the people.  On whom then must a breach of the
+ancient institutions lie with the darkest stain if not on the highest in
+rank?  In a few days it will be said the paraschites are men even as we
+are, and the old law to avoid them as unclean is folly.  And will the
+reflections of the people, think you, end there, when it is so easy for
+them to say that he who errs in one point may as well fail in all?  In
+questions of faith, my son, nothing is insignificant.  If we open one
+tower to the enemy he is master of the whole fortress.  In these
+unsettled times our sacred lore is like a chariot on the declivity of a
+precipice, and under the wheels thereof a stone.  A child takes away the
+stone, and the chariot rolls down into the abyss and is dashed to pieces.
+Imagine the princess to be that child, and the stone a loaf that she
+would fain give to feed a beggar.  Would you then give it to her if your
+father and your mother and all that is dear and precious to you were in
+the chariot?  Answer not! the princess will visit the paraschites again
+to-morrow.  You must await her in the man's hut, and there inform her
+that she has transgressed and must crave to be purified by us.  For this
+time you are excused from any further punishment.
+
+"Heaven has bestowed on you a gifted soul.  Strive for that which is
+wanting to you--the strength to subdue, to crush for One--and you know
+that One--all things else--even the misguiding voice of your heart, the
+treacherous voice of your judgment.--But stay! send leeches to the house
+of the paraschites, and desire them to treat the injured girl as though
+she were the queen herself.  Who knows where the man dwells?"
+
+"The princess," replied Pentaur, "has left Paaker, the king's pioneer,
+behind in the temple to conduct the leeches to the house of Pinem."
+
+The grave high-priest smiled and said.  "Paaker! to attend the daughter
+of a paraschites."
+
+Pentaur half beseechingly and half in fun raised his eyes which he had
+kept cast down.  "And Pentaur," he murmured, "the gardener's son! who is
+to refuse absolution to the king's daughter!"
+
+"Pentaur, the minister of the Gods--Pentaur, the priest--has not to do
+with the daughter of the king, but with the transgressor of the sacred
+institutions," replied Ameni gravely.  "Let Paaker know I wish to speak
+with him."
+
+The poet bowed low and quitted the room, the high priest muttered to
+himself: "He is not yet what he should be, and speech is of no effect
+with him."
+
+For a while lie was silent, walking to and fro in meditation; then he
+said half aloud, "And the boy is destined to great things.  What gifts of
+the Gods doth he lack?  He has the faculty of learning--of thinking--of
+feeling--of winning all hearts, even mine.  He keeps himself undefiled
+and separate--"suddenly the prelate paused and struck his hand on the
+back of a chair that stood by him.  "I have it; he has not yet felt the
+fire of ambition.  We will light it for his profit and our own."
+
+
+
+
+CHAPTER III.
+
+Pentauer hastened to execute the commands of the high-priest.  He sent a
+servant to escort Paaker, who was waiting in the forecourt, into the
+presence of Ameni while he himself repaired to the physicians to impress
+on them the most watchful care of the unfortunate girl.
+
+Many proficients in the healing arts were brought up in the house of
+Seti, but few used to remain after passing the examination for the degree
+of Scribe.
+
+     [What is here stated with regard to the medical schools is
+     principally derived from the medical writings of the Egyptians
+     themselves, among which the "Ebers Papyrus" holds the first place,
+     "Medical Papyrus I." of Berlin the second, and a hieratic MS. in
+     London which, like the first mentioned, has come down to us from the
+     18th dynasty, takes the third.  Also see Herodotus II. 84.  Diodorus
+     I. 82.]
+
+The most gifted were sent to Heliopolis, where flourished, in the great
+"Hall of the Ancients," the most celebrated medical faculty of the whole
+country, whence they returned to Thebes, endowed with the highest honors
+in surgery, in ocular treatment, or in any other branch of their
+profession, and became physicians to the king or made a living by
+imparting their learning and by being called in to consult on serious
+cases.
+
+Naturally most of the doctors lived on the east bank of the Nile, in
+Thebes proper, and even in private houses with their families; but each
+was attached to a priestly college.
+
+Whoever required a physician sent for him, not to his own house, but to a
+temple.  There a statement was required of the complaint from which the
+sick was suffering, and it was left to the principal medical staff of the
+sanctuary to select that of the healing art whose special knowledge
+appeared to him to be suited for the treatment of the case.
+
+Like all priests, the physicians lived on the income which came to them
+from their landed property, from the gifts of the king, the contributions
+of the laity, and the share which was given them of the state-revenues;
+they expected no honorarium from their patients, but the restored sick
+seldom neglected making a present to the sanctuary whence a physician had
+come to them, and it was not unusual for the priestly leech to make the
+recovery of the sufferer conditional on certain gifts to be offered to
+the temple.
+
+The medical knowledge of the Egyptians was, according to every
+indication, very considerable; but it was natural that physicians, who
+stood by the bed of sickness as "ordained servants of the Divinity,"
+should not be satisfied with a rational treatment of the sufferer, and
+should rather think that they could not dispense with the mystical
+effects of prayers and vows.
+
+Among the professors of medicine in the House of Seti there were men of
+the most different gifts and bent of mind; but Pentaur was not for a
+moment in doubt as to which should be entrusted with the treatment of the
+girl who had been run over, and for whom he felt the greatest sympathy.
+
+The one he chose was the grandson of a celebrated leech, long since dead,
+whose name of Nebsecht he had inherited, and a beloved school-friend and
+old comrade of Pentaur.
+
+This young man had from his earliest years shown high and hereditary
+talent for the profession to which he had devoted himself; he had
+selected surgery
+
+     [Among the six hermetic books of medicine mentioned by Clement of
+     Alexandria, was one devoted to surgical instruments: otherwise the
+     very badly-set fractures found in some of the mummies do little
+     honor to the Egyptian surgeons.]
+
+for his special province at Heliopolis, and would certainly have attained
+the dignity of teacher there if an impediment in his speech had not
+debarred him from the viva voce recitation of formulas and prayers.
+
+This circumstance, which was deeply lamented by his parents and tutors,
+was in fact, in the best opinions, an advantage to him; for it often
+happens that apparent superiority does us damage, and that from apparent
+defect springs the saving of our life.
+
+Thus, while the companions of Nebsecht were employed in declaiming or
+in singing, he, thanks to his fettered tongue, could give himself up to
+his inherited and almost passionate love of observing organic life; and
+his teachers indulged up to a certain point his innate spirit of
+investigation, and derived benefit from his knowledge of the human
+and animal structures, and from the dexterity of his handling.
+
+His deep aversion for the magical part of his profession would have
+brought him heavy punishment, nay very likely would have cost him
+expulsion from the craft, if he had ever given it expression in any form.
+But Nebsecht's was the silent and reserved nature of the learned man, who
+free from all desire of external recognition, finds a rich satisfaction
+in the delights of investigation; and he regarded every demand on him to
+give proof of his capacity, as a vexatious but unavoidable intrusion on
+his unassuming but laborious and fruitful investigations.
+
+Nebsecht was dearer and nearer to Pentaur than any other of his
+associates.
+
+He admired his learning and skill; and when the slightly-built surgeon,
+who was indefatigable in his wanderings, roved through the thickets by
+the Nile, the desert, or the mountain range, the young poet-priest
+accompanied him with pleasure and with great benefit to himself, for his
+companion observed a thousand things to which without him he would have
+remained for ever blind; and the objects around him, which were known to
+him only by their shapes, derived connection and significance from the
+explanations of the naturalist, whose intractable tongue moved freely
+when it was required to expound to his friend the peculiarities of
+organic beings whose development he had been the first to detect.
+
+The poet was dear in the sight of Nebsecht, and he loved Pentaur, who
+possessed all the gifts he lacked; manly beauty, childlike lightness of
+heart, the frankest openness, artistic power, and the gift of expressing
+in word and song every emotion that stirred his soul.  The poet was as a
+novice in the order in which Nebsecht was master, but quite capable of
+understanding its most difficult points; so it happened that Nebsecht
+attached greater value to his judgment than to that of his own
+colleagues, who showed themselves fettered by prejudice, while
+Pentaur's decision always was free and unbiassed.
+
+The naturalist's room lay on the ground floor, and had no living-rooms
+above it, being under one of the granaries attached to the temple.  It
+was as large as a public hall, and yet Pentaur, making his way towards
+the silent owner of the room, found it everywhere strewed with thick
+bundles of every variety of plant, with cages of palm-twigs piled four or
+five high, and a number of jars, large and small, covered with perforated
+paper.  Within these prisons moved all sorts of living creatures, from
+the jerboa, the lizard of the Nile, and a light-colored species of owl,
+to numerous specimens of frogs, snakes, scorpions and beetles.
+
+On the solitary table in the middle of the room, near to a writing-stand,
+lay bones of animals, with various sharp flints and bronze knives.
+
+In a corner of this room lay a mat, on which stood a wooden head-prop,
+indicating that the naturalist was in the habit of sleeping on it.
+
+When Pentaur's step was heard on the threshold of this strange abode, its
+owner pushed a rather large object under the table, threw a cover over
+it, and hid a sharp flint scalpel
+
+     [The Egyptians seem to have preferred to use flint instruments for
+     surgical purposes, at any rate for the opening of bodies and for
+     circumcision.  Many flint instruments have been found and preserved
+     in museums.]
+
+fixed into a wooden handle, which he had just been using, in the folds of
+his robe-as a school-boy might hide some forbidden game from his master.
+Then he crossed his arms, to give himself the aspect of a man who is
+dreaming in harmless idleness.
+
+The solitary lamp, which was fixed on a high stand near his chair, shed a
+scanty light, which, however, sufficed to show him his trusted friend
+Pentaur, who had disturbed Nebsecht in his prohibited occupations.
+Nebsecht nodded to him as he entered, and, when he had seen who it was,
+said:
+
+"You need not have frightened me so!"  Then he drew out from under the
+table the object he had hidden--a living rabbit fastened down to a board-
+and continued his interrupted observations on the body, which he had
+opened and fastened back with wooden pins while the heart continued to
+beat.
+
+He took no further notice of Pentaur, who for some time silently watched
+the investigator; then he laid his hand on his shoulder and said:
+
+"Lock your door more carefully, when you are busy with forbidden things."
+
+"They took--they took away the bar of the door lately," stammered the
+naturalist, "when they caught me dissecting the hand of the forger
+Ptahmes."--[The law sentenced forgers to lose a hand.]
+
+"The mummy of the poor man will find its right hand wanting," answered
+the poet.
+
+"He will not want it out there."
+
+"Did you bury the least bit of an image in his grave?"
+
+     [Small statuettes, placed in graves to help the dead in the work
+     performed in the under-world.  They have axes and ploughs in their
+     hands, and seed-bags on their backs.  The sixth chapter of the Book
+     of the Dead is inscribed on nearly all.]
+
+"Nonsense."
+
+"You go very far, Nebsecht, and are not foreseeing, 'He who needlessly
+hurts an innocent animal shall be served in the same way by the spirits
+of the netherworld,' says the law; but I see what you will say.  You hold
+it lawful to put a beast to pain, when you can thereby increase that
+knowledge by which you alleviate the sufferings of man, and enrich--"
+
+"And do not you?"
+
+A gentle smile passed over Pentaur's face; leaned over the animal and
+said:
+
+"How curious! the little beast still lives and breathes; a man would have
+long been dead under such treatment.  His organism is perhaps of a more
+precious, subtle, and so more fragile nature?"
+
+Nebsecht shrugged his shoulders.
+
+"Perhaps!"  he said.
+
+"I thought you must know."
+
+"I--how should I?"  asked the leech.  "I have told you--they would not
+even let me try to find out how the hand of a forger moves."
+
+"Consider, the scripture tells us the passage of the soul depends on the
+preservation of the body."
+
+Nebsecht looked up with his cunning little eyes and shrugging his
+shoulders, said:
+
+"Then no doubt it is so: however these things do not concern me.  Do what
+you like with the souls of men; I seek to know something of their bodies,
+and patch them when they are damaged as well as may be."
+
+"Nay-Toth be praised, at least you need not deny that you are master in
+that art."
+
+     [Toth is the god of the learned and of physicians.  The Ibis was
+     sacred to him, and he was usually represented as Ibis-headed.  Ra
+     created him "a beautiful light to show the name of his evil enemy."
+     Originally the Dfoon-god, he became the lord of time and measure.
+     He is the weigher, the philosopher among the gods, the lord of
+     writing, of art and of learning.  The Greeks called him Hermes
+     Trismegistus, i.e. threefold or "very great" which was, in fact, in
+     imitation of the Egyptians, whose name Toth or Techud signified
+     twofold, in the same way "very great"]
+
+"Who is master," asked Nebsecht, "excepting God?  I can do nothing,
+nothing at all, and guide my instruments with hardly more certainty than
+a sculptor condemned to work in the dark."
+
+"Something like the blind Resu then," said Pentaur smiling, "who
+understood painting better than all the painters who could see."
+
+"In my operations there is a 'better' and a 'worse;'" said Nebsecht, "but
+there is nothing 'good.'"
+
+"Then we must be satisfied with the 'better,' and I have come to claim
+it," said Pentaur.
+
+"Are you ill?"
+
+"Isis be praised, I feel so well that I could uproot a palm-tree, but I
+would ask you to visit a sick girl.  The princess Bent-Anat--"
+
+"The royal family has its own physicians."
+
+"Let me speak! the princess Bent-Anat has run over a young girl, and the
+poor child is seriously hurt."
+
+"Indeed," said the student reflectively.  "Is she over there in the city,
+or here in the Necropolis?"
+
+"Here.  She is in fact the daughter of a paraschites."
+
+"Of a paraschites?"  exclaimed Nebsecht, once more slipping the rabbit
+under the table, then I will go."
+
+"You curious fellow.  I believe you expect to find something strange
+among the unclean folk."
+
+"That is my affair; but I will go.  What is the man's name?"
+
+"Pinem."
+
+"There will be nothing to be done with him," muttered the student,
+"however--who knows?"
+
+With these words he rose, and opening a tightly closed flask he dropped
+some strychnine on the nose and in the mouth of the rabbit, which
+immediately ceased to breathe.  Then he laid it in a box and said, "I am
+ready."
+
+"But you cannot go out of doors in this stained dress."
+
+The physician nodded assent, and took from a chest a clean robe, which he
+was about to throw on over the other!  but Pentaur hindered him.  "First
+take off your working dress," he said laughing.  "I will help you.  But,
+by Besa, you have as many coats as an onion."
+
+     [Besa, the god of the toilet of the Egyptians.  He was represented
+     as a deformed pigmy.  He led the women to conquest in love, and the
+     men in war.  He was probably of Arab origin.]
+
+Pentaur was known as a mighty laugher among his companions, and his loud
+voice rung in the quiet room, when he discovered that his friend was
+about to put a third clean robe over two dirty ones, and wear no less
+than three dresses at once.
+
+Nebsecht laughed too, and said, "Now I know why my clothes were so heavy,
+and felt so intolerably hot at noon.  While I get rid of my superfluous
+clothing, will you go and ask the high-priest if I have leave to quit the
+temple."
+
+"He commissioned me to send a leech to the paraschites, and added that
+the girl was to be treated like a queen."
+
+"Ameni? and did he know that we have to do with a paraschites?"
+
+"Certainly."
+
+"Then I shall begin to believe that broken limbs may be set with vows-
+aye, vows!  You know I cannot go alone to the sick, because my leather
+tongue is unable to recite the sentences or to wring rich offerings for
+the temple from the dying.  Go, while I undress, to the prophet Gagabu
+and beg him to send the pastophorus Teta, who usually accompanies me."
+
+"I would seek a young assistant rather than that blind old man."
+
+"Not at all.  I should be glad if he would stay at home, and only let his
+tongue creep after me like an eel or a slug.  Head and heart have nothing
+to do with his wordy operations, and they go on like an ox treading out
+corn."
+
+     [In Egypt, as in Palestine, beasts trod out the corn, as we learn
+     from many pictures m the catacombs, even in the remotest ages;
+     often with the addition of a weighted sledge, to the runners of
+     which rollers are attached.  It is now called noreg.]
+
+"It is true," said Pentaur; "just lately I saw the old man singing out
+his litanies by a sick-bed, and all the time quietly counting the dates,
+of which they had given him a whole sack-full."
+
+"He will be unwilling to go to the paraschites, who is poor, and he would
+sooner seize the whole brood of scorpions yonder than take a piece of
+bread from the hand of the unclean.  Tell him to come and fetch me, and
+drink some wine.  There stands three days' allowance; in this hot weather
+it dims my sight.
+
+"Does the paraschites live to the north or south of the Necropolis?"
+
+"I think to the north.  Paaker, the king's pioneer, will show you the
+way."
+
+"He!" exclaimed the student, laughing.  "What day in the calendar is
+this, then?
+
+     [Calendars have been preserved, the completest is the papyrus
+     Sallier IV., which has been admirably treated by F. Chabas.  Many
+     days are noted as lucky, unlucky, etc.  In the temples many
+     Calendars of feasts have been found, the most perfect at Medinet
+     Abu, deciphered by Dumich.]
+
+The child of a paraschites is to be tended like a princess, and a leech
+have a noble to guide him, like the Pharaoh himself!  I ought to have
+kept on my three robes!"
+
+"The night is warm," said Pentaur.
+
+"But Paaker has strange ways with him.  Only the day before yesterday I
+was called to a poor boy whose collar bone he had simply smashed with his
+stick.  If I had been the princess's horse I would rather have trodden
+him down than a poor little girl."
+
+"So would I," said Pentaur laughing, and left the room to request The
+second prophet Gagabu, who was also the head of the medical staff of the
+House of Seti, to send the blind pastophorus
+
+     [The Pastophori were an order of priests to which the physicians
+     belonged.]
+
+Teta, with his friend as singer of the litany.
+
+
+
+
+CHAPTER IV.
+
+Pentaur knew where to seek Gagabu, for he himself had been invited to the
+banquet which the prophet had prepared in honor of two sages who had
+lately come to the House of Seti from the university of Chennu.
+
+     [Chennu was situated on a bend of the Nile, not far from the Nubian
+     frontier; it is now called Gebel Silsilch; it was in very ancient
+     times the seat of a celebrated seminary.]
+
+In an open court, surrounded by gaily-painted wooden pillars, and lighted
+by many lamps, sat the feasting priests in two long rows on comfortable
+armchairs.  Before each stood a little table, and servants were occupied
+in supplying them with the dishes and drinks, which were laid out on a
+splendid table in the middle of the court.  Joints of gazelle,
+
+     [Gazelles were tamed for domestic animals: we find them in the
+     representations of the herds of the wealthy Egyptians and as
+     slaughtered for food.  The banquet is described from the pictures of
+     feasts which have been found in the tombs.]
+
+roast geese and ducks, meat pasties, artichokes, asparagus and other
+vegetables, and various cakes and sweetmeats were carried to the guests,
+and their beakers well-filled with the choice wines of which there was
+never any lack in the lofts of the House of Seti.
+
+     [Cellars maintain the mean temperature of the climate, and in Egypt
+     are hot  Wine was best preserved in shady and airy lofts.]
+
+In the spaces between the guests stood servants with metal bowls, in
+which they might wash their hands, and towels of fine linen.
+
+When their hunger was appeased, the wine flowed more freely, and each
+guest was decked with sweetly-smelling flowers, whose odor was supposed
+to add to the vivacity of the conversation.
+
+Many of the sharers in this feast wore long, snowwhite garments, and were
+of the class of the Initiated into the mysteries of the faith, as well as
+chiefs of the different orders of priests of the House of Seti.
+
+The second prophet, Gagabu, who was to-day charged with the conduct of
+the feast by Ameni--who on such occasions only showed himself for a few
+minutes--was a short, stout man with a bald and almost spherical head.
+His features were those of a man of advancing years, but well-formed, and
+his smoothly-shaven, plump cheeks were well-rounded.  His grey eyes
+looked out cheerfully and observantly, but had a vivid sparkle when he
+was excited and began to twitch his thick, sensual mouth.
+
+Close by him stood the vacant, highly-ornamented chair of the high-
+priest, and next to him sat the priests arrived from Chennu, two tall,
+dark-colored old men.  The remainder of the company was arranged in the
+order of precedency, which they held in the priests' colleges, and which
+bore no relation to their respective ages.
+
+But strictly as the guests were divided with reference to their rank,
+they mixed without distinction in the conversation.
+
+"We know how to value our call to Thebes," said the elder of the
+strangers from Chennu, Tuauf, whose essays were frequently used in the
+schools,--[Some of them are still in existence]--"for while, on one hand,
+it brings us into the neighborhood of the Pharaoh, where life, happiness,
+and safety flourish, on the other it procures us the honor of counting
+ourselves among your number; for, though the university of Chennu in
+former times was so happy as to bring up many great men, whom she could
+call her own, she can no longer compare with the House of Seti.  Even
+Heliopolis and Memphis are behind you; and if I, my humble self,
+nevertheless venture boldly among you, it is because I ascribe your
+success as much to the active influence of the Divinity in your temple,
+which may promote my acquirements and achievements, as to your great
+gifts and your industry, in which I will not be behind you.  I have
+already seen your high-priest Ameni--what a man!  And who does not know
+thy name, Gagabu, or thine, Meriapu?"
+
+"And which of you," asked the other new-comer, may we greet as the author
+of the most beautiful hymn to Amon, which was ever sung in the land of
+the Sycamore?  Which of you is Pentaur?"
+
+"The empty chair yonder," answered Gagabu, pointing to a seat at the
+lower end of the table, "is his.  He is the youngest of us all, but a
+great future awaits him."
+
+"And his songs," added the elder of the strangers.  "Without doubt,"
+replied the chief of the haruspices,--[One of the orders of priests in
+the Egyptian hierarchy]--an old man with a large grey curly head, that
+seemed too heavy for his thin neck, which stretched forward--perhaps from
+the habit of constantly watching for signs--while his prominent eyes
+glowed with a fanatical gleam.  "Without doubt the Gods have granted
+great gifts to our young friend, but it remains to be proved how he will
+use them.  I perceive a certain freedom of thought in the youth, which
+pains me deeply.  Although in his poems his flexible style certainly
+follows the prescribed forms, his ideas transcend all tradition; and even
+in the hymns intended for the ears of the people I find turns of thought,
+which might well be called treason to the mysteries which only a few
+months ago he swore to keep secret.  For instance he says--and we sing--
+and the laity hear--
+
+              "One only art Thou, Thou Creator of beings;
+               And Thou only makest all that is created.
+
+And again--
+
+               He is one only, Alone, without equal;
+               Dwelling alone in the holiest of holies."
+
+     [Hymn to Amon preserved in a papyrus roll at Bulaq, and deciphered
+     by Grehaut and L. Stern.]
+
+Such passages as these ought not to be sung in public, at least in times
+like ours, when new ideas come in upon us from abroad, like the swarms of
+locusts from the East."
+
+"Spoken to my very soul!"  cried the treasurer of the temple, "Ameni
+initiated this boy too early into the mysteries."
+
+"In my opinion, and I am his teacher," said Gagabu, "our brotherhood may
+be proud of a member who adds so brilliantly to the fame of our temple.
+The people hear the hymns without looking closely at the meaning of the
+words.  I never saw the congregation more devout, than when the beautiful
+and deeply-felt song of praise was sung at the feast of the stairs."
+
+     [A particularly solemn festival in honor of Amon-Chem, held in the
+     temple of Medinet-Abu.]
+
+"Pentaur was always thy favorite," said the former speaker.  "Thou
+wouldst not permit in any one else many things that are allowed to
+him.  His hymns are nevertheless to me and to many others a dangerous
+performance; and canst thou dispute the fact that we have grounds for
+grave anxiety, and that things happen and circumstances grow up around
+us which hinder us, and at last may perhaps crush us, if we do not,
+while there is yet time, inflexibly oppose them?"
+
+"Thou bringest sand to the desert, and sugar to sprinkle over honey,"
+exclaimed Gagabu, and his lips began to twitch.  "Nothing is now as it
+ought to be, and there will be a hard battle to fight; not with the
+sword, but with this--and this."  And the impatient man touched his
+forehead and his lips.  "And who is there more competent than my
+disciple?  There is the champion of our cause, a second cap of Hor, that
+overthrew the evil one with winged sunbeams, and you come and would clip
+his wings and blunt his claws!  Alas, alas, my lords! will you never
+understand that a lion roars louder than a cat, and the sun shines
+brighter than an oil-lamp?  Let Pentuar alone, I say; or you will do as
+the man did, who, for fear of the toothache, had his sound teeth drawn.
+Alas, alas, in the years to come we shall have to bite deep into the
+flesh, till the blood flows, if we wish to escape being eaten up
+ourselves!"
+
+"The enemy is not unknown to us also," said the elder priest from Chennu,
+"although we, on the remote southern frontier of the kingdom, have
+escaped many evils that in the north have eaten into our body like a
+cancer.  Here foreigners are now hardly looked upon at all as unclean and
+devilish."--["Typhonisch," belonging to Typhon or Seth.--Translator.]
+
+"Hardly?"  exclaimed the chief of the haruspices; "they are invited,
+caressed, and honored.  Like dust, when the simoon blows through the
+chinks of a wooden house, they crowd into the houses and temples, taint
+our manners and language;
+
+     [At no period Egyptian writers use more Semitic words than during
+     the reigns of Rameses II. and his son Mernephtah.]
+
+nay, on the throne of the successors of Ra sits a descendant--"
+
+"Presumptuous man!"  cried the voice of the high-priest, who at this
+instant entered the hall, "Hold your tongue, and be not so bold as to wag
+it against him who is our king, and wields the sceptre in this kingdom as
+the Vicar of Ra."
+
+The speaker bowed and was silent, then he and all the company rose to
+greet Ameni, who bowed to them all with polite dignity, took his seat,
+and turning to Gagabu asked him carelessly:
+
+"I find you all in most unpriestly excitement; what has disturbed your
+equanimity?"
+
+"We were discussing the overwhelming influx of foreigners into Egypt, and
+the necessity of opposing some resistance to them."
+
+"You will find me one of the foremost in the attempt," replied Ameni.
+"We have endured much already, and news has arrived from the north, which
+grieves me deeply."
+
+"Have our troops sustained a defeat?"
+
+"They continue to be victorious, but thousands of our countrymen have
+fallen victims in the fight or on the march.  Rameses demands fresh
+reinforcements.  The pioneer, Paaker, has brought me a letter from our
+brethren who accompany the king, and delivered a document from him to the
+Regent, which contains the order to send to him fifty thousand fighting
+men: and as the whole of the soldier-caste and all the auxiliaries are
+already under arms, the bondmen of the temple, who till our acres, are to
+be levied, and sent into Asia."
+
+A murmur of disapproval arose at these words.  The chief of the
+haruspices stamped his foot, and Gagabu asked:
+
+"What do you mean to do?"
+
+"To prepare to obey the commands of the king," answered Ameni, "and to
+call the heads of the temples of the city of Anion here without delay to
+hold a council.  Each must first in his holy of holies seek good counsel
+of the Celestials.  When we have come to a conclusion, we must next win
+the Viceroy over to our side.  Who yesterday assisted at his prayers?"
+
+"It was my turn," said the chief of the haruspices.
+
+"Follow me to my abode, when the meal is over."  commanded Ameni.  "But
+why is our poet missing from our circle?"
+
+At this moment Pentaur came into the hall, and while he bowed easily and
+with dignity to the company and low before Ameni, he prayed him to grant
+that the pastophorus Teta should accompany the leech Nebsecht to visit
+the daughter of the paraschites.
+
+Ameni nodded consent and exclaimed: "They must make haste.  Paaker waits
+for them at the great gate, and will accompany them in my chariot."
+
+As soon as Pentaur had left the party of feasters, the old priest from
+Chennu exclaimed, as he turned to Ameni:
+
+"Indeed, holy father, just such a one and no other had I pictured your
+poet.  He is like the Sun-god, and his demeanor is that of a prince.
+He is no doubt of noble birth."
+
+"His father is a homely gardener," said the highpriest, "who indeed tills
+the land apportioned to him with industry and prudence, but is of humble
+birth and rough exterior.  He sent Pentaur to the school at an early
+age, and we have brought up the wonderfully gifted boy to be what he now
+is."
+
+"What office does he fill here in the temple?"
+
+"He instructs the elder pupils of the high-school in grammar and
+eloquence; he is also an excellent observer of the starry heavens, and a
+most skilled interpreter of dreams," replied Gagabu.  "But here he is
+again.  To whom is Paaker conducting our stammering physician and his
+assistant?"
+
+"To the daughter of the paraschites, who has been run over," answered
+Pentaur.  "But what a rough fellow this pioneer is.  His voice hurts my
+ears, and he spoke to our leeches as if they had been his slaves."
+
+"He was vexed with the commission the princess had devolved on him," said
+the high-priest benevolently, "and his unamiable disposition is hardly
+mitigated by his real piety."
+
+"And yet," said an old priest, "his brother, who left us some years ago,
+and who had chosen me for his guide and teacher, was a particularly
+loveable and docile youth."
+
+"And his father," said Ameni, was one of the most superior energetic, and
+withal subtle-minded of men."
+
+"Then he has derived his bad peculiarities from his mother?"
+
+"By no means.  She is a timid, amiable, soft-hearted woman."
+
+"But must the child always resemble its parents?" asked Pentaur.  "Among
+the sons of the sacred bull, sometimes not one bears the distinguishing
+mark of his father."
+
+"And if Paaker's father were indeed an Apis," Gagabu laughing, "according
+to your view the pioneer himself belongs, alas! to the peasant's stable."
+
+Pentaur did not contradict him, but said with a smile:
+
+"Since he left the school bench, where his school-fellows called him the
+wild ass on account of his unruliness, he has remained always the same.
+He was stronger than most of them, and yet they knew no greater pleasure
+than putting him in a rage."
+
+"Children are so cruel!"  said Ameni.  "They judge only by appearances,
+and never enquire into the causes of them.  The deficient are as guilty
+in their eyes as the idle, and Paaker could put forward small claims to
+their indulgence.  I encourage freedom and merriment," he continued
+turning to the priests from Cheraw, "among our disciples, for in
+fettering the fresh enjoyment of youth we lame our best assistant.  The
+excrescences on the natural growth of boys cannot be more surely or
+painlessly extirpated than in their wild games.  The school-boy is the
+school-boy's best tutor."
+
+"But Paaker," said the priest Meriapu, "was not improved by the
+provocations of his companions.  Constant contests with them increased
+that roughness which now makes him the terror of his subordinates and
+alienates all affection."
+
+"He is the most unhappy of all the many youths, who were intrusted to my
+care," said Ameni, "and I believe I know why,--he never had a childlike
+disposition, even when in years he was still a child, and the Gods had
+denied him the heavenly gift of good humor.  Youth should be modest, and
+he was assertive from his childhood.  He took the sport of his companions
+for earnest, and his father, who was unwise only as a tutor, encouraged
+him to resistance instead of to forbearance, in the idea that he thus
+would be steeled to the hard life of a Mohar."
+
+     [The severe duties of the Mohar are well known from the papyrus of
+     Anastasi I. in the Brit. Mus., which has been ably treated by F.
+     Chabas, Voyage d'un Egyptien.]
+
+"I have often heard the deeds of the Mohar spoken of," said the old
+priest from Chennu, "yet I do not exactly know what his office requires
+of him."
+
+"He has to wander among the ignorant and insolent people of hostile
+provinces, and to inform himself of the kind and number of the
+population, to investigate the direction of the mountains, valleys, and
+rivers, to set forth his observations, and to deliver them to the house
+of war,
+
+     [Corresponding to our minister of war.  A person of the highest
+     importance even in the earliest times.]
+
+so that the march of the troops may be guided by them."
+
+"The Mohar then must be equally skilled as a warrior and as a Scribe."
+
+"As thou sayest; and Paaker's father was not a hero only, but at the same
+time a writer, whose close and clear information depicted the country
+through which he had travelled as plainly as if it were seen from a
+mountain height.  He was the first who took the title of Mohar.  The king
+held him in such high esteem, that he was inferior to no one but the king
+himself, and the minister of the house of war."
+
+"Was he of noble race?"
+
+"Of one of the oldest and noblest in the country.  His father was the
+noble warrior Assa," answered the haruspex, "and he therefore, after he
+himself had attained the highest consideration and vast wealth, escorted
+home the niece of the King Hor-em-lieb, who would have had a claim to the
+throne, as well as the Regent, if the grandfather of the present Rameses
+had not seized it from the old family by violence."
+
+"Be careful of your words," said Ameni, interrupting the rash old man.
+"Rameses I. was and is the grandfather of our sovereign, and in the
+king's veins, from his mother's side, flows the blood of the legitimate
+descendants of the Sun-god."
+
+"But fuller and purer in those of the Regent the haruspex ventured to
+retort.
+
+"But Rameses wears the crown," cried Ameni, "and will continue to wear it
+so long as it pleases the Gods.  Reflect--your hairs are grey, and
+seditious words are like sparks, which are borne by the wind, but which,
+if they fall, may set our home in a blaze.  Continue your feasting, my
+lords; but I would request you to speak no more this evening of the king
+and his new decree.  You, Pentaur, fulfil my orders to-morrow morning
+with energy and prudence."
+
+The high-priest bowed and left the feast.
+
+As soon as the door was shut behind him, the old priest from Chennu
+spoke.
+
+"What we have learned concerning the pioneer of the king, a man who holds
+so high an office, surprises me.  Does he distinguish himself by a
+special acuteness?"
+
+"He was a steady learner, but of moderate ability."
+
+"Is the rank of Mohar then as high as that of a prince of the empire?"
+
+"By no means."
+
+"How then is it--?"
+
+"It is, as it is," interrupted Gagabu.  "The son of the vine-dresser has
+his mouth full of grapes, and the child of the door-keeper opens the lock
+with words."
+
+"Never mind," said an old priest who had hitherto kept silence.  "Paaker
+earned for himself the post of Mohar, and possesses many praiseworthy
+qualities.  He is indefatigable and faithful, quails before no danger,
+and has always been earnestly devout from his boyhood.  When the other
+scholars carried their pocket-money to the fruit-sellers and
+confectioners at the temple-gates, he would buy geese, and, when his
+mother sent him a handsome sum, young gazelles, to offer to the Gods on
+the altars.  No noble in the land owns a greater treasure of charms and
+images of the Gods than he.  To the present time he is the most pious of
+men, and the offerings for the dead, which he brings in the name of his
+late father, may be said to be positively kingly."
+
+"We owe him gratitude for these gifts," said the treasurer, "and the high
+honor he pays his father, even after his death, is exceptional and far-
+famed."
+
+"He  emulates him in every  respect," sneered Gagabu; "and though he does
+not resemble him in any feature, grows more and more like him.  But
+unfortunately, it is as the goose resembles the swan, or the owl
+resembles the eagle.  For his father's noble pride he has overbearing
+haughtiness; for kindly severity, rude harshness; for dignity, conceit;
+for perseverance, obstinacy.  Devout he is, and we profit by his gifts.
+The treasurer may rejoice over them, and the dates off a crooked tree
+taste as well as those off a straight one.  But if I were the Divinity I
+should prize them no higher than a hoopoe's crest; for He, who sees into
+the heart of the giver-alas! what does he see!  Storms and darkness are
+of the dominion of Seth, and in there--in there--" and the old man struck
+his broad breast "all is wrath and tumult, and there is not a gleam of
+the calm blue heaven of Ra, that shines soft and pure in the soul of the
+pious; no, not a spot as large as this wheaten-cake."
+
+"Hast thou then sounded to the depths of his soul?"  asked the haruspex.
+
+"As this beaker!" exclaimed Gagabu, and he touched the rim of an empty
+drinking-vessel.  "For fifteen years without ceasing.  The man has been
+of service to us, is so still, and will continue to be.  Our leeches
+extract salves from bitter gall and deadly poisons; and folks like
+these--"
+
+"Hatred speaks in thee," said the haruspex, interrupting the indignant
+old man.
+
+"Hatred!"  he retorted, and his lips quivered.  "Hatred?"  and he struck
+his breast with his clenched hand.  "It is true, it is no stranger to
+this old heart.  But open thine ears, O haruspex, and all you others too
+shall hear.  I recognize two sorts of hatred.  The one is between man and
+man; that I have gagged, smothered, killed, annihilated--with what
+efforts, the Gods know.  In past years I have certainly tasted its
+bitterness, and served it like a wasp, which, though it knows that in
+stinging it must die, yet uses its sting.  But now I am old in years,
+that is in knowledge, and I know that of all the powerful impulses which
+stir our hearts, one only comes solely from Seth, one only belongs wholly
+to the Evil one and that is hatred between man and man.  Covetousness may
+lead to industry, sensual appetites may beget noble fruit, but hatred is
+a devastator, and in the soul that it occupies all that is noble grows
+not upwards and towards the light, but downwards to the earth and to
+darkness.  Everything may be forgiven by the Gods, save only hatred
+between man and man.  But there is another sort of hatred that is
+pleasing to the Gods, and which you must cherish if you would not miss
+their presence in your souls; that is, hatred for all that hinders the
+growth of light and goodness and purity--the hatred of Horus for Seth.
+The Gods would punish me if I hated Paaker whose father was dear to me;
+but the spirits of darkness would possess the old heart in my breast if
+it were devoid of horror for the covetous and sordid devotee, who would
+fain buy earthly joys of the Gods with gifts of beasts and wine, as men
+exchange an ass for a robe, in whose soul seethe dark promptings.
+Paaker's gifts can no more be pleasing to the Celestials than a cask of
+attar of roses would please thee, haruspex, in which scorpions,
+centipedes, and venomous snakes were swimming.  I have long led this
+man's prayers, and never have I heard him crave for noble gifts, but a
+thousand times for the injury of the men he hates."
+
+"In the holiest prayers that come down to us from the past," said the
+haruspex, "the Gods are entreated to throw our enemies under our feet;
+and, besides, I have often heard Paaker pray fervently for the bliss of
+his parents."
+
+"You are a priest and one of the initiated," cried Gagabu, "and you know
+not--or will not seem to know--that by the enemies for whose overthrow we
+pray, are meant only the demons of darkness and the outlandish peoples by
+whom Egypt is endangered!  Paaker prayed for his parents?  Ay, and so
+will he for his children, for they will be his future as his fore fathers
+are his past.  If he had a wife, his offerings would be for her too, for
+she would be the half of his own present."
+
+"In spite of all this," said the haruspex Septah, "you are too hard in
+your judgment of Paaker, for although lie was born under a lucky sign,
+the Hathors denied him all that makes youth happy.  The enemy for whose
+destruction he prays is Mena, the king's charioteer, and, indeed, he must
+have been of superhuman magnanimity or of unmanly feebleness, if he could
+have wished well to the man who robbed him of the beautiful wife who was
+destined for him."
+
+"How could that happen?"  asked the priest from Chennu.  "A betrothal is
+sacred."
+
+     [In the demotic papyrus preserved at Bulaq (novel by Setnau) first
+     treated by H. Brugsch, the following words occur: "Is it not the
+     law, which unites one to another?"  Betrothed brides are mentioned,
+     for instance on the sarcophagus of Unnefer at Bulaq.]
+
+"Paaker," replied Septah, "was attached with all the strength of his
+ungoverned but passionate and faithful heart to his cousin Nefert, the
+sweetest maid in Thebes, the daughter of Katuti, his mother's sister; and
+she was promised to him to wife.  Then his father, whom he accompanied on
+his marches, was mortally wounded in Syria.  The king stood by his death-
+bed, and granting his last request, invested his son with his rank and
+office: Paaker brought the mummy of his father home to Thebes, gave him
+princely interment, and then before the time of mourning was over,
+hastened back to Syria, where, while the king returned to Egypt, it was
+his duty to reconnoitre the new possessions.  At last he could quit the
+scene of war with the hope of marrying Nefert.  He rode his horse to
+death the sooner to reach the goal of his desires; but when he reached
+Tanis, the city of Rameses, the news met him that his affianced cousin
+had been given to another, the handsomest and bravest man in Thebes--the
+noble Mena.  The more precious a thing is that we hope to possess, the
+more we are justified in complaining of him who contests our claim, and
+can win it from us.  Paaker's blood must have been as cold as a frog's if
+he could have forgiven Mena instead of hating him, and the cattle he has
+offered to the Gods to bring down their wrath on the head of the traitor
+may be counted by hundreds."
+
+"And if you accept them, knowing why they are offered, you do unwisely
+and wrongly," exclaimed Gagabu.  "If I were a layman, I would take good
+care not to worship a Divinity who condescends to serve the foulest human
+fiends for a reward.  But the omniscient Spirit, that rules the world in
+accordance with eternal laws, knows nothing of these sacrifices, which
+only tickle the nostrils of the evil one.  The treasurer rejoices when a
+beautiful spotless heifer is driven in among our herds.  But Seth rubs
+his red hands
+
+     [Red was the color of Seth and Typhon.  The evil one is named the
+     Red, as for instance in the papyrus of fibers.  Red-haired men were
+     typhonic.]
+
+with delight that he accepts it.  My friends, I have heard the vows which
+Paaker has poured out over our pure altars, like hogwash that men set
+before swine.  Pestilence and boils has he called down on Mena, and
+barrenness and heartache on the poor sweet woman; and I really cannot
+blame her for preferring a battle-horse to a hippopotamus--a Mena to a
+Paaker."
+
+"Yet the Immortals must have thought his remonstrances less
+unjustifiable, and have stricter views as to the inviolable nature of a
+betrothal than you," said the treasurer, "for Nefert, during four years
+of married life, has passed only a few weeks with her wandering husband,
+and remains childless.  It is hard to me to understand how you, Gagabu,
+who so often absolve where we condemn, can so relentlessly judge so great
+a benefactor to our temple."
+
+"And I fail to comprehend," exclaimed the old man, "how you--you who so
+willingly condemn, can so weakly excuse this--this--call him what you
+will."
+
+"He is indispensable to us at this time," said the haruspex.
+
+"Granted," said Gagabu, lowering his tone.  "And I think still to make
+use of him, as the high-priest has done in past years with the best
+effect when dangers have threatened us; and a dirty road serves when it
+makes for the goal.  The Gods themselves often permit safety to come from
+what is evil, but shall we therefore call evil good--or say the hideous
+is beautiful?  Make use of the king's pioneer as you will, but do not,
+because you are indebted to him for gifts, neglect to judge him according
+to his imaginings and deeds if you would deserve your title of the
+Initiated and the Enlightened.  Let him bring his cattle into our temple
+and pour his gold into our treasury, but do not defile your souls with
+the thought that the offerings of such a heart and such a hand are
+pleasing to the Divinity.  Above all," and the voice of the old man had a
+heart-felt impressiveness, "Above all, do not flatter the erring man--and
+this is what you do, with the idea that he is walking in the right way;
+for your, for our first duty, O my friends, is always this--to guide the
+souls of those who trust in us to goodness and truth."
+
+"Oh, my master!"  cried Pentaur, "how tender is thy severity."
+
+"I have shown the hideous sores of this man's soul," said the old man, as
+he rose to quit the hall.  "Your praise will aggravate them, your blame
+will tend to heal them.  Nay, if you are not content to do your duty, old
+Gagabu will come some day with his knife, and will throw the sick man
+down and cut out the canker."
+
+During this speech the haruspex had frequently shrugged his shoulders.
+Now he said, turning to the priests from Chennu--
+
+"Gagabu is a foolish, hot-headed old man, and you have heard from his
+lips just such a sermon as the young scribes keep by them when they enter
+on the duties of the care of souls.  His sentiments are excellent, but he
+easily overlooks small things for the sake of great ones.  Ameni would
+tell you that ten souls, no, nor a hundred, do not matter when the safety
+of the whole is in question."
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+A dirty road serves when it makes for the goal
+Colored cakes in the shape of beasts
+Deficient are as guilty in their eyes as the idle
+For fear of the toothache, had his sound teeth drawn
+Hatred between man and man
+Hatred for all that hinders the growth of light
+How tender is thy severity
+Judge only by appearances, and never enquire into the causes
+Often happens that apparent superiority does us damage
+Seditious words are like sparks, which are borne by the wind
+The scholar's ears are at his back: when he is flogged
+Title must not be a bill of fare
+Youth should be modest, and he was assertive
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK UARDA BY GEORG EBERS, V1 ***
+
+******This file should be named 5439.txt or 5439.zip ********
+
+This eBook was produced by David Widger
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart 
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

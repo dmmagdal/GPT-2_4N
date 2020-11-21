@@ -1,0 +1,2511 @@
+The Project Gutenberg EBook The Sisters, by Georg Ebers, v1
+#23 in our series by Georg Ebers
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**EBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These EBooks Were Prepared By Thousands of Volunteers*****
+
+
+Title: The Sisters, v1
+
+Author: Georg Ebers
+
+Release Date: April, 2004  [EBook #5461]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on May 12, 2002]
+
+Edition: 10
+
+Language: English
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE SISTERS, BY EBERS, V1 ***
+
+
+
+This eBook was produced by David Widger 
+
+
+
+[NOTE: There is a short list of bookmarks, or pointers, at the end of the
+file for those who may wish to sample the author's ideas before making an
+entire meal of them.  D.W.]
+
+
+
+
+
+
+THE SISTERS
+
+By Georg Ebers
+
+Volume 1.
+
+
+
+Translated from the German by Clara Bell
+
+
+
+
+DEDICATION TO HERR EDUARD von HALLBERGER
+
+Allow me, my dear friend, to dedicate these pages to you. I present them
+to you at the close of a period of twenty years during which a warm and
+fast friendship has subsisted between us, unbroken by any disagreement.
+Four of my works have first seen the light under your care and have
+wandered all over the world under the protection of your name.  This, my
+fifth book, I desire to make especially your own; it was partly written
+in your beautiful home at Tutzing, under your hospitable roof, and I
+desire to prove to you by some visible token that I know how to value
+your affection and friendship and the many happy hours we have passed
+together, refreshing and encouraging each other by a full and perfect
+interchange of thought and sentiment.
+
+
+
+
+PREFACE.
+
+By a marvellous combination of circumstances a number of fragments of the
+Royal Archives of Memphis have been preserved from destruction with the
+rest, containing petitions written on papyrus in the Greek language;
+these were composed by a recluse of Macedonian birth, living in the
+Serapeum, in behalf of two sisters, twins, who served the god as "Pourers
+out of the libations."
+
+At a first glance these petitions seem scarcely worthy of serious
+consideration; but a closer study of their contents shows us that we
+possess in them documents of the greatest value in the history of
+manners.  They prove that the great Monastic Idea--which under the
+influence of Christianity grew to be of such vast moral and historical
+significance--first struck root in one of the centres of heathen
+religious practices; besides affording us a quite unexpected insight into
+the internal life of the temple of Serapis, whose ruined walls have, in
+our own day, been recovered from the sand of the desert by the
+indefatigable industry of the French Egyptologist Monsieur Mariette.
+
+I have been so fortunate as to visit this spot and to search through
+every part of it, and the petitions I speak of have been familiar to me
+for years.  When, however, quite recently, one of my pupils undertook to
+study more particularly one of these documents--preserved in the Royal
+Library at Dresden--I myself reinvestigated it also, and this study
+impressed on my fancy a vivid picture of the Serapeum under Ptolemy
+Philometor; the outlines became clear and firm, and acquired color, and
+it is this picture which I have endeavored to set before the reader, so
+far as words admit, in the following pages.
+
+I did not indeed select for my hero the recluse, nor for my heroines the
+twins who are spoken of in the petitions, but others who might have lived
+at a somewhat earlier date under similar conditions; for it is proved by
+the papyrus that it was not once only and by accident that twins were
+engaged in serving in the temple of Serapis, but that, on the contrary,
+pair after pair of sisters succeeded each other in the office of pouring
+out libations.
+
+I have not invested Klea and Irene with this function, but have simply
+placed them as wards of the Serapeum and growing up within its precincts.
+I selected this alternative partly because the existing sources of
+knowledge give us very insufficient information as to the duties that
+might have been required of the twins, partly for other reasons arising
+out of the plan of my narrative.
+
+Klea and Irene are purely imaginary personages, but on the other hand I
+have endeavored, by working from tolerably ample sources, to give a
+faithful picture of the historical physiognomy of the period in which
+they live and move, and portraits of the two hostile brothers Ptolemy
+Philometor and Euergetes II., the latter of whom bore the nickname of
+Physkon: the Stout.  The Eunuch Eulaeus and the Roman Publius Cornelius
+Scipio Nasica, are also historical personages.
+
+I chose the latter from among the many young patricians living at the
+time, partly on account of the strong aristocratic feeling which he
+displayed, particularly in his later life, and partly because his
+nickname of Serapion struck me.  This name I account for in my own way,
+although I am aware that he owed it to his resemblance to a person of
+inferior rank.
+
+For the further enlightenment of the reader who is not familiar with this
+period of Egyptian history I may suggest that Cleopatra, the wife of
+Ptolemy Philometor--whom I propose to introduce to the reader--must not
+be confounded with her famous namesake, the beloved of Julius Caesar and
+Mark Antony.  The name Cleopatra was a very favorite one among the
+Lagides, and of the queens who bore it she who has become famous through
+Shakespeare (and more lately through Makart) was the seventh, the sister
+and wife of Ptolemy XIV.  Her tragical death from the bite of a viper or
+asp did not occur until 134 years later than the date of my narrative,
+which I have placed 164 years B.C.
+
+At that time Egypt had already been for 169 years subject to the rule of
+a Greek (Macedonian) dynasty, which owed its name as that of the
+Ptolemies or Lagides to its founder Ptolemy Soter, the son of Lagus.
+This energetic man, a general under Alexander the Great, when his
+sovereign--333 B.C.--had conquered the whole Nile Valley, was appointed
+governor of the new Satrapy; after Alexander's death in 323 B.C., Ptolemy
+mounted the throne of the Pharaohs, and he and his descendants ruled over
+Egypt until after the death of the last and most famous of the
+Cleopatras, when it was annexed as a province to the Roman Empire.
+
+This is not the place for giving a history of the successive Ptolemies,
+but I may remark that the assimilating faculty exercised by the Greeks
+over other nations was potent in Egypt; particularly as the result of the
+powerful influence of Alexandria, the capital founded by Alexander, which
+developed with wonderful rapidity to be one of the most splendid centres
+of Hellenic culture and of Hellenic art and science.
+
+Long before the united rule of the hostile brothers Ptolemy Philometor
+and Euergetes--whose violent end will be narrated to the reader of this
+story--Greek influence was marked in every event and detail of Egyptian
+life, which had remained almost unaffected by the characteristics of
+former conquerors--the Hyksos, the Assyrians and the Persians; and, under
+the Ptolemies, the most inhospitable and exclusive nation of early
+antiquity threw open her gates to foreigners of every race.
+
+Alexandria was a metropolis even in the modern sense; not merely an
+emporium of commerce, but a focus where the intellectual and religious
+treasures of various countries were concentrated and worked up, and
+transmitted to all the nations that desired them.  I have resisted the
+temptation to lay the scene of my story there, because in Alexandria the
+Egyptian element was too much overlaid by the Greek, and the too splendid
+and important scenery and decorations might easily have distracted the
+reader's attention from the dramatic interest of the persons acting.
+
+At that period of the Hellenic dominion which I have described, the kings
+of Egypt were free to command in all that concerned the internal affairs
+of their kingdom, but the rapidly-growing power of the Roman Empire
+enabled her to check the extension of their dominion, just as she chose.
+
+Philometor himself had heartily promoted the immigration of Israelites
+from Palestine, and under him the important Jewish community in
+Alexandria acquired an influence almost greater than the Greek; and this
+not only in the city but in the kingdom and over their royal protector,
+who allowed them to build a temple to Jehovah on the shores of the Nile,
+and in his own person assisted at the dogmatic discussions of the
+Israelites educated in the Greek schools of the city.  Euergetes II., a
+highly gifted but vicious and violent man, was, on the contrary, just as
+inimical to them; he persecuted them cruelly as soon as his brother's
+death left him sole ruler over Egypt.  His hand fell heavily even on
+the members of the Great Academy--the Museum, as it was called--
+of Alexandria, though he himself had been devoted to the grave labors
+of science, and he compelled them to seek a new home.  The exiled sons
+of learning settled in various cities on the shores of the Mediterranean,
+and thus contributed not a little to the diffusion of the intellectual
+results of the labors in the Museum.
+
+Aristarchus, the greatest of Philometor's learned contemporaries, has
+reported for us a conversation in the king's palace at Memphis.  The
+verses about "the puny child of man," recited by Cleopatra in chapter X.,
+are not genuinely antique; but Friedrich Ritschl--the Aristarchus of our
+own days, now dead--thought very highly of them and gave them to me, some
+years ago, with several variations which had been added by an anonymous
+hand, then still in the land of the living.  I have added to the first
+verse two of these, which, as I learned at the eleventh hour, were
+composed by Herr H. L. von Held, who is now dead, and of whom further
+particulars may be learned from Varnhagen's 'Biographisclaen Denkmalen'.
+Vol. VII.  I think the reader will thank me for directing his attention
+to these charming lines and to the genius displayed in the moral
+application of the main idea.  Verses such as these might very well have
+been written by Callimachus or some other poet of the circle of the early
+members of the Museum of Alexandria.
+
+I was also obliged in this narrative to concentrate, in one limited
+canvas as it were, all the features which were at once the conditions and
+the characteristics of a great epoch of civilization, and to give them
+form and movement by setting the history of some of the men then living
+before the reader, with its complications and its denouement.  All the
+personages of my story grew up in my imagination from a study of the
+times in which they lived, but when once I saw them clearly in outline
+they soon stood before my mind in a more distinct form, like people in a
+dream; I felt the poet's pleasure in creation, and as I painted them
+their blood grew warm, their pulses began to beat and their spirit to
+take wings and stir, each in its appropriate nature.  I gave history her
+due, but the historic figures retired into the background beside the
+human beings as such; the representatives of an epoch became vehicles for
+a Human Ideal, holding good for all time; and thus it is that I venture
+to offer this transcript of a period as really a dramatic romance.
+
+Leipzig November 13, 1879.
+
+GEORG EBERS.
+
+
+
+
+THE SISTERS.
+
+CHAPTER I.
+
+On the wide, desert plain of the Necropolis of Memphis stands the
+extensive and stately pile of masonry which constitutes the Greek temple
+of Serapis; by its side are the smaller sanctuaries of Asclepios, of
+Anubis and of Astarte, and a row of long, low houses, built of unburnt
+bricks, stretches away behind them as a troop of beggar children might
+follow in the train of some splendidly attired king.
+
+The more dazzlingly brilliant the smooth, yellow sandstone walls of the
+temple appear in the light of the morning sun, the more squalid and mean
+do the dingy houses look as they crouch in the outskirts.  When the winds
+blow round them and the hot sunbeams fall upon them, the dust rises from
+them in clouds as from a dry path swept by the gale.  Even the rooms
+inside are never plastered, and as the bricks are of dried Nile-mud mixed
+with chopped straw, of which the sharp little ends stick out from the
+wall in every direction, the surface is as disagreeable to touch as it is
+unpleasing to look at.  When they were first built on the ground between
+the temple itself and the wall which encloses the precincts, and which,
+on the eastern side, divides the acacia-grove of Serapis in half, they
+were concealed from the votaries visiting the temple by the back wall of
+a colonnade on the eastern side of the great forecourt; but a portion of
+this colonnade has now fallen down, and through the breach, part of these
+modest structures are plainly visible with their doors and windows
+opening towards the sanctuary--or, to speak more accurately, certain
+rudely constructed openings for looking out of or for entering by.  Where
+there is a door there is no window, and where a gap in the wall serves
+for a window, a door is dispensed with; none of the chambers, however, of
+this long row of low one-storied buildings communicate with each other.
+
+A narrow and well-trodden path leads through the breach in the wall; the
+pebbles are thickly strewn with brown dust, and the footway leads past
+quantities of blocks of stone and portions of columns destined for the
+construction of a new building which seems only to have been intermitted
+the night before, for mallets and levers lie on and near the various
+materials.  This path leads directly to the little brick houses, and ends
+at a small closed wooden door so roughly joined and so ill-hung that
+between it and the threshold, which is only raised a few inches above the
+ground, a fine gray cat contrives to squeeze herself through by putting
+down her head and rubbing through the dust.  As soon as she finds herself
+once more erect on her four legs she proceeds to clean and smooth her
+ruffled fur, putting up her back, and glancing with gleaming eyes at the
+house she has just left, behind which at this moment the sun is rising;
+blinded by its bright rays she turns away and goes on with cautious and
+silent tread into the court of the temple.
+
+The hovel out of which pussy has crept is small and barely furnished; it
+would be perfectly dark too, but that the holes in the roof and the rift
+in the door admit light into this most squalid room.  There is nothing
+standing against its rough gray walls but a wooden chest, near this a few
+earthen bowls stand on the ground with a wooden cup and a gracefully
+wrought jug of pure and shining gold, which looks strangely out of place
+among such humble accessories.  Quite in the background lie two mats of
+woven bast, each covered with a sheepskin.  These are the beds of the two
+girls who inhabit the room, one of whom is now sitting on a low stool
+made of palm-branches, and she yawns as she begins to arrange her long
+and shining brown hair.  She is not particularly skilful and even less
+patient over this not very easy task, and presently, when a fresh tangle
+checks the horn comb with which she is dressing it, she tosses the comb
+on to the couch.  She has not pulled it through her hair with any haste
+nor with much force, but she shuts her eyes so tightly and sets her white
+teeth so firmly in her red dewy lip that it might be supposed that she
+had hurt herself very much.
+
+A shuffling step is now audible outside the door; she opens wide her
+tawny-hazel eyes, that have a look of gazing on the world in surprise,
+a smile parts her lips and her whole aspect is as completely changed as
+that of a butterfly which escapes from the shade into the sunshine where
+the bright beams are reflected in the metallic lustre of its wings.
+
+A hasty hand knocks at the ill-hung door, so roughly that it trembles on
+its hinges, and the instant after a wooden trencher is shoved in through
+the wide chink by which the cat made her escape; on it are a thin round
+cake of bread and a shallow earthen saucer containing a little olive-oil;
+there is no more than might perhaps be contained in half an ordinary egg-
+shell, but it looks fresh and sweet, and shines in clear, golden purity.
+The girl goes to the door, pulls in the platter, and, as she measures the
+allowance with a glance, exclaims half in lament and half in reproach:
+
+"So little! and is that for both of us?"
+
+As she speaks her expressive features have changed again and her flashing
+eyes are directed towards the door with a glance of as much dismay as
+though the sun and stars had been suddenly extinguished; and yet her only
+grief is the smallness of the loaf, which certainly is hardly large
+enough to stay the hunger of one young creature--and two must share it;
+what is a mere nothing in one man's life, to another may be of great
+consequence and of terrible significance.
+
+The reproachful complaint is heard by the messenger outside the door, for
+the old woman who shoved in the trencher over the threshold answers
+quickly but not crossly.
+
+"Nothing more to-day, Irene."
+
+"It is disgraceful," cries the girl, her eyes filling with tears, "every
+day the loaf grows smaller, and if we were sparrows we should not have
+enough to satisfy us.  You know what is due to us and I will never cease
+to complain and petition.  Serapion shall draw up a fresh address for us,
+and when the king knows how shamefully we are treated--"
+
+"Aye! when he knows," interrupted the old woman.  But the cry of the poor
+is tossed about by many winds before it reaches the king's ear.  I might
+find a shorter way than that for you and your sister if fasting comes so
+much amiss to you.  Girls with faces like hers and yours, my little
+Irene, need never come to want."
+
+"And pray what is my face like?"  asked the girl, and her pretty features
+once more seemed to catch a gleam of sunshine.
+
+"Why, so handsome that you may always venture to show it beside your
+sister's; and yesterday, in the procession, the great Roman sitting by
+the queen looked as often at her as at Cleopatra herself.  If you had
+been there too he would not have had a glance for the queen, for you are
+a pretty thing, as I can tell you.  And there are many girls would sooner
+hear those words then have a whole loaf--besides you have a mirror I
+suppose, look in that next time you are hungry."
+
+The old woman's shuffling steps retreated again and the girl snatched up
+the golden jar, opened the door a little way to let in the daylight and
+looked at herself in the bright surface; but the curve of the costly vase
+showed her features all distorted, and she gaily breathed on the hideous
+travestie that met her eyes, so that it was all blurred out by the
+moisture.  Then she smilingly put down the jar, and opening the chest
+took from it a small metal mirror into which she looked again and yet
+again, arranging her shining hair first in one way and then in another;
+and she only laid it down when she remembered a certain bunch of violets
+which had attracted her attention when she first woke, and which must
+have been placed in their saucer of water by her sister some time the day
+before.  Without pausing to consider she took up the softly scented
+blossoms, dried their green stems on her dress, took up the mirror again
+and stuck the flowers in her hair.
+
+How bright her eyes were now, and how contentedly she put out her hand
+for the loaf.  And how fair were the visions that rose before her young
+fancy as she broke off one piece after another and hastily eat them after
+slightly moistening them with the fresh oil.  Once, at the festival of
+the New Year, she had had a glimpse into the king's tent, and there she
+had seen men and women feasting as they reclined on purple cushions.  Now
+she dreamed of tables covered with costly vessels, was served in fancy by
+boys crowned with flowers, heard the music of flutes and harps and--for
+she was no more than a child and had such a vigorous young appetite--
+pictured herself as selecting the daintiest and sweetest morsels out of
+dishes of solid gold and eating till she was satisfied, aye so perfectly
+satisfied that the very last mouthful of bread and the very last drop of
+oil had disappeared.
+
+But so soon as her hand found nothing more on the empty trencher the
+bright illusion vanished, and she looked with dismay into the empty oil-
+cup and at the place where just now the bread had been.
+
+"Ah!" she sighed from the bottom of her heart; then she turned the
+platter over as though it might be possible to find some more bread and
+oil on the other side of it, but finally shaking her head she sat looking
+thoughtfully into her lap; only for a few minutes however, for the door
+opened and the slim form of her sister Klea appeared, the sister whose
+meagre rations she had dreamily eaten up, and Klea had been sitting up
+half the night sewing for her, and then had gone out before sunrise to
+fetch water from the Well of the Sun for the morning sacrifice at the
+altar of Serapis.
+
+Klea greeted her sister with a loving glance but without speaking; she
+seemed too exhausted for words and she wiped the drops from her forehead
+with the linen veil that covered the back of her head as she seated
+herself on the lid of the chest.  Irene immediately glanced at the empty
+trencher, considering whether she had best confess her guilt to the
+wearied girl and beg for forgiveness, or divert the scolding she had
+deserved by some jest, as she had often succeeded in doing before.  This
+seemed the easier course and she adopted it at once; she went up to her
+sister quickly, but not quite unconcernedly, and said with mock gravity:
+
+"Look here, Klea, don't you notice anything in me?  I must look like a
+crocodile that has eaten a whole hippopotamus, or one of the sacred
+snakes after it has swallowed a rabbit.  Only think when I had eaten my
+own bread I found yours between my teeth--quite unexpectedly--but now--"
+
+Klea, thus addressed, glanced at the empty platter and interrupted her
+sister with a low-toned exclamation.  "Oh! I was so hungry."
+
+The words expressed no reproof, only utter exhaustion, and as the young
+criminal looked at her sister and saw her sitting there, tired and worn
+out but submitting to the injury that had been done her without a word of
+complaint, her heart, easily touched, was filled with compunction and
+regret.  She burst into tears and threw herself on the ground before her,
+clasping her knees and crying, in a voice broken with sobs:
+
+"Oh Klea! poor, dear Klea, what have I done! but indeed I did not mean
+any harm.  I don't know how it happened.  Whatever I feel prompted to do
+I do, I can't help doing it, and it is not till it is done that I begin
+to know whether it was right or wrong.  You sat up and worried yourself
+for me, and this is how I repay you--I am a bad girl!  But you shall not
+go hungry--no, you shall not."
+
+"Never mind; never mind," said the elder, and she stroked her sister's
+brown hair with a loving hand.
+
+But as she did so she came upon the violets fastened among the shining
+tresses.  Her lips quivered and her weary expression changed as she
+touched the flowers and glanced at the empty saucer in which she had
+carefully placed them the clay before.  Irene at once perceived the
+change in her sister's face, and thinking only that she was surprised at
+her pretty adornment, she said gaily:  "Do you think the flowers becoming
+to me?"
+
+Klea's hand was already extended to take the violets out of the brown
+plaits, for her sister was still kneeling before her, but at this
+question her arm dropped, and she said more positively and distinctly
+than she had yet spoken and in a voice, whose sonorous but musical tones
+were almost masculine and certainly remarkable in a girl:
+
+"The bunch of flowers belongs to me; but keep it till it is faded, by
+mid-day, and then return it to me."
+
+"It belongs to you?"  repeated the younger girl, raising her eyes in
+surprise to her sister, for to this hour what had been Klea's had been
+hers also.  "But I always used to take the flowers you brought home; what
+is there special in these?"
+
+"They are only violets like any other violets," replied Klea coloring
+deeply.  "But the queen has worn them."
+
+"The queen!"  cried her sister springing to her feet and clasping her
+hands in astonishment.  "She gave you the flowers?  And you never told me
+till now?  To be sure when you came home from the procession yesterday
+you only asked me how my foot was and whether my clothes were whole and
+then not another mortal word did you utter.  Did Cleopatra herself give
+you this bunch?"
+
+"How should she?"  retorted Klea.  "One of her escort threw them to me;
+but drop the subject pray!  Give me the water, please, my mouth is
+parched and I can hardly speak for thirst."
+
+The bright color dyed her cheeks again as she spoke, but Irene did not
+observe it, for--delighted to make up for her evil doings by performing
+some little service--she ran to fetch the water-jar; while Klea filled
+and emptied her wooden bowl she said, gracefully lifting a small foot, to
+show to her sister:
+
+"Look, the cut is almost healed and I can wear my sandal again.  Now I
+shall tie it on and go and ask Serapion for some bread for you and
+perhaps he will give us a few dates.  Please loosen the straps for me a
+little, here, round the ankle, my skin is so thin and tender that a
+little thing hurts me which you would hardly feel.  At mid-day I will go
+with you and help fill the jars for the altar, and later in the day I can
+accompany you in the procession which was postponed from yesterday.  If
+only the queen and the great foreigner should come again to look on at
+it!  That would be splendid!  Now, I am going, and before you have drunk
+the last bowl of water you shall have some bread, for I will coax the old
+man so prettily that he can't say 'no.'"
+
+Irene opened the door, and as the broad sunlight fell in it lighted up
+tints of gold in her chestnut hair, and her sister looking after her
+could almost fancy that the sunbeams had got entangled with the waving
+glory round her head.  The bunch of violets was the last thing she took
+note of as Irene went out into the open air; then she was alone and she
+shook her head gently as she said to herself:  "I give up everything to
+her and what I have left she takes from me.  Three times have I met the
+Roman, yesterday he gave me the violets, and I did want to keep those for
+myself--and now--"  As she spoke she clasped the bowl she still held in
+her hand closely to her and her lips trembled pitifully, but only for an
+instant; she drew herself up and said firmly:  "But it is all as it
+should be."
+
+Then she was silent; she set down the water-jar on the chest by her side,
+passed the back of her hand across her forehead as if her head were
+aching, then, as she sat gazing down dreamily into her lap, her weary
+head presently fell on her shoulder and she was asleep.
+
+
+
+
+CHAPTER II.
+
+The low brick building of which the sisters' room formed a part, was
+called the Pastophorium, and it was occupied also by other persons
+attached to the service of the temple, and by numbers of pilgrims.  These
+assembled here from all parts of Egypt, and were glad to pass a night
+under the protection of the sanctuary.
+
+Irene, when she quitted her sister, went past many doors--which had been
+thrown open after sunrise--hastily returning the greetings of many
+strange as well as familiar faces, for all glanced after her kindly as
+though to see her thus early were an omen of happy augury, and she soon
+reached an outbuilding adjoining the northern end of the Pastophorium;
+here there was no door, but at the level of about a man's height from
+the ground there were six unclosed windows opening on the road.  From the
+first of these the pale and much wrinkled face of an old man looked down
+on the girl as she approached.  She shouted up to him in cheerful accents
+the greeting familiar to the Hellenes "Rejoice!"  But he, without moving
+his lips, gravely and significantly signed to her with his lean hand and
+with a glance from his small, fixed and expressionless eyes that she
+should wait, and then handed out to her a wooden trencher on which lay a
+few dates and half a cake of bread.
+
+"For the altar of the god?"  asked the girl.  The old man nodded assent,
+and Irene went on with her small load, with the assurance of a person who
+knows exactly what is required of her; but after going a few steps and
+before she had reached the last of the six windows she paused, for she
+plainly heard voices and steps, and presently, at the end of the
+Pastophorium towards which she was proceeding and which opened into a
+small grove of acacias dedicated to Serapis--which was of much greater
+extent outside the enclosing wall--appeared a little group of men whose
+appearance attracted her attention; but she was afraid to go on towards
+the strangers, so, leaning close up to the wall of the houses, she
+awaited their departure, listening the while to what they were saying.
+
+In front of these early visitors to the temple walked a man with a long
+staff in his right hand speaking to the two gentlemen who followed, with
+the air of a professional guide, who is accustomed to talk as if he were
+reading to his audience out of an invisible book, and whom the hearers
+are unwilling to interrupt with questions, because they know that his
+knowledge scarcely extends beyond exactly what he says.  Of his two
+remarkable-looking hearers one was wrapped in a long and splendid robe
+and wore a rich display of gold chains and rings, while the other wore
+nothing over his short chiton but a Roman toga thrown over his left
+shoulder.
+
+His richly attired companion was an old man with a full and beardless
+face and thin grizzled hair.  Irene gazed at him with admiration and
+astonishment, but when she had feasted her eyes on the stuffs and
+ornaments he wore, she fixed them with much greater interest and
+attention on the tall and youthful figure at his side.
+
+"Like Hui, the cook's fat poodle, beside a young lion," thought she to
+herself, as she noted the bustling step of the one and the independent
+and elastic gait of the other.  She felt irresistibly tempted to mimic
+the older man, but this audacious impulse was soon quelled for scarcely
+had the guide explained to the Roman that it was here that those pious
+recluses had their cells who served the god in voluntary captivity, as
+being consecrated to Serapis, and that they received their food through
+those windows--here he pointed upwards with his staff when suddenly a
+shutter, which the cicerone of this ill-matched pair had touched with his
+stick, flew open with as much force and haste as if a violent gust of
+wind had caught it, and flung it back against the wall.--And no less
+suddenly a man's head-of ferocious aspect and surrounded by a shock of
+gray hair like a lion's mane--looked out of the window and shouted to him
+who had knocked, in a deep and somewhat overloud voice.
+
+"If my shutter had been your back, you impudent rascal, your stick would
+have hit the right thing.  Or if I had a cudgel between my teeth instead
+of a tongue, I would exercise it on you till it was as tired as that of a
+preacher who has threshed his empty straw to his congregation for three
+mortal hours.  Scarcely is the sun risen when we are plagued by the
+parasitical and inquisitive mob.  Why! they will rouse us at midnight
+next, and throw stones at our rotten old shutters.  The effects of my
+last greeting lasted you for three weeks--to-day's I hope may act a
+little longer.  You, gentlemen there, listen to me.  Just as the raven
+follows an army to batten on the dead, so that fellow there stalks on in
+front of strangers in order to empty their pockets--and you, who call
+yourself an interpreter, and in learning Greek have forgotten the little
+Egyptian you ever knew, mark this: When you have to guide strangers take
+them to see the Sphinx, or to consult the Apis in the temple of Ptah, or
+lead them to the king's beast-garden at Alexandria, or the taverns at
+Hanopus, but don't bring them here, for we are neither pheasants, nor
+flute-playing women, nor miraculous beasts, who take a pleasure in being
+stared at.  You, gentlemen, ought to choose a better guide than this
+chatter-mag that keeps up its perpetual rattle when once you set it
+going.  As to yourselves I will tell you one thing: Inquisitive eyes are
+intrusive company, and every prudent house holder guards himself against
+them by keeping his door shut."
+
+Irene shrank back and flattened herself against the pilaster which
+concealed her, for the shutter closed again with a slam, the recluse
+pulling it to with a rope attached to its outer edge, and he was hidden
+from the gaze of the strangers; but only for an instant, for the rusty
+hinges on which the shutter was hanging were not strong enough to bear
+such violent treatment, and slowly giving way it was about to fall.  The
+blustering hermit stretched out an arm to support it and save it; but it
+was heavy, and his efforts would not have succeeded had not the young man
+in Roman dress given his assistance and lifted up the shutter with his
+hand and shoulder, without any effort, as if it were made of willow laths
+instead of strong planks.
+
+"A little higher still," shouted the recluse to his assistant.  "Let us
+set the thing on its edge!  so, push away, a little more.  There, I have
+propped up the wretched thing and there it may lie.  If the bats pay me a
+visit to-night I will think of you and give them your best wishes."
+
+"You may save yourself that trouble," replied the young man with cool
+dignity.  "I will send you a carpenter who shall refix the shutter, and
+we offer you our apologies for having been the occasion of the mischief
+that has happened."
+
+The old man did not interrupt the speaker, but, when he had stared at him
+from head to foot, he said: "You are strong and you speak fairly, and I
+might like you well enough if you were in other company.  I don't want
+your carpenter; only send me down a hammer, a wedge, and a few strong
+nails.  Now, you can do nothing more for me, so pack off"
+
+"We are going at once," said the more handsomely dressed visitor in a
+thin and effeminate voice.  "What can a man do when the boys pelt him
+with dirt from a safe hiding-place, but take himself off"
+
+"Be off, be off," said the person thus described, with a laugh.
+"As far off as Samothrace if you like, fat Eulaeus; you can scarcely have
+forgotten the way there since you advised the king to escape thither with
+all his treasure.  But if you cannot trust yourself to find it alone,
+I recommend you your interpreter and guide there to show you the road."
+
+The Eunuch Eulaeus, the favorite councillor of King Ptolemy--called
+Philometor (the lover of his mother)--turned pale at these words, cast a
+sinister glance at the old man and beckoned to the young Roman; he
+however was not inclined to follow, for the scolding old oddity had taken
+his fancy--perhaps because he was conscious that the old man, who
+generally showed no reserve in his dislikes, had a liking for him.
+Besides, he found nothing to object to in his opinion of his companions,
+so he turned to Eulaeus and said courteously:
+
+"Accept my best thanks for your company so far, and do not let me detain
+you any longer from your more important occupations on my account."
+
+Eulaeus bowed and replied, "I know what my duty is.  The king entrusted
+me with your safe conduct; permit me therefore to wait for you under the
+acacias yonder."
+
+When Eulaeus and the guide had reached the green grove, Irene hoped to
+find an opportunity to prefer her petition, but the Roman had stopped in
+front of the old man's cell, and had begun a conversation with him which
+she could not venture to interrupt.  She set down the platter with the
+bread and dates that had been entrusted to her on a projecting stone by
+her side with a little sigh, crossed her arms and feet as she leaned
+against the wall, and pricked up her ears to hear their talk.
+
+"I am not a Greek," said the youth, "and you are quite mistaken in
+thinking that I came to Egypt and to see you out of mere curiosity."
+
+"But those who come only to pray in the temple," interrupted the other,
+"do not--as it seems to me--choose an Eulaeus for a companion, or any
+such couple as those now waiting for you under the acacias, and invoking
+anything rather than blessings on your head; at any rate, for my own
+part, even if I were a thief I would not go stealing in their company.
+What then brought you to Serapis?"
+
+"It is my turn now to accuse you of curiosity!"
+
+"By all means," cried the old man, "I am an honest dealer and quite
+willing to take back the coin I am ready to pay away.  Have you come to
+have a dream interpreted, or to sleep in the temple yonder and have a
+face revealed to you?"
+
+"Do I look so sleepy," said the Roman, "as to want to go to bed again
+now, only an hour after sunrise?"
+
+"It may be," said the recluse, "that you have not yet fairly come to the
+end of yesterday, and that at the fag-end of some revelry it occurred to
+you that you might visit us and sleep away your headache at Serapis."
+
+"A good deal of what goes on outside these walls seems to come to your
+ears," retorted the Roman, "and if I were to meet you in the street
+I should take you for a ship's captain or a master-builder who had to
+manage a number of unruly workmen.  According to what I heard of you and
+those like you in Athens and elsewhere, I expected to find you something
+quite different."
+
+"What did you expect?"  said Serapion laughing.  "I ask you
+notwithstanding the risk of being again considered curious."
+
+"And I am very willing to answer," retorted the other, "but if I were to
+tell you the whole truth I should run into imminent danger of being sent
+off as ignominiously as my unfortunate guide there."
+
+"Speak on," said the old man, "I keep different garments for different
+men, and the worst are not for those who treat me to that rare dish--a
+little truth.  But before you serve me up so bitter a meal tell me, what
+is your name?"
+
+"Shall I call the guide?"  said the Roman with an ironical laugh.  "He
+can describe me completely, and give you the whole history of my family.
+But, joking apart, my name is Publius."
+
+"The name of at least one out of every three of your countrymen."
+
+"I am of the Cornelia gens and of the family of the Scipios," continued
+the youth in a low voice, as though he would rather avoid boasting of his
+illustrious name.
+
+"Indeed, a noble gentleman, a very grand gentleman!"  said the recluse,
+bowing deeply out of his window.  "But I knew that beforehand, for at
+your age and with such slender ankles to his long legs only a nobleman
+could walk as you walk.  Then Publius Cornelius--"
+
+"Nay, call me Scipio, or rather by my first name only, Publius," the
+youth begged him.  "You are called Serapion, and I will tell you what you
+wish to know.  When I was told that in this temple there were people who
+had themselves locked into their little chambers never to quit them,
+taking thought about their dreams and leading a meditative life, I
+thought they must be simpletons or fools or both at once."
+
+"Just so, just so," interrupted Serapion.  "But there is a fourth
+alternative you did not think of.  Suppose now among these men there
+should be some shut up against their will, and what if I were one of
+those prisoners?  I have asked you a great many questions and you have
+not hesitated to answer, and you may know how I got into this miserable
+cage and why I stay in it.  I am the son of a good family, for my father
+was overseer of the granaries of this temple and was of Macedonian
+origin, but my mother was an Egyptian.  I was born in an evil hour, on
+the twenty-seventh day of the month of Paophi, a day which it is said in
+the sacred books that it is an evil day and that the child that is born
+in it must be kept shut up or else it will die of a snake-bite.  In
+consequence of this luckless prediction many of those born on the same
+day as myself were, like me, shut up at an early age in this cage.  My
+father would very willingly have left me at liberty, but my uncle,
+a caster of horoscopes in the temple of Ptah, who was all in all in my
+mother's estimation, and his friends with him, found many other evil
+signs about my body, read misfortune for me in the stars, declared that
+the Hathors had destined me to nothing but evil, and set upon her so
+persistently that at last I was destined to the cloister--we lived here
+at Memphis.  I owe this misery to my dear mother and it was out of pure
+affection that she brought it upon me.  You look enquiringly at me--aye,
+boy! life will teach you too the lesson that the worst hate that can be
+turned against you often entails less harm upon you than blind tenderness
+which knows no reason.  I learned to read and write, and all that is
+usually taught to the priests' sons, but never to accommodate myself to
+my lot, and I never shall.--Well, when my beard grew I succeeded in
+escaping and I lived for a time in the world.  I have been even to Rome,
+to Carthage, and in Syria; but at last I longed to drink Nile-water once
+more and I returned to Egypt.  Why?  Because, fool that I was, I fancied
+that bread and water with captivity tasted better in my own country than
+cakes and wine with freedom in the land of the stranger.
+
+"In my father's house I found only my mother still living, for my father
+had died of grief.  Before my flight she had been a tall, fine woman,
+when I came home I found her faded and dying.  Anxiety for me, a
+miserable wretch, had consumed her, said the physician--that was the
+hardest thing to bear.  When at last the poor, good little woman, who
+could so fondly persuade me--a wild scamp--implored me on her death-bed
+to return to my retreat, I yielded, and swore to her that I would stay in
+my prison patiently to the end, for I am as water is in northern
+countries, a child may turn me with its little hand or else I am as hard
+and as cold as crystal.  My old mother died soon after I had taken this
+oath.  I kept my word as you see--and you have seen too how I endure my
+fate."
+
+"Patiently enough," replied Publius, "I should writhe in my chains far
+more rebelliously than you, and I fancy it must do you good to rage and
+storm sometimes as you did just now."
+
+"As much good as sweet wine from Chios!"  exclaimed the anchorite,
+smacking his lips as if he tasted the noble juice of the grape, and
+stretching his matted head as far as possible out of the window.  Thus it
+happened that he saw Irene, and called out to her in a cheery voice:
+
+"What are you doing there, child?  You are standing as if you were
+waiting to say good-morning to good fortune."
+
+The girl hastily took up the trencher, smoothed down her hair with her
+other hand, and as she approached the men, coloring slightly, Publius
+feasted his eyes on her in surprise and admiration.
+
+But Serapion's words had been heard by another person, who now emerged
+from the acacia-grove and joined the young Roman, exclaiming before he
+came up with them:
+
+"Waiting for good fortune! does the old man say?  And you can hear it
+said, Publius, and not reply that she herself must bring good fortune
+wherever she appears."
+
+The speaker was a young Greek, dressed with extreme care, and he now
+stuck the pomegranate-blossom he carried in his hand behind his ear, so
+as to shake hands with his friend Publius; then he turned his fair,
+saucy, almost girlish face with its finely-cut features up to the
+recluse, wishing to attract his attention to himself by his next speech.
+
+"With Plato's greeting 'to deal fairly and honestly' do I approach you!"
+he cried; and then he went on more quietly: "But indeed you can hardly
+need such a warning, for you belong to those who know how to conquer
+true--that is the inner--freedom; for who can be freer than he who needs
+nothing?  And as none can be nobler than the freest of the free, accept
+the tribute of my respect, and scorn not the greeting of Lysias of
+Corinth, who, like Alexander, would fain exchange lots with you, the
+Diogenes of Egypt, if it were vouchsafed to him always to see out the
+window of your mansion--otherwise not very desirable--the charming form
+of this damsel--"
+
+"That is enough, young man," said Serapion, interrupting the Greek's flow
+of words.  "This young girl belongs to the temple, and any one who is
+tempted to speak to her as if she were a flute-player will have to deal
+with me, her protector.  Yes, with me; and your friend here will bear me
+witness that it may not be altogether to your advantage to have a quarrel
+with such as I.  Now, step back, young gentlemen, and let the girl tell
+me what she needs."
+
+When Irene stood face to face with the anchorite, and had told him
+quickly and in a low voice what she had done, and that her sister Klea
+was even now waiting for her return, Serapion laughed aloud, and then
+said in a low tone, but gaily, as a father teases his daughter:
+
+"She has eaten enough for two, and here she stands, on her tiptoes,
+reaching up to my window, as if it were not an over-fed girl that stood
+in her garments, but some airy sprite.  We may laugh, but Klea, poor
+thing, she must be hungry?"
+
+Irene made no reply, but she stood taller on tiptoe than ever, put her
+face up to Serapion, nodding her pretty head at him again and again, and
+as she looked roguishly and yet imploringly into his eyes Serapion went
+on:
+
+"And so I am to give my breakfast to Klea, that is what you want; but
+unfortunately that breakfast is a thing of the past and beyond recall;
+nothing is left of it but the date-stones.  But there, on the trencher
+in your hand, is a nice little meal."
+
+"That is the offering to Serapis sent by old Phibis," answered the girl.
+
+"Hm, hm--oh! of course!"  muttered the old man.  "So long as it is for a
+god--surely he might do without it better than a poor famishing girl."
+
+Then he went on, gravely and emphatically, as a teacher who has made an
+incautious speech before his pupils endeavors to rectify it by another of
+more solemn import.
+
+"Certainly, things given into our charge should never be touched;
+besides, the gods first and man afterwards.  Now if only I knew what to
+do.  But, by the soul of my father!  Serapis himself sends us what we
+need.  Step close up to me, noble Scipio--or Publius, if I may so call
+you--and look out towards the acacias.  Do you see my favorite, your
+cicerone, and the bread and roast fowls that your slave has brought him
+in that leathern wallet?  And now he is setting a wine-jar on the carpet
+he has spread at the big feet of Eulaeus--they will be calling you to
+share the meal in a minute, but I know of a pretty child who is very
+hungry--for a little white cat stole away her breakfast this morning.
+Bring me half a loaf and the wing of a fowl, and a few pomegranates if
+you like, or one of the peaches Eulaeus is so judiciously fingering.
+Nay--you may bring two of them, I have a use for both."
+
+"Serapion!"  exclaimed Irene in mild reproof and looking down at the
+ground; but the Greek answered with prompt zeal, "More, much more than
+that I can bring you.  I hasten--"
+
+"Stay here," interrupted Publius with decision, holding him back by the
+shoulder.  "Serapion's request was addressed to me, and I prefer to do my
+friend's pleasure in my own person."
+
+"Go then," cried the Greek after Publius as he hurried away.  "You will
+not allow me even thanks from the sweetest lips in Memphis.  Only look,
+Serapion, what a hurry he is in.  And now poor Eulaeus has to get up; a
+hippopotamus might learn from him how to do so with due awkwardness.
+Well! I call that making short work of it--a Roman never asks before he
+takes; he has got all he wants and Eulaeus looks after him like a cow
+whose calf has been stolen from her; to be sure I myself would rather eat
+peaches than see them carried away!  Oh if only the people in the Forum
+could see him now!  Publius Cornelius Scipio Nasica, own grandson to the
+great Africanus, serving like a slave at a feast with a dish in each
+hand!  Well Publius, what has Rome the all conquering brought home this
+time in token of victory?"
+
+"Sweet peaches and a roast pheasant," said Cornelius laughing, and he
+handed two dishes into the anchorite's window; "there is enough left
+still for the old man."
+
+"Thanks, many thanks!"  cried Serapion, beckoning to Irene, and he gave
+her a golden-yellow cake of wheaten bread, half of the roast bird,
+already divided by Eulaeus, and two peaches, and whispered to her:
+"Klea may come for the rest herself when these men are gone.  Now thank
+this kind gentleman and go."
+
+For an instant the girl stood transfixed, her face crimson with confusion
+and her glistening white teeth set in her nether lip, speechless, face to
+face with the young Roman and avoiding the earnest gaze of his black
+eyes.  Then she collected herself and said:
+
+"You are very kind.  I cannot make any pretty speeches, but I thank you
+most kindly."
+
+"And your very kind thanks," replied Publius, "add to the delights of
+this delightful morning.  I should very much like to possess one of the
+violets out of your hair in remembrance of this day--and of you."
+
+"Take them all," exclaimed Irene, hastily taking the bunch from her hair
+and holding them out to the Roman; but before he could take them she drew
+back her hand and said with an air of importance:
+
+"The queen has had them in her hand.  My sister Klea got them yesterday
+in the procession."
+
+Scipio's face grew grave at these words, and he asked with commanding
+brevity and sharpness:
+
+"Has your sister black hair and is she taller than you are, and did she
+wear a golden fillet in the procession?  Did she give you these flowers?
+Yes--do you say?  Well then, she had the bunch from me, but although she
+accepted them she seems to have taken very little pleasure in them, for
+what we value we do not give away--so there they may go, far enough!"
+
+With these words he flung the flowers over the house and then he went on:
+
+"But you, child, you shall be held guiltless of their loss.  Give me your
+pomegranate-flower, Lysias!"
+
+"Certainly not," replied the Greek.  "You chose to do pleasure to your
+friend Serapion in your own person when you kept me from going to fetch
+the peaches, and now I desire to offer this flower to the fair Irene with
+my own hand."
+
+"Take this flower," said Publius, turning his back abruptly on the girl,
+while Lysias laid the blossom on the trencher in the maiden's hand; she
+felt the rough manners of the young Roman as if she had been touched by a
+hard hand; she bowed silently and timidly and then quickly ran home.
+
+Publius looked thoughtfully after her till Lysias called out to him:
+
+"What has come over me?  Has saucy Eros perchance wandered by mistake
+into the temple of gloomy Serapis this morning?"
+
+"That would not be wise," interrupted the recluse, "for Cerberus, who
+lies at the foot of our God, would soon pluck the fluttering wings of the
+airy youngster," and as he spoke he looked significantly at the Greek.
+
+"Aye! if he let himself be caught by the three-headed monster," laughed
+Lysias.  "But come away now, Publius; Eulaeus has waited long enough."
+
+"You go to him then," answered the Roman, "I will follow soon; but first
+I have a word to say to Serapion."
+
+Since Irene's disappearance, the old man had turned his attention to the
+acacia-grove where Eulaeus was still feasting.  When the Roman addressed
+him he said, shaking his great head with dissatisfaction:
+
+"Your eyes of course are no worse than mine.  Only look at that man
+munching and moving his jaws and smacking his lips.  By Serapis!  you can
+tell the nature of a man by watching him eat.  You know I sit in my cage
+unwillingly enough, but I am thankful for one thing about it, and that is
+that it keeps me far from all that such a creature as Eulaeus calls
+enjoyment--for such enjoyment, I tell you, degrades a man."
+
+"Then you are more of a philosopher than you wish to seem," replied
+Publius.
+
+"I wish to seem nothing," answered the anchorite.
+
+"For it is all the same to me what others think of me.  But if a man who
+has nothing to do and whose quiet is rarely disturbed, and who thinks his
+own thoughts about many things is a philosopher, you may call me one if
+you like.  If at any time you should need advice you may come here again,
+for I like you, and you might be able to do me an important service."
+
+"Only speak," interrupted the Roman, "I should be glad from my heart to
+be of any use to you."
+
+"Not now," said Serapion softly.  "But come again when you have time--
+without your companions there, of course--at any rate without Eulaeus,
+who of all the scoundrels I ever came across is the very worst.  It may
+be as well to tell you at once that what I might require of you would
+concern not myself but the weal or woe of the water-bearers, the two
+maidens you have seen and who much need protection."
+
+"I came here for my parents' sake and for Klea's, and not on your
+account," said Publius frankly.  "There is something in her mien and in
+her eyes which perhaps may repel others but which attracts me.  How came
+so admirable a creature in your temple?"
+
+"When you come again," replied the recluse, "I will tell you the history
+of the sisters and what they owe to Eulaeus.  Now go, and understand me
+when I say the girls are well guarded.  This observation is for the
+benefit of the Greek who is but a heedless fellow; but you, when you
+know who the girls are, will help me to protect them."
+
+"That I would do as it is, with real pleasure," replied Publius; he took
+leave of the recluse and called out to Eulaeus.
+
+"What a delightful morning it has been!"
+
+"It would have been pleasanter for me," replied Eulaeus, "if you had not
+deprived me of your company for such a long time."
+
+"That is to say," answered the Roman, "that I have stayed away longer
+than I ought."
+
+"You behave after the fashion of your race," said the other bowing low.
+"They have kept even kings waiting in their ante-chambers."
+
+"But you do not wear a crown," said Publius evasively.  "And if any one
+should know how to wait it is an old courtier, who--"
+
+"When it is at the command of his sovereign," interrupted Eulaeus, the
+old courtier may submit, even when youngsters choose to treat him with
+contempt."
+
+"That hits us both," said Publius, turning to Lysias.  "Now you may
+answer him, I have heard and said enough."
+
+
+
+
+CHAPTER III.
+
+Irene's foot was not more susceptible to the chafing of a strap than her
+spirit to a rough or an unkind word; the Roman's words and manner had
+hurt her feelings.
+
+She went towards home with a drooping head and almost crying, but before
+she had reached it her eyes fell on the peaches and the roast bird she
+was carrying.  Her thoughts flew to her sister and how much the famishing
+girl would relish so savory a meal; she smiled again, her eyes shone with
+pleasure, and she went on her way with a quickened step.  It never once
+occurred to her that Klea would ask for the violets, or that the young
+Roman could be anything more to her sister than any other stranger.
+
+She had never had any other companion than Klea, and after work, when
+other girls commonly discussed their longings and their agitations and
+the pleasures and the torments of love, these two used to get home so
+utterly wearied that they wanted nothing but peace and sleep.  If they
+had sometimes an hour for idle chat Klea ever and again would tell some
+story of their old home, and Irene, who even within the solemn walls of
+the temple of Serapis sought and found many innocent pleasures, would
+listen to her willingly, and interrupt her with questions and with
+anecdotes of small events or details which she fancied she remembered of
+her early childhood, but which in fact she had first learnt from her
+sister, though the force of a lively imagination had made them seem a
+part and parcel of her own experience.
+
+Klea had not observed Irene's long absence since, as we know, shortly
+after her sister had set out, overpowered by hunger and fatigue she had
+fallen asleep.  Before her nodding head had finally sunk and her drooping
+eyelids had closed, her lips now and then puckered and twitched as if
+with grief; then her features grew tranquil, her lips parted softly and a
+smile gently lighted up her blushing cheeks, as the breath of spring
+softly thaws a frozen blossom.  This sleeper was certainly not born for
+loneliness and privation, but to enjoy and to keep love and happiness.
+
+It was warm and still, very still in the sisters' little room.  The buzz
+of a fly was audible now and again, as it flew round the little oil-cup
+Irene had left empty, and now and again the breathing of the sleeper,
+coming more and more rapidly.  Every trace of fatigue had vanished from
+Klea's countenance, her lips parted and pouted as if for a kiss, her
+cheeks glowed, and at last she raised both hands as if to defend herself
+and stammered out in her dream, "No, no, certainly not--pray, do not! my
+love--"  Then her arm fell again by her side, and dropping on the chest
+on which she was sitting, the blow woke her.  She slowly opened her eyes
+with a happy smile; then she raised her long silken lashes till her eyes
+were open, and she gazed fixedly on vacancy as though something strange
+had met her gaze.  Thus she sat for some time without moving; then she
+started up, pressed her hand on her brow and eyes, and shuddering as if
+she had seen something horrible or were shivering with ague, she murmured
+in gasps, while she clenched her teeth:
+
+"What does this mean?  How come I by such thoughts?  What demons are these
+that make us do and feel things in our dreams which when we are waking we
+should drive far, far from our thoughts?  I could hate myself, despise
+and hate myself for the sake of those dreams since, wretch that I am!
+I let him put his arm round me--and no bitter rage--ah! no--something
+quite different, something exquisitely sweet, thrilled through my soul."
+
+As she spoke, she clenched her fists and pressed them against her
+temples; then again her arms dropped languidly into her lap, and shaking
+her head she went on in an altered and softened voice:
+
+"Still-it was only in a dream and--Oh! ye eternal gods--when we are
+asleep--well! and what then?  Has it come to this; to impure thoughts I
+am adding self-deception!  No, this dream was sent by no demon, it was
+only a distorted reflection of what I felt yesterday and the day before,
+and before that even, when the tall stranger looked straight into my
+eyes--four times he has done so now--and then--how many hours ago, gave
+me the violets.  Did I even turn away my face or punish his boldness with
+an angry look?  Is it not sometimes possible to drive away an enemy with
+a glance?  I have often succeeded when a man has looked after us; but
+yesterday I could not, and I was as wide awake then as I am at this
+moment.  What does the stranger want with me?  What is it he asks with
+his penetrating glance, which for days has followed me wherever I turn,
+and robs me of peace even in my sleep?  Why should I open my eyes--the
+gates of the heart--to him?  And now the poison poured in through them is
+seething there; but I will tear it out, and when Irene comes home I will
+tread the violets into the dust, or leave them with her; she will soon
+pull them to pieces or leave them to wither miserably--for I will remain
+pure-minded, even in my dreams--what have I besides in the world?"
+
+At these words she broke off her soliloquy, for she heard Irene's voice,
+a sound that must have had a favorable effect on her spirit, for she
+paused, and the bitter expression her beautiful features had but just now
+worn disappeared as she murmured, drawing a deep breath:
+
+"I am not utterly bereft and wretched so long as I have her, and can hear
+her voice."
+
+Irene, on her road home, had given the modest offerings of the anchorite
+Phibis into the charge of one of the temple-servants to lay before the
+altar of Serapis, and now as she came into the room she hid the platter
+with the Roman's donation behind her, and while still in the doorway,
+called out to her sister:
+
+"Guess now, what have I here?"
+
+"Bread and dates from Serapion," replied Klea.
+
+"Oh, dear no!"  cried the other, holding out the plate to her sister,
+"the very nicest dainties, fit for gods and kings.  Only feel this peach,
+does not it feel as soft as one of little Philo's cheeks?  If I could
+always provide such a substitute you would wish I might eat up your
+breakfast every day.  And now do you know who gave you all this?  No,
+that you will never guess!  The tall Roman gave them me, the same you
+had the violets from yesterday."
+
+Klea's face turned crimson, and she said shortly and decidedly:
+
+"How do you know that?"
+
+"Because he told me so himself," replied Irene in a very altered tone,
+for her sister's eyes were fixed upon her with an expression of stern
+gravity, such as Irene had never seen in her before.
+
+"And where are the violets?"  asked Klea.
+
+"He took them, and his friend gave me this pomegranate-flower," stammered
+Irene.  "He himself wanted to give it me, but the Greek--a handsome,
+merry man--would not permit it, and laid the flower there on the platter.
+Take it--but do not look at me like that any longer, for I cannot bear
+it!"
+
+"I do not want it," said her sister, but not sharply; then, looking down,
+she asked in a low voice: "Did the Roman keep the violets?"
+
+"He kept--no, Klea--I will not tell you a lie!  He flung them over the
+house, and said such rough things as he did it, that I was frightened and
+turned my back upon him quickly, for I felt the tears coming into my
+eyes.  What have you to do with the Roman?  I feel so anxious, so
+frightened--as I do sometimes when a storm is gathering and I am afraid
+of it.  And how pale your lips are!  that comes of long fasting, no doubt
+--eat now, as much as you can.  But Klea!  why do you look at me so--and
+look so gloomy and terrible?  I cannot bear that look, I cannot bear it!"
+
+Irene sobbed aloud, and her sister went up to her, stroked her soft hair
+from her brow, kissed her kindly, and said:
+
+"I am not angry with you, child, and did not mean to hurt you.  If only
+I could cry as you do when clouds overshadow my heart, the blue sky would
+shine again with me as soon as it does with you.  Now dry your eyes, go
+up to the temple, and enquire at what hour we are to go to the singing-
+practice, and when the procession is to set out."
+
+Irene obeyed; she went out with downcast eyes, but once out she looked up
+again brightly, for she remembered the procession, and it occurred to her
+that she would then see again the Roman's gay acquaintance, and turning
+back into the room she laid her pomegranate-blossom in the little bowl
+out of which she had formerly taken the violets, kissed her sister as
+gaily as ever, and then reflected as to whether she would wear the flower
+in her hair or in her bosom.  Wear it, at any rate, she must, for she
+must show plainly that she knew how to value such a gift.
+
+As soon as Klea was alone she seized the trencher with a vehement
+gesture, gave the roast bird to the gray cat, who had stolen back into
+the room, turning away her head, for the mere smell of the pheasant was
+like an insult.  Then, while the cat bore off her welcome spoils into a
+corner, she clutched a peach and raised her hand to fling it away through
+a gap in the roof of the room; but she did not carry out her purpose, for
+it occurred to her that Irene and little Philo, the son of the gate-
+keeper, might enjoy the luscious fruit; so she laid it back on the dish
+and took up the bread, for she was painfully hungry.
+
+She was on the point of breaking the golden-brown cake, but acting on a
+rapid impulse she tossed it back on the trencher saying to herself: "At
+any rate I will owe him nothing; but I will not throw away the gifts of
+the gods as he threw away my violets, for that would be a sin.  All is
+over between him and me, and if he appears to-day in the procession, and
+if he chooses to look at me again I will compel my eyes to avoid meeting
+his--aye, that I will, and will carry it through.  But, Oh eternal gods!
+and thou above all, great Serapis, whom I heartily serve, there is
+another thing I cannot do without your aid.  Help me, oh! help me to
+forget him, that my very thoughts may remain pure."
+
+With these words she flung herself on her knees before the chest, pressed
+her brow against the hard wood, and strove to pray.
+
+Only for one thing did she entreat the gods; for strength to forget the
+man who had betrayed her into losing her peace of mind.
+
+But just as swift clouds float across the sky, distracting the labors of
+the star-gazer, who is striving to observe some remote planet--as the
+clatter of the street interrupts again and again some sweet song we fain
+would hear, marring it with its harsh discords--so again and again the
+image of the young Roman came across Klea's prayers for release from that
+very thought, and at last it seemed to her that she was like a man who
+strives to raise a block of stone by the exertion of his utmost strength,
+and who weary at last of lifting the stone is crushed to the earth by its
+weight; still she felt that, in spite of all her prayers and efforts, the
+enemy she strove to keep off only came nearer, and instead of flying from
+her, overmastered her soul with a grasp from which she could not escape.
+
+Finally she gave up the unavailing struggle, cooled her burning face with
+cold water, and tightened the straps of her sandals to go to the temple;
+near the god himself she hoped she might in some degree recover the peace
+she could not find here.
+
+Just at the door she met Irene, who told her that the singing-practice
+was put off, on account of the procession which was fixed for four hours
+after noon.  And as Klea went towards the temple her sister called after
+her.
+
+"Do not stay too long though, water will be wanted again directly for the
+libations."
+
+"Then will you go alone to the work?" asked Klea; "there cannot be very
+much wanted, for the temple will soon be empty on account of the
+procession.  A few jars-full will be enough.  There is a cake of bread
+and a peach in there for you; I must keep the other for little Philo."
+
+
+
+
+CHAPTER IV.
+
+Klea went quickly on towards the temple, without listening to Irene's
+excuses.  She paid no heed to the worshippers who filled the forecourt,
+praying either with heads bent low or with uplifted arms or, if they were
+of Egyptian extraction, kneeling on the smooth stone pavement, for, even
+as she entered, she had already begun to turn in supplication to the
+divinity.
+
+She crossed the great hall of the sanctuary, which was open only to the
+initiated and to the temple-servants, of whom she was one.  Here all
+around her stood a crowd of slender columns, their shafts crowned with
+gracefully curved flower calyxes, like stems supporting lilies, over her
+head she saw in the ceiling an image of the midnight sky with the bright,
+unresting and ever-restful stars; the planets and fixed stars in their
+golden barks looked down on her silently.  Yes! here were the twilight
+and stillness befitting a personal communion with the divinity.
+
+The pillars appeared to her fancy like a forest of giant growth, and it
+seemed to her that the perfume of the incense emanated from the gorgeous
+floral capitals that crowned them; it penetrated her senses, which were
+rendered more acute by fasting and agitation, with a sort of
+intoxication.  Her eyes were raised to heaven, her arms crossed over her
+bosom as she traversed this vast hall, and with trembling steps
+approached a smaller and lower chamber, where in the furthest and darkest
+background a curtain of heavy and costly material veiled the brazen door
+of the holy of holies.
+
+Even she was forbidden to approach this sacred place; but to-day she was
+so filled with longing for the inspiring assistance of the god, that she
+went on to the holy of holies in spite of the injunction she had never
+yet broken, not to approach it.  Filled with reverent awe she sank down
+close to the door of the sacred chamber, shrinking close into the angle
+formed between a projecting door-post and the wall of the great hall.
+
+The craving desire to seek and find a power outside us as guiding the
+path of our destiny is common to every nation, to every man; it is as
+surely innate in every being gifted with reason--many and various as
+these are--as the impulse to seek a cause when we perceive an effect, to
+see when light visits the earth, or to hear when swelling waves of sound
+fall on our ear.  Like every other gift, no doubt that of religious
+sensibility is bestowed in different degrees on different natures.
+In Klea it had always been strongly developed, and a pious mother had
+cultivated it by precept and example, while her father always had taught
+her one thing only: namely to be true, inexorably true, to others as to
+herself.
+
+Afterwards she had been daily employed in the service of the god whom she
+was accustomed to regard as the greatest and most powerful of all the
+immortals, for often from a distance she had seen the curtain of the
+sanctuary pushed aside, and the statue of Serapis with the Kalathos on
+his head, and a figure of Cerberus at his feet, visible in the half-light
+of the holy of holies; and a ray of light, flashing through the darkness
+as by a miracle, would fall upon his brow and kiss his lips when
+his goodness was sung by the priests in hymns of praise.  At other times
+the tapers by the side of the god would be lighted or extinguished
+spontaneously.
+
+Then, with the other believers, she would glorify the great lord of the
+other world, who caused a new sun to succeed each that was extinguished,
+and made life grow up out of death; who resuscitated the dead, lifting
+them up to be equal with him, if on earth they had reverenced truth and
+were found faithful by the judges of the nether world.
+
+Truth--which her father had taught her to regard as the best possession
+of life--was rewarded by Serapis above all other virtues; hearts were
+weighed before him in a scale against truth, and whenever Klea tried to
+picture the god in human form he wore the grave and mild features of her
+father, and she fancied him speaking in the words and tones of the man to
+whom she owed her being, who had been too early snatched from her, who
+had endured so much for righteousness' sake, and from whose lips she had
+never heard a single word that might not have beseemed the god himself.
+And, as she crouched closely in the dark angle by the holy of holies, she
+felt herself nearer to her father as well as to the god, and accused
+herself pitilessly, in that unmaidenly longings had stirred her heart,
+that she had been insincere to herself and Irene, nay in that if she
+could not succeed in tearing the image of the Roman from her heart she
+would be compelled either to deceive her sister or to sadden the innocent
+and careless nature of the impressionable child, whom she was accustomed
+to succor and cherish as a mother might.  On her, even apparently light
+matters weighed oppressively, while Irene could throw off even grave and
+serious things, blowing them off as it were into the air, like a feather.
+She was like wet clay on which even the light touch of a butterfly leaves
+a mark, her sister like a mirror from which the breath that has dimmed it
+instantly and entirely vanishes.
+
+"Great God!"  she murmured in her prayer, "I feel as if the Roman had
+branded my very soul.  Help thou me to efface the mark; help me to become
+as I was before, so that I may look again in Irene's eyes without
+concealment, pure and true, and that I may be able to say to myself, as I
+was wont, that I had thought and acted in such a way as my father would
+approve if he could know it."
+
+She was still praying thus when the footsteps and voices of two men
+approaching the holy of holies startled her from her devotions; she
+suddenly became fully conscious of the fact that she was in a forbidden
+spot, and would be severely punished if she were discovered.
+
+"Lock that door," cried one of the new-comers to his companion, pointing
+to the door which led from the prosekos into the pillared hall, "none,
+even of the initiated, need see what you are preparing here for us--"
+
+Klea recognized the voice of the high-priest, and thought for a moment of
+stepping forward and confessing her guilt; but, though she did not
+usually lack courage, she did not do this, but shrank still more closely
+into her hiding-place, which was perfectly dark when the brazen door of
+the room; which had no windows, was closed.  She now perceived that the
+curtain and door were opened which closed the inmost sanctuary, she heard
+one of the men twirling the stick which was to produce fire, saw the
+first gleam of light from it streaming out of the holy of holies, and
+then heard the blows of a hammer and the grating sound of a file.
+
+The quiet sanctum was turned into a forge, but noisy as were the
+proceedings within, it seemed to Klea that the beating of her own heart
+was even louder than the brazen clatter of the tools wielded by Krates;
+he was one of the oldest of the priests of Serapis, who was chief in
+charge of the sacred vessels, who was wont never to speak to any one but
+the high-priest, and who was famous even among his Greek fellow-
+countrymen for the skill with which he could repair broken metal-work,
+make the securest locks, and work in silver and gold.
+
+When the sisters first came into the temple five years since, Irene had
+been very much afraid of this man, who was so small as almost to be a
+dwarf, broad shouldered and powerfully knit, while his wrinkled face
+looked like a piece of rough cork-bark, and he was subject to a painful
+complaint in his feet which often prevented his walking; her fears had
+not vexed but only amused the priestly smith, who whenever he met the
+child, then eleven years old, would turn his lips up to his big red nose,
+roll his eyes, and grunt hideously to increase the terror that came over
+her.
+
+He was not ill-natured, but he had neither wife nor child, nor brother,
+nor sister, nor friend, and every human being so keenly desires that
+others should have some feeling about him, that many a one would rather
+be feared than remain unheeded.
+
+After Irene had got over her dread she would often entreat the old man--
+who was regarded as stern and inaccessible by all the other dwellers in
+the temple--in her own engaging and coaxing way to make a face for her,
+and he would do it and laugh when the little one, to his delight and her
+own, was terrified at it and ran away; and just lately when Irene, having
+hurt her foot, was obliged to keep her room for a few days, an unheard of
+thing had occurred: he had asked Klea with the greatest sympathy how her
+sister was getting on, and had given her a cake for her.
+
+While Krates was at his work not a word passed between him and the high-
+priest.  At length he laid down the hammer, and said:
+
+"I do not much like work of this kind, but this, I think, is successful
+at any rate.  Any temple-servant, hidden here behind the altar, can now
+light or extinguish the lamps without the illusion being detected by the
+sharpest.  Go now and stand at the door of the great hall and speak the
+word."
+
+Klea heard the high-priest accede to this request and cry in a
+chanting voice: "Thus he commands the night and it becomes day, and the
+extinguished taper and lo! it flames with brightness.  If indeed thou art
+nigh, Oh Serapis! manifest thyself to us."
+
+At these words a bright stream of light flashed from the holy of holies,
+and again was suddenly extinguished when the high-priest sang: "Thus
+showest thou thyself as light to the children of truth, but dost punish
+with darkness the children of lies."
+
+"Again?"  asked Krates in a voice which conveyed a desire that the answer
+might be 'No.'
+
+"I must trouble you," replied the high-priest.  "Good! the performance
+went much better this time.  I was always well assured of your skill; but
+consider the particular importance of this affair.  The two kings and the
+queen will probably be present at the solemnity, certainly Philometor and
+Cleopatra will, and their eyes are wide open; then the Roman who has
+already assisted four times at the procession will accompany them, and if
+I judge him rightly he, like many of the nobles of his nation, is one of
+those who can trust themselves when it is necessary to be content with
+the old gods of their fathers; and as regards the marvels we are able to
+display to them, they do not take them to heart like the poor in spirit,
+but measure and weigh them with a cool and unbiassed mind.  People of
+that stamp, who are not ashamed to worship, who do not philosophize but
+only think just so much as is necessary for acting rightly, those are the
+worst contemners of every supersensual manifestation."
+
+"And the students of nature in the Museum?"  asked Krates.  "They believe
+nothing to be real that they cannot see and observe."
+
+"And for that very reason," replied the high-priest, "they are often
+singularly easy to deceive by your skill, since, seeing an effect without
+a cause, they are inclined to regard the invisible cause as something
+supersensual.  Now, open the door again and let us get out by the side
+door; do you, this time, undertake the task of cooperating with Serapis
+yourself.  Consider that Philometor will not confirm the donation of the
+land unless he quits the temple deeply penetrated by the greatness of our
+god.  Would it be possible, do you think, to have the new censer ready in
+time for the birthday of King Euergetes, which is to be solemnly kept at
+Memphis?"
+
+"We will see," replied Krates, "I must first put together the lock of the
+great door of the tomb of Apis, for so long as I have it in my workshop
+any one can open it who sticks a nail into the hole above the bar, and
+any one can shut it inside who pushes the iron bolt.  Send to call me
+before the performance with the lights begins; I will come in spite of my
+wretched feet.  As I have undertaken the thing I will carry it out, but
+for no other reason, for it is my opinion that even without such means of
+deception--"
+
+"We use no deception," interrupted the high-priest, sternly rebuking his
+colleague.  "We only present to short-sighted mortals the creative power
+of the divinity in a form perceptible and intelligible to their senses."
+
+With these words the tall priest turned his back on the smith and quitted
+the hall by a side door; Krates opened the brazen door, and as he
+gathered together his tools he said to himself, but loud enough for Klea
+to hear him distinctly in her hiding-place:
+
+"It may be right for me, but deceit is deceit, whether a god deceives
+a king or a child deceives a beggar."
+
+"Deceit is deceit," repeated Klea after the smith when he had left the
+hall and she had emerged from her corner.
+
+She stood still for a moment and looked round her.  For the first time
+she observed the shabby colors on the walls, the damage the pillars had
+sustained in the course of years, and the loose slabs in the pavement.
+
+The sweetness of the incense sickened her, and as she passed by an old
+man who threw up his arms in fervent supplication, she looked at him with
+a glance of compassion.
+
+When she had passed out beyond the pylons enclosing the temple she turned
+round, shaking her head in a puzzled way as she gazed at it; for she knew
+that not a stone had been changed within the last hour, and yet it looked
+as strange in her eyes as some landscape with which we have become
+familiar in all the beauty of spring, and see once more in winter with
+its trees bare of leaves; or like the face of a woman which we thought
+beautiful under the veil which hid it, and which, when the veil is
+raised, we see to be wrinkled and devoid of charm.
+
+When she had heard the smith's words, "Deceit is deceit," she felt her
+heart shrink as from a stab, and could not check the tears which started
+to her eyes, unused as they were to weeping; but as soon as she had
+repeated the stern verdict with her own lips her tears had ceased, and
+now she stood looking at the temple like a traveller who takes leave of a
+dear friend; she was excited, she breathed more freely, drew herself up
+taller, and then turned her back on the sanctuary of Serapis, proudly
+though with a sore heart.
+
+Close to the gate-keeper's lodge a child came tottering towards her with
+his arms stretched up to her.  She lifted him up, kissed him, and then
+asked the mother, who also greeted her, for a piece of bread, for her
+hunger was becoming intolerable.  While she ate the dry morsel the child
+sat on her lap, following with his large eyes the motion of her hand and
+lips.  The boy was about five years old, with legs so feeble that they
+could scarcely support the weight of his body, but he had a particularly
+sweet little face; certainly it was quite without expression, and it was
+only when he saw Klea coming that tiny Philo's eyes had lighted up with
+pleasure.
+
+"Drink this milk," said the child's mother, offering the young girl an
+earthen bowl.  "There is not much and I could not spare it if Philo would
+eat like other children, but it seems as if it hurt him to swallow.  He
+drinks two or three drops and eats a mouthful, and then will take no more
+even if he is beaten."
+
+"You have not been beating him again?"  said Klea reproachfully, and
+drawing the child closer to her.  "My husband--" said the woman, pulling
+at her dress in some confusion.  "The child was born on a good day and in
+a lucky hour, and yet he is so puny and weak and will not learn to speak,
+and that provokes Pianchi."
+
+"He will spoil everything again!"  exclaimed Klea annoyed.  "Where is
+he?"
+
+"He was wanted in the temple."
+
+"And is he not pleased that Philo calls him 'father,' and you 'mother,'
+and me by my name, and that he learns to distinguish many things?"  asked
+the girl.
+
+"Oh, yes of course," said the woman.  "He says you are teaching him to
+speak just as if he were a starling, and we are very much obliged to
+you."
+
+"That is not what I want," interrupted Klea.  "What I wish is that you
+should not punish and scold the boy, and that you should be as glad as I
+am when you see his poor little dormant soul slowly waking up.  If he
+goes on like this, the poor little fellow will be quite sharp and
+intelligent.  What is my name, my little one?"
+
+"Ke-ea," stammered the child, smiling at his friend.  "And now taste this
+that I have in my hand; what is it?--I see you know.  It is called--
+whisper in my ear.  That's right, mil--mil-milk! to be sure, my tiny,
+it is milk.  Now open your little mouth and say it prettily after me--
+once more--and again--say it twelve times quite right and I will give you
+a kiss--Now you have earned a pretty kiss--will you have it here or here?
+Well, and what is this?  your ea-?  Yes, your ear.  And this?--your nose,
+that is right."
+
+The child's eyes brightened more and more under this gentle teaching,
+and neither Klea nor her pupil were weary till, about an hour later,
+the re-echoing sound of a brass gong called her away.  As she turned to
+go the little one ran after her crying; she took him in her arms and
+carried him back to his mother, and then went on to her own room to
+dress herself and her sister for the procession.  On the way to the
+Pastophorium she recalled once more her expedition to the temple and
+her prayer there.
+
+"Even before the sanctuary," said she to herself, "I could not succeed in
+releasing my soul from its burden--it was not till I set to work to
+loosen the tongue of the poor little child.  Every pure spot, it seems to
+me, may be the chosen sanctuary of some divinity, and is not an infant's
+soul purer than the altar where truth is mocked at?"
+
+In their room she found Irene; she had dressed her hair carefully and
+stuck the pomegranate-flower in it, and she asked Klea if she thought she
+looked well.
+
+"You look like Aphrodite herself," replied Klea kissing her forehead.
+Then she arranged the folds of her sister's dress, fastened on the
+ornaments, and proceeded to dress herself.  While she was fastening her
+sandals Irene asked her, "Why do you sigh so bitterly?"  and Klea
+replied, "I feel as if I had lost my parents a second time."
+
+
+
+
+CHAPTER V.
+
+The procession was over.
+
+At the great service which had been performed before him in the Greek
+Serapeum, Ptolemy Philometor had endowed the priests not with the whole
+but with a considerable portion of the land concerning which they had
+approached him with many petitions.  After the court had once more
+quitted Memphis and the procession was broken up, the sisters returned to
+their room, Irene with crimson cheeks and a smile on her lips, Klea with
+a gloomy and almost threatening light in her eyes.
+
+As the two were going to their room in silence a temple-servant called to
+Klea, desiring her to go with him to the high-priest, who wished to speak
+to her.  Klea, without speaking, gave her water-jar to Irene and was
+conducted into a chamber of the temple, which was used for keeping the
+sacred vessels in.  There she sat down on a bench to wait.  The two men
+who in the morning had visited the Pastophorium had also followed in the
+procession with the royal family.  At the close of the solemnities
+Publius had parted from his companion without taking leave, and without
+looking to the right or to the left, he had hastened back to the
+Pastophorium and to the cell of Serapion, the recluse.
+
+The old man heard from afar the younger man's footstep, which fell on the
+earth with a firmer and more decided tread than that of the softly-
+stepping priests of Serapis, and he greeted him warmly with signs and
+words.
+
+Publius thanked him coolly and gravely, and said, dryly enough and with
+incisive brevity:
+
+"My time is limited.  I propose shortly to quit Memphis, but I promised
+you to hear your request, and in order to keep my word I have come to see
+you; still--as I have said--only to keep my word.  The water-bearers of
+whom you desired to speak to me do not interest me--I care no more about
+them than about the swallows flying over the house yonder."
+
+"And yet this morning you took a long walk for Klea's sake," returned
+Serapion.
+
+"I have often taken a much longer one to shoot a hare," answered the
+Roman.  "We men do not pursue our game because the possession of it is
+any temptation, but because we love the sport, and there are sporting
+natures even among women.  Instead of spears or arrows they shoot with
+flashing glances, and when they think they have hit their game they turn
+their back upon it.  Your Klea is one of this sort, while the pretty
+little one I saw this morning looks as if she were very ready to be
+hunted, I however, no more wish to be the hunter of a young girl than to
+be her game.  I have still three days to spend in Memphis, and then I
+shall turn my back forever on this stupid country."
+
+"This morning," said Serapion, who began to suspect what the grievance
+might be which had excited the discontent implied in the Roman's speech,
+"This morning you appeared to be in less hurry to set out than now, so to
+me you seem to be in the plight of game trying to escape; however, I know
+Klea better than you do.  Shooting is no sport of hers, nor will she let
+herself be hunted, for she has a characteristic which you, my friend
+Publius Scipio, ought to recognize and value above all others--she is
+proud, very proud; aye, and so she may be, scornful as you look--as if
+you would like to say 'how came a water-carrier of Serapis by her pride,
+a poor creature who is ill-fed and always engaged in service, pride which
+is the prescriptive right only of those, whom privilege raises above the
+common herd around them?--But this girl, you may take my word for it, has
+ample reason to hold her head high, not only because she is the daughter
+of free and noble parents and is distinguished by rare beauty, not
+because while she was still a child she undertook, with the devotion
+and constancy of the best of mothers, the care of another child--her
+own sister, but for a reason which, if I judge you rightly, you will
+understand better than many another young man; because she must uphold
+her pride in order that among the lower servants with whom unfortunately
+she is forced to work, she may never forget that she is a free and noble
+lady.  You can set your pride aside and yet remain what you are, but if
+she were to do so and to learn to feel as a servant, she would presently
+become in fact what by nature she is not and by circumstances is
+compelled to be.  A fine horse made to carry burdens becomes a mere cart-
+horse as soon as it ceases to hold up its head and lift its feet freely.
+Klea is proud because she must be proud; and if you are just you will not
+contemn the girl, who perhaps has cast a kindly glance at you--since the
+gods have so made you that you cannot fail to please any woman--and yet
+who must repel your approaches because she feels herself above being
+trifled with, even by one of the Cornelia gens, and yet too lowly to dare
+to hope that a man like you should ever stoop from your height to desire
+her for a wife.  She has vexed you, of that there can be no doubt; how,
+I can only guess.  If, however, it has been through her repellent pride,
+that ought not to hurt you, for a woman is like a soldier, who only puts
+on his armor when he is threatened by an opponent whose weapons he
+fears."
+
+The recluse had rather whispered than spoken these words, remembering
+that he had neighbors; and as he ceased the drops stood on his brow, for
+whenever any thing disturbed him he was accustomed to allow his powerful
+voice to be heard pretty loudly, and it cost him no small effort to
+moderate it for so long.
+
+Publius had at first looked him in the face, and then had gazed at the
+ground, and he had heard Serapion to the end without interrupting him;
+but the color had flamed in his cheeks as in those of a schoolboy, and
+yet he was an independent and resolute youth who knew how to conduct
+himself in difficult straits as well as a man in the prime of life.
+In all his proceedings he was wont to know very well, exactly what he
+wanted, and to do without any fuss or comment whatever he thought right
+and fitting.
+
+During the anchorite's speech the question had occurred to him, what did
+he in fact expect or wish of the water-bearer; but the answer was
+wanting, he felt somewhat uncertain of himself, and his uncertainty and
+dissatisfaction with himself increased as all that he heard struck him
+more and more.  He became less and less inclined to let himself be thrown
+over by the young girl who for some days had, much against his will, been
+constantly in his thoughts, whose image he would gladly have dismissed
+from his mind, but who, after the recluse's speech, seemed more desirable
+than ever.  "Perhaps you are right," he replied after a short silence,
+and he too lowered his voice, for a subdued tone generally provokes an
+equally subdued answer.  "You know the maiden better than I, and if you
+describe her correctly it would be as well that I should abide by my
+decision and fly from Egypt, or, at any rate, from your protegees, since
+nothing lies before me but a defeat or a victory, which could bring me
+nothing but repentance.  Klea avoided my eye to-day as if it shed poison
+like a viper's tooth, and I can have nothing more to do with her: still,
+might I be informed how she came into this temple? and if I can be of any
+service to her, I will-for your sake.  Tell me now what you know of her
+and what you wish me to do."
+
+The recluse nodded assent and beckoned Publius to come closer to him, and
+bowing down to speak into the Roman's ear, he said softly: "Are you in
+favor with the queen?"  Publius, having said that he was, Serapion, with
+an exclamation of satisfaction, began his story.
+
+"You learned this morning how I myself came into this cage, and that my
+father was overseer of the temple granaries.  While I was wandering
+abroad he was deposed from his office, and would probably have died in
+prison, if a worthy man had not assisted him to save his honor and his
+liberty.  All this does not concern you, and I may therefore keep it to
+myself; but this man was the father of Klea and Irene, and the enemy by
+whose instrumentality my father suffered innocently was the villain
+Eulaeus.  You know--or perhaps indeed you may not know--that the priests
+have to pay a certain tribute for the king's maintenance; you know?  To
+be sure, you Romans trouble yourselves more about matters of law and
+administration than the culture of the arts or the subtleties of thought.
+Well, it was my father's duty to pay these customs over to Eulaeus, who
+received them; but the beardless effeminate vermin, the glutton--may
+every peach he ever ate or ever is to eat turn to poison!--kept back half
+of what was delivered to him, and when the accountants found nothing but
+empty air in the king's stores where they hoped to find corn and woven
+goods, they raised an alarm, which of course came to the ears of the
+powerful thief at court before it reached those of my poor father.  You
+called Egypt a marvellous country, or something like it; and so in truth
+it is, not merely on account of the great piles there that you call
+Pyramids and such like, but because things happen here which in Rome
+would be as impossible as moonshine at mid-day, or a horse with his tail
+at the end of his nose!  Before a complaint could be laid against Eulaeus
+he had accused my father of the peculation, and before the Epistates and
+the assessor of the district had even looked at the indictment, their
+judgment on the falsely accused man was already recorded, for Eulaeus had
+simply bought their verdict just as a man buys a fish or a cabbage in the
+market.  In olden times the goddess of justice was represented in this
+country with her eyes shut, but now she looks round on the world like a
+squinting woman who winks at the king with one eye, and glances with the
+other at the money in the hand of the accuser or the accused.  My poor
+father was of course condemned and thrown into prison, where he was
+beginning to doubt the justice of the gods, when for his sake the
+greatest wonder happened, ever seen in this land of wonders since first
+the Greeks ruled in Alexandria.  An honorable man undertook without fear
+of persons the lost cause of the poor condemned wretch, and never rested
+till he had restored him to honor and liberty.  But imprisonment,
+disgrace and indignation had consumed the strength of the ill-used man
+as a worm eats into cedar wood, and he fell into a decline and died.  His
+preserver, Klea's father, as the reward of his courageous action fared
+even worse; for here by the Nile virtues are punished in this world, as
+crimes are with you.  Where injustice holds sway frightful things occur,
+for the gods seem to take the side of the wicked.  Those who do not
+hope for a reward in the next world, if they are neither fools nor
+philosophers--which often comes to the same thing--try to guard
+themselves against any change in this.
+
+"Philotas, the father of the two girls, whose parents were natives of
+Syracuse, was an adherent of the doctrines of Zeno--which have many
+supporters among you at Rome too--and he was highly placed as an
+official, for he was president of the Chrematistoi, a college of judges
+which probably has no parallel out of Egypt, and which has been kept up
+better than any other.  It travels about from province to province
+stopping in the chief towns to administer justice.  When an appeal is
+brought against the judgment of the court of justice belonging to any
+place--over which the Epistates of the district presides--the case is
+brought before the Chrematistoi, who are generally strangers alike to
+the accuser and accused; by them it is tried over again, and thus the
+inhabitants of the provinces are spared the journey to Alexandria or--
+since the country has been divided--to Memphis, where, besides, the
+supreme court is overburdened with cases.
+
+"No former president of the Chrematistoi had ever enjoyed a higher
+reputation than Philotas.  Corruption no more dared approach him than a
+sparrow dare go near a falcon, and he was as wise as he was just, for he
+was no less deeply versed in the ancient Egyptian law than in that of the
+Greeks, and many a corrupt judge reconsidered matters as soon as it
+became known that he was travelling with the Chrematistoi, and passed a
+just instead of an unjust sentence.
+
+"Cleopatra, the widow of Epiphanes, while she was living and acting as
+guardian of her sons Philometor and Euergetes--who now reign in Memphis
+and Alexandria--held Philotas in the highest esteem and conferred on him
+the rank of 'relation to the king'; but she was just dead when this
+worthy man took my father's cause in hand, and procured his release from
+prison.
+
+"The scoundrel Eulaeus and his accomplice Lenaeus then stood at the
+height of power, for the young king, who was not yet of age, let himself
+be led by them like a child by his nurse.
+
+"Now as my father was an honest man, no one but Eulaeus could be the
+rascal, and as the Chrematistoi threatened to call him before their
+tribunal the miserable creature stirred up the war in Caelo-Syria against
+Antiochus Epiphanes, the king's uncle.
+
+"You know how disgraceful for us was the course of that enterprise, how
+Philometor was defeated near Pelusium, and by the advice of Eulaeus
+escaped with his treasure to Samothrace, how Philometor's brother
+Euergetes was set up as king in Alexandria, how Antiochus took Memphis,
+and then allowed his elder nephew to continue to reign here as though he
+were his vassal and ward.
+
+"It was during  this  period  of humiliation, that Eulaeus was able to
+evade Philotas, whom he may very well have feared, as though his own
+conscience walked the earth on two legs in the person of the judge, with
+the sword of justice in his hand, and telling all men what a scoundrel he
+was.
+
+"Memphis had opened her gates to Antiochus without offering much
+resistance, and the Syrian king, who was a strange man and was fond of
+mixing among the people as if he himself were a common man, applied to
+Philotas, who was as familiar with Egyptian manners and customs as with
+those of Greece, in order that he might conduct him into the halls of
+justice and into the market-places; and he made him presents as was his
+way, sometimes of mere rubbish and sometimes of princely gifts.
+
+"Then when Philometor was freed by the Romans from the protection of the
+Syrian king, and could govern in Memphis as an independent sovereign,
+Eulaeus accused the father of these two girls of having betrayed Memphis
+into the hands of Antiochus, and never rested till the innocent man was
+deprived of his wealth, which was considerable, and sent with his wife to
+forced labor in the gold mines of Ethiopia.
+
+"When all this occurred I had already returned to my cage here; but I
+heard from my brother Glaucus--who was captain of the watch in the
+palace, and who learned a good many things before other people did--
+what was going on out there, and I succeeded in having the daughters
+of Philotas secretly brought to this temple, and preserved from sharing
+their parents' fate.  That is now five years ago, and now you know how it
+happens, that the daughters of a man of rank carry water for the altar of
+Serapis, and that I would rather an injury should be done to me than to
+them, and that I would rather see Eulaeus eating some poisonous root than
+fragrant peaches."
+
+"And is Philotas still working in the mines?"  asked the Roman, clenching
+his teeth with rage.
+
+"Yes, Publius," replied the anchorite.  "A 'yes' that it is easy to say,
+and it is just as easy too to clench one's fists in indignation--but it
+is hard to imagine the torments that must be endured by a man like
+Philotas; and a noble and innocent woman--as beautiful as Hera and
+Aphrodite in one--when they are driven to hard and unaccustomed labor
+under a burning sun by the lash of the overseer.  Perhaps by this time
+they have been happy enough to die under their sufferings and their
+daughters are already orphans, poor children!  No one here but the high-
+priest knows precisely who they are, for if Eulaeus were to learn the
+truth he would send them after their parents as surely as my name is
+Serapion."
+
+"Let him try it!" cried Publius, raising his right fist threateningly.
+
+"Softly, softly, my friend," said the recluse, "and not now only, but
+about everything which you under take in behalf of the sisters, for a man
+like Eulaeus hears not only with his own ears but with those of thousand
+others, and almost everything that occurs at court has to go through his
+hands as epistolographer.  You say the queen is well-disposed towards
+you.  That is worth a great deal, for her husband is said to be guided by
+her will, and such a thing as Eulaeus cannot seem particularly estimable
+in Cleopatra's eyes if princesses are like other women--and I know them
+well."
+
+"And even if he were," interrupted Publius with glowing cheeks, "I would
+bring him to ruin all the same, for a man like Philotas must not perish,
+and his cause henceforth is my own.  Here is my hand upon it; and if I am
+happy in having descended from a noble race it is above all because the
+word of a son of the Cornelii is as good as the accomplished deed of any
+other man."
+
+The recluse grasped the right hand the young man gave him and nodded to
+him affectionately, his eyes radiant, though moistened with joyful
+emotion.  Then he hastily turned his back on the young man, and soon
+reappeared with a large papyrus-roll in his hand.  "Take this," he said,
+handing it to the Roman, "I have here set forth all that I have told you,
+fully and truly with my own hand in the form of a petition.  Such
+matters, as I very well know, are never regularly conducted to an issue
+at court unless they are set forth in writing.  If the queen seems
+disposed to grant you a wish give her this roll, and entreat her for a
+letter of pardon.  If you can effect this, all is won."
+
+Publius took the roll, and once more gave his hand to the anchorite, who,
+forgetting himself for a moment, shouted out in his loud voice:
+
+"May the gods bless thee, and by thy means work the release of the
+noblest of men from his sufferings!  I had quite ceased to hope, but if
+you come to our aid all is not yet wholly lost."
+
+
+
+
+CHAPTER VI.
+
+"Pardon me if I disturb you."
+
+With these words the anchorite's final speech was interrupted by Eulaeus,
+who had come in to the Pastophorium softly and unobserved, and who now
+bowed respectfully to Publius.
+
+"May I be permitted to enquire on what compact one of the noblest of the
+sons of Rome is joining hands with this singular personage?"
+
+"You are free to ask," replied Publius shortly and drily, "but every one
+is not disposed to answer, and on the present occasion I am not.  I will
+bid you farewell, Serapion, but not for long I believe."
+
+"Am I permitted to accompany you?"  asked Eulaeus.
+
+"You have followed me without any permission on my part."
+
+"I did so by order of the king, and am only fulfilling his commands in
+offering you my escort now."
+
+"I shall go on, and I cannot prevent your following me."
+
+"But I beg of you," said Eulaeus, "to consider that it would ill-become
+me to walk behind you like a servant."
+
+"I respect the wishes of my host, the king, who commanded you to follow
+me," answered the Roman.  "At the door of the temple however you can get
+into your chariot, and I into mine; an old courtier must be ready to
+carry out the orders of his superior."
+
+"And does carry them out," answered Eulaeus with deference, but his eyes
+twinkled--as the forked tongue of a serpent is rapidly put out and still
+more rapidly withdrawn--with a flash first of threatening hatred, and
+then another of deep suspicion cast at the roll the Roman held in his
+hand.
+
+Publius heeded not this glance, but walked quickly towards the acacia-
+grove; the recluse looked after the ill-matched pair, and as he watched
+the burly Eulaeus following the young man, he put both his hands on his
+hips, puffed out his fat cheeks, and burst into loud laughter as soon as
+the couple had vanished behind the acacias.
+
+When once Serapion's midriff was fairly tickled it was hard to reduce it
+to calm again, and he was still laughing when Klea appeared in front of
+his cell some few minutes after the departure of the Roman.  He was about
+to receive his young friend with a cheerful greeting, but, glancing at
+her face, he cried anxiously;
+
+"You look as if you had met with a ghost; your lips are pale instead of
+red, and there are dark shades round your eyes.  What has happened to
+you, child?  Irene went with you to the procession, that I know.  Have
+you had bad news of your parents?  You shake your head.  Come, child,
+perhaps you are thinking of some one more than you ought; how the color
+rises in your cheeks!  Certainly handsome Publius, the Roman, must have
+looked into your eyes--a splendid youth is he--a fine young man--
+a capital good fellow--"
+
+"Say no more on that subject," Klea exclaimed, interrupting her friend
+and protector, and waving her hand in the air as if to cut off the other
+half of Serapion's speech.  "I can hear nothing more about him."
+
+"Has he addressed you unbecomingly?"  asked the recluse.
+
+"Yes!" said Klea, turning crimson, and with a vehemence quite foreign
+to her usual gentle demeanor, "yes, he persecutes me incessantly with
+challenging looks."
+
+"Only with looks?"  said the anchorite.  "But we may look even at the
+glorious sun and at the lovely flowers as much as we please, and they are
+not offended."
+
+"The sun is too high and the soulless flowers too humble for a man to
+hurt them," replied Klea.  "But the Roman is neither higher nor lower
+than I, the eye speaks as plain a language as the tongue, and what his
+eyes demand of me brings the blood to my cheeks and stirs my indignation
+even now when I only think of it."
+
+"And that is why you avoid his gaze so carefully?"
+
+"Who told you that?"
+
+"Publius himself; and because he is wounded by your hard-heartedness he
+meant to quit Egypt; but I have persuaded him to remain, for if there is
+a mortal living from whom I expect any good for you and yours--"
+
+"It is certainly not he," said Klea positively.  "You are a man, and
+perhaps you now think that so long as you were young and free to wander
+about the world you would not have acted differently from him--it is a
+man's privilege; but if you could look into my soul or feel with the
+heart of a woman, you would think differently.  Like the sand of the
+desert which is blown over the meadows and turns all the fresh verdure to
+a hideous brown-like a storm that transforms the blue mirror of the sea
+into a crisped chaos of black whirl pools and foaming ferment, this man's
+imperious audacity has cruelly troubled my peace of heart.  Four times
+his eyes pursued me in the processions; yesterday I still did not
+recognize my danger, but to-day--I must tell you, for you are like a
+father to me, and who else in the world can I confide in?--to-day I was
+able to avoid his gaze, and yet all through long endless hours of the
+festival I felt his eyes constantly seeking mine.  I should have been
+certain I was under no delusion, even if Publius Scipio--but what
+business has his name on my lips?--even if the Roman had not boasted to
+you of his attacks on a defenceless girl.  And to think that you, you of
+all others, should have become his ally!  But you would not, no indeed
+you would not, if you knew how I felt at the procession while I was
+looking down at the ground, and knew that his very look desecrated me
+like the rain that washed all the blossoms off the young vine-shoots last
+year.  It was just as if he were drawing a net round my heart--but, oh!
+what a net!  It was as if the flax on a distaff had been set on fire, and
+the flames spun out into thin threads, and the meshes knotted of the
+fiery yarn.  I felt every thread and knot burning into my soul, and could
+not cast it off nor even defend myself.  Aye! you may look grieved and
+shake your head, but so it was, and the scars hurt me still with a pain
+I cannot utter."
+
+"But Klea," interrupted Serapion, "you are quite beside yourself--like
+one possessed.  Go to the temple and pray, or, if that is of no avail,
+go to Asclepios or Anubis and have the demon cast out."
+
+"I need none of your gods!"  answered the girl in great agitation.
+"Oh!  I wish you had left me to my fate, and that we had shared the lot
+of our parents, for what threatens us here is more frightful than having
+to sift gold-dust in the scorching sun, or to crush quartz in mortars.
+I did not come to you to speak about the Roman, but to tell you what the
+high-priest had just disclosed to me since the procession ended."
+
+"Well?"  asked Serapion eager and almost frightened, stretching out his
+neck to put his head near to the girl's, and opening his eyes so wide
+that the loose skin below them almost disappeared.
+
+"First he told me," replied Klea, "how meagrely the revenues of the
+temple are supplied--"
+
+"That is quite true," interrupted the anchorite, "for Antiochus carried
+off the best part of its treasure; and the crown, which always used to
+have money to spare for the sanctuaries of Egypt, now loads our estates
+with heavy tribute; but you, as it seems to me, were kept scantily
+enough, worse than meanly, for, as I know--since it passed through my
+hands--a sum was paid to the temple for your maintenance which would have
+sufficed to keep ten hungry sailors, not speak of two little pecking
+birds like you, and besides that you do hard service without any pay.
+Indeed it would be a more profitable speculation to steal a beggar's rags
+than to rob you!  Well, what did the high-priest want?"
+
+"He says that we have been fed and protected by the priesthood for five
+years, that now some danger threatens the temple on our account, and that
+we must either quit the sanctuary or else make up our minds to take the
+place of the twin-sisters Arsinoe and Doris who have hitherto been
+employed in singing the hymns of lamentation, as Isis and Nephthys, by
+the bier of the deceased god on the occasion of the festivals of the
+dead, and in pouring out the libations with wailing and outcries when the
+bodies were brought into the temple to be blessed.  These maidens,
+Asclepiodorus says, are now too old and ugly for these duties, but the
+temple is bound to maintain them all their lives.  The funds of the
+temple are insufficient to support two more serving maidens besides them
+and us, and so Arsinoe and Doris are only to pour out the libations for
+the future, and we are to sing the laments, and do the wailing."
+
+"But you are not twins!"  cried Serapion.  "And none but twins--so say
+the ordinances--may mourn for Osiris as Isis and Neplithys."
+
+"They will make twins of us!"  said Klea with a scornful turn of her lip.
+"Irene's hair is to be dyed black like mine, and the soles of her sandals
+are to be made thicker to make her as tall as I am."
+
+"They would hardly succeed in making you smaller than you are, and it is
+easier to make light hair dark than dark hair light," said Serapion with
+hardly suppressed rage.  "And what answer did you give to these
+exceedingly original proposals?"
+
+"The only one I could very well give.  I said no--but I declared myself
+ready, not from fear, but because we owe much to the temple, to perform
+any other service with Irene, only not this one."
+
+"And Asclepiodorus?"
+
+"He said nothing unkind to me, and preserved his calm and polite demeanor
+when I contradicted him, though he fixed his eyes on me several times in
+astonishment as if he had discovered in me something quite new and
+strange.  At last he went on to remind me how much trouble the temple
+singing-master had taken with us, how well my low voice went with Irene's
+high one, how much applause we might gain by a fine performance of the
+hymns of lamentation, and how he would be willing, if we undertook the
+duties of the twin-sisters, to give us a better dwelling and more
+abundant food.  I believe he has been trying to make us amenable by
+supplying us badly with food, just as falcons are trained by hunger.
+Perhaps I am doing him an injustice, but I feel only too much disposed
+to-day to think the worst of him and of the other fathers.  Be that as it
+may; at any rate he made me no further answer when I persisted in my
+refusal, but dismissed me with an injunction to present myself before him
+again in three days' time, and then to inform him definitively whether
+I would conform to his wishes, or if I proposed to leave the temple.
+I bowed and went towards the door, and was already on the threshold when
+he called me back once more, and said: 'Remember your parents and their
+fate!'  He spoke solemnly, almost threateningly, but he said no more and
+hastily turned his back on me.  What could he mean to convey by this
+warning?  Every day and every hour I think of my father and mother,
+and keep Irene in mind of them."
+
+The recluse at these words sat muttering thoughtfully to himself for a
+few minutes with a discontented air; then he said gravely:
+
+"Asclepiodorus meant more by his speech than you think.  Every sentence
+with which he dismisses a refractory subordinate is a nut of which the
+shell must be cracked in order to get at the kernel.  When he tells you
+to remember your parents and their sad fate, such words from his lips,
+and under the present circumstances, can hardly mean anything else than
+this: that you should not forget how easily your father's fate might
+overtake you also, if once you withdrew yourselves from the protection of
+the temple.  It was not for nothing that Asclepiodorus--as you yourself
+told me quite lately, not more than a week ago I am sure--reminded you
+how often those condemned to forced labor in the mines had their
+relations sent after them.  Ah!  child, the words of Asclepiodorus have a
+sinister meaning.  The calmness and pride, with which you look at me make
+me fear for you, and yet, as you know, I am not one of the timid and
+tremulous.  Certainly what they propose to you is repulsive enough, but
+submit to it; it is to be hoped it will not be for long.  Do it for my
+sake and for that of poor Irene, for though you might know how to assert
+your dignity and take care of yourself outside these walls in the rough
+and greedy world, little Irene never could.  And besides, Klea, my
+sweetheart, we have now found some one, who makes your concerns his, and
+who is great and powerful--but oh! what are three clays?  To think of
+seeing you turned out--and then that you may be driven with a dissolute
+herd in a filthy boat down to the burning south, and dragged to work
+which kills first the soul and then the body!  No, it is not possible!
+You will never let this happen to me--and to yourself and Irene; no, my
+darling, no, my pet, my sweetheart, you cannot, you will not do so.  Are
+you not my children, my daughters, my only joy?  and you, would you go
+away, and leave me alone in my cage, all because you are so proud!"
+
+The strong man's voice failed him, and heavy drops fell from his eyes one
+after another down his beard, and on to Klea's arm, which he had grasped
+with both hands.
+
+The girl's eyes too were dim with a mist of warm tears when she saw her
+rough friend weeping, but she remained firm and said, as she tried to
+free her hand from his:
+
+"You know very well, father Serapion, that there is much to tie me to
+this temple; my sister, and you, and the door-keeper's child, little
+Philo.  It would be cruel, dreadful to have to leave you; but I would
+rather endure that and every other grief than allow Irene to take the
+place of Arsinoe or the black Doris as wailing woman.  Think of that
+bright child, painted and kneeling at the foot of a bier and groaning
+and wailing in mock sorrow!  She would become a living lie in human form,
+an object of loathing to herself, and to me--who stand in the place of a
+mother to her--from morning till night a martyrizing reproach!  But what
+do I care about myself--I would disguise myself as the goddess without
+even making a wry face, and be led to the bier, and wail and groan so
+that every hearer would be cut to the heart, for my soul is already
+possessed by sorrow; it is like the eyes of a man, who has gone blind
+from the constant flow of salt tears.  Perhaps singing the hymns of
+lamentation might relieve my soul, which is as full of sorrow as an
+overbrimming cup; but I would rather that a cloud should for ever darken
+the sun, that mists should hide every star from my eyes, and the air I
+breathe be poisoned by black smoke than disguise her identity, and darken
+her soul, or let her clear laugh be turned to shrieks of lamentation, and
+her fresh and childlike spirit be buried in gloomy mourning.  Sooner will
+I go way with her and leave even you, to perish with my parents in misery
+and anguish than see that happen, or suffer it for a moment."
+
+As she spoke Serapion covered his face with his hands, and Klea, hastily
+turning away from him, with a deep sigh returned to her room.
+
+Irene was accustomed when she heard her step to hasten to meet her, but
+to-day no one came to welcome her, and in their room, which was beginning
+to be dark as twilight fell, she did not immediately catch sight of her
+sister, for she was sitting all in a heap in a corner of the room, her
+face hidden, in her hands and weeping quietly.
+
+"What is the matter?"  asked Klea, going tenderly up to the weeping
+child, over whom she bent, endeavoring to raise her.
+
+"Leave me," said Irene sobbing; she turned away from her sister with an
+impatient gesture, repelling her caress like a perverse child; and then,
+when Klea tried to soothe her by affectionately stroking her hair, she
+sprang up passionately exclaiming through her tears:
+
+"I could not help crying--and, from this hour, I must always have to cry.
+The Corinthian Lysias spoke to me so kindly after the procession, and
+you--you don't care about me at all and leave me alone all this time in
+this nasty dusty hole!  I declare I will not endure it any longer, and if
+you try to keep me shut up, I will run away from this temple, for outside
+it is all bright and pleasant, and here it is dingy and horrid!"
+
+
+
+
+ETEXT EDITOR'S BOOKMARKS:
+
+A mere nothing in one man's life, to another may be great
+A subdued tone generally provokes an equally subdued answer
+Air of a professional guide
+Before you serve me up so bitter a meal (the truth)
+Blind tenderness which knows no reason
+By nature she is not and by circumstances is compelled to be
+Deceit is deceit
+Desire to seek and find a power outside us
+Inquisitive eyes are intrusive company
+Many a one would rather be feared than remain unheeded
+Not yet fairly come to the end of yesterday
+The altar where truth is mocked at
+Virtues are punished in this world
+Who can be freer than he who needs nothing
+Who only puts on his armor when he is threatened
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK THE SISTERS, BY EBERS, V1 ***
+
+*******This file should be named 5461.txt or 5461.zip ********
+
+This eBook was produced by David Widger
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart 
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*
