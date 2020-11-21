@@ -11,6 +11,7 @@ import os
 import sys
 import json
 import time
+import string
 import platform
 import subprocess
 from datetime import datetime
@@ -52,24 +53,43 @@ def read_AO3_text(file_name):
     file_lines = file.readlines()
     file.close()
 
+    # Return an empty string if the text title is not in English (usually a 
+    # good indicator that the rest of the text is not in English.
+    bad_title_char = 0
+    for char in file_name:
+        if char not in string.printable:
+            bad_title_char += 1
+    if bad_title_char // len(file_name) >= 0.5:
+        return ""
+
     # Return an empty string if the text is not in English.
-    if "Language: English\n" not in file_lines:
+    bad_line_count = 0
+    for line in file_lines:
+        bad_char_count = 0
+        for char in line:
+            if char not in string.printable:
+                bad_char_count += 1
+        if bad_char_count // len(line) >= 0.9:
+            bad_line_count += 1
+    if bad_line_count // len(file_lines) >= 0.9:
         return ""
     
     # Strip out the text generated at the beginning and end of every AO3 text.
-    start_text = "*** START OF THIS PROJECT GUTENBERG EBOOK "
-    end_text = "*** END OF THIS PROJECT GUTENBERG EBOOK "
+    start_text = "Summary\n"
+    end_text = "Afterword\n"
+    #end_text = "Chapter End Notes\n"
     start_index = -1
     end_index = -1
     for line_index in range(len(file_lines)):
-        if start_text in file_lines[line_index]:
+        if start_text == file_lines[line_index]:
             start_index = line_index
-        elif end_text in file_lines[line_index]:
+        elif end_text == file_lines[line_index]:
             end_index = line_index
 
     # Return the resulting text with the special delimiter appended at the end.
-    delimiter = "\n<|endoftext|>\n"
-    return "\n".join(file_lines[start_index + 1:end_index]) + delimiter
+    #delimiter = "\n<|endoftext|>\n"
+    #return "\n".join(file_lines[start_index + 1:end_index]) + delimiter
+    return "\n".join(file_lines[start_index - 2:end_index]) 
 
 
 # Load in the text from Gutenberg. Clean it as necessary and return the text with the
@@ -128,9 +148,10 @@ def load_from_AO3():
     # one and extract the cleaned text from each title. Save that cleaned text into
     # the training folder.
     text_files = os.listdir("./AO3/")
-    #for text in text_files:
-    for text in []:
-        clean_text = read_Gutenberg_text(folder, text)
+    for text in text_files:
+        clean_text = read_AO3_text(text)
+        if clean_text == "":
+            continue
         new_file = open("./gpt-2-finetuning/training/" + text, "w+", encoding="utf-8")
         new_file.write(clean_text)
         new_file.close()
@@ -305,12 +326,10 @@ def main():
     print("Creating training text file(s) (this may take a few minutes)...")
     if not os.path.exists("./gpt-2-finetuning/training"):
         os.mkdir("./gpt-2-finetuning/training")
-    #'''
     status = load_text_to_memory(unique_model_name, valid_sources)
     if not status:
         print("Error: Failed to create training text file.")
         exit(1)
-    #'''
 
     # Check to see if the necessary files from the n-sheppard repository are within the
     # src folder. Copy them to there if that is not the case.
@@ -319,39 +338,6 @@ def main():
     for file_name in required_files:
         if file_name not in src_contents:
             copyfile("./gpt-2-finetuning/" + file_name, "./gpt-2-finetuning/src/" + file_name)
-
-    '''
-    # Use the encode.py program to encode the unique model name + "_training_text.txt"
-    # file for training the model. Save the encoding as unique model name +
-    # "_training_text.npz".
-    os.chdir("./gpt-2-finetuning/src/")
-    encode_command = subprocess.Popen(python_command + " encode.py " +\
-                                        "--model_name=" + model_selected + " in_text="
-                                        "../training/" + unique_model_name +\
-                                        "_training_text.txt " +\
-                                        unique_model_name + "_encoded_text.npz", shell=True,
-                                        stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    encode_output, encode_error = encode_command.communicate()
-    print(encode_output.decode("utf-8"))
-    if len(encode_error) != 0:
-        print(encode_error.decode("utf-8"))
-    copyfile(unique_model_name + "_encoded_text.npz",
-                "../training/" + unique_model_name + "_encoded_text.npz")
-    #os.remove(unique_model_name + "_encoded_text.npz")
-
-    # Use the train.py program to train the model based on your now encoded data.
-    print(os.path.exists(unique_model_name + "_encoded_text.npz"))
-    train_command = subprocess.Popen(python_command + " train.py --dataset " +\
-                                        #"../training/" + unique_model_name + "_encoded_text.npz" +\
-                                        unique_model_name + "_encoded_text.npz" +\
-                                        " --model_name " + model_selected,
-                                        shell=True, stdout=subprocess.PIPE,
-                                        stderr=subprocess.PIPE)
-    train_output, train_error = train_command.communicate()
-    print(train_output.decode("utf-8"))
-    if len(train_error) != 0:
-        print(train_error.decode("utf-8"))
-    '''
 
     # Copy the train_models.sh script over to ./gpt-2-finetuning/src/ folder. Then run
     # it to encode the training data and train the model. Note that the train_models.sh
@@ -373,43 +359,9 @@ def main():
     print(output.decode("utf-8"))
     if len(error) != 0:
         print(error.decode("utf-8"))
-    '''
-    src_files = os.listdir(".")
-    npz_file = today + "_" + model_selected + "_" + user_name + ".npz"
-    while npz_file not in src_files:
-        src_files = os.listdir(".")
-    time.sleep(15)
-    os.remove(npz_file)
-    #os.remove("./gpt-2-finetuning/src/" + today + "_" + model_selected + "_" + user_name + ".npz")
-
-    # Once training is complete, copy it from the src/checkpoint/run1 folder in the
-    # n-sheppard repository and save it under a new folder named unique model name +
-    # "_trained".
-    print("Copying trained model to its own folder in ./gpt=2-finetuning/src/models...")
-    os.mkdir("./models/" + unique_model_name + "_trained")
-    src_files = os.listdir(".")
-    while "checkpoints" not in src_files:
-        src_files = os.listdir(".")
-    copy_tree("./checkpoints/run1",
-                "./models/" + unique_model_name + "_trained")
-    #os.mkdir("./gpt-2-finetuning/src/models/" + unique_model_name + "_trained")
-    #copy_tree("./gpt-2-finetuning/src/checkpoints/run1",
-    #            "./gpt-2-finetuning/src/models/" + unique_model_name + "_trained")
-    model_files = ["encoder.json", "hparams.json", "vocab.bpe"]
-    for m_file in model_files:
-        copyfile("./models/" + model_selected + "/" + m_file, 
-                    "./models/" + unique_model_name + "_trained/" + m_file)
-        #copyfile("./gpt-2-finetuning/src/models/" + model_selected + "/" + m_file, 
-        #            "./gpt-2-finetuning/src/models/" + unique_model_name + "_trained/" + m_file)
-    rmtree("./checkpoint")
-    #rmtree("./gpt-2-finetuning/src/checkpoint")
-    rmtree("./samples")
-    #rmtree("./gpt-2-finetuning/src/samples")
-    os.chdir("../../")
-    '''
 
     # Exit the program.
-    print("Model created. Exiting program.")
+    print("Model training in progress. Exiting program.")
     exit(0)
 
 
