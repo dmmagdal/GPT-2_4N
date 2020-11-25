@@ -2,6 +2,8 @@
 # author: Diego Magdaleno
 # This program utilises the GPT-2 program stored in the hugging face
 # transformers module for text generation and specialized training.
+# Sources: https://huggingface.co/gpt2?text=Good+morning+my+friends.
+# +My+name+is+Albert+Einstien.+Today+we+will+be+
 # Python 3.7
 # Windows/MacOS/Linux
 
