@@ -1,0 +1,2173 @@
+The Project Gutenberg EBook Harold, by Edward Bulwer-Lytton, Book 1.
+#100 in our series by Edward Bulwer-Lytton
+
+Copyright laws are changing all over the world. Be sure to check the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Project
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find out about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**EBooks Readable By Both Humans and By Computers, Since 1971**
+
+*****These EBooks Were Prepared By Thousands of Volunteers*****
+
+
+Title: Harold, Book 1.
+       The Last Of The Saxon Kings
+
+Author: Edward Bulwer-Lytton
+
+Release Date: March 2005  [EBook #7672]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on April 8, 2003]
+
+Edition: 10
+
+Language: English
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK HAROLD, BY LYTTON, BOOK 1 ***
+
+
+
+This eBook was produced by Tapio Riikonen
+and David Widger
+
+
+
+
+
+HAROLD
+
+by Edward Bulwer Lytton
+
+
+
+Dedicatory Epistle
+
+
+TO THE RIGHT HON. C. T. D'EYNCOURT, M.P.
+
+I dedicate to you, my dear friend, a work, principally composed under
+your hospitable roof; and to the materials of which your library, rich
+in the authorities I most needed, largely contributed.
+
+The idea of founding an historical romance on an event so important
+and so national as the Norman Invasion, I had long entertained, and
+the chronicles of that time had long been familiar to me.  But it is
+an old habit of mine, to linger over the plan and subject of a work,
+for years, perhaps, before the work has, in truth, advanced a
+sentence; "busying myself," as old Burton saith, "with this playing
+labour--otiosaque diligentia ut vitarem torporen feriendi."
+
+The main consideration which long withheld me from the task, was in my
+sense of the unfamiliarity of the ordinary reader with the characters,
+events, and, so to speak, with the very physiognomy of a period ante
+Agamemnona; before the brilliant age of matured chivalry, which has
+given to song and romance the deeds of the later knighthood, and the
+glorious frenzy of the Crusades.  The Norman Conquest was our Trojan
+War; an epoch beyond which our learning seldom induces our imagination
+to ascend.
+
+In venturing on ground so new to fiction, I saw before me the option
+of apparent pedantry, in the obtrusion of such research as might carry
+the reader along with the Author, fairly and truly into the real
+records of the time; or of throwing aside pretensions to accuracy
+altogether;--and so rest contented to turn history into flagrant
+romance, rather than pursue my own conception of extracting its
+natural romance from the actual history.  Finally, not without some
+encouragement from you, (whereof take your due share of blame!) I
+decided to hazard the attempt, and to adopt that mode of treatment
+which, if making larger demand on the attention of the reader, seemed
+the more complimentary to his judgment.
+
+The age itself, once duly examined, is full of those elements which
+should awaken interest, and appeal to the imagination.  Not untruly
+has Sismondi said, that the "Eleventh Century has a right to be
+considered a great age.  It was a period of life and of creation; all
+that there was of noble, heroic, and vigorous in the Middle Ages
+commenced at that epoch." [1]  But to us Englishmen in especial,
+besides the more animated interest in that spirit of adventure,
+enterprise, and improvement, of which the Norman chivalry was the
+noblest type, there is an interest more touching and deep in those
+last glimpses of the old Saxon monarchy, which open upon us in the
+mournful pages of our chroniclers.
+
+I have sought in this work, less to portray mere manners, which modern
+researches have rendered familiar to ordinary students in our history,
+than to bring forward the great characters, so carelessly dismissed in
+the long and loose record of centuries; to show more clearly the
+motives and policy of the agents in an event the most memorable in
+Europe; and to convey a definite, if general, notion of the human
+beings, whose brains schemed, and whose hearts beat, in that realm of
+shadows which lies behind the Norman Conquest;
+
+    "Spes hominum caecos, morbos, votumque, labores,
+     Et passim toto volitantes aethere curas." [2]
+
+I have thus been faithful to the leading historical incidents in the
+grand tragedy of Harold, and as careful as contradictory evidences
+will permit, both as to accuracy in the delineation of character, and
+correctness in that chronological chain of dates without which there
+can be no historical philosophy; that is, no tangible link between the
+cause and the effect.  The fictitious part of my narrative is, as in
+"Rienzi," and the "Last of the Barons," confined chiefly to the
+private life, with its domain of incident and passion, which is the
+legitimate appanage of novelist or poet.  The love story of Harold and
+Edith is told differently from the well-known legend, which implies a
+less pure connection.  But the whole legend respecting the Edeva faira
+(Edith the fair) whose name meets us in the "Domesday" roll, rests
+upon very slight authority considering its popular acceptance [3]; and
+the reasons for my alterations will be sufficiently obvious in a work
+intended not only for general perusal, but which on many accounts, I
+hope, may be entrusted fearlessly to the young; while those
+alterations are in strict accordance with the spirit of the time, and
+tend to illustrate one of its most marked peculiarities.
+
+More apology is perhaps due for the liberal use to which I have
+applied the superstitions of the age.  But with the age itself those
+superstitions are so interwoven--they meet us so constantly, whether
+in the pages of our own chroniclers, or the records of the kindred
+Scandinavians--they are so intruded into the very laws, so blended
+with the very life, of our Saxon forefathers, that without employing
+them, in somewhat of the same credulous spirit with which they were
+originally conceived, no vivid impression of the People they
+influenced can be conveyed.  Not without truth has an Italian writer
+remarked, "that he who would depict philosophically an unphilosophical
+age, should remember that, to be familiar with children, one must
+sometimes think and feel as a child."
+
+Yet it has not been my main endeavour to make these ghostly agencies
+conducive to the ordinary poetical purposes of terror, and if that
+effect be at all created by them, it will be, I apprehend, rather
+subsidiary to the more historical sources of interest than, in itself,
+a leading or popular characteristic of the work.  My object, indeed,
+in the introduction of the Danish Vala especially, has been perhaps as
+much addressed to the reason as to the fancy, in showing what large,
+if dim, remains of the ancient "heathenesse" still kept their ground
+on the Saxon soil, contending with and contrasting the monkish
+superstitions, by which they were ultimately replaced.  Hilda is not
+in history; but without the romantic impersonation of that which Hilda
+represents, the history of the time would be imperfectly understood.
+
+In the character of Harold--while I have carefully examined and
+weighed the scanty evidences of its distinguishing attributes which
+are yet preserved to us--and, in spite of no unnatural partiality,
+have not concealed what appear to me its deficiencies, and still less
+the great error of the life it illustrates,--I have attempted,
+somewhat and slightly, to shadow out the ideal of the pure Saxon
+character, such as it was then, with its large qualities undeveloped,
+but marked already by patient endurance, love of justice, and freedom
+--the manly sense of duty rather than the chivalric sentiment of
+honour--and that indestructible element of practical purpose and
+courageous will, which, defying all conquest, and steadfast in all
+peril, was ordained to achieve so vast an influence over the destinies
+of the world.
+
+To the Norman Duke, I believe, I have been as lenient as justice will
+permit, though it is as impossible to deny his craft as to dispute his
+genius; and so far as the scope of my work would allow, I trust that I
+have indicated fairly the grand characteristics of his countrymen,
+more truly chivalric than their lord.  It has happened, unfortunately
+for that illustrious race of men, that they have seemed to us, in
+England, represented by the Anglo-Norman kings.  The fierce and
+plotting William, the vain and worthless Rufus, the cold-blooded and
+relentless Henry, are no adequate representatives of the far nobler
+Norman vavasours, whom even the English Chronicler admits to have been
+"kind masters," and to whom, in spite of their kings, the after
+liberties of England were so largely indebted.  But this work closes
+on the Field of Hastings; and in that noble struggle for national
+independence, the sympathies of every true son of the land, even if
+tracing his lineage back to the Norman victor, must be on the side of
+the patriot Harold.
+
+In the notes, which I have thought necessary aids to the better
+comprehension of these volumes, my only wish has been to convey to the
+general reader such illustrative information as may familiarise him.
+more easily with the subject-matter of the book, or refresh his memory
+on incidental details not without a national interest. In the mere
+references to authorities I do not pretend to arrogate to a fiction
+the proper character of a history; the references are chiefly used
+either where wishing pointedly to distinguish from invention what was
+borrowed from a chronicle, or when differing from some popular
+historian to whom the reader might be likely to refer, it seemed well
+to state the authority upon which the difference was founded. [4]
+
+In fact, my main object has been one that compelled me to admit graver
+matter than is common in romance, but which I would fain hope may be
+saved from the charge of dulness by some national sympathy between
+author and reader; my object is attained, and attained only, if, in
+closing the last page of this work, the reader shall find that, in
+spite of the fictitious materials admitted, he has formed a clearer
+and more intimate acquaintance with a time, heroic though remote, and
+characters which ought to have a household interest to Englishmen,
+than the succinct accounts of the mere historian could possibly afford
+him.
+
+Thus, my dear D'Eyncourt, under cover of an address to yourself, have
+I made to the Public those explanations which authors in general (and
+I not the least so) are often overanxious to render.
+
+This task done, my thoughts naturally fly back to the associations I
+connected with your name when I placed it at the head of this epistle.
+Again I seem to find myself under your friendly roof; again to greet
+my provident host entering that gothic chamber in which I had been
+permitted to establish my unsocial study, heralding the advent of
+majestic folios, and heaping libraries round the unworthy work.
+Again, pausing from my labour, I look through that castle casement,
+and beyond that feudal moat, over the broad landscapes which, if I err
+not, took their name from the proud brother of the Conqueror himself;
+or when, in those winter nights, the grim old tapestry waved in the
+dim recesses, I hear again the Saxon thegn winding his horn at the
+turret door, and demanding admittance to the halls from which the
+prelate of Bayeux had so unrighteously expelled him [5]--what marvel,
+that I lived in the times of which I wrote, Saxon with the Saxon,
+Norman with the Norman--that I entered into no gossip less venerable
+than that current at the Court of the Confessor, or startled my
+fellow-guests (when I deigned to meet them) with the last news which
+Harold's spies had brought over from the Camp at St. Valery?  With all
+those folios, giants of the gone world, rising around me daily, more
+and more, higher and higher--Ossa upon Pelion--on chair and table,
+hearth and floor; invasive as Normans, indomitable as Saxons, and tall
+as the tallest Danes (ruthless host, I behold them still!)--with all
+those disburied spectres rampant in the chamber, all the armour
+rusting in thy galleries, all those mutilated statues of early English
+kings (including St. Edward himself)--niched into thy grey, ivied
+walls--say in thy conscience, O host, (if indeed that conscience be
+not wholly callous!) shall I ever return to the nineteenth century
+again?
+
+But far beyond these recent associations of a single winter (for which
+heaven assoil thee!) goes the memory of a friendship of many winters,
+and proof to the storms of all.  Often have I come for advice to your
+wisdom, and sympathy to your heart, bearing back with me, in all such
+seasons, new increase to that pleasurable gratitude which is, perhaps,
+the rarest, nor the least happy sentiment, that experience leaves to
+man.  Some differences, it may be,--whether on those public questions
+which we see, every day, alienating friendships that should have been
+beyond the reach of laws and kings;--or on the more scholastic
+controversies which as keenly interest the minds of educated men,--may
+at times deny to us the idem velle, atque idem nolle; but the firma
+amicitia needs not those common links; the sunshine does not leave the
+wave for the slight ripple which the casual stone brings a moment to
+the surface.
+
+Accept, in this dedication of a work which has lain so long on my
+mind, and been endeared to me from many causes, the token of an
+affection for you and yours, strong as the ties of kindred, and
+lasting as the belief in truth.                      E. B. L.
+
+
+
+
+PREFACE TO THE THIRD EDITION.
+
+The author of an able and learned article on MABILLON [6] in the
+"Edinburgh Review," has accurately described my aim in this work;
+although, with that generous courtesy which characterises the true
+scholar, in referring to the labours of a contemporary, he has
+overrated my success.  It was indeed my aim "to solve the problem how
+to produce the greatest amount of dramatic effect at the least expense
+of historical truth"--I borrow the words of the Reviewer, since none
+other could so tersely express my design, or so clearly account for
+the leading characteristics in its conduct and completion.
+
+There are two ways of employing the materials of History in the
+service of Romance: the one consists in lending to ideal personages,
+and to an imaginary fable, the additional interest to be derived from
+historical groupings: the other, in extracting the main interest of
+romantic narrative from History itself.  Those who adopt the former
+mode are at liberty to exclude all that does not contribute to
+theatrical effect or picturesque composition; their fidelity to the
+period they select is towards the manners and costume, not towards the
+precise order of events, the moral causes from which the events
+proceeded, and the physical agencies by which they were influenced and
+controlled.  The plan thus adopted is unquestionably the more popular
+and attractive, and, being favoured by the most illustrious writers of
+historical romance, there is presumptive reason for supposing it to be
+also that which is the more agreeable to the art of fiction.
+
+But he who wishes to avoid the ground pre-occupied by others, and
+claim in the world of literature some spot, however humble, which he
+may "plough with his own heifer," will seek to establish himself not
+where the land is the most fertile, but where it is the least
+enclosed.  So, when I first turned my attention to Historical Romance,
+my main aim was to avoid as much as possible those fairer portions of
+the soil that had been appropriated by the first discoverers.  The
+great author of Ivanhoe, and those amongst whom, abroad and at home,
+his mantle was divided, had employed History to aid Romance; I
+contented myself with the humbler task to employ Romance in the aid of
+History,--to extract from authentic but neglected chronicles, and the
+unfrequented storehouse of Archaeology, the incidents and details that
+enliven the dry narrative of facts to which the general historian is
+confined,--construct my plot from the actual events themselves, and
+place the staple of such interest as I could create in reciting the
+struggles, and delineating the characters, of those who had been the
+living actors in the real drama.  For the main materials of the three
+Historical Romances I have composed, I consulted the original
+authorities of the time with a care as scrupulous, as if intending to
+write, not a fiction but a history.  And having formed the best
+judgment I could of the events and characters of the age, I adhered
+faithfully to what, as an Historian, I should have held to be the true
+course and true causes of the great political events, and the
+essential attributes of the principal agents.  Solely in that inward
+life which, not only as apart from the more public and historical, but
+which, as almost wholly unknown, becomes the fair domain of the poet,
+did I claim the legitimate privileges of fiction, and even here I
+employed the agency of the passions only so far as they served to
+illustrate what I believed to be the genuine natures of the beings who
+had actually lived, and to restore the warmth of the human heart to
+the images recalled from the grave.
+
+Thus, even had I the gifts of my most illustrious predecessors, I
+should be precluded the use of many of the more brilliant.  I shut
+myself out from the wider scope permitted to their fancy, and denied
+myself the license to choose or select materials, alter dates, vary
+causes and effects according to the convenience of that more imperial
+fiction which invents the Probable where it discards the Real.  The
+mode I have adopted has perhaps only this merit, that it is my own--
+mine by discovery and mine by labour.  And if I can raise not the
+spirits that obeyed the great master of romance, nor gain the key to
+the fairyland that opened to his spell,--at least I have not rifled
+the tomb of the wizard to steal my art from the book that lies clasped
+on his breast.
+
+In treating of an age with which the general reader is so unfamiliar
+as that preceding the Norman Conquest, it is impossible to avoid
+(especially in the earlier portions of my tale) those explanations of
+the very character of the time which would have been unnecessary if I
+had only sought in History the picturesque accompaniments to Romance.
+I have to do more than present an amusing picture of national manners
+--detail the dress, and describe the banquet.  According to the plan I
+adopt, I have to make the reader acquainted with the imperfect fusion
+of races in Saxon England, familiarise him with the contests of
+parties and the ambition of chiefs, show him the strength and the
+weakness of a kindly but ignorant church; of a brave but turbulent
+aristocracy; of a people partially free, and naturally energetic, but
+disunited by successive immigrations, and having lost much of the
+proud jealousies of national liberty by submission to the preceding
+conquests of the Dane; acquiescent in the sway of foreign kings, and
+with that bulwark against invasion which an hereditary order of
+aristocracy usually erects, loosened to its very foundations by the
+copious admixture of foreign nobles.  I have to present to the reader,
+here, the imbecile priestcraft of the illiterate monk, there, the dark
+superstition that still consulted the deities of the North by runes on
+the elm bark and adjurations of the dead.  And in contrast to those
+pictures of a decrepit monarchy and a fated race, I have to bring
+forcibly before the reader the vigorous attributes of the coming
+conquerors,--the stern will and deep guile of the Norman chief--the
+comparative knowledge of the rising Norman Church--the nascent spirit
+of chivalry in the Norman vavasours; a spirit destined to emancipate
+the very people it contributed to enslave, associated, as it
+imperfectly was, with the sense of freedom: disdainful, it is true, of
+the villein, but proudly curbing, though into feudal limits, the
+domination of the liege.  In a word, I must place fully before the
+reader, if I would be faithful to the plan of my work, the political
+and moral features of the age, as well as its lighter and livelier
+attributes, and so lead him to perceive, when he has closed the book,
+why England was conquered, and how England survived the Conquest.
+
+In accomplishing this task, I inevitably incur the objections which
+the task itself raises up,--objections to the labour it has cost; to
+the information which the labour was undertaken in order to bestow;
+objections to passages which seem to interrupt the narrative, but
+which in reality prepare for the incidents it embraces, or explain the
+position of the persons whose characters it illustrates,--whose fate
+it involves; objections to the reference to authorities, where a fact
+might be disputed, or mistaken for fiction; objections to the use of
+Saxon words, for which no accurate synonyms could be exchanged;
+objections, in short, to the colouring, conduct, and composition of
+the whole work; objections to all that separate it from the common
+crowd of Romances, and stamp on it, for good or for bad, a character
+peculiarly its own.  Objections of this kind I cannot remove, though I
+have carefully weighed them all.  And with regard to the objection
+most important to story-teller and novel reader--viz., the dryness of
+some of the earlier portions, though I have thrice gone over those
+passages, with the stern determination to inflict summary justice upon
+every unnecessary line, I must own to my regret that I have found but
+little which it was possible to omit without rendering the after
+narrative obscure, and without injuring whatever of more stirring
+interest the story, as it opens, may afford to the general reader of
+Romance.
+
+As to the Saxon words used, an explanation of all those that can be
+presumed unintelligible to a person of ordinary education, is given
+either in the text or a foot-note.  Such archaisms are much less
+numerous than certain critics would fain represent them to be: and
+they have rarely indeed been admitted where other words could have
+been employed without a glaring anachronism, or a tedious periphrase.
+Would it indeed be possible, for instance, to convey a notion of the
+customs and manners of our Saxon forefathers without employing words
+so mixed up with their daily usages and modes of thinking as
+"weregeld" and "niddering"?  Would any words from the modern
+vocabulary suggest the same idea, or embody the same meaning?
+
+One critic good-humouredly exclaims, "We have a full attendance of
+thegns and cnehts, but we should have liked much better our old
+friends and approved good masters thanes and knights."  Nothing could
+be more apposite for my justification than the instances here quoted
+in censure; nothing could more plainly vindicate the necessity of
+employing the Saxon words.  For I should sadly indeed have misled the
+reader if I had used the word knight in an age when knights were
+wholly unknown to the Anglo-Saxon and cneht no more means what we
+understand by knight, than a templar in modern phrase means a man in
+chain mail vowed to celibacy, and the redemption of the Holy Sepulchre
+from the hands of the Mussulman.  While, since thegn and thane are
+both archaisms, I prefer the former; not only for the same reason that
+induces Sir Francis Palgrave to prefer it, viz., because it is the
+more etymologically correct; but because we take from our neighbours
+the Scotch, not only the word thane, but the sense in which we apply
+it; and that sense is not the same that we ought to attach to the
+various and complicated notions of nobility which the Anglo-Saxon
+comprehended in the title of thegn.  It has been peremptorily said by
+more than one writer in periodicals, that I have overrated the
+erudition of William, in permitting him to know Latin; nay, to have
+read the Comments of Caesar at the age of eight.--Where these
+gentlemen find the authorities to confute my statement I know not; all
+I know is, that in the statement I have followed the original
+authorities usually deemed the best.  And I content myself with
+referring the disputants to a work not so difficult to procure as (and
+certainly more pleasant to read than) the old Chronicles.  In Miss
+Strickland's "Lives of the Queens of England," (Matilda of Flanders,)
+the same statement is made, and no doubt upon the same authorities.
+
+More surprised should I be (if modern criticism had not taught me in
+all matter's of assumption the nil admirari), to find it alleged that
+I have overstated not only the learning of the Norman duke, but that
+which flourished in Normandy under his reign; for I should have
+thought that the fact of the learning which sprung up in the most
+thriving period of that principality; the rapidity of its growth; the
+benefits it derived from Lanfranc; the encouragement it received from
+William, had been phenomena too remarkable in the annals of the age,
+and in the history of literature, to have met with an incredulity
+which the most moderate amount of information would have sufficed to
+dispel.  Not to refer such sceptics to graver authorities, historical
+and ecclesiastical, in order to justify my representations of that
+learning which, under William the Bastard, made the schools of
+Normandy the popular academies of Europe, a page or two in a book so
+accessible as Villemain's "Tableau du Moyen Age," will perhaps suffice
+to convince them of the hastiness of their censure, and the error of
+their impressions.
+
+It is stated in the Athenaeum, and, I believe, by a writer whose
+authority on the merits of opera singers I am far from contesting but
+of whose competence to instruct the world in any other department of
+human industry or knowledge I am less persuaded, "that I am much
+mistaken when I represent not merely the clergy but the young soldiers
+and courtiers of the reign of the Confessor, as well acquainted with
+the literature of Greece and Rome."
+
+The remark, to say the least of it, is disingenuous.  I have done no
+such thing.  This general animadversion is only justified by a
+reference to the pedantry of the Norman Mallet de Graville--and it is
+expressly stated in the text that Mallet de Graville was originally
+intended for the Church, and that it was the peculiarity of his
+literary information, rare in a soldier (but for which his earlier
+studies for the ecclesiastical calling readily account, at a time when
+the Norman convent of Bec was already so famous for the erudition of
+its teachers, and the number of its scholars,) that attracted towards
+him the notice of Lanfranc, and founded his fortunes.  Pedantry is
+made one of his characteristics (as it generally was the
+characteristic of any man with some pretensions to scholarship, in the
+earlier ages;) and if he indulges in a classical allusion, whether in
+taunting a courtier or conversing with a "Saxon from the wealds of
+Kent," it is no more out of keeping with the pedantry ascribed to him,
+than it is unnatural in Dominie Sampson to rail at Meg Merrilies in
+Latin, or James the First to examine a young courtier in the same
+unfamiliar language.  Nor should the critic in question, when inviting
+his readers to condemn me for making Mallet de Graville quote Horace,
+have omitted to state that de Graville expressly laments that he had
+never read, nor could even procure, a copy of the Roman poet--judging
+only of the merits of Horace by an extract in some monkish author, who
+was equally likely to have picked up his quotation second-hand.
+
+So, when a reference is made either by Graville, or by any one else in
+the romance, to Homeric fables and personages, a critic who had gone
+through the ordinary education of an English gentleman would never
+thereby have assumed that the person so referring had read the poems
+of Homer themselves--he would have known that Homeric fables, or
+personages, though not the Homeric poems, were made familiar, by
+quaint travesties [7], even to the most illiterate audience of the
+gothic age.  It was scarcely more necessary to know Homer then than
+now, in order to have heard of Ulysses.  The writer in the Athenaeum
+is acquainted with Homeric personages, but who on earth would ever
+presume to assert that he is acquainted with Homer?
+
+Some doubt has been thrown upon my accuracy in ascribing to the Anglo-
+Saxon the enjoyments of certain luxuries (gold and silver plate--the
+use of glass, etc.), which were extremely rare in an age much more
+recent.  There is no ground for that doubt; nor is there a single
+article of such luxury named in the text, for the mention of which I
+have not ample authority.
+
+I have indeed devoted to this work a degree of research which, if
+unusual to romance, I cannot consider superfluous when illustrating an
+age so remote, and events unparalleled in their influence over the
+destinies of England.  Nor am I without the hope, that what the
+romance-reader at first regards as a defect, he may ultimately
+acknowledge as a merit;--forgiving me that strain on his attention by
+which alone I could leave distinct in his memory the action and the
+actors in that solemn tragedy which closed on the field of Hastings,
+over the corpse of the Last Saxon King.
+
+
+
+CONTENTS
+
+ BOOK FIRST
+
+   The Norman Visitor, the Saxon King, and the Danish Prophetess
+
+ BOOK SECOND
+
+   Lanfranc the Scholar
+
+ BOOK THIRD
+
+   The House of Godwin
+
+ BOOK FOURTH
+
+   The Heathen Altar and the Saxon Church
+
+ BOOK FIFTH
+
+   Death and Love
+
+ BOOK SIXTH
+
+   Ambition
+
+ BOOK SEVENTH
+
+   The Welch King
+
+ BOOK EIGHTH
+
+   Fate
+
+ BOOK NINTH
+
+   The Bones of the Dead
+
+ BOOK TENTH
+
+   The Sacrifice on the Altar
+
+ BOOK ELEVENTH
+
+   The Norman Schemer, and the Norwegian Sea-king
+
+ BOOK TWELFTH
+
+   The Battle of Hastings
+
+
+
+HAROLD, THE LAST OF THE SAXON KINGS
+
+by Edward Bulwer Lytton
+
+
+
+
+
+
+BOOK I.
+
+
+THE NORMAN VISITOR, THE SAXON KING, AND THE DANISH PROPHETESS.
+
+
+
+
+CHAPTER I.
+
+
+Merry was the month of May in the year of our Lord 1052.  Few were the
+boys, and few the lasses, who overslept themselves on the first of
+that buxom month.  Long ere the dawn, the crowds had sought mead and
+woodland, to cut poles and wreathe flowers.  Many a mead then lay fair
+and green beyond the village of Charing, and behind the isle of
+Thorney, (amidst the brakes and briars of which were then rising fast
+and fair the Hall and Abbey of Westminster;) many a wood lay dark in
+the starlight, along the higher ground that sloped from the dank
+Strand, with its numerous canals or dykes;--and on either side of the
+great road into Kent:--flutes and horns sounded far and near through
+the green places, and laughter and song, and the crash of breaking
+boughs.
+
+As the dawn came grey up the east, arch and blooming faces bowed down
+to bathe in the May dew.  Patient oxen stood dozing by the hedge-rows,
+all fragrant with blossoms, till the gay spoilers of the May came
+forth from the woods with lusty poles, followed by girls with laps
+full of flowers, which they had caught asleep.  The poles were pranked
+with nosegays, and a chaplet was hung round the horns of every ox.
+Then towards daybreak, the processions streamed back into the city,
+through all its gates; boys with their May-gads (peeled willow wands
+twined with cowslips) going before; and clear through the lively din
+of the horns and flutes, and amidst the moving grove of branches,
+choral voices, singing some early Saxon stave, precursor of the later
+song--
+
+    "We have brought the summer home."
+
+Often in the good old days before the Monk-king reigned, kings and
+ealdermen had thus gone forth a-maying; but these merriments,
+savouring of heathenesse, that good prince misliked: nevertheless the
+song was as blithe, and the boughs were as green, as if king and
+ealderman had walked in the train.
+
+On the great Kent road, the fairest meads for the cowslip, and the
+greenest woods for the bough, surrounded a large building that once
+had belonged to some voluptuous Roman, now all defaced and despoiled;
+but the boys and the lasses shunned those demesnes; and even in their
+mirth, as they passed homeward along the road, and saw near the ruined
+walls, and timbered outbuildings, grey Druid stones (that spoke of an
+age before either Saxon or Roman invader) gleaming through the dawn--
+the song was hushed--the very youngest crossed themselves; and the
+elder, in solemn whispers, suggested the precaution of changing the
+song into a psalm.  For in that old building dwelt Hilda, of famous
+and dark repute; Hilda, who, despite all law and canon, was still
+believed to practise the dismal arts of the Wicca and Morthwyrtha (the
+witch and worshipper of the dead).  But once out of sight of those
+fearful precincts, the psalm was forgotten, and again broke, loud,
+clear, and silvery, the joyous chorus.
+
+So, entering London about sunrise, doors and windows were duly
+wreathed with garlands; and every village in the suburbs had its May-
+pole, which stood in its place all the year.  On that happy day labour
+rested; ceorl and theowe had alike a holiday to dance, and tumble
+round the May-pole; and thus, on the first of May--Youth, and Mirth,
+and Music, "brought the summer home."
+
+The next day you might still see where the buxom bands had been; you
+might track their way by fallen flowers, and green leaves, and the
+deep ruts made by oxen (yoked often in teams from twenty to forty, in
+the wains that carried home the poles); and fair and frequent
+throughout the land, from any eminence, you might behold the hamlet
+swards still crowned with the May trees, and air still seemed fragrant
+with their garlands.
+
+It is on that second day of May, 1052, that my story opens, at the
+House of Hilda, the reputed Morthwyrtha.  It stood upon a gentle and
+verdant height; and, even through all the barbarous mutilation it had
+undergone from barbarian hands, enough was left strikingly to contrast
+the ordinary abodes of the Saxon.
+
+The remains of Roman art were indeed still numerous throughout
+England, but it happened rarely that the Saxon had chosen his home
+amidst the villas of those noble and primal conquerors.  Our first
+forefathers were more inclined to destroy than to adapt.
+
+By what chance this building became an exception to the ordinary rule,
+it is now impossible to conjecture, but from a very remote period it
+had sheltered successive races of Teuton lords.
+
+The changes wrought in the edifice were mournful and grotesque.  What
+was now the Hall, had evidently been the atrium; the round shield,
+with its pointed boss, the spear, sword, and small curved saex of the
+early Teuton, were suspended from the columns on which once had been
+wreathed the flowers; in the centre of the floor, where fragments of
+the old mosaic still glistened from the hard-pressed paving of clay
+and lime, what now was the fire-place had been the impluvium, and the
+smoke went sullenly through the aperture in the roof, made of old to
+receive the rains of heaven.  Around the Hall were still left the old
+cubicula or dormitories, (small, high, and lighted but from the
+doors,) which now served for the sleeping-rooms of the humbler guest
+or the household servant; while at the farther end of the Hall, the
+wide space between the columns, which had once given ample vista from
+graceful awnings into tablinum and viridarium, was filled up with rude
+rubble and Roman bricks, leaving but a low, round, arched door, that
+still led into the tablinum.  But that tablinum, formerly the gayest
+state-room of the Roman lord, was now filled with various lumber,
+piles of faggots, and farming utensils.  On either side of this
+desecrated apartment, stretched, to the right, the old lararium,
+stripped of its ancient images of ancestor and god; to the left, what
+had been the gynoecium (women's apartment).
+
+One side of the ancient peristyle, which was of vast extent, was now
+converted into stabling, sties for swine, and stalls for oxen.  On the
+other side was constructed a Christian chapel, made of rough oak
+planks, fastened by plates at the top, and with a roof of thatched
+reeds.  The columns and wall at the extreme end of the peristyle were
+a mass of ruins, through the gigantic rents of which loomed a grassy
+hillock, its sides partially covered with clumps of furze.  On this
+hillock were the mutilated remains of an ancient Druidical crommel, in
+the centre of which (near a funeral mound, or barrow, with the
+bautastean, or gravestone, of some early Saxon chief at one end) had
+been sacrilegiously placed an altar to Thor, as was apparent both from
+the shape, from a rude, half-obliterated, sculptured relief of the
+god, with his lifted hammer, and a few Runic letters.  Amidst the
+temple of the Briton the Saxon had reared the shrine of his triumphant
+war-god.
+
+Now still, amidst the ruins of that extreme side of the peristyle
+which opened to this hillock were left, first, an ancient Roman
+fountain, that now served to water the swine, and next, a small
+sacellum, or fane to Bacchus (as relief and frieze, yet spared,
+betokened): thus the eye, at one survey, beheld the shrines of four
+creeds: the Druid, mystical and symbolical; the Roman, sensual, but
+humane; the Teutonic, ruthless and destroying; and, latest riser and
+surviving all, though as yet with but little of its gentler influence
+over the deeds of men, the edifice of the Faith of Peace.
+
+Across the peristyle, theowes and swineherds passed to and fro:--in
+the atrium, men of a higher class, half-armed, were, some drinking,
+some at dice, some playing with huge hounds, or caressing the hawks
+that stood grave and solemn on their perches.
+
+The lararium was deserted; the gynoecium was still, as in the Roman
+time, the favoured apartment of the female portion of the household,
+and indeed bore the same name [8], and with the group there assembled
+we have now to do.
+
+The appliances of the chamber showed the rank and wealth of the owner.
+At that period the domestic luxury of the rich was infinitely greater
+than has been generally supposed.  The industry of the women decorated
+wall and furniture with needlework and hangings: and as a thegn
+forfeited his rank if he lost his lands, so the higher orders of an
+aristocracy rather of wealth than birth had, usually, a certain
+portion of superfluous riches, which served to flow towards the
+bazaars of the East and the nearer markets of Flanders and Saracenic
+Spain.
+
+In this room the walls were draped with silken hangings richly
+embroidered.  The single window was glazed with a dull grey glass [9].
+On a beaufet were ranged horns tipped with silver, and a few vessels
+of pure gold.  A small circular table in the centre was supported by
+symbolical monsters quaintly carved.  At one side of the wall, on a
+long settle, some half-a-dozen handmaids were employed in spinning;
+remote from them, and near the window, sat a woman advanced in years,
+and of a mien and aspect singularly majestic.  Upon a small tripod
+before her was a Runic manuscript, and an inkstand of elegant form,
+with a silver graphium, or pen.  At her feet reclined a girl somewhat
+about the age of sixteen, her long hair parted across her forehead and
+falling far down her shoulders.  Her dress was a linen under-tunic,
+with long sleeves, rising high to the throat, and without one of the
+modern artificial restraints of the shape, the simple belt sufficed to
+show the slender proportions and delicate outline of the wearer.  The
+colour of the dress was of the purest white, but its hems, or borders,
+were richly embroidered.  This girl's beauty was something marvellous.
+In a land proverbial for fair women, it had already obtained her the
+name of "the fair."  In that beauty were blended, not as yet without a
+struggle for mastery, the two expressions seldom united in one
+countenance, the soft and the noble; indeed in the whole aspect there
+was the evidence of some internal struggle; the intelligence was not
+yet complete; the soul and heart were not yet united: and Edith the
+Christian maid dwelt in the home of Hilda the heathen prophetess.  The
+girl's blue eyes, rendered dark by the shade of their long lashes,
+were fixed intently upon the stern and troubled countenance which was
+bent upon her own, but bent with that abstract gaze which shows that
+the soul is absent from the sight.  So sate Hilda, and so reclined her
+grandchild Edith.
+
+"Grandam," said the girl in a low voice and after a long pause; and
+the sound of her voice so startled the handmaids, that every spindle
+stopped for a moment and then plied with renewed activity; "Grandam,
+what troubles you--are you not thinking of the great Earl and his fair
+sons, now outlawed far over the wide seas?"
+
+As the girl spoke, Hilda started slightly, like one awakened from a
+dream; and when Edith had concluded her question, she rose slowly to
+the height of a statue, unbowed by her years, and far towering above
+even the ordinary standard of men; and turning from the child, her eye
+fell upon the row of silent maids, each at her rapid, noiseless,
+stealthy work.  "Ho!" said she; her cold and haughty eye gleaming as
+she spoke; "yesterday they brought home the summer--to-day, ye aid to
+bring home the winter.  Weave well--heed well warf and woof; Skulda
+[10] is amongst ye, and her pale fingers guide the web!"
+
+The maidens lifted not their eyes, though in every cheek the colour
+paled at the words of the mistress.  The spindles revolved, the thread
+shot, and again there was silence more freezing than before.
+
+"Askest thou," said Hilda at length, passing to the child, as if the
+question so long addressed to her ear had only just reached her mind;
+"askest thou if I thought of the Earl and his fair sons?--yea, I heard
+the smith welding arms on the anvil, and the hammer of the shipwright
+shaping strong ribs for the horses of the sea.  Ere the reaper has
+bound his sheaves, Earl Godwin will scare the Normans in the halls of
+the Monk-king, as the hawk scares the brood in the dovecot.  Weave
+well, heed well warf and woof, nimble maidens--strong be the texture,
+for biting is the worm."
+
+"What weave they, then, good grandmother?" asked the girl, with wonder
+and awe in her soft mild eyes.
+
+"The winding-sheet of the great!"
+
+Hilda's lips closed, but her eyes, yet brighter than before, gazed
+upon space, and her pale hand seemed tracing letters, like runes, in
+the air.
+
+Then slowly she turned, and looked forth through the dull window.
+"Give me my coverchief and my staff," said she quickly.
+
+Every one of the handmaids, blithe for excuse to quit a task which
+seemed recently commenced, and was certainly not endeared to them by
+the knowledge of its purpose communicated to them by the lady, rose to
+obey.
+
+Unheeding the hands that vied with each other, Hilda took the hood,
+and drew it partially over her brow.  Leaning lightly on a long staff,
+the head of which formed a raven, carved from some wood stained black,
+she passed into the hall, and thence through the desecrated tablinum,
+into the mighty court formed by the shattered peristyle; there she
+stopped, mused a moment, and called on Edith.  The girl was soon by
+her side.
+
+"Come with me.--There is a face you shall see but twice in life;--this
+day,"--and Hilda paused, and the rigid and almost colossal beauty of
+her countenance softened.
+
+"And when again, my grandmother?"
+
+"Child, put thy warm hand in mine.  So! the vision darkens from me.--
+when again, saidst thou, Edith?--alas, I know not."
+
+While thus speaking, Hilda passed slowly by the Roman fountain and the
+heathen fane, and ascended the little hillock.  There on the opposite
+side of the summit, backed by the Druid crommel and the Teuton altar,
+she seated herself deliberately on the sward.
+
+A few daisies, primroses, and cowslips, grew around; these Edith began
+to pluck.  Singing, as she wove, a simple song, that, not more by the
+dialect than the sentiment, betrayed its origin in the ballad of the
+Norse [11], which had, in its more careless composition, a character
+quite distinct from the artificial poetry of the Saxons.  The song may
+be thus imperfectly rendered:
+
+    "Merrily the throstle sings
+       Amid the merry May;
+     The throstle signs but to my ear;
+       My heart is far away!
+
+     Blithely bloometh mead and bank;
+       And blithely buds the tree;
+     And hark!--they bring the Summer home;
+       It has no home with me!
+
+     They have outlawed him--my Summer!
+       An outlaw far away!
+     The birds may sing, the flowers may bloom,
+       O, give me back my May!"
+
+As she came to the last line, her soft low voice seemed to awaken a
+chorus of sprightly horns and trumpets, and certain other wind
+instruments peculiar to the music of that day.  The hillock bordered
+the high road to London--which then wound through wastes of forest
+land--and now emerging from the trees to the left appeared a goodly
+company.  First came two riders abreast, each holding a banner.  On
+the one was depicted the cross and five martlets, the device of
+Edward, afterwards surnamed the Confessor: on the other, a plain broad
+cross with a deep border round it, and the streamer shaped into sharp
+points.
+
+The first was familiar to Edith, who dropped her garland to gaze on
+the approaching pageant; the last was strange to her.  She had been
+accustomed to see the banner of the great Earl Godwin by the side of
+the Saxon king; and she said, almost indignantly,--
+
+"Who dares, sweet grandam, to place banner or pennon where Earl
+Godwin's ought to float?"
+
+"Peace," said Hilda, "peace and look."
+
+Immediately behind the standard-bearers came two figures--strangely
+dissimilar indeed in mien, in years, in bearing: each bore on his left
+wrist a hawk.  The one was mounted on a milk-white palfrey, with
+housings inlaid with gold and uncut jewels.  Though not really old--
+for he was much on this side of sixty--both his countenance and
+carriage evinced age.  His complexion, indeed, was extremely fair, and
+his cheeks ruddy; but the visage was long and deeply furrowed, and
+from beneath a bonnet not dissimilar to those in use among the Scotch,
+streamed hair long and white as snow, mingling with a large and forked
+beard.  White seemed his chosen colour.  White was the upper tunic
+clasped on his shoulder with a broad ouche or brooch; white the
+woollen leggings fitted to somewhat emaciated limbs; and white the
+mantle, though broidered with a broad hem of gold and purple.  The
+fashion of his dress was that which well became a noble person, but it
+suited ill the somewhat frail and graceless figure of the rider.
+Nevertheless, as Edith saw him, she rose, with an expression of deep
+reverence on her countenance, and saying, "it is our lord the King,"
+advanced some steps down the hillock, and there stood, her arms folded
+on her breast, and quite forgetful, in her innocence and youth, that
+she had left the house without the cloak and coverchief which were
+deemed indispensable to the fitting appearance of maid and matron when
+they were seen abroad.
+
+"Fair sir, and brother mine," said the deep voice of the younger
+rider, in the Romance or Norman tongue, "I have heard that the small
+people of whom my neighbours, the Breton tell us much, abound greatly
+in this fair land of yours; and if I were not by the side of one whom
+no creature unassoilzed and unbaptised dare approach, by sweet St.
+Valery I should say--yonder stands one of those same gentilles fees!"
+
+King Edward's eye followed the direction of his companion's
+outstretched hand, and his quiet brow slightly contracted as he beheld
+the young form of Edith standing motionless a few yards before him,
+with the warm May wind lifting and playing with her long golden locks.
+He checked his palfrey, and murmured some Latin words which the knight
+beside him recognised as a prayer, and to which, doffing his cap, he
+added an Amen, in a tone of such unctuous gravity, that the royal
+saint rewarded him with a faint approving smile, and an affectionate
+"Bene vene, Piosissime."
+
+Then inclining his palfrey's head towards the knoll, he motioned to
+the girl to approach him.  Edith, with a heightened colour, obeyed,
+and came to the roadside.  The standard-bearers halted, as did the
+king and his comrade--the procession behind halted--thirty knights,
+two bishops, eight abbots, all on fiery steeds and in Norman garb--
+squires and attendants on foot--a long and pompous retinue--they
+halted all.  Only a stray hound or two broke from the rest, and
+wandered into the forest land with heads trailing.
+
+"Edith, my child," said Edward, still in Norman-French, for he spoke
+his own language with hesitation, and the Romance tongue, which had
+long been familiar to the higher classes in England, had, since his
+accession, become the only language in use at court, and as such every
+one of 'Eorl-kind' was supposed to speak it;--"Edith, my child, thou
+hast not forgotten my lessons, I trow; thou singest the hymns I gave
+thee, and neglectest not to wear the relic round thy neck."
+
+The girl hung her head, and spoke not.
+
+"How comes it, then," continued the King, with a voice to which he in
+vain endeavoured to impart an accent of severity, "how comes it, O
+little one, that thou, whose thoughts should be lifted already above
+this carnal world, and eager for the service of Mary the chaste and
+blessed, standest thus hoodless and alone on the waysides, a mark for
+the eyes of men? go to, it is naught."
+
+Thus reproved, and in presence of so large and brilliant a company,
+the girl's colour went and came, her breast heaved high, but with an
+effort beyond her age she checked her tears, and said meekly, "My
+grandmother, Hilda, bade me come with her, and I came."
+
+"Hilda!" said the King, backing his palfrey with apparent
+perturbation, "but Hilda is not with thee; I see her not."
+
+As he spoke, Hilda rose, and so suddenly did her tall form appear on
+the brow of the hill, that it seemed as if she had emerged from the
+earth.  With a light and rapid stride she gained the side of her
+grandchild; and after a slight and haughty reverence, said, "Hilda is
+here; what wants Edward the King with his servant Hilda?"
+
+"Nought, nought," said the King, hastily; and something like fear
+passed over his placid countenance; "save, indeed," he added, with a
+reluctant tone, as that of a man who obeys his conscience against his
+inclination, "that I would pray thee to keep this child pure to
+threshold and altar, as is meet for one whom our Lady, the Virgin, in
+due time, will elect to her service."
+
+"Not so, son of Etheldred, son of Woden, the last descendant of Penda
+should live, not to glide a ghost amidst cloisters, but to rock
+children for war in their father's shield.  Few men are there yet like
+the men of old; and while the foot of the foreigner is on the Saxon
+soil no branch of the stem of Woden should be nipped in the leaf."
+
+"Per la resplendar De [12], bold dame," cried the knight by the side
+of Edward, while a lurid flush passed over his cheek of bronze; "but
+thou art too glib of tongue for a subject, and pratest overmuch of
+Woden, the Paynim, for the lips of a Christian matron."
+
+Hilda met the flashing eye of the knight with a brow of lofty scorn,
+on which still a certain terror was visible.  "Child," she said,
+putting her hand upon Edith's fair locks; "this is the man thou shalt
+see but twice in thy life;--look up, and mark well!"
+
+Edith instinctively raised her eyes, and, once fixed upon the knight,
+they seemed chained as by a spell.  His vest, of a cramoisay so dark,
+that it seemed black beside the snowy garb of the Confessor, was edged
+by a deep band of embroidered gold; leaving perfectly bare his firm,
+full throat--firm and full as a column of granite,--a short jacket or
+manteline of fur, pendant from the shoulders, left developed in all
+its breadth a breast, that seemed meet to stay the march of an army;
+and on the left arm, curved to support the falcon, the vast muscles
+rose, round and gnarled, through the close sleeve.
+
+In height, he was really but little above the stature of many of those
+present; nevertheless, so did his port [13], his air, the nobility of
+his large proportions, fill the eye, that he seemed to tower
+immeasurably above the rest.
+
+His countenance was yet more remarkable than his form; still in the
+prime of youth, he seemed at the first glance younger, at the second
+older, than he was.  At the first glance younger; for his face was
+perfectly shaven, without even the moustache which the Saxon courtier,
+in imitating the Norman, still declined to surrender; and the smooth
+visage and bare throat sufficed in themselves to give the air of youth
+to that dominant and imperious presence.  His small skull-cap left
+unconcealed his forehead, shaded with short thick hair, uncurled, but
+black and glossy as the wings of a raven.  It was on that forehead
+that time had set its trace; it was knit into a frown over the
+eyebrows; lines deep as furrows crossed its broad, but not elevated
+expanse.  That frown spoke of hasty ire and the habit of stern
+command; those furrows spoke of deep thought and plotting scheme; the
+one betrayed but temper and circumstance; the other, more noble, spoke
+of the character and the intellect.  The face was square, and the
+regard lion-like; the mouth--small, and even beautiful in outline--had
+a sinister expression in its exceeding firmness; and the jaw--vast,
+solid, as if bound in iron--showed obstinate, ruthless, determined
+will; such a jaw as belongs to the tiger amongst beasts, and the
+conqueror amongst men; such as it is seen in the effigies of Caesar,
+of Cortes, of Napoleon.
+
+That presence was well calculated to command the admiration of women,
+not less than the awe of men.  But no admiration mingled with the
+terror that seized the girl as she gazed long and wistful upon the
+knight.  The fascination of the serpent on the bird held her mute and
+frozen.  Never was that face forgotten; often in after-life it haunted
+her in the noon-day, it frowned upon her dreams.
+
+"Fair child," said the knight, fatigued at length by the obstinacy of
+the gaze, while that smile peculiar to those who have commanded men
+relaxed his brow, and restored the native beauty to his lip, "fair
+child, learn not from thy peevish grandam so uncourteous a lesson as
+hate of the foreigner.  As thou growest into womanhood, know that
+Norman knight is sworn slave to lady fair;" and, doffing his cap, he
+took from it an uncut jewel, set in Byzantine filigree work.  "Hold
+out thy lap, my child; and when thou nearest the foreigner scoffed,
+set this bauble in thy locks, and think kindly of William, Count of
+the Normans." [14]
+
+He dropped the jewel on the ground as he spoke; for Edith, shrinking
+and unsoftened towards him, held no lap to receive it; and Hilda, to
+whom Edward had been speaking in a low voice, advanced to the spot and
+struck the jewel with her staff under the hoofs of the king's palfrey.
+
+"Son of Emma, the Norman woman, who sent thy youth into exile, trample
+on the gifts of thy Norman kinsman.  And if, as men say, thou art of
+such gifted holiness that Heaven grants thy hand the power to heal,
+and thy voice the power to curse, heal thy country, and curse the
+stranger!"
+
+She extended her right arm to William as she spoke, and such was the
+dignity of her passion, and such its force, that an awe fell upon all.
+Then dropping her hood over her face, she slowly turned away, regained
+the summit of the knoll, and stood erect beside the altar of the
+Northern god, her face invisible through the hood drawn completely
+over it, and her form motionless as a statue.
+
+"Ride on," said Edward, crossing himself.
+
+"Now by the bones of St. Valery," said William, after a pause, in
+which his dark keen eye noted the gloom upon the King's gentle face,
+"it moves much my simple wonder how even presence so saintly can hear
+without wrath words so unleal and foul.  Gramercy, an the proudest
+dame in Normandy (and I take her to be wife to my stoutest baron,
+William Fitzosborne) had spoken thus to me--"
+
+"Thou wouldst have done as I, my brother," interrupted Edward; "prayed
+to our Lord to pardon her, and rode on pitying."
+
+William's lip quivered with ire, yet he curbed the reply that sprang
+to it, and he looked with affection genuinely more akin to admiration
+than scorn, upon his fellow-prince.  For, fierce and relentless as the
+Duke's deeds were, his faith was notably sincere; and while this made,
+indeed, the prince's chief attraction to the pious Edward, so, on the
+other hand, this bowed the Duke in a kind of involuntary and
+superstitious homage to the man who sought to square deeds to faith.
+It is ever the case with stern and stormy spirits, that the meek ones
+which contrast them steal strangely into their affections.  This
+principle of human nature can alone account for the enthusiastic
+devotion which the mild sufferings of the Saviour awoke in the
+fiercest exterminators of the North.  In proportion, often, to the
+warrior's ferocity, was his love to that Divine model, at whose
+sufferings he wept, to whose tomb he wandered barefoot, and whose
+example of compassionate forgiveness he would have thought himself the
+basest of men to follow!
+
+"Now, by my halidame, I honour and love thee, Edward," cried the Duke,
+with a heartiness more frank than was usual to him: "and were I thy
+subject, woe to man or woman that wagged tongue to wound thee by a
+breath.  But who and what is this same Hilda? one of thy kith and
+kin?--surely not less than kingly blood runs so bold?"
+
+"William, bien aime," [15] said the King, "it is true that Hilda, whom
+the saints assoil, is of kingly blood, though not of our kingly line.
+It is feared," added Edward, in a timid whisper, as he cast a hurried
+glance around him, "that this unhappy woman has ever been more
+addicted to the rites of her pagan ancestors than to those of Holy
+Church; and men do say that she hath thus acquired from fiend or charm
+secrets devoutly to be eschewed by the righteous.  Nathless, let us
+rather hope that her mind is somewhat distraught with her
+misfortunes."
+
+The King sighed, and the Duke sighed too, but the Duke's sigh spoke
+impatience.  He swept behind him a stern and withering look towards
+the proud figure of Hilda, still seen through the glades, and said in
+a sinister voice: "Of kingly blood; but this witch of Woden hath no
+sons or kinsmen, I trust, who pretend to the throne of the Saxon:"
+
+"She is sibbe to Githa, wife of Godwin," answered the King, "and that
+is her most perilous connection; for the banished Earl, as thou
+knowest, did not pretend to fill the throne, but he was content with
+nought less than governing our people."
+
+The King then proceeded to sketch an outline of the history of Hilda,
+but his narrative was so deformed both by his superstitions and
+prejudices, and his imperfect information in all the leading events
+and characters in his own kingdom, that we will venture to take upon
+ourselves his task; and while the train ride on through glade and
+mead, we will briefly narrate, from our own special sources of
+knowledge, the chronicle of Hilda, the Scandinavian Vala.
+
+
+
+
+CHAPTER II.
+
+
+A magnificent race of men were those war sons of the old North, whom
+our popular histories, so superficial in their accounts of this age,
+include in the common name of the "Danes."  They replunged into
+barbarism the nations over which they swept; but from that barbarism
+they reproduced the noblest elements of civilisation.  Swede,
+Norwegian, and Dane, differing in some minor points, when closely
+examined, had yet one common character viewed at a distance.  They had
+the same prodigious energy, the same passion for freedom, individual
+and civil, the same splendid errors in the thirst for fame and the
+"point of honour;" and above all, as a main cause of civilisation,
+they were wonderfully pliant and malleable in their admixtures with
+the peoples they overran.  This is their true distinction from the
+stubborn Celt, who refuses to mingle, and disdains to improve.
+
+Frankes, the archbishop, baptised Rolf-ganger [16]: and within a
+little more than a century afterwards, the descendants of those
+terrible heathens who had spared neither priest nor altar, were the
+most redoubtable defenders of the Christian Church; their old language
+forgotten (save by a few in the town of Bayeux), their ancestral names
+[17] (save among a few of the noblest) changed into French titles, and
+little else but the indomitable valour of the Scandinavian remained
+unaltered amongst the arts and manners of the Frankish-Norman.
+
+In like manner their kindred tribes, who had poured into Saxon England
+to ravage and lay desolate, had no sooner obtained from Alfred the
+Great permanent homes, than they became perhaps the most powerful, and
+in a short time not the least patriotic, part of the Anglo-Saxon
+population [18].  At the time our story opens, these Northmen, under
+the common name of Danes, were peaceably settled in no less than
+fifteen [19] counties in England; their nobles abounded in towns and
+cities beyond the boundaries of those counties which bore the distinct
+appellation of Danelagh.  They were numerous in London: in the
+precincts of which they had their own burial-place, to the chief
+municipal court of which they gave their own appellation--the Hustings
+[20]. Their power in the national assembly of the Witan had decided
+the choice of kings.  Thus, with some differences of law and dialect,
+these once turbulent invaders had amalgamated amicably with the native
+race [21].  And to this day, the gentry, traders, and farmers of more
+than one-third of England, and in those counties most confessed to be
+in the van of improvement, descend from Saxon mothers indeed, but from
+Viking fathers.  There was in reality little difference in race
+between the Norman knight of the time of Henry I. and the Saxon
+franklin of Norfolk and York.  Both on the mother's side would most
+probably have been Saxon, both on the father's would have traced to
+the Scandinavian.
+
+But though this character of adaptability was general, exceptions in
+some points were necessarily found, and these were obstinate in
+proportion to the adherence to the old pagan faith, or the sincere
+conversion to Christianity.  The Norwegian chronicles, and passages in
+our own history, show how false and hollow was the assumed
+Christianity of many of these fierce Odin-worshippers.  They willingly
+enough accepted the outward sign of baptism, but the holy water
+changed little of the inner man.  Even Harold, the son of Canute,
+scarce seventeen years before the date we have now entered, being
+unable to obtain from the Archbishop of Canterbury--who had espoused
+the cause of his brother Hardicanute--the consecrating benediction,
+lived and reigned as one who had abjured Christianity. [22]
+
+The priests, especially on the Scandinavian continent, were often
+forced to compound with their grim converts, by indulgence to certain
+habits, such as indiscriminate polygamy.  To eat horse-flesh in honour
+of Odin, and to marry wives ad libitum, were the main stipulations of
+the neophytes.  And the puzzled monks, often driven to a choice,
+yielded the point of the wives, but stood firm on the graver article
+of the horse-flesh.
+
+With their new religion, very imperfectly understood, even when
+genuinely received, they retained all that host of heathen
+superstition which knits itself with the most obstinate instincts in
+the human breast.  Not many years before the reign of the Confessor,
+the laws of the great Canute against witchcraft and charms, the
+worship of stones, fountains, runes by ash and elm, and the
+incantations that do homage to the dead, were obviously rather
+intended to apply to the recent Danish converts, than to the Anglo-
+Saxons, already subjugated for centuries, body and soul, to the
+domination of the Christian monks.
+
+Hilda, a daughter of the royalty of Denmark, and cousin to Githa
+(niece to Canute, whom that king had bestowed in second spousals upon
+Godwin), had come over to England with a fierce Jarl, her husband, a
+year after Canute's accession to the throne--both converted nominally,
+both secret believers in Thor and Odin.
+
+Hilda's husband had fallen in one of the actions in the Northern seas,
+between Canute and St. Olave, King of Norway (that saint himself, by
+the bye, a most ruthless persecutor of his forefathers' faith, and a
+most unqualified assertor of his heathen privilege to extend his
+domestic affections beyond the severe pale which should have confined
+them to a single wife.  His natural son Magnus then sat on the Danish
+throne).  The Jarl died as he had wished to die, the last man on board
+his ship, with the soothing conviction that the Valkyrs would bear him
+to Valhalla.
+
+Hilda was left with an only daughter, whom Canute bestowed on
+Ethelwolf, a Saxon Earl of large domains, and tracing his descent from
+Penda, that old King of Mercia who refused to be converted, but said
+so discreetly, that he had no objection to his neighbours being
+Christians, if they would practise that peace and forgiveness which
+the monks told him were the elements of the faith.
+
+Ethelwolf fell under the displeasure of Hardicanute, perhaps because
+he was more Saxon than Danish; and though that savage king did not
+dare openly to arraign him before the Witan, he gave secret orders by
+which he was butchered on his own hearthstone, in the arms of his
+wife, who died shortly afterwards of grief and terror.  The only
+orphan of this unhappy pair, Edith, was thus consigned to the charge
+of Hilda.
+
+It was a necessary and invaluable characteristic of that
+"adaptability" which distinguished the Danes, that they transferred to
+the land in which they settled all the love they had borne to that of
+their ancestors; and so far as attachment to soil was concerned, Hilda
+had grown no less in heart an Englishwoman than if she had been born
+and reared amidst the glades and knolls from which the smoke of her
+hearth rose through the old Roman compluvium.
+
+But in all else she was a Dane.  Dane in her creed and her habits--
+Dane in her intense and brooding imagination--in the poetry that
+filled her soul, peopled the air with spectres, and covered the leaves
+of the trees with charms.  Living in austere seclusion after the death
+of her lord, to whom she had borne a Scandinavian woman's devoted but
+heroic love,--sorrowing, indeed, for his death, but rejoicing that he
+fell amidst the feast of ravens,--her mind settled more and more year
+by year, and day by day, upon those visions of the unknown world,
+which in every faith conjure up the companions of solitude and grief.
+
+Witchcraft in the Scandinavian North assumed many forms, and was
+connected by many degrees.  There was the old and withered hag, on
+whom, in our later mediaeval ages the character was mainly bestowed;
+there was the terrific witch-wife, or wolf-witch, who seems wholly
+apart from human birth and attributes, like the weird sisters of
+Macbeth--creatures who entered the house at night and seized warriors
+to devour them, who might be seen gliding over the sea, with the
+carcase of the wolf dripping blood from their giant jaws; and there
+was the more serene, classical, and awful vala, or sibyl, who,
+honoured by chiefs and revered by nations, foretold the future, and
+advised the deeds of heroes.  Of these last, the Norse chronicles tell
+us much.  They were often of rank and wealth, they were accompanied by
+trains of handmaids and servants--kings led them (when their counsel
+was sought) to the place of honour in the hall, and their heads were
+sacred, as those of ministers to the gods.
+
+This last state in the grisly realm of the Wig-laer (wizard-lore) was
+the one naturally appertaining to the high rank, and the soul, lofty
+though blind and perverted, of the daughter of warrior-kings.  All
+practice of the art to which now for long years she had devoted
+herself, that touched upon the humble destinies of the vulgar, the
+child of Odin [23] haughtily disdained.  Her reveries were upon the
+fate of kings and kingdoms; she aspired to save or to rear the
+dynasties which should rule the races yet unborn.  In youth proud and
+ambitious,--common faults with her countrywomen,--on her entrance into
+the darker world, she carried with her the prejudices and passions
+that she had known in that coloured by the external sun.
+
+All her human affections were centred in her grandchild Edith, the
+last of a race royal on either side.  Her researches into the future
+had assured her, that the life and death of this fair child were
+entwined with the fates of a king, and the same oracles had intimated
+a mysterious and inseparable connection between her own shattered
+house and the flourishing one of Earl Godwin, the spouse of her
+kinswoman Githa: so that with this great family she was as intimately
+bound by the links of superstition as by the ties of blood.  The
+eldest born of Godwin, Sweyn, had been at first especially her care
+and her favourite; and he, of more poetic temperament than his
+brothers, had willingly submitted to her influence.  But of all the
+brethren, as will be seen hereafter, the career of Sweyn had been most
+noxious and ill-omened; and at that moment, while the rest of the
+house carried with it into exile the deep and indignant sympathy of
+England, no man said of Sweyn, "God bless him!"
+
+But as the second son, Harold, had grown from childhood into youth,
+Hilda had singled him out with a preference even more marked than that
+she had bestowed upon Sweyn.  The stars and the runes assured her of
+his future greatness, and the qualities and talents of the young Earl
+had, at the very onset of his career, confirmed the accuracy of their
+predictions.  Her interest in Harold became the more intense, partly
+because whenever she consulted the future for the lot of her
+grandchild Edith, she invariably found it associated with the fate of
+Harold--partly because all her arts had failed to penetrate beyond a
+certain point in their joint destinies, and left her mind agitated and
+perplexed between hope and terror.  As yet, however, she had wholly
+failed in gaining any ascendancy over the young Earl's vigorous and
+healthful mind: and though, before his exile, he came more often than
+any of Godwin's sons to the old Roman house, he had smiled with proud
+incredulity at her vague prophecies, and rejected all her offers of
+aid from invisible agencies with the calm reply--"The brave man wants
+no charms to encourage him to his duty, and the good man scorns all
+warnings that would deter him from fulfilling it."
+
+Indeed, though Hilda's magic was not of the malevolent kind, and
+sought the source of its oracles not in fiends but gods, (at least the
+gods in whom she believed,) it was noticeable that all over whom her
+influence had prevailed had come to miserable and untimely ends;--not
+alone her husband and her son-in-law, (both of whom had been as wax to
+her counsel,) but such other chiefs as rank or ambition permitted to
+appeal to her lore.  Nevertheless, such was the ascendancy she had
+gained over the popular mind, that it would have been dangerous in the
+highest degree to put into execution against her the laws condemnatory
+of witch craft.  In her, all the more powerful Danish families
+reverenced, and would have protected, the blood of their ancient
+kings, and the widow of one of their most renowned heroes.
+
+Hospitable, liberal, and beneficent to the poor; and an easy mistress
+over numerous ceorls, while the vulgar dreaded, they would yet have
+defended her.  Proofs of her art it would have been hard to establish;
+hosts of compurgators to attest her innocence would have sprung up.
+Even if subjected to the ordeal, her gold could easily have bribed the
+priests with whom the power of evading its dangers rested.  And with
+that worldly wisdom which persons of genius in their wildest chimeras
+rarely lack, she had already freed herself from the chance of active
+persecution from the Church, by ample donations to all the
+neighbouring monasteries.
+
+Hilda, in fine, was a woman of sublime desires and extraordinary
+gifts; terrible, indeed, but as the passive agent of the Fates she
+invoked, and rather commanding for herself a certain troubled
+admiration and mysterious pity; no fiend-hag, beyond humanity in
+malice and in power, but essentially human, even when aspiring most to
+the secrets of a god.  Assuming, for the moment, that by the aid of
+intense imagination, persons of a peculiar idiosyncrasy of nerves and
+temperament might attain to such dim affinities with a world beyond
+our ordinary senses, as forbid entire rejection of the magnetism and
+magic of old times--it was on no foul and mephitic pool, overhung with
+the poisonous nightshade, and excluded from the beams of heaven, but
+on the living stream on which the star trembled, and beside whose
+banks the green herbage waved, that the demon shadows fell dark and
+dread.
+
+Thus safe and thus awful, lived Hilda; and under her care, a rose
+beneath the funeral cedar, bloomed her grandchild Edith, goddaughter
+of the Lady of England.
+
+It was the anxious wish, both of Edward and his virgin wife, pious as
+himself, to save this orphan from the contamination of a house more
+than suspected of heathen faith, and give to her youth the refuge of
+the convent.  But this, without her guardian's consent or her own
+expressed will, could not be legally done; and Edith as yet had
+expressed no desire to disobey her grandmother, who treated the idea
+of the convent with lofty scorn.
+
+This beautiful child grew up under the influence, as it were, of two
+contending creeds; all her notions on both were necessarily confused
+and vague.  But her heart was so genuinely mild, simple, tender, and
+devoted,--there was in her so much of the inborn excellence of the
+sex, that in every impulse of that heart struggled for clearer light
+and for purer air the unquiet soul.  In manner, in thought, and in
+person as yet almost an infant, deep in her heart lay yet one woman's
+secret, known scarcely to herself, but which taught her, more
+powerfully than Hilda's proud and scoffing tongue, to shudder at the
+thought of the barren cloister and the eternal vow.
+
+
+
+
+CHAPTER III.
+
+
+While King Edward was narrating to the Norman Duke all that he knew,
+and all that he knew not, of Hilda's history and secret arts, the road
+wound through lands as wild and wold-like as if the metropolis of
+England lay a hundred miles distant.  Even to this day patches of such
+land, in the neighbourhood of Norwood, may betray what the country was
+in the old time:--when a mighty forest, "abounding with wild beasts"--
+"the bull and the boar"--skirted the suburbs of London, and afforded
+pastime to king and thegn.  For the Norman kings have been maligned by
+the popular notion that assigns to them all the odium of the forest
+laws.  Harsh and severe were those laws in the reign of the Anglo-
+Saxon; as harsh and severe, perhaps, against the ceorl and the poor
+man, as in the days of Rufus, though more mild unquestionably to the
+nobles.  To all beneath the rank of abbot and thegn, the king's woods
+were made, even by the mild Confessor, as sacred as the groves of the
+Druids: and no less penalty than that of life was incurred by the
+lowborn huntsman who violated their recesses. [24]
+
+Edward's only mundane passion was the chase; and a day rarely passed,
+but what after mass he went forth with hawk or hound.  So that, though
+the regular season for hawking did not commence till October, he had
+ever on his wrist some young falcon to essay, or some old favourite to
+exercise.  And now, just as William was beginning to grow weary of his
+good cousin's prolix recitals, the hounds suddenly gave tongue, and
+from a sedge-grown pool by the way-side, with solemn wing and harsh
+boom, rose a bittern.
+
+"Holy St. Peter!" exclaimed the Saint-king, spurring his palfrey, and
+loosing his famous Peregrine falcon [25].  William was not slow in
+following that animated example, and the whole company rode at half
+speed across the rough forest-land, straining their eyes upon the
+soaring quarry, and the large wheels of the falcons.  Riding thus,
+with his eyes in the air, Edward was nearly pitched over his palfrey's
+head, as the animal stopped suddenly, checked by a high gate, set deep
+in a half embattled wall of brick and rubble.  Upon this gate sate,
+quite unmoved and apathetic, a tall ceorl, or labourer, while behind
+it was a gazing curious group of men of the same rank, clad in those
+blue tunics of which our peasant's smock is the successor, and leaning
+on scythes and flails.  Sour and ominous were the looks they bent upon
+that Norman cavalcade.  The men were at least as well clad as those of
+the same condition are now; and their robust limbs and ruddy cheeks
+showed no lack of the fare that supports labour.  Indeed, the working
+man of that day, if not one of the absolute theowes or slaves, was,
+physically speaking, better off, perhaps, than he has ever since been
+in England, more especially if he appertained to some wealthy thegn of
+pure Saxon lineage, whose very title of lord came to him in his
+quality of dispenser of bread [26]; and these men had been ceorls
+under Harold, son of Godwin, now banished from the land.
+
+"Open the gate, open quick, my merry men," said the gentle Edward
+(speaking in Saxon, though with a strong foreign accent), after he had
+recovered his seat, murmured a benediction, and crossed himself three
+times.  The men stirred not.
+
+"No horse tramps the seeds we have sown for Harold the Earl to reap;"
+said the ceorl, doggedly, still seated on the gate.  And the group
+behind him gave a shout of applause.
+
+Moved more than ever he had been known to be before, Edward spurred
+his steed up to the boor, and lifted his hand.  At that signal twenty
+swords flashed in the air behind, as the Norman nobles spurred to the
+place.  Putting back with one hand his fierce attendants, Edward shook
+the other at the Saxon.  "Knave, knave," he cried, "I would hurt you,
+if I could!"
+
+There was something in these words, fated to drift down into history,
+at once ludicrous and touching.  The Normans saw them only in the
+former light, and turned aside to conceal their laughter; the Saxon
+felt them in the latter and truer sense, and stood rebuked.  That
+great king, whom he now recognised, with all those drawn swords at his
+back, could not do him hurt; that king had not the heart to hurt him.
+The ceorl sprang from the gate, and opened it, bending low.
+
+"Ride first, Count William, my cousin," said the King, calmly.
+
+The Saxon ceorl's eyes glared as he heard the Norman's name uttered in
+the Norman tongue, but he kept open the gate, and the train passed
+through, Edward lingering last. Then said the King, in a low voice,--
+
+"Bold man, thou spokest of Harold the Earl and his harvests; knowest
+thou not that his lands have passed from him, and that he is outlawed,
+and that his harvests are not for the scythes of his ceorls to reap?"
+
+"May it please you, dread Lord and King," replied the Saxon simply,
+"these lands that were Harold the Earl's, are now Clapa's, the
+sixhaendman's."
+
+"How is that?" quoth Edward, hastily; "we gave them neither to
+sixhaendman nor to Saxon.  All the lands of Harold hereabout were
+divided amongst sacred abbots and noble chevaliers--Normans all."
+
+"Fulke the Norman had these fair fields, yon orchards and tynen; Fulke
+sold them to Clapa, the Earl's sixhaendman, and what in mancusses and
+pence Clapa lacked of the price, we, the ceorls of the Earl, made up
+from our own earnings in the Earl's noble service.  And this very day,
+in token thereof, have we quaffed the bedden-ale [27]. Wherefore,
+please God and our Lady, we hold these lands part and parcel with
+Clapa; and when Earl Harold comes again, as come he will, here at
+least he will have his own."
+
+Edward, who, despite a singular simplicity of character, which at
+times seemed to border on imbecility, was by no means wanting in
+penetration when his attention was fairly roused, changed countenance
+at this proof of rough and homely affection on the part of these men
+to his banished earl and brother-in-law.  He mused a little while in
+grave thought, and then said, kindly--
+
+"Well, man, I think not the worse of you for loyal love to your thegn,
+but there are those who would do so, and I advise you, brotherlike,
+that ears and nose are in peril if thou talkest thus indiscreetly."
+
+"Steel to steel, and hand to hand," said the Saxon, bluntly, touching
+the long knife in his leathern belt, "and he who sets gripe on Sexwolf
+son of Elfhelm, shall pay his weregeld twice over."
+
+"Forewarned, foolish man, thou are forewarned.  Peace," said the King;
+and, shaking his head, he rode on to join the Normans, who now, in a
+broad field, where the corn sprang green, and which they seemed to
+delight in wantonly trampling, as they curvetted their steeds to and
+fro, watched the movements of the bittern and the pursuit of the two
+falcons.
+
+"A wager, Lord King!" said a prelate, whose strong family likeness to
+William proclaimed him to be the Duke's bold and haughty brother, Odo
+[28], Bishop of Bayeux;--"a wager.  My steed to your palfrey that the
+Duke's falcon first fixes the bittern."
+
+"Holy father," answered Edward, in that slight change of voice which
+alone showed his displeasure, "these wagers all savour of heathenesse,
+and our canons forbid them to mone [29] and priest. Go to, it is
+naught."
+
+The bishop, who brooked no rebuke, even from his terrible brother,
+knit his brows, and was about to make no gentle rejoinder, when
+William, whose profound craft or sagacity was always at watch, lest
+his followers should displease the King, interposed, and taking the
+word out of the prelate's mouth, said:
+
+"Thou reprovest us well, Sir and King; we Normans are too inclined to
+such levities.  And see, your falcon is first in pride of place.  By
+the bones of St. Valery, how nobly he towers!  See him cover the
+bittern!--see him rest on the wing!--Down he swoops!  Gallant bird!"
+
+"With his heart split in two on the bittern's bill," said the bishop;
+and down, rolling one over the other, fell bittern and hawk, while
+William's Norway falcon, smaller of size than the King's, descended
+rapidly, and hovered over the two.  Both were dead.
+
+"I accept the omen," muttered the gazing Duke; "let the natives
+destroy each other!"  He placed his whistle to his lips, and his
+falcon flew back to his wrist.
+
+"Now home," said King Edward.
+
+
+
+
+CHAPTER IV.
+
+
+The royal party entered London by the great bridge which divided
+Southwark from the capital; and we must pause to gaze a moment on the
+animated scene which the immemorial thoroughfare presented.
+
+The whole suburb before entering Southwark was rich in orchards and
+gardens, lying round the detached houses of the wealthier merchants
+and citizens.  Approaching the river-side, to the left, the eye might
+see the two circular spaces set apart, the one for bear, the other for
+bull-baiting.  To the right, upon a green mound of waste, within sight
+of the populous bridge, the gleemen were exercising their art.  Here
+one dexterous juggler threw three balls and three knives alternately
+in the air, catching them one by one as they fell [30].   There,
+another was gravely leading a great bear to dance on its hind legs,
+while his coadjutor kept time with a sort of flute or flageolet.  The
+lazy bystanders, in great concourse, stared and laughed; but the laugh
+was hushed at the tramp of the Norman steeds; and the famous Count by
+the King's side, as, with a smiling lip, but observant eye, he rode
+along, drew all attention from the bear.
+
+On now approaching that bridge which, not many years before, had been
+the scene of terrible contest between the invading Danes and
+Ethelred's ally, Olave of Norway [31], you might still see, though
+neglected and already in decay, the double fortifications that had
+wisely guarded that vista into the city.  On both sides of the bridge,
+which was of wood, were forts, partly of timber, partly of stone, and
+breastworks, and by the forts a little chapel.  The bridge, broad
+enough to admit two vehicles abreast [32],  was crowded with
+passengers, and lively with stalls and booths.  Here was the favourite
+spot of the popular ballad-singer [33].  Here, too, might be seen the
+swarthy Saracen, with wares from Spain and Afric [34].  Here, the
+German merchant from the Steel-yard swept along on his way to his
+suburban home.  Here, on some holy office, went quick the muffled
+monk.  Here, the city gallant paused to laugh with the country girl,
+her basket full of May-boughs and cowslips.  In short, all bespoke
+that activity, whether in business or pastime, which was destined to
+render that city the mart of the world, and which had already knit the
+trade of the Anglo-Saxon to the remoter corners of commercial Europe.
+The deep dark eye of William dwelt admiringly on the bustling groups,
+on the broad river, and the forest of masts which rose by the indented
+marge near Belin's gate [35].  And he to whom, whatever his faults, or
+rather crimes, to the unfortunate people he not only oppressed but
+deceived--London at least may yet be grateful, not only for chartered
+franchise [36], but for advancing, in one short vigorous reign, her
+commerce and wealth, beyond what centuries of Anglo-Saxon domination,
+with its inherent feebleness, had effected, exclaimed aloud:
+
+"By rood and mass, O dear king, thy lot hath fallen on a goodly
+heritage."
+
+"Hem!" said Edward, lazily; "thou knowest not how troublesome these
+Saxons are.  And while thou speakest, lo, in yon shattered walls,
+built first, they say, by Alfred of holy memory, are the evidences of
+the Danes.  Bethink thee how often they have sailed up this river.
+How know I but what the next year the raven flag may stream over these
+waters?  Magnus of Denmark hath already claimed my crown as heir to
+the royalties of Canute, and" (here Edward hesitated), "Godwin and
+Harold, whom alone of my thegns Dane and Northman fear, are far away."
+
+"Miss not them, Edward, my cousin," cried the Duke, in haste.  "Send
+for me if danger threat thee.  Ships enow await thy best in my new
+port of Cherbourg.  And I tell thee this for thy comfort, that were I
+king of the English, and lord of this river, the citizens of London
+might sleep from vespers to prime, without fear of the Dane.  Never
+again should the raven flag be seen by this bridge!  Never, I swear,
+by the Splendour Divine."
+
+Not without purpose spoke William thus stoutly; and he turned on the
+King those glittering eyes (micantes oculos), which the chroniclers
+have praised and noted.  For it was his hope and his aim in this
+visit, that his cousin Edward should formally promise him that goodly
+heritage of England.  But the King made no rejoinder, and they now
+neared the end of the bridge.
+
+"What old ruin looms yonder?" [37] asked William, hiding his
+disappointment at Edward's silence; "it seemeth the remains of some
+stately keape, which, by its fashion, I should pronounce Roman."
+
+"Ay!" said Edward, "and it is said to have been built by the Romans;
+and one of the old Lombard freemasons employed on my new palace of
+Westminster, giveth that, and some others in my domain, the name of
+the Juillet Tower."
+
+"Those Romans were our masters in all things gallant and wise," said
+William; "and I predict that, some day or other, on that site, a King
+of England will re-erect palace and tower.  And yon castle towards the
+west?"
+
+"Is the Tower Palatine, where our predecessors have lodged, and
+ourself sometimes; but the sweet loneliness of Thorney Isle pleaseth
+me more now."
+
+Thus talking, they entered London, a rude, dark city, built mainly of
+timbered houses; streets narrow and winding; windows rarely glazed,
+but protected chiefly by linen blinds; vistas opening, however, at
+times into broad spaces, round the various convents, where green trees
+grew up behind low palisades.  Tall roods, and holy images, to which
+we owe the names of existing thoroughfares (Rood-lane and Lady-lane
+[38]), where the ways crossed, attracted the curious and detained the
+pious.  Spires there were not then, but blunt, cone-headed turrets,
+pyramidal, denoting the Houses of God, rose often from the low,
+thatched, and reeded roofs.  But every now and then, a scholar's, if
+not an ordinary, eye could behold the relics of Roman splendour,
+traces of that elder city which now lies buried under our
+thoroughfares, and of which, year by year, are dug up the stately
+skeletons.
+
+Along the Thames still rose, though much mutilated, the wall of
+Constantine [39].  Round the humble and barbarous Church of St. Paul's
+(wherein lay the dust of Sebba, that king of the East Saxons who
+quitted his throne for the sake of Christ, and of Edward's feeble and
+luckless father, Ethelred) might be seen, still gigantic in decay, the
+ruins of the vast temple of Diana [40].  Many a church, and many a
+convent, pierced their mingled brick and timber work with Roman
+capital and shaft.  Still by the tower, to which was afterwards given
+the Saracen name of Barbican, were the wrecks of the Roman station,
+where cohorts watched night and day, in case of fire within or foe
+without. [41]
+
+In a niche, near the Aldersgate, stood the headless statue of
+Fortitude, which monks and pilgrims deemed some unknown saint in the
+old time, and halted to honour.  And in the midst of Bishopsgate-
+street, sate on his desecrated throne a mangled Jupiter, his eagle at
+his feet.  Many a half-converted Dane there lingered, and mistook the
+Thunderer and the bird for Odin and his hawk.  By Leod-gate (the
+People's gate [42]) still too were seen the arches of one of those
+mighty aqueducts which the Roman learned from the Etrurian.  And close
+by the Still-yard, occupied by "the Emperor's cheap men" (the German
+merchants), stood, almost entire, the Roman temple, extant in the time
+of Geoffrey of Monmouth.  Without the walls, the old Roman vineyards
+[43] still put forth their green leaves and crude clusters, in the
+plains of East Smithfield, in the fields of St. Giles's, and on the
+site where now stands Hatton Garden.  Still massere [44] and cheapmen
+chaffered and bargained, at booth and stall, in Mart-lane, where the
+Romans had bartered before them.  With every encroachment on new soil,
+within the walls and without, urn, vase, weapon, human bones, were
+shovelled out, and lay disregarded amidst heaps of rubbish.
+
+Not on such evidences of the past civilisation looked the practical
+eye of the Norman Count; not on things, but on men, looked he; and as
+silently he rode on from street to street, out of those men, stalwart
+and tall, busy, active, toiling, the Man-Ruler saw the Civilisation
+that was to come.
+
+So, gravely through the small city, and over the bridge that spanned
+the little river of the Fleet, rode the train along the Strand; to the
+left, smooth sands; to the right, fair pastures below green holts,
+thinly studded with houses; over numerous cuts and inlets running into
+the river, rode they on.  The hour and the season were those in which
+youth enjoyed its holiday, and gay groups resorted to the then [45]
+fashionable haunts of the Fountain of Holywell, "streaming forth among
+glistening pebbles."
+
+So they gained at length the village of Charing, which Edward had
+lately bestowed on his Abbey of Westminster, and which was now filled
+with workmen, native and foreign, employed on that edifice and the
+contiguous palace.  Here they loitered awhile at the Mews [46] (where
+the hawks were kept), passed by the rude palace of stone and rubble,
+appropriated to the tributary kings of Scotland [47]--a gift from
+Edgar to Kenneth--and finally, reaching the inlet of the river, which,
+winding round the Isle of Thorney (now Westminster), separated the
+rising church, abbey, and palace of the Saint-king from the main-land,
+dismounted--and were ferried across [48] the narrow stream to the
+broad space round the royal residence.
+
+
+
+
+CHAPTER V.
+
+
+The new palace of Edward the Confessor, the palace of Westminster,
+opened its gates, to receive the Saxon King and the Norman Duke,
+remounting on the margin of the isle, and now riding side by side.
+And as the Duke glanced, from brows habitually knit, first over the
+pile, stately, though not yet completed, with its long rows of round
+arched windows, cased by indented fringes and fraet (or tooth) work,
+its sweep of solid columns with circling cloisters, and its ponderous
+towers of simple grandeur; then over the groups of courtiers, with
+close vests, and short mantles, and beardless cheeks, that filled up
+the wide space, to gaze in homage on the renowned guest, his heart
+swelled within him, and, checking his rein, he drew near to his
+brother of Bayeux, and whispered,--
+
+"Is not this already the court of the Norman?  Behold yon nobles and
+earls, how they mimic our garb! behold the very stones in yon gate,
+how they range themselves, as if carved by the hand of the Norman
+mason!  Verily and indeed, brother, the shadow of the rising sun rests
+already on these halls."
+
+"Had England no people," said the bishop, "England were yours already.
+But saw you not, as we rode along, the lowering brows? and heard you
+not the angry murmurs?  The villeins are many, and their hate is
+strong."
+
+"Strong is the roan I bestride," said the Duke; "but a bold rider
+curbs it with the steel of the bit, and guides it with the goad of the
+heel."
+
+And now, as they neared the gate, a band of minstrels in the pay of
+the Norman touched their instruments, and woke their song--the
+household song of the Norman--the battle hymn of Roland, the Paladin
+of Charles the Great.  At the first word of the song, the Norman
+knights and youths profusely scattered amongst the Normanised Saxons
+caught up the lay, and with sparkling eyes, and choral voices, they
+welcomed the mighty Duke into the palace of the last meek successor of
+Woden.
+
+By the porch of the inner court the Duke flung himself from his
+saddle, and held the stirrup for Edward to dismount.  The King placed
+his hand gently on his guest's broad shoulder, and, having somewhat
+slowly reached the ground, embraced and kissed him in the sight of the
+gorgeous assemblage; then led him by the hand towards the fair chamber
+which was set apart for the Duke, and so left him to his attendants.
+
+William, lost in thought, suffered himself to be disrobed in silence;
+but when Fitzosborne, his favourite confidant and haughtiest baron,
+who yet deemed himself but honoured by personal attendance on his
+chief, conducted him towards the bath, which adjoined the chamber, he
+drew back, and wrapping round him more closely the gown of fur that
+had been thrown over his shoulders, he muttered low,--"Nay, if there
+be on me yet one speck of English dust, let it rest there!--seizin,
+Fitzosborne, seizin, of the English land."  Then, waving his hand, he
+dismissed all his attendants except Fitzosborne, and Rolf, Earl of
+Hereford [49], nephew to Edward, but French on the father's side, and
+thoroughly in the Duke's councils.  Twice the Duke paced the chamber
+without vouchsafing a word to either, then paused by the round window
+that overlooked the Thames.  The scene was fair; the sun, towards its
+decline, glittered on numerous small pleasure-boats, which shot to and
+fro between Westminster and London or towards the opposite shores of
+Lambeth.  His eye sought eagerly, along the curves of the river, the
+grey remains of the fabled Tower of Julius, and the walls, gates, and
+turrets, that rose by the stream, or above the dense mass of silent
+roofs; then it strained hard to descry the tops of the more distant
+masts of the infant navy, fostered under Alfred, the far-seeing, for
+the future civilisation of wastes unknown, and the empire of seas
+untracked.
+
+The Duke breathed hard, and opened and closed the hand which he
+stretched forth into space as if to grasp the city he beheld.  "Rolf,"
+said he, abruptly, "thou knowest, no doubt, the wealth of the London
+traders, one and all; for, foi de Gaillaume, my gentil chevalier, thou
+art a true Norman, and scentest the smell of gold as a hound the
+boar!"
+
+Rolf smiled, as if pleased with a compliment which simpler men might
+have deemed, at the best, equivocal, and replied:
+
+"It is true, my liege; and gramercy, the air of England sharpens the
+scent; for in this villein and motley country, made up of all races,--
+Saxon and Fin, Dane and Fleming, Pict and Walloon,--it is not as with
+us, where the brave man and the pure descent are held chief in honour:
+here, gold and land are, in truth, name and lordship; even their
+popular name for their national assembly of the Witan is, 'The
+Wealthy.' [50]  He who is but a ceorl to-day, let him be rich, and he
+may be earl to-morrow, marry in king's blood, and rule armies under a
+gonfanon statelier than a king's; while he whose fathers were
+ealdermen and princes, if, by force or by fraud, by waste or by
+largess, he become poor, falls at once into contempt, and out of his
+state,--sinks into a class they call 'six-hundred men,' in their
+barbarous tongue, and his children will probably sink still lower,
+into ceorls.  Wherefore gold is the thing here most coveted; and by
+St. Michael, the sin is infectious."
+
+William listened to the speech with close attention.  "Good," said he,
+rubbing slowly the palm of his right hand over the back of the left;
+"a land all compact with the power of one race, a race of conquering
+men, as our fathers were, whom nought but cowardice or treason can
+degrade,--such a land, O Rolf of Hereford, it were hard indeed to
+subjugate, or decoy, or tame--"
+
+"So has my lord the Duke found the Bretons; and so also do I find the
+Welch upon my marches of Hereford."
+
+"But," continued William, not heeding the interruption, "where wealth
+is more than blood and race, chiefs may be bribed or menaced; and the
+multitude--by'r Lady, the multitude are the same in all lands, mighty
+under valiant and faithful leaders, powerless as sheep without them.
+But to my question, my gentle Rolf; this London must be rich?" [51]
+
+"Rich enow," answered Rolf, "to coin into armed men, that should
+stretch from Rouen to Flanders on the one hand, and Paris on the
+other."
+
+"In the veins of Matilda, whom thou wooest for wife," said
+Fitzosborne, abruptly, "flows the blood of Charlemagne.  God grant his
+empire to the children she shall bear thee!"
+
+The Duke bowed his head, and kissed a relic suspended from his throat.
+Farther sign of approval of his counsellor's words he gave not, but
+after a pause, he said:
+
+"When I depart, Rolf, thou wendest back to thy marches.  These Welch
+are brave and fierce, and shape work enow for thy hands."
+
+"Ay, by my halidame! poor sleep by the side of the beehive you have
+stricken down."
+
+"Marry, then," said William, "let the Welch prey on Saxon, Saxon on
+Welch; let neither win too easily.  Remember our omens to-day, Welch
+hawk and Saxon bittern, and over their corpses, Duke William's Norway
+falcon!  Now dress we for the complin [52] and the banquet."
+
+
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK HAROLD, BY LYTTON, BOOK 1 ***
+
+******* This file should be named 7672.txt or 7672.zip *******
+
+This eBook was produced by Tapio Riikonen
+David Widger
+
+Project Gutenberg eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the US
+unless a copyright notice is included.  Thus, we usually do not
+keep eBooks in compliance with any particular paper edition.
+
+We are now trying to release all our eBooks one year in advance
+of the official release dates, leaving time for better editing.
+Please be encouraged to tell us about any error or corrections,
+even years after the official publication date.
+
+Please note neither this listing nor its contents are final til
+midnight of the last day of the month of any such announcement.
+The official release date of all Project Gutenberg eBooks is at
+Midnight, Central Time, of the last day of the stated month.  A
+preliminary version may often be posted for suggestion, comment
+and editing by those who wish to do so.
+
+Most people start at our Web sites at:
+http://gutenberg.net or
+http://promo.net/pg
+
+These Web sites include award-winning information about Project
+Gutenberg, including how to donate, how to help produce our new
+eBooks, and how to subscribe to our email newsletter (free!).
+
+
+Those of you who want to download any eBook before announcement
+can get to them as follows, and just download by date.  This is
+also a good way to get them instantly upon announcement, as the
+indexes our cataloguers produce obviously take a while after an
+announcement goes out in the Project Gutenberg Newsletter.
+
+http://www.ibiblio.org/gutenberg/etext03 or
+ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext03
+
+Or /etext02, 01, 00, 99, 98, 97, 96, 95, 94, 93, 92, 92, 91 or 90
+
+Just search by the first five letters of the filename you want,
+as it appears in our Newsletters.
+
+
+Information about Project Gutenberg (one page)
+
+We produce about two million dollars for each hour we work.  The
+time it takes us, a rather conservative estimate, is fifty hours
+to get any eBook selected, entered, proofread, edited, copyright
+searched and analyzed, the copyright letters written, etc.   Our
+projected audience is one hundred million readers.  If the value
+per text is nominally estimated at one dollar then we produce $2
+million dollars per hour in 2002 as we release over 100 new text
+files per month:  1240 more eBooks in 2001 for a total of 4000+
+We are already on our way to trying for 2000 more eBooks in 2002
+If they reach just 1-2% of the world's population then the total
+will reach over half a trillion eBooks given away by year's end.
+
+The Goal of Project Gutenberg is to Give Away 1 Trillion eBooks!
+This is ten thousand titles each to one hundred million readers,
+which is only about 4% of the present number of computer users.
+
+Here is the briefest record of our progress (* means estimated):
+
+eBooks Year Month
+
+    1  1971 July
+   10  1991 January
+  100  1994 January
+ 1000  1997 August
+ 1500  1998 October
+ 2000  1999 December
+ 2500  2000 December
+ 3000  2001 November
+ 4000  2001 October/November
+ 6000  2002 December*
+ 9000  2003 November*
+10000  2004 January*
+
+
+The Project Gutenberg Literary Archive Foundation has been created
+to secure a future for Project Gutenberg into the next millennium.
+
+We need your donations more than ever!
+
+As of February, 2002, contributions are being solicited from people
+and organizations in: Alabama, Alaska, Arkansas, Connecticut,
+Delaware, District of Columbia, Florida, Georgia, Hawaii, Illinois,
+Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Massachusetts,
+Michigan, Mississippi, Missouri, Montana, Nebraska, Nevada, New
+Hampshire, New Jersey, New Mexico, New York, North Carolina, Ohio,
+Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South
+Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West
+Virginia, Wisconsin, and Wyoming.
+
+We have filed in all 50 states now, but these are the only ones
+that have responded.
+
+As the requirements for other states are met, additions to this list
+will be made and fund raising will begin in the additional states.
+Please feel free to ask to check the status of your state.
+
+In answer to various questions we have received on this:
+
+We are constantly working on finishing the paperwork to legally
+request donations in all 50 states.  If your state is not listed and
+you would like to know if we have added it since the list you have,
+just ask.
+
+While we cannot solicit donations from people in states where we are
+not yet registered, we know of no prohibition against accepting
+donations from donors in these states who approach us with an offer to
+donate.
+
+International donations are accepted, but we don't know ANYTHING about
+how to make them tax-deductible, or even if they CAN be made
+deductible, and don't have the staff to handle it even if there are
+ways.
+
+Donations by check or money order may be sent to:
+
+Project Gutenberg Literary Archive Foundation
+PMB 113
+1739 University Ave.
+Oxford, MS 38655-4109
+
+Contact us if you want to arrange for a wire transfer or payment
+method other than by check or money order.
+
+The Project Gutenberg Literary Archive Foundation has been approved by
+the US Internal Revenue Service as a 501(c)(3) organization with EIN
+[Employee Identification Number] 64-622154.  Donations are
+tax-deductible to the maximum extent permitted by law.  As fund-raising
+requirements for other states are met, additions to this list will be
+made and fund-raising will begin in the additional states.
+
+We need your donations more than ever!
+
+You can get up to date donation information online at:
+
+http://www.gutenberg.net/donation.html
+
+
+***
+
+If you can't reach Project Gutenberg,
+you can always email directly to:
+
+Michael S. Hart 
+
+Prof. Hart will answer or forward your message.
+
+We would prefer to send you information by email.
+
+
+**The Legal Small Print**
+
+
+(Three Pages)
+
+***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN EBOOKS**START***
+Why is this "Small Print!" statement here? You know: lawyers.
+They tell us you might sue us if there is something wrong with
+your copy of this eBook, even if you got it for free from
+someone other than us, and even if what's wrong is not our
+fault. So, among other things, this "Small Print!" statement
+disclaims most of our liability to you. It also tells you how
+you may distribute copies of this eBook if you want to.
+
+*BEFORE!* YOU USE OR READ THIS EBOOK
+By using or reading any part of this PROJECT GUTENBERG-tm
+eBook, you indicate that you understand, agree to and accept
+this "Small Print!" statement. If you do not, you can receive
+a refund of the money (if any) you paid for this eBook by
+sending a request within 30 days of receiving it to the person
+you got it from. If you received this eBook on a physical
+medium (such as a disk), you must return it with your request.
+
+ABOUT PROJECT GUTENBERG-TM EBOOKS
+This PROJECT GUTENBERG-tm eBook, like most PROJECT GUTENBERG-tm eBooks,
+is a "public domain" work distributed by Professor Michael S. Hart
+through the Project Gutenberg Association (the "Project").
+Among other things, this means that no one owns a United States copyright
+on or for this work, so the Project (and you!) can copy and
+distribute it in the United States without permission and
+without paying copyright royalties. Special rules, set forth
+below, apply if you wish to copy and distribute this eBook
+under the "PROJECT GUTENBERG" trademark.
+
+Please do not use the "PROJECT GUTENBERG" trademark to market
+any commercial products without permission.
+
+To create these eBooks, the Project expends considerable
+efforts to identify, transcribe and proofread public domain
+works. Despite these efforts, the Project's eBooks and any
+medium they may be on may contain "Defects". Among other
+things, Defects may take the form of incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged
+disk or other eBook medium, a computer virus, or computer
+codes that damage or cannot be read by your equipment.
+
+LIMITED WARRANTY; DISCLAIMER OF DAMAGES
+But for the "Right of Replacement or Refund" described below,
+[1] Michael Hart and the Foundation (and any other party you may
+receive this eBook from as a PROJECT GUTENBERG-tm eBook) disclaims
+all liability to you for damages, costs and expenses, including
+legal fees, and [2] YOU HAVE NO REMEDIES FOR NEGLIGENCE OR
+UNDER STRICT LIABILITY, OR FOR BREACH OF WARRANTY OR CONTRACT,
+INCLUDING BUT NOT LIMITED TO INDIRECT, CONSEQUENTIAL, PUNITIVE
+OR INCIDENTAL DAMAGES, EVEN IF YOU GIVE NOTICE OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+If you discover a Defect in this eBook within 90 days of
+receiving it, you can receive a refund of the money (if any)
+you paid for it by sending an explanatory note within that
+time to the person you received it from. If you received it
+on a physical medium, you must return it with your note, and
+such person may choose to alternatively give you a replacement
+copy. If you received it electronically, such person may
+choose to alternatively give you a second opportunity to
+receive it electronically.
+
+THIS EBOOK IS OTHERWISE PROVIDED TO YOU "AS-IS". NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, ARE MADE TO YOU AS
+TO THE EBOOK OR ANY MEDIUM IT MAY BE ON, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A
+PARTICULAR PURPOSE.
+
+Some states do not allow disclaimers of implied warranties or
+the exclusion or limitation of consequential damages, so the
+above disclaimers and exclusions may not apply to you, and you
+may have other legal rights.
+
+INDEMNITY
+You will indemnify and hold Michael Hart, the Foundation,
+and its trustees and agents, and any volunteers associated
+with the production and distribution of Project Gutenberg-tm
+texts harmless, from all liability, cost and expense, including
+legal fees, that arise directly or indirectly from any of the
+following that you do or cause:  [1] distribution of this eBook,
+[2] alteration, modification, or addition to the eBook,
+or [3] any Defect.
+
+DISTRIBUTION UNDER "PROJECT GUTENBERG-tm"
+You may distribute copies of this eBook electronically, or by
+disk, book or any other medium if you either delete this
+"Small Print!" and all other references to Project Gutenberg,
+or:
+
+[1]  Only give exact copies of it.  Among other things, this
+     requires that you do not remove, alter or modify the
+     eBook or this "small print!" statement.  You may however,
+     if you wish, distribute this eBook in machine readable
+     binary, compressed, mark-up, or proprietary form,
+     including any form resulting from conversion by word
+     processing or hypertext software, but only so long as
+     *EITHER*:
+
+     [*]  The eBook, when displayed, is clearly readable, and
+          does *not* contain characters other than those
+          intended by the author of the work, although tilde
+          (~), asterisk (*) and underline (_) characters may
+          be used to convey punctuation intended by the
+          author, and additional characters may be used to
+          indicate hypertext links; OR
+
+     [*]  The eBook may be readily converted by the reader at
+          no expense into plain ASCII, EBCDIC or equivalent
+          form by the program that displays the eBook (as is
+          the case, for instance, with most word processors);
+          OR
+
+     [*]  You provide, or agree to also provide on request at
+          no additional cost, fee or expense, a copy of the
+          eBook in its original plain ASCII form (or in EBCDIC
+          or other equivalent proprietary form).
+
+[2]  Honor the eBook refund and replacement provisions of this
+     "Small Print!" statement.
+
+[3]  Pay a trademark license fee to the Foundation of 20% of the
+     gross profits you derive calculated using the method you
+     already use to calculate your applicable taxes.  If you
+     don't derive profits, no royalty is due.  Royalties are
+     payable to "Project Gutenberg Literary Archive Foundation"
+     the 60 days following each date you prepare (or were
+     legally required to prepare) your annual (or equivalent
+     periodic) tax return.  Please contact us beforehand to
+     let us know your plans and to work out the details.
+
+WHAT IF YOU *WANT* TO SEND MONEY EVEN IF YOU DON'T HAVE TO?
+Project Gutenberg is dedicated to increasing the number of
+public domain and licensed works that can be freely distributed
+in machine readable form.
+
+The Project gratefully accepts contributions of money, time,
+public domain materials, or royalty free copyright licenses.
+Money should be paid to the:
+"Project Gutenberg Literary Archive Foundation."
+
+If you are interested in contributing scanning equipment or
+software or other items, please contact Michael Hart at:
+hart@pobox.com
+
+[Portions of this eBook's header and trailer may be reprinted only
+when distributed free of all fees.  Copyright (C) 2001, 2002 by
+Michael S. Hart.  Project Gutenberg is a TradeMark and may not be
+used in any sales of Project Gutenberg eBooks or other materials be
+they hardware or software or any other related product without
+express permission.]
+
+*END THE SMALL PRINT! FOR PUBLIC DOMAIN EBOOKS*Ver.02/11/02*END*

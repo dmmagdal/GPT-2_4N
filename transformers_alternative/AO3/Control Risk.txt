@@ -1,0 +1,806 @@
+
+
+
+
+Control Risk - littlesystems - Star Wars Sequel Trilogy
+p.message{text-align:center}.meta h1{font-size:1.5em;text-align:center}.meta h2{font-size:1.25em;text-align:center}.meta h2{page-break-before:always}.meta .byline{text-align:center}.meta dl.tags{border:1px solid;padding:1em}.meta dd{margin:-1em 0 0 10em}.meta .endnote-link{font-size:.8em}#chapters{font-family:"Nimbus Roman No9 L","Times New Roman",serif;padding:1em}.userstuff{font-family:"Nimbus Roman No9 L","Times New Roman",serif;padding:1em}.toc-heading{display:none}
+
+
+
+Preface
+
+Control Risk
+    Posted originally on the Archive of Our Own at http://archiveofourown.org/works/7298980.
+  
+
+
+Rating:
+Explicit
+Archive Warning:
+No Archive Warnings Apply
+Category:
+M/M
+Fandom:
+Star Wars Sequel Trilogy
+Relationship:
+Armitage Hux/Kylo Ren, Poe Dameron/Finn/Rey
+Character:
+Ben Solo | Kylo Ren, Rey (Star Wars), Finn (Star Wars), Poe Dameron, Phasma (Star Wars), Leia Organa, Armitage Hux
+Additional Tags:
+auditor!Hux, Kylo Ren is a perpetual fuckup, Misunderstandings, Homophobia, Perceived Homophobia, so many misunderstandings, Phasma is a badass as per usual, Chatlogs, I heard Kylo Ren has an eight pack, Senator Organa - Freeform, Millicent the cat - Freeform, Kylo Ren does yoga, also german longsword, I named Hux Brendol before he had a canon name, so the whole Armitage Hux thing jossed me
+Stats:
+
+        Published: 2016-06-25
+          Completed: 2016-11-04
+          Chapters: 5/5
+        Words: 25256
+      
+
+Control Risk
+by littlesystems
+Summary
+
+The man, Kylo Ren, unfurled himself from his office chair and stood to shake Hux’s outstretched hand.  Hux focused on keeping his expression neutral, faced with the impressive height and bulk of the man in front of him.  He could already feel that terrible, horrible, no good, very bad part of himself perk up at the tableau before him: the man was wearing slacks with no creases, a wrinkled button down with the top few buttons undone, and no tie.  His eyes were dark, his features were oddly proportioned, and his hands were enormous.
+Or: Hux is an auditor who is attracted to hot messes.  Kylo Ren is a hot mess.
+
+
+
+
+Chapter 1
+Chapter Notes
+
+        See the end of the chapter for  notes
+
+
+
+
+    Control Risk   : The risk that material error in a balance or transaction class will not be prevented or detected on a timely basis by internal controls.   Hux had always had terrible taste in men.  That was the first thing Hux thought of when he walked into the Finance department and saw the man he would be working with for the next several weeks, during the course of his newest client’s audit.  One quick glance showed broad shoulders, messy hair, and an elegant profile.  His desk was cluttered with stacks of papers everywhere, three coffee mugs, and a cardboard Starbucks cup perched precariously close to the edge of his desk.  Truly, inexcusably bad taste.  His preference in men was one of the only things Hux genuinely disliked about himself.  Hux prided himself on order: he was ambitious in his career, fastidious in his appearance, and always purposeful in his day-to-day actions.  He liked to surround himself with like-minded people - that was why, after a few years of working at a reputable auditing firm, he decided to start his own.  Too many companies were simply too inefficient: they were bogged down by HR and that inevitable handful of terrible employees who never did their jobs properly but also never quite poorly enough to warrant termination.When Hux started his own firm, his vision was for a small team of dedicated auditors that would be able to work with ruthless efficiency.  First Order Auditing would be able to take on a select number of clients for  unparalleled  service.  Hux liked rules.  Liked making rules, following rules, and people who followed rules.Except, unfortunately, when it came to men.“And this is Kylo Ren,” Maz said, gesturing to the lanky man with dark hair who was watching them warily from his cubicle.  Maz, director of the Finance department, was an intense, excitable woman, who had wasted no time in taking him around all six floors of the building, popping her head into each department to do quick introductions and let everyone know that Hux and his crew would be invading their work space for the next several weeks.  She merrily dragged him through the courtyard green space with adirondack chairs  a great place to eat lunch, the big kitchen upstairs  this is where most people gather, the kitchen on our floor is terrible, what kind of kitchen doesn’t even have vending machines, the smaller kitchen down the hallway  eh, it’s good enough to get a cup of coffee or toast a bagel, the meeting room next door to the department that had been reserved for his team when additional space was necessary, the parking garage, the coffee cart in the lobby, the largest meeting room on the sixth floor (for reasons Hux still could not determine), the rooftop garden, and, finally, the actual Finance department, where Hux would be doing the bulk of his work.The company itself seemed decent enough - one of the many non-descript government contractors peppering the region.  Not quite up to Hux’s standards of efficiency, but few places were.  Even so, this man slouched in his cubicle seemed out of place.The man, Kylo Ren, unfurled himself from his office chair and stood to shake Hux’s outstretched hand.  Hux focused on keeping his expression neutral, faced with the impressive height and bulk of the man in front of him.  He could already feel that terrible, horrible, no good, very bad part of himself perk up at the tableau before him: the man was wearing slacks with no creases, a wrinkled button down with the top few buttons undone, and no tie.  His eyes were dark, his features were oddly proportioned, and his hands were  enormous. What Hux wouldn’t give to be attracted to one of the men from his country club, just the once.“He’s the administrative assistant in the department, so if you’re looking for any odds and ends he’s the first person to ask.  He can get old paperwork out of storage or whatever you need.  He’s always happy to help!”  She shot Kylo a pointed look, as the expression on his face most definitely said that he was  not  happy to help.  “Kylo, this is Brendol Hux, the lead auditor.  I expect you to be accommodating while he and his team are here.”“Of course,” he drawled, “Anything you desire, it would be my  honor  to fetch for you.”Maz sighed and looked heavenward, then shook her head.  “You can find your way back to the auditor’s room, yeah?”  She gestured towards the doorway about 15 feet away from where they were standing.  “I have to get back to work.”“Yes, thank you very much for the tour.”Maz puttered away towards a ringing phone, leaving the two of them standing together.Kylo cleared his voice to get Hux’s attention, then quirked an eyebrow.  “Brendol is an interesting name.”  His voice was deeper than Hux would have initially expected, and a smirk tugged at his lips in a very distracting way.“So is Kylo.”  As if the man had any room to talk with a name like  Kylo Ren.  It sounded like something an overdramatic teenager came up with; Hux could only imagine what his parents must be like.  Hippies, maybe.  Or drug addicts.“Touché.”“But please, call me Hux.  Brendol is my father.”Kylo laughed.  “Isn’t that supposed to be the other way around?”  Hux tilted his head quizzically so he elaborated.  “You know, someone says ‘hello Mr. Hux’ and then you say ‘no no, Mr. Hux is my father, please, call me Brendol.’”“Perhaps I like defying clichés.”“But not enough to avoid them entirely,” Kylo pointed out.“Apparently not.”“So does that make you Brendol Hux Junior, then?”  He leaned his hip against his desk and peered at Hux with teasing eyes.Hux mentally shuffled through an extensive list of reasons why it was a terrible idea to hit on a client’s employee on his first day on the job.  Especially a new client.  Terrible.  Truly.“Brendol Hux the seventh, actually.  My father considers himself a traditionalist but I think he was just rather uncreative.”Kylo hummed and looked at Hux, considering.  Hux wasn’t sure if he was being checked out or sized up - maybe a bit of both.  “That’s quite the legacy to live up to.  Is First Order a family business, then?”“No, First Order is my own.  I come from a long line of military men - my father was… not initially enthusiastic about this business venture.  Not very honorable, chasing numbers and typing up spreadsheets.”“Honor is whatever you make of it.  There can be honor in refusing to become a killer.”That wasn’t why Hux had decided not to follow in his father’s footsteps, but he didn’t want to correct Kylo.  “Though I do have to say, it looks like a general’s uniform would suit you,” Kylo said, flicking his eyes over the tailored suit that Hux was wearing.  Hux had always put effort into his appearance - how you looked was the first thing that people would notice about you, and their opinions would be built from there.  Best to have a solid foundation to create a strong reputation, rather than trying to play catch-up after a negative first impression.  Today he had chosen a medium grey bespoke suit, white shirt, and light green tie that brought out the color of his eyes.One that probably clashed terribly with the pink flush he could feel creeping up his neck.Hux swallowed.  “I best get back.  I like to arrive early to see the space we’ll be working in, but the rest of my team will be arriving shortly and I should have everything ready for them.”Kylo bowed his head.  “Of course,” he said, waving a hand at his cubicle, “I’ll be here if you need anything.”“Thank you.  I look forward to working with you, Kylo.”  ***    
+Kylo Ren (9:28 AM): holy shit you guys have you seen the new auditor?
+Rey Skywalker (9:28 AM): which one, the ginger or the viking goddess?
+Kylo Ren (9:28 AM): the ginger
+Rey Skywalker (9:29 AM): yeah he came by earlier
+Rey Skywalker (9:29 AM): why?
+Kylo Ren (9:29 AM): i want to lick his eyebrows
+Finn Galfridian (9:29 AM): OMG Ren WTF WHYYYYY is that a euphemism???
+Poe Dameron (9:30 AM): You’re ridiculous.
+Rey Skywalker (9:30 AM): seriously?  That guy does it for you?
+Kylo Ren (9:30 AM): hes hot
+Rey Skywalker (9:30 AM): he reminds me of your mom a little
+Finn Galfridian (9:30 AM): lol
+Kylo Ren (9:31 AM): dont make it weird god
+Kylo Ren (9:31 AM): hes way too bitchy
+Kylo Ren (9:31 AM): my moms practically a saint
+Rey Skywalker (9:31 AM): you met him like 5 minutes ago how could you possibly know that
+Rey Skywalker (9:31 AM): he seemed perfectly nice when I met him
+Kylo Ren (9:32 AM): i have a sixth sense for these things
+Finn Galfridian (9:32 AM): dude if that’s your type no wonder you and Poe never worked out
+Rey Skywalker (9:33 AM): his loss is our gain =)
+Poe Dameron (9:34 AM): Don’t make it weird, you’re going to have to work with the guy
+Kylo Ren (9:34 AM): im not the one making it weird rey is
+Kylo Ren (9:34 AM): ive been a perfect gentleman
+Rey Skywalker (9:35 AM): oh I trust that you’ll be able to make it weird all on your own
+Rey Skywalker (9:35 AM): don’t blame me for your personality
+Kylo Ren (9:36 AM): fuck you
+Rey Skywalker (9:36 AM): watch your language, you know HR has a filter on this thing
+Poe Dameron (9:37 AM): I’m pretty sure they only look at the chat logs if there’s a complaint
+Finn Galfridian (9:38 AM): I’m gonna be the one to make a complaint if Ren keeps taLKING ABOUT LICKING EYEBROWS
+Kylo Ren (9:40 AM): whatever im gonna be able to look at that a$$ for weeks i hope this audit lasts forever
+  ***  Someone had already brought a not-insignificant number of files to the auditor’s room in preparation, so jumping straight into work was easy.  He and Phasma spent some time in the morning laying out a plan for the next several weeks and then left everyone to their own devices.  Hux appreciated having skilled employees that required little supervision; it gave Hux plenty of time to focus on his work and aggressively  not  think about Kylo Ren.  The man had potential, which was perhaps the most deadly thing about him.  Hux was never attracted to the sort of man his mother would approve of, because he universally found them boring - their lives were already together, their finances were impeccable, they were too  easy.  The “right” sort of man provided no challenge, no chase.Kylo, on the other hand, was a diamond in the rough; all he needed was to be cleaned up, have his rough edges worn off, and he had the potential to be perfect.   Hux could imagine him in a tailored black suit, tousled hair combed neatly but still long enough to curl around his ears, those dark eyes staring at him intensely…Maybe he wasn’t doing such a great job at distracting himself after all.Hux should know better by now.   Did  know better by now.  On the wrong side of thirty, he had had his fair share of failed relationships, most of which had ended in screaming matches about how he was always trying to  change  them, how he could never accept his boyfriends for who they “really” were.About how it was impossible to live up the standards of who Hux wanted them to be.Hux realized that it probably said something about himself that he always wanted a partner that he could rebuild in his own image, someone he could mold and prod and perfect until he could be proud of the partner that he had created.  Lost in thought, he didn’t notice that the rest of his team had left the room until Phasma stood and stretched in his peripheral vision.“I’m going to go down to that deli down the street, grab a sandwich.  Do you want anything?”  She knew better than to ask if he wanted to go out to lunch on their first day.  They had been working together long enough.“Yes, please.  Something you think I would like.”  She nodded once and then ducked out the door.  Hux glanced and his watch, then winced.  No wonder the others were out - it was well past lunch time.Coffee was in order.  Hux stood and stretched, feeling his shoulder pop with the movement.  Since no one else was around, he allowed himself a yawn.  When he left the room he was momentarily disappointed to see that Kylo wasn’t at his desk - he had been hoping for the opportunity for a short conversation - but then realized that Kylo was possibly in the kitchen, where Hux could “coincidentally” run into him.Now he just had to choose his kitchen.  Kylo was most likely to be in the large kitchen upstairs, based on what Maz had said, but then so were other people, and Hux didn’t want to get trapped into making small talk for fifteen minutes with people he didn’t even know before he could get back to work.  Looking for Kylo was foolish, in fact.  He should walk past the small kitchen, and if it turned out to be occupied, could attempt to avoid small talk in the larger kitchen.The decision was made for him when he heard voices emanating from the kitchen as he walked nearer.
+ Upstairs it is, then. 
+Just as he turned towards the staircase his attention caught on the quiet conversation.  Wait -  Did he just hear his own name?He silently took a few steps closer but stood out of view.“I heard something interesting about that new auditor, Hux.”Definitely talking about him.  How could someone here have heard rumors about him already?  He had only been here for a few hours.“Really?  How?”  The second voice was a familiar baritone - the very man Hux had been looking for.“I know a guy.”“How do you  always  know a guy?”  His voice sounded petulant, much more casual than the gentle teasing Hux had been subjected to earlier.There was a pause, and Hux could only imagine that the owner of the first voice was shrugging.“Do you wanna hear what I heard or not?”“Fine.”“I know a guy another place he audited, and my friend?  Says he’s gay.”“What.”  The tone was hard to read on a single word, but he sounded surprised.  Maybe displeased.  Maybe even annoyed?  “Why would you even  tell me that Poe.  I swear to god, I have to work with this guy.”  Now, he definitely sounded annoyed.“I thought you would appreciate knowing.”  The first voice sounded smug.“You know I’m never going to be able to act normally around him again right?  You’ve just single-handedly ensured that.”“Or, you could act like an adult, interacting with another adult.  You know, like you do every day.”“You  know  me.  You know I won’t be able to put that out of my mind when I look at him.    Christ.  This is going to be a  disaster.  How do you expect me to work with him now?”Hux flushed hot, then cold.  This was -  Unexpected.Hux backed away from the kitchen slowly, trying not to alert them to his presence.  The only thing that could make this moment more unpleasant would be for one of them to walk out right now and see him eavesdropping in the hallway.Once he was a safe distance away, he walked towards the staircase to go to the large kitchen upstairs.The one without the apparently homophobic employees talking about him.  After acquiring coffee he returned to the auditor’s room.  Thankfully he did not run into anyone in the kitchen upstairs, so he managed to make it back before the others returned from lunch.This was a - peculiar problem.  Hux had come across homophobic assholes before, it was impossible not to, but this was a new and unsavory situation for him.  While he was not closeted he did not flaunt his preferences at work; he had never had his sexuality come up with a client before, and had intended to keep it that way.  He surely had not acted out of turn at any of his other clients’ offices, either.How had the other man’s friend known that about him?Most likely it was someone who had heard through the grapevine.  Having a five star general for a father had its advantages and disadvantages, one of them being that he had had to put an end to the endless parade of potential suitors - women, specifically - relatively early, and likely everyone had heard why.  Hux had prefered his social circle know him to be gay, rather than to have women constantly throwing themselves, or their daughters, into his path.  So now he had a client who, by his own estimation, would not be able to work with Hux knowing about his sexuality.  That would make for a very trying audit, surely.What was most baffling about the whole situation was that he truly thought they were flirting, earlier.  The bantering, the teasing - it hadn’t been so long that Hux couldn’t recognize interest when he saw it.  Perhaps Ren was one of those self-hating gays, so far into the closet that he didn’t know he was in there.  Or maybe he did know that he was in there, and resented others for it.Either way, this was going to make for a very unpleasant few weeks, but Hux could ensure that is passed by as quickly and smoothly as possible.
+ On second thought… 
+Ren was his go-for, the person tasked with acquiring any odds and ends Hux may decide he needed.  So if Ren thought it was going to be hard to work with Hux?  Hux could make sure of that.  
+
+
+
+Chapter End Notes
+I needed a last name for Finn, so I went with the fan theory that Finn is actually Finn Galfridian, prince of Artorias.This fic would never have happened without brawlite prodding me to do it so really this is all their fault.Also feel free to find me on tumblr
+
+
+Chapter 2
+Chapter Notes
+
+        See the end of the chapter for  notes
+
+
+
+
+After Hux’s unpleasant lunchtime discovery, the rest of the day passed in an unbearable crawl.  All Hux particularly wanted to do was go home and regroup - spend the next couple of hours compartmentalizing, planning, and putting his stung feelings behind him.  When 5 o’clock rolled around he suppressed a sigh of relief.As they were packing up, Mitaka suggested that they go out for drinks.  Their group typically went out to unwind after the beginning of an audit, but today Hux begged off.  He didn’t want to socialize with anyone at the moment, let alone with his employees, with whom he would much prefer to present as his normal, unflappable self.Phasma lingered as the others trailed out while talking about visiting some new bar in Georgetown, her eyes trained on Hux.  She closed the door behind them, then crossed her arms and leaned back against it, nonchalant.“Are you going to tell me what crawled up your ass and died?”  Her expression was mild, but Hux knew she wasn’t going to let him leave without an answer.Hux sighed and rubbed the bridge of his nose, a headache building behind his eyes.“It’s nothing important.”“Really,” she said flatly.“I… would prefer not to talk about it here, to be perfectly honest.”“Then let’s go somewhere else,” she said.Hux didn’t feel like discussing the situation, but he also knew that Phasma wouldn’t give up until she got what she wanted.“Fine.  The usual place?”  Their usual place was an upscale bar & restaurant a few blocks from his condo, ideal for when Hux intended to have more than one drink. It was fortunately close to Phasma’s residence as well.“Perfect.”  She glanced at her watch.  “Meet you there in 15?”Hux glanced around the room.  The room wasn’t immaculate - there were a few piles of paperwork around the room, and someone had left a coffee cup on the filing cabinet - but it was a good enough state to leave it in for tonight.“Fine, go oh ahead.  I’ll be right behind you.”“You better be.”As if Hux was suicidal enough to stand her up.  When Hux arrived he could immediately feel himself starting to unwind, as he always did upon walking into his favorite bar.  He waved off the hostess as he walked in, saying “I’m going up to the Crow’s Nest.”  Walking past the restaurant portion filled with diners, he made his way towards one of the two curving, wrought iron staircases that wrapped around the center of the room, dividing the lower level into three dining areas.  The bar itself was one of three in the large restaurant.  Perched on the docks overlooking the river, the whole establishment had a nautical theme, and the upstairs bar was christened “The Crow’s Nest,” as it looked out over the rest of the restaurant.  From the outside, the building appeared to be capped with a rotunda; on the inside, the Crow’s Nest had an octagonal bay of windows that flooded the room with light during the day.  The whole platform was decorated with black and white, and the nautical-theme was kept just on this side of tasteful.  Edison bulbs dangled from long wires in the middle of the room, giving everything a warm glow.He found Phasma perched on one of the large leather sofas that dominated the upstairs level.  Somehow, she always managed to snag one of the most desirable and comfortable seats - one of the many mysteries about her that Hux knew better than to question.  She also had two drinks, one in hand and one resting next to the empty seat adjacent to her.“You are a goddess,” Hux said as he took a grateful sip of his drink. His favorite.She smirked.  “I know.”Hux took a moment to look around the bar - not yet overly crowded, as it was still on the earlier side, but the space would quickly fill.  He made brief eye contact with an attractive man sitting at the bar but didn’t linger.Thankfully, he didn’t see any of the people he had just met at his new client’s office today, so he didn’t have to worry about sensitive ears overhearing any part of their conversation.“So.  You were fine before I left for lunch, but agitated when I got back.”Hux winced and took another sip of his drink.“Was I that obvious?”  He hated to think he was that transparent to others, and in fact specifically tried to avoid broadcasting his emotions.“No,” she said simply, “I doubt the others noticed, anyway.  The question still stands, Brendol, don’t make me ask again.”Hux summarized the conversation he overheard in the kitchen quickly and without embellishment while Phasma looked impassive.  When he finished she hummed consideringly. Hux hated it when she did that.“Are you sure you heard what you thought?  There could be another explanation.”“I am not one prone to flights of fancy, Phasma.  I know what I heard.”  Hux took a long sip of his drink, finishing his glass, and gestured politely to the waitress for another.  “And I can’t think of any other way to interpret that conversation.”Phasma smirked.  “Well… I can think of one way it may be  hard  for Ren to work with you,” she said, giving him a pointed look.Hux snorted, an undignified sound that meant he had consumed his first drink far too quickly.“You didn’t hear him Phasma, he sounded outraged.  Angry, even.  That’s not the way normal, decent people react when they find out a person they’re interested in may be available.”“Well, maybe Ren isn’t a normal person.”“Likely not.  Still, I don’t want him to cause me any trouble.  I also have... concerns,” he said slowly, “about the other man, Poe.  The fact that he was so eager to share the news he heard about me makes me concerned about office gossip.  I suppose it really doesn’t matter, in the end.  The audit will be over in a few weeks and if they give me any trouble I can simply decline to return next year.”Phasma raised her eyebrows.“Are you really giving up that easily?”“I’m not giving up - I simply derive no pleasure from putting myself in uncomfortable situations.  If my position - our position - becomes untenable then there’s no point in worrying about it.  We have plenty of other clients.”“I’m just suggesting that you don’t jump to any conclusions.  Ren seems a little intense, yes, but he didn’t strike me as hostile.  Or a bigot.”“Maybe he hides it well.”“Or maybe you walked into that conversation at the wrong moment and heard something that sounded-”“Phasma,” Hux interrupted, “I am not talking about this any longer.  And I will not cling to some flimsy notion that Ren is being hateful because he’s  attracted  to me when the most obvious answer is that he is, in fact, just a bigot.”Phasma looked like she wanted to say something else, but after a long moment she just sighed and shook her head.  “Fine, believe what you like.  I won’t argue.  Aside from… that, it seems like a pretty progressive  workplace.  They even have a yoga class during lunch on Fridays.”Hux frowned.“Yoga, really?  During working hours?”The waitress came back with his drink and their conversation meandered away from Hux’s concerns and towards the new information Phasma had gleaned on their first day.  One of the things Hux always admired about her was her ability to gather intel in any new environment.  He honestly didn’t know how she did it.  Phasma would come in at more or less the same time as him, spend the entire day doing work, and then would later somehow know everything about inter-office drama, gossip, and who was doing what.  And she managed it all while maintaining a cool, reserved manner. She never gave up her secret as to how she did it.Hux envied her, a little.Apparently marketing had an ongoing feud with logistics, the sales department was the most universally well-liked around the office, and the staff in purchasing were well-known for never getting back to people in a timely manner.“Has anyone caught your eye?” Hux asked finally, turning the conversation away from work and back into personal matters.  They had a (mildly unprofessional) tradition of pointing out to one another when there was an employee one of them found attractive.  It was, unfortunately, how she had known immediately that Ren was going to be a distraction for Hux.And if Phasma knew about Ren he wanted them to be on equal footing.Phasma had been the first employee that Hux had hired upon starting his own company.  They had crossed paths before, a few years prior, and he both respected her as a colleague and appreciated her company as a friend.  When he was hiring for First Order he offered her a salary that could not be refused, and she had been his right hand since the first day.  While Hux always preferred to maintain a strict business persona around his other employees, he held himself to a different standard around Phasma. She was closer to a friend than just an employee.“Hmm… there’s one, a graphic designer.  Beautiful, short, brown hair.  Looks a bit like a pixie.”  A small smile tugged at he lips as she spoke, and Hux was reminded of how stunning Phasma really was. It was a pity they both had the wrong proclivities - they would make an excellent power couple.“Are you going to pursue anything?”  As a friend he wanted her to say yes.  As an employer he wanted her to say no - and as a selfish bastard, he also wanted her to say no because he didn’t think he could handle several long weeks of dealing with Ren while Phasma canoodled with some pretty graphic designer.“No.  As far as I can tell she appears to be dating the A/R specialist.”Hux frowned, trying to picture who she was talking about.  A fuzzy image of a dark-skinned man with a warm smile and a ‘US Army’ coffee mug came to mind.“The army vet?”“That’s the one.”  “Pity.”Phasma made a noise of agreement and leaned back to glance over the crowd.  “You know, that blond at the bar, your 10 o’clock, has been looking at you for the last half an hour.”Hux glanced to his left and sure enough, there was the good looking man from earlier, eyeing him from the bar.  Having captured Hux’s attention the man raised a glass in his direction with a small smile.  Finely combed hair, neatly trimmed beard, expensive watch.  Air of authority and wealth around him.  He looked like a patent lawyer.Boring.He shrugged and turned back to Phasma, who raised an eyebrow.“You could blow off some steam.  Get Ren off your mind.”“Ren is not  on  my mind.”Phasma gave him an unimpressed look.“Not like that.  Bigot, remember?  It doesn’t matter how attractive someone is if they hate you.  And he,” Hux inclined his head towards the man at the bar, “looks incredibly boring.  His suit is expensive but uninteresting, finely-cut without being overly flattering.  He looks like a man who expects his partners to fawn over him for the pleasure of pleasuring him.  In short: boring.”Phasma laughed.  “But Ren does it for you.”  It was a statement, not a question.  “Has anyone told you that you have terrible taste in men?”Hux barked out a laugh, far louder than was appropriate and far more telling than he would like.“I,” he said decisively, “need another drink.”  **  The following day dawned calm and clear.  Hux rose with the sun and allowed himself a leisurely morning - he made himself coffee and sat at his kitchen island reading the news on his iPad, slowly sipping his drink.  Millicent lay purring on the marble countertop a few feet away in a pool of sunlight.Hux loved his condo.  It was the perfect combination of modern luxury in the middle of an old city rich with history and culture. The unit he purchased was large - too large for him alone, truly - but the condo had both a terrace and a view of the river, amenities that the smaller units lacked.  The building was stepped with each higher floor smaller than the next, giving the building the appearance of a staircase, and each step provided a large terrace for the adjacent unit.  The smaller units were just as lavish, but only had balconies.  Hux’s had an expansive terrace with an indoor/outdoor fireplace and a separate balcony off the library.He allowed himself to indulge in a bit of luxury, from time to time.Hux had not stayed out late with Phasma the night before.  They had a few drinks before he left, and he had been tipsy enough to be in a pleasant mood but not drunk enough for a hangover.  He picked up Thai takeout on his way home, ate, then slept like the dead for hours, waking with the dawn.  The furious helplessness he felt at being the subject of hateful gossip the night before had dissipated and left him with a quiet resolve.  Hux was the one in control.  He had the power, and Ren was going to be at his mercy for however long the audit took.On that very pleasant note he left for work, pulling into their parking garage a few minutes after eight.  The rest of his employees trickled in before 9:00, starting with Phasma and ending with Thannison and Mitaka, both looking a little rough around the edges.Clearly they indulged more than they would when their boss was out with them.At 9:30 Hux left the auditor’s room and walked over towards Ren’s desk.  The man in question was slumped over, squinted eyes blearily looking at the keyboard, cup of coffee clenched in his hand.  He didn’t seem to notice Hux’s approach - he was busy typing one-handed into what appeared to be a chat box of some kind.  Hux waited until he was finished and had rested his forehead on the desk.“Kylo,” he said sharply.  Ren jerked as though Hux had jabbed him with a cattle prod, upending his coffee all over his desk.  He hastily jumped up and tried to grab paperwork in danger of getting stained, then stood there for a few seconds looking at the mess as though he were incapable of problem-solving this early in the morning.  He probably was.After several long, drawn out moments, Ren seemed to come back to himself and realize that Hux was standing behind him, waiting for a response.  He turned to face Hux with a slow blink and a slightly bewildered expression on his face.Ren had seemed coherent yesterday morning, so Hux couldn’t tell if yesterday was an anomaly, or if he was currently sleep deprived or hung over.  Either way, he was clearly not firing on all cylinders.In the background, his computer chimed softly a few times.  Hux could see that whoever was in the chat box was responding to Ren’s comment, but unfortunately he was at the wrong angle to read it.“Wha…?”  Kylo cleared his throat.  “Sorry, uh, did you need something?”“Yes,” Hux said crisply.  “I need to look at some of the long-term contracts the company has signed.  Not all of them, obviously, but I would like to to review this randomly generated selection to make sure that the billing is correct.”  He held up a piece of paper containing his list of ten contracts.Ren frowned.“Oh.  We don’t actually keep a lot of the contracts, like… here.  They’re all in the departments.  That they’re from.  For.  You know.”Hux did know.  Maz had explained the day before that many of the older long-term contracts were kept in the departments that they pertained to, and that the Finance department usually only kept copies of the recent and short-term contracts.  So naturally Hux made up a list of contracts that would obviously be kept in different departments and would be a royal pain to track down.“Yes, well.  I trust that you will be able to get me copies by this afternoon.”  Hux did not phrase it as a question.Ren finally reached out and took the paper from Hux’s outstretched hand.  His brow furrowed as he looked over the list, finally realizing that the task would likely take him much of the day.The silence stretched out, broken only by the gentle  pat pat pat  of the coffee dripping off of Ren’s desk and onto the carpet.“Right.  Yeah.  That’s… fine.”  Ren looked up at Hux through his ridiculous bangs.  “Before the end of the day?”“Preferably.”“Ok, right, I’ll just start on this then.”“Thank you, your assistance is much appreciated.”  Hux nodded once, then turned on his heel and made his way back to the auditor’s room.  **   
+Poe Dameron (9:05 AM): Hey buddy how’s the hangover?
+Rey Skywalker (9:11 AM): does anyone actually know if Kylo made it into work today?  Finn?
+Finn Galfridian (9:11 AM): I think he did
+Finn Galfridian (9:11 AM): there was a Kylo shaped lump at his desk earlier
+Finn Galfridian (9:12 AM): I may have heard moaning
+Kylo Ren (9:22 AM): i hatet evetrything
+Kylo Ren (9:22 AM): how diduj even kno i wa dribking last night
+Poe Dameron (9:24 AM): Are you still drunk?
+Poe Dameron (9:24 AM): Also, you drunk-dialled me.
+Kylo Ren (9:25 AM): nooo biut i havre my coffe in 1 hand n i ciuldnt be bothere4d i fubken love coffee it doesnt hurt me like wgiskeyh does
+Kylo Ren (9:26 AM): whyy did i tihink thatj was a good idea tho
+Rey Skywalker (9:27 AM): don’t try and pretend to be cool Kylo we all know you drink bagged wine
+Kylo Ren (9:27 AM): whtaever att least coffee lovres me
+Finn Galfridian (9:28 AM): so I hear you spent like 20 mins on the phone crying abt how perfect the new auditor’s hair is
+Kylo Ren (9:30 AM): likke have u really looked at itt tho its spo perfect nn shiny likr i bet its super soft nnn i wanna touch it
+Poe Dameron (9:30 AM): Yes so I heard.  At length, repeatedly.  There was also something about his dreamy eyes and commanding an army?
+Poe Dameron (9:31 AM): He doesn’t seem like a military guy to me, but then again you were pretty hard to understand by the end there.
+Rey Skywalker (9:32 AM): Kylo doesn’t know how to drink in moderation
+Rey Skywalker (9:32 AM): Kylo, please do us all a favor and don’t ask him if the carpet matches the drapes
+Finn Galfridian (9:33 AM): UGGG don’t give him any ideas why would you even mention that
+Rey Skywalker (9:33 AM): please I’m sure it’s been on his mind since yesterday
+Rey Skywalker (9:33 AM): I don’t want his hangover-brain to suddenly think it’s a good idea
+Poe Dameron (9:35 AM): I haven’t even had the chance to meet this guy yet.
+Poe Dameron (9:35 AM): Is he even half as attractive as Kylo says he is?
+Finn Galfridian (9:36 AM): he’s fine
+Finn Galfridian (9:36 AM): tall, kinda twinky
+Finn Galfridian (9:36 AM): looks like he’s probably stuck up
+Rey Skywalker (9:37 AM): did Kylo die?
+Finn Galfridian (9:37 AM): no I just saw him he was looking for paper towels
+Rey Skywalker (9:37 AM): lol
+Kylo Ren (9:40 AM): i spilled my coffee :(((((((((((((((
+Kylo Ren (9:41 AM): also hux wants me 2 go track down all these contracts…..
+Kylo Ren (9:41 AM): finn do you wanna do it for me????
+Finn Galfridian (9:43 AM): hell no, do it yourself
+Kylo Ren (9:43 AM): but everyone likes you itll take you way less time than itll take me
+Finn Galfridian (9:43 AM): that sucks for you
+Finn Galfridian (9:43 AM): better get started then
+  **  Hux had been basking in the the occasional scoff of annoyance and frustration resonating from the main area, i.e. Ren’s cubicle, all day.  Half the time Hux left the office Ren was away from his desk, and the other half he was glaring at his computer or on the phone.Finally, at quarter after four he made his way back over to Ren’s desk.“I’m still working on the contracts,” Kylo said with a scowl.  “I have six of them, but Andy in Purchasing isn’t answering my calls or emails and he’s never at his desk.”Purchasing held three of the ten contracts Hux had selected.“And the fourth?”  Hux asked with a sneer.“Working on it.”  Ren looked up at Hux, seeming to just notice that he was displeased.  Ren frowned.  “Katie said she would get the contract to me tomorrow morning.  I didn’t think that would be a problem.”“Very well.”  Hux held his hand out expectantly and was met with a blank stare.  “The contracts?”“Oh.”  Ren spun around and shuffled through one of the piles of paperwork until he unearthed a short and messy stack of papers.  “Here.”“I’ll come by tomorrow morning for the others.”  Hux kept up with annoying Ren all week.  If he had a real question he went to Maz or one of the other accountants; if he had a need for something tedious or time-consuming he went to Ren. It was petty, but it was far too rewarding to pass up. To be fair, Ren had been assigned to his team for that very reason and he would have gone to the man for such requests anyway.  His distaste for Ren just made it that much sweeter.And, to be perfectly honest, when he felt like Ren had been idle for too long Hux would ask for something he didn’t even need.Hux ran into Ren in the kitchen on Wednesday and the man stumbled through a supremely clumsy attempt at small talk.  It was obvious to Hux that his presence made Ren uncomfortable, and Ren’s attempt to act like it didn’t was piss-poor.  The whole situation was profoundly irritating.  Ren asked him if he  dyed his hair  or if it was natural, like that was a normal version of small talk on whatever planet he was from.The question wasn’t necessarily offensive, just… odd.  Ren also spoke in a strangely intense tone, like he was restraining himself from asking a different question, and Hux had to wonder if there was some reference he wasn’t understanding.Hux retaliated by asking for invoices from the last year and a half, rather than just the last fiscal year.  He knew that the previous year’s files had already been boxed and sent to storage, which meant that Ren spent the rest of his day down in one of the dusty storage rooms moving boxes and, presumably, cursing Hux’s existence.Hux later overheard Ren complaining to the A/R specialist that he hadn’t labeled any of his own boxes properly when he packed them, assuming that he would never need to go through them again, so the process of tracking down the correct paperwork was taking him far, far longer than it should have.  The A/R specialist just laughed and said “you did this to yourself man, next time do it right and this won’t happen again.”He had such a delightful lack of sympathy for Kylo Ren that Hux actually bothered to learn his name: Finn.By the time Friday rolled around, Ren looked ready to strangle Hux whenever he came to ask for something.  Perhaps baiting the man was not the smartest plan that Hux had ever had, but… he was having so much  fun .  **   
+Kylo Ren (11:13 AM): omfg hot auditor is mean
+Finn Galfridian (11:15 AM): I’ve been dealing with him all week and he’s been polite to me
+Kylo Ren (11:15 AM): i kno i think he hates me personally idk why
+Rey Skywalker (11:16 AM): did you make it weird?
+Kylo Ren (11:16 AM): no?????? i swear i didn’t
+Finn Galfridian (11:16 AM): you do have a habit of staring when he goes by man
+Finn Galfridian (11:16 AM): he might think it’s weird
+Kylo Ren (11:17 AM): hes been running me ragged this week and not in the good way :((((((
+Kylo Ren (11:17 AM): urhhdsfjhsldfkn like he keeps asking me for random sht and then when i give it to him he says he doesnt need it anymore
+Finn Galfridian (11:19 AM): he doesn’t do that to me
+Kylo Ren (11:19 AM): I KNOW
+Kylo Ren (11:19 AM): i wanna punch him in the face
+Kylo Ren (11:19 AM): with my face
+Kylo Ren (11:19 AM): repeatedly
+Finn Galfridian (11:21 AM): omg dude
+Finn Galfridian (11:21 AM): him being mean to you isn’t a turn-off?
+Kylo Ren (11:23 AM): fuxk no
+Kylo Ren (11:25 AM): its cool i have a secret weapon
+Rey Skywalker (11:26 AM): do I even want to know what it is?
+Kylo Ren (11:26 AM): my rockin bod
+  **  
+ Ren does yoga. 
+Hux repeated that thought to himself, stupidly, for far too long.  Hux’s normal thought process had been reduced to static.  Ren was standing in the middle of the office, only semi-near his desk, in some of the least work-appropriate attire Hux had ever seen, even for a casual Friday.  He was wearing tight black yoga pants that left  very little  to the imagination and an absurdly tight t-shirt that practically allowed Hux to count his abs through the thin fabric.   I think he has an eight-pack Hux thought, a little hysterically.Hux could tell on that first day, even through his ill-fitting work clothes, that Ren had a very nice body.  That was one of the first things he noticed about the man, and was what led him down this path in the first place.  But this?  This was too much.This could only be the product of Friday’s lunchtime yoga class.Ren had his hair pulled back in a small ponytail leaving his neck tantalizingly bare.  His skin was flushed an endearing pink with a light sheen of sweat, making it far too easy for Hux to imagine what he would look like after  other activities.  His t-shirt had very short sleeves, which put his wide shoulders and sculpted biceps on display, and it was all-too-easy for Hux to follow the line of his arms down to his thick forearms and strong hands.  Huge hands, if he was being honest.Hux tried not to let his eyes linger for too long on the man’s incredible chest and abs, but honestly nowhere was safe to look - his thighs were thick and muscular, hell, even his calves looked well-formed.  Hux refused to even think about the size of his package.  It was… the man had to be stuffing.  Had to be.  The pants were just indecent and left  fucking nothing  to the imagination.Hux was torn between two warring thoughts:  how do I arrange my schedule so that I never see this again  and  I bet Phasma knows exactly when and where I could see the yoga class in action. It wasn’t as though Hux had never seen fit men before - his country club had plenty of men with carefully sculpted bodies, the result of hours at the gym with exclusive personal trainers.  But aside from genetic variation all of their bodies looked more or less the same (much like their shockingly similar haircuts, designer clothes, over-priced watches, and boring cars).  Their muscle added up to a carefully maintained facade of strength, like an immaculately manicured lawn in front of an empty house.Ren, on the other hand, looked like a man whose muscles were the result of some sort of repeated and strenuous physical activity - certainly something more taxing than yoga.  If Hux didn’t know better, he would have guessed Ren had a job performing manual labor rather than sitting behind a desk all day.  The man just looked… strong.  Incredibly strong.  Pick-me-up-and-toss-me-over-your-shoulder strong.  Pin-me-to-the-wall-and-fuck-me-‘till-I-scream strong.Ugh.He finally trailed his eyes back up to Ren’s (stupid, endearing) face, where Ren’s dark eyes were boring into Hux.
+ Holy hell how long have I been staring? 
+Hux had no idea.Hux could feel the red flush spread up his own neck and face so fast he was nearly dizzy with it.  He had never been quite so unprofessional at work, never quite so taken off-guard.“Can I help you with something?” Ren said, a smirk tugging at the corner of his lips.“I-” Hux croaked.   Just kill me now, actually.  He cleared his throat and tried again.  “I just wanted to check on your progress with those invoices I asked you for.”For a homophobe, Ren really didn’t seem to mind that Hux was staring.  In fact, Ren seemed to be preening under the attention.  His smirk stretched into a full-blown grin that was far more charming than he deserved.  He turned around and walked over to his desk, giving Hux an unobstructed view of his muscular back and firm ass.“Here.”  Ren handed him the stack of papers, infuriating smile still slashed across his face.  “There’s a yoga class every Friday,” he said, answering the unasked question hanging between them.  He leaned back against his desk and crossed his arms over his chest, putting his entire body on display.“Ah,” Hux said intelligently.  He didn’t think it would help for him to admit he already knew about the class.  “You did seem a little bit… informally dressed.”“There’s a locker room on the sixth floor, you caught me before I had a chance to go up and change.”Hux nodded, words caught in his throat.  What should he even say to that?“I wouldn’t have guessed…” he trailed off, then decided to change directions, “you don’t really seem like the type, for yoga.”“I had a therapist recommend it for anger management, years ago, but I stuck with it for the flexibility training.  My real sport is German longsword.”Oh yeah, that’s just the mental image Hux needed right now - Ren’s hands wrapped around the hilt of a sword.  It did explain his body, though.“I could show you sometime, if you’d like,” Ren said, leveling Hux with another of his intense looks.Hux’s let out a strangled laugh.“The yoga or the swordfighting?”“Either.  Both.”
+ Jesus. Christ. 
+“There’s always room for more people in the class, if you’d like to join next Friday.  All you need to do is bring clothes you can move in,” Ren said, trailing his eyes over Hux’s tight button-down.“Thanks for the offer, I’ll… keep that in mind.”   Abort, abort.  “I better get back,” he said, gesturing to the auditor’s room, “and I’d better let you go change.”Hux fled before Ren had the chance to answer.  **  Hux could admit to himself, in the privacy of his own home, that he maybe, possibly, jumped to conclusions, earlier in the week, with his assumption that Ren was homophobic.  There was a chance that he miscalculated.  Possibly.  Because Ren had definitely been flirting with him today.   
+ I could show you sometime, if you’d like.   
+
+ Either. Both. 
+Those were not the words of one straight man to another.  Not with the way Ren had been looking at him. Even less so, given that Ren already knew that Hux was gay.Hux had aggressively avoided him for the rest of the day, and had decent success at that - he only saw Ren in passing a few times and didn’t allow the man to draw him into another conversation.  In an attempt to leave without embarrassing himself further he had even taken off a few minutes early, at a time when Ren was away from his desk.Hux managed to get home without incident.  Walking through his front door was heavenly - he had no plans this weekend, no obligations, so he could have some peace and quiet to relax and think over everything that had happened this week.  He poured himself a glass of scotch as Millicent wove around his ankles, and then sank gratefully into his caramel-colored leather sofa.  After a few moments he turned on the news for background noise - far less pathetic than sitting in silence.And so he sat, sipping a glass of scotch, contemplating the fact that he, Brendol Hux VII, had (maybe) made a significant tactical error.  While such errors were not completely unheard of, he prided himself on being level-headed and rational.  With the addition of the evidence he had collected today he could concede the possibility that Phasma was right - that he  had  walked into that conversation at the wrong moment, and perhaps left too soon to have a full understanding of what was being said.If Ren had meant that it would be hard to work with Hux because he was attracted to him - well, Hux could definitely attest to the distraction Ren provided for  him .  Perhaps that feeling went both ways.A rainbow flag on the TV caught his attention and he laughed out loud when he saw the headline: “Combating Homophobia in the Workplace.”Well that was topical.The camera panned over Senator Organa, who was apparently spearheading a LGBT protections bill that would protect employees from being fired for their sexual orientation or gender identity.  Currently only certain state laws provided such protections - her goal was to implement similar protections on a federal level.Hux allowed the news segment to distract him for a few minutes.  Living in a state without any such protections meant that this law, if passed, would impact him, though perhaps less than most as he was his own boss.Still.After the segment finished and moved onto something far less interesting, Hux turned off the TV and finished his glass of scotch.  Monday.  On Monday he would go in and talk to Ren with a clean slate, try to get a read on him without any assumptions.Maybe things would work out after all.
+
+
+
+Chapter End Notes
+I procrastinate writing by researching unnecessary details and using them to justify myself, so if you're curious about visuals, Hux's bar and apartment are real places and you can see them here.
+
+
+Chapter 3
+
+
+
+Monday morning found Hux standing in his walk-in closet surveying his wardrobe options.  He wanted to get an objective view of Ren’s behavior, but he also knew he had to play his hand conscientiously.  His suits stretched out in shades of primarily black and grey; his button-down shirts only offered a small variation in color, mostly found in tasteful pastels or subtle pinstripes.  Hux tended towards monochrome in his wardrobe, with a small pop of color only in his tie, but today - today called for something a bit more vibrant.Today, Hux was peacocking.Hux picked up and discarded a growing pile of shirts - too subtle, too pale, too dark, not subtle enough - did Phasma buy him that? Hux had no memory of purchasing an intensely saturated, royal purple shirt, but he could tell with a glance that it had been tailored to fit his body.  Tall and slender, he always had to get shirts tailored, lest they be so short they perpetually came untucked, or so voluminous that he felt like a child in his father’s clothes.Finally, Hux settled on a butter-yellow shirt with vertical stripes in two slightly different shades of yellow.  The understated pattern gave the shirt a subtle dimension that his solid shirts lacked.  From there, choosing the rest of the outfit was easy - he added an unpatterned tie in a deep blush pink, and topped it with a clean-cut navy suit.  Navy paired well with both pink and yellow, and the two together reminded himself a bit of his prep-school days.The outfit served two functions: first, the colors highlighted his complexion while also being warm and inviting, far more so than his typically austere apparel; and second, while plenty of straight men wore pink, since Ren already knew of Hux’s orientation the pink tie would serve as a pointed reminder of that fact.Together the ensemble was more flamboyant than what Hux would normally wear to work, and so he donned his suit like armor, deftly tying a windsor knot at the base of his throat.Hux’s outfit would provoke some kind of reaction from Ren, one way or the other.  **   
+Rey Skywalker (9:12 AM): hey how’s it going?
+Rey Skywalker (9:12 AM): any better than yesterday?
+Kylo Ren (9:13 AM): i had 2 turn my phone off
+Kylo Ren (9:13 AM): and ive gotten like 200 emails from ppl trying to interview me
+Kylo Ren (9:13 AM): ITS SO FUXKING ANNOYING
+Kylo Ren (9:13 AM): sum of them already kno i dont do interviews so they put their stupid fuxking questions in the emails
+Rey Skywalker (9:14 AM): =/
+Kylo Ren (9:15 AM): Ben, do you believe that the introduction of your mother’s new bill is an attempt to repair your notoriously tempestuous relationship?
+Rey Skywalker (9:15 AM): that’s hilarious seeing as it was actually guaranteed to piss you off
+Kylo Ren (9:16 AM): To what extent does your sexual orientation impact your mother’s political policies?
+Kylo Ren (9:16 AM): Did your mother introduce this bill at your request?  Are you concerned with your employability?
+Rey Skywalker (9:17 AM): obnoxious
+Kylo Ren (9:17 AM): shes been an advocate since BEFORE I WAS BORN
+Rey Skywalker (9:17 AM): it’s like they all somehow forgot that she has a gay twin brother
+Kylo Ren (9:18 AM): Did you change your name to Kylo Ren in an attempt to distance yourself from your mother’s political empire?  How does Senator Organa feel about your name change?  Would you ever consider changing back to Benjamin Organa Solo?
+Rey Skywalker (9:18 AM): I’m still impressed that somehow the real story stayed out of the news
+Kylo Ren (9:19 AM): the next few months r gonna b awful :(
+Rey Skywalker (9:19 AM): it’s not gonna be like this until the bill gets voted on
+Rey Skywalker (9:19 AM): someone will do something stupid later this week and the reporters will get distracted
+Kylo Ren (9:19 AM): :((((((
+Rey Skywalker (9:20 AM): also, it’s worse for you since you don’t ever do interviews
+Rey Skywalker (9:20 AM): I don’t get nearly as many requests as you do obviously but I actually answer questions from time to time
+Rey Skywalker (9:20 AM): so I’m not some ~mysterious~ figure that’s dropped off the face of the earth
+Kylo Ren (9:21 AM): ya but ur dad isnt as famous as my mom
+Rey Skywalker (9:21 AM): no, but he’s still pretty well known as that openly gay retired three star Air Force general
+Kylo Ren (9:21 AM): :(((((((((((((((((((((((((((((((
+Rey Skywalker (9:24 AM): let’s do lunch today
+Kylo Ren (9:24 AM): i dont wanna go out and get mobbed by reporters
+Rey Skywalker (9:24 AM): lol you’re so dramatic
+Rey Skywalker (9:24 AM): you’re not a celebrity and you won’t have paparazzi following you around
+Rey Skywalker (9:24 AM): but whatever I’ll order a pizza and we’ll hole up in the small kitchen talking sht
+Kylo Ren (9:25 AM): fine
+Kylo Ren (9:25 AM): no boyfriends
+Rey Skywalker (9:25 AM): sure whatever
+Rey Skywalker (9:25 AM): but hey at least you have eye candy to cheer yourself up =D
+Rey Skywalker (9:25 AM): I saw him when I was coming in, he looks particularly nice today
+Kylo Ren (9:25 AM): :/
+Kylo Ren (9:25 AM): idk i normally find it hot when hes mean to me but idk if i can deal w/ his sht rite now
+Kylo Ren (9:28 AM): OMFG I JUST GOT A FUXKING CALL FROM A REPORTER AT WORKKKKKKK WTF
+Rey Skywalker (9:28 AM): ugh you might wanna talk to Maz, let her know what’s going on =/
+Kylo Ren (9:28 AM): asjbfdakjsdfb
+  **  When Hux arrived at the office, Ren’s - Kylo’s - desk sat empty.  Unsurprising, as Hux had arrived before him every day, and it left plenty of time to get started on some work before approaching the other man.Shortly after nine Hux ducked his head out to see if Ren was in and found the other man furiously typing at his computer, looking mulish.  Having the intention of approaching Ren in a friendly manner, it seemed like a more prudent course of action to wait until he had a free moment, and so Hux carried on to Maz’s office and made small-talk for a few minutes as though that had been his intention the whole time.When he crossed back across the office Ren was on the phone, speaking rapidly but in a low register that didn’t carry, so Hux couldn’t make out any of what he was saying.  Hux would just have to catch up with him later, then.Phasma had been shooting him looks all morning.  He had not told her of his deliberations on Friday, or that he had been considering that she  might  have been right about Ren - he wanted to wait until he was sure, before being leveled with her wordless yet belittling ‘I told you so’ - but she had obviously noticed his uncharacteristic dress this morning.  Likely she had seen Ren in his yoga outfit on Friday and had already put two and two together.Finally, Hux came across paperwork that he actually needed: a simple enough job of pulling a few invoices.  Perfect.Hux made his way over to Ren’s desk.  When Ren noticed his approach the man sighed and said, “what do you want this time?”Okay.  Ren had always at least been polite enough to pass as professional, in the past, even when Hux had been deliberately needling him.“Good morning to you too.  I was hoping you could get these invoices for me.”  Hux handed his list over to Ren, who took it without looking at Hux.  “How was your weekend?”“Fine,” he said shortly, and finally glanced at Hux.  “I’ll get these over to you in a minute, you can go back to your room.”Hux paused, blinked.  “Ok.  Well.  You know where I’ll be.”Hux walked back to the auditor’s room and made a mental check. 
+      Is Ren a Bigot? 
+
+           Likely No (  ) 
+
+           Possibly Yes ( x ) 
+  Aside from Ren dropping by the auditor’s room with the invoices that Hux had requested, he hadn’t seen the man all day, but he refused to push the issue.  Hux was going to objectively analyze the data as it became available, and pressing would most likely provide bad intel.At lunchtime Hux made his way over to the kitchen where he had leftover Indian in the refrigerator.  While he had considered going out to lunch with Phasma, he thought that he should likely remain on-site for the duration of his little “experiment,” lest he miss out on an opportunity to gather information.  And considering the basis of his original impression came out of a conversation overheard in the kitchen, it seemed prudent to go there during lunch.As he approached the kitchen he knew his instinct had been a good one - he could already hear Ren’s voice emanating down the hallway. Refusing to have a repeat of last Monday’s assumptions, this time he marched purposefully into the kitchen and nodded at Ren and a pretty brunette who was sitting at the small table with him.  Knowing Phasma’s tastes, this was likely her pixie/graphic designer.  Interesting.A box of pizza sat on the table between them and the small TV Hux that hadn’t noticed before, crammed far into a corner of the room, was turned to a news channel.  Hux glanced at the screen while programming the microwave and saw a clip of the now-familiar Senator Organa.  Well, given the current news, this should be enlightening.  Hux leaned back against the counter while the girl chattered on about some new restaurant she went to over the weekend.  Ren was clearly paying half-attention to what she said, the rest of his concentration trained on the small television.  The microwave chimed and Hux took out his food, debating what he wanted to do now.  He couldn’t stay in the kitchen - that would have been awkward in any situation - but also there were only two chairs and there was no additional space at the tiny table.Hux stirred his saag, ostensibly checking that it was warmed all the way through, and considered his options.  He could comment on the broadcast, but he would have to interrupt the girl to do it.  Just as he was turning away, resigned to the fact that he wouldn’t be able to answer his question right now, Ren made a noise of disgust.“If I have to hear one more goddamn word about  Senator Organa’s gay son ,” he spat venomously, “I’m going to scream.”Well - that was direct.  Hux was glad that neither of them were looking at him and wouldn’t notice the expression on his face.“There, there,” the girl deadpanned, patting him on the shoulder.  She seemed wholly unsurprised and unconcerned by his outburst, like she had heard him react violently to the mere  mention  of the  existence  of gay people plenty of times.  “You don’t actually have to watch this, you know.  If it’s making you angry.”Hux wasn’t even trying to pretend that he wasn’t eavesdropping anymore.  They weren’t paying him any attention, anyway.Ren groaned.  “It’s like a train wreck, I can’t stop.  It just keeps getting worse and worse.”“You’re such a drama queen,” the girl said, rolling her eyes, “it’s a law, not an asteroid speeding towards the earth.”Ren grunted, covered his face with his hands and slumped back in his chair, like he was too overcome to watch any more.  Hux took the opportunity to slip quietly from the room while the girl was hunting for the television remote. 
+      Is Ren a Bigot? 
+
+           Possibly No (  ) 
+
+           Almost Definitely Yes ( x x x x x ) 
+  **  Ren was typing in one of those damned chat boxes again.  Did he ever do any work?  Hux stood directly behind him yet the man didn’t seem to have heard him walk up, and continued to be completely oblivious to his surroundings.  This time Hux could see snatches of the conversation which was moving along rapidly, and names - Poe Dameron, Finn Galfridian, and Rey Skywalker.  The gossip, the A/R specialist, and, most likely, the pixie.  They appeared to be discussing Senator Organa’s new bill, and from what he could gather the other three were arguing in favor of it and Ren was arguing against it.Enough.“Ren.”  The man startled and turned around guiltily, minimizing the chat box to the bottom of his screen.“Yeah?”“Do you know who created this cash sheet?”  Hux handed over the paper in question.Ren looked at the paperwork for a long minute, glanced back at Hux, and then looked down at the paper.  He looked reluctant to answer.“...I did.”“And do you see why I brought it over to you?”Another pause.“...no?”“There’s a discrepancy.”Ren frowned and looked back at the paper.  After a few moments he rubbed the back of his neck and said, “yeah, I see it.  Usually when there’s a discrepancy that small I do a quick cost/benefit of the amount of time it would take to find the answer versus the amount of money in question.  This is off by about three dollars, so it’s not really worth the time to track down why.”“While that may be fine by your standards, for the purposes of this audit I would have to disagree.  I need a corrected version of this cash sheet.”Ren stared at him, mouth agape.“There are over a hundred credit card charges represented by this cash sheet.”“Yes.”“It’ll take forever to track down a  three dollar  discrepancy.”“I’m sorry,” Hux said, “are you saying that you’re unwilling to do your job properly?”“I’m  saying -- ” Ren cut himself off, jaw clenching.  “Fine,” he bit out, “if you really need to find these three fucking dollars I’ll look for them ok?  But it’s gonna take a while.  I’ll let you know when I’m done.”  **    
+Kylo Ren (3:46 PM): oh my fuxking god i have spent like 2 goddmn days looking for three dollars that are off on a cash sheet i cant take it anymore
+Kylo Ren (3:46 PM): noone cares
+Kylo Ren (3:46 PM): NOONE CARES ABOUT 3 $$$ I SWEAR TO FUXKING GOD
+Finn Galfridian (3:47 PM): you still haven’t found it yet?
+Kylo Ren (3:47 PM): NO
+Kylo Ren (3:47 PM): i want to commit violence on that man
+Finn Galfridian (3:47 PM): honeymoon period wear off so soon?
+Kylo Ren (3:48 PM): no now its all about the hate sxx
+Kylo Ren (3:48 PM): i bet he bruises like a peach
+Finn Galfridian (3:49 PM): gross dude I don’t wanna hear about it
+Kylo Ren (3:50 PM): i wanna choke him
+Kylo Ren (3:50 PM): ;(
+Finn Galfridian (3:51 PM): is that a… winky frown?
+Kylo Ren (3:51 PM): well theres no eggplant emoji on this thing so the wink is for the choking
+Kylo Ren (3:51 PM): sxxy choking
+Kylo Ren (3:51 PM): with my giant bratwurst
+Finn Galfridian (3:52 PM): ENOUGH DUDE
+Kylo Ren (3:52 PM): the frown is for the HORROR AND UNHAPPINESS I AM FEELING RITE NOW
+Finn Galfridian (3:53 PM): no more talk of choking dude I don’t wanna think about you playing hide the sausage
+Finn Galfridian (3:53 PM): keep that shit TO YOURSELF OMG
+  **  “Here.”A piece of paper was slammed down on the desk in front of Hux.  Hux ignored the hand for a few pointed seconds, then glanced up after he finished the note he was working on and laid eyes on Ren, who looked remarkably like a bull about to charge.“Your corrected cash sheet.  Three dollars and all.”Hux had sent his staff home about twenty minutes before, and was finishing up his own work for the day, so the two of them were alone in the room.  He was surprised it had taken Ren this long - he had expected to see him earlier, not for the relatively simple task to take two full days.  Perhaps Ren had been shirking his duties and spending most of his time railing against the injustices of his LGBT coworkers having equal rights.Hux was not overly thrilled to be alone in a room with the man.“Thank you.”  Hux tugged lightly on the paper, where it was still trapped under Ren’s enormous hand.  After a moment Ren took his hand off and stood up straight, eyes still a little wild.Hux thought about handing over the other cash sheet discrepancy that he had found but thought better of it.  He should wait until there were other people around, in case Ren acted out of turn - after all, Ren had mentioned that he used to see a therapist for anger management.  While he may have solved his problem with  yoga  he more likely had not, and so Hux would rather have witnesses while he (perhaps foolishly) baited the man.After waiting for a few seconds and receiving no further response Ren turned and left the office in a huff.  Thursday morning saw Hux at Ren’s desk again, this time with his second incorrect cash sheet in hand.  Ren held out his hand wordlessly.“Ten cents.”  Ren looked up at Hux, disbelieving.  “This is off by ten cents.”“I expect to get this one back in a timely fashion,” Hux responded, not bothering to answer Ren’s unasked question.  Hux met Ren’s incredulous look placidly until the moment grew uncomfortably long, more akin to a staring contest.  Finally, Ren grunted and spun around in his chair, ignoring Hux completely.  On Friday Hux asked Phasma to stay behind at lunchtime as casually as possible, which meant that his other employees didn’t bat an eye and Phasma, of course, looked at him suspiciously.  Hux wanted to know the location of the lunchtime yoga class.Having considered his options, Hux decided to embrace his physical attraction to the other man, primarily because doing so would likely disturb or disgust the bigot.  And now Hux wanted to spend his lunch hour objectifying Ren’s beautiful body.  Why should he care if Ren was rotten on the inside, so long as he was beautifully sculpted on the outside?And so he stood with Phasma in the lunchroom overlooking the courtyard - apparently where the class was held.  They couldn’t quite get a good angle to watch the class from the auditor’s room so they trekked down the hallway and monopolized the tiny kitchen with the perfect floor-to-ceiling windows to overlook the class below.It was everything Hux could have wanted and more.  Ren didn’t take the yoga class - he  taught  the yoga class - with about 30 or so employees following along his instructions with varying amounts of success.  Ren was… very flexible.  And his strength served him well, allowing him to hold his ridiculous body in uncomfortable-looking positions for an unbelievable amount of time.Hux could think of dozens of ways he could put that to good use.Phasma’s eyes were on Rey, perky and energetic at the front of the class.  The girl followed Ren’s instructions effortlessly and helped some of the others around her get the poses right.  “She’s good at that,” Hux said, nodding to where Rey was flipped upside-down in some move Hux didn’t know the name of.“So’s he,” Phasma responded.Hux made a noise of agreement and sipped his coffee.  **   
+Rey Skywalker (2:56 PM): is your department as dead as mine?
+Kylo Ren (2:56 PM): ya pretty much everyone is gone rite now
+Kylo Ren (2:56 PM): maz and jessica r off today and like 3 or 4 ppl left early
+Kylo Ren (2:57 PM): even most of the auditors r gone
+Rey Skywalker (2:58 PM): is the viking goddess still around?
+Kylo Ren (2:58 PM): ya her n the sexy bane of my existence r still here
+Kylo Ren (3:00 PM) y???
+Rey Skywalker (3:01 PM): I was thinking about going out and getting some cupcakes to bring over there =)
+Kylo Ren (3:01 PM): NO
+Kylo Ren (3:01 OM): YOU ALREADT HAVE 2 BOYFRIENDS U HUSSY
+Rey Skywalker (3:02 PM): relax I’m not gonna try anything
+Rey Skywalker (3:02 PM): I can just enjoy the view =)
+Kylo Ren (3:03 PM): ugg i hate you
+Rey Skywalker (3:05 PM): *kisses*
+Rey Skywalker (3:05 PM): I’ll be over there in like 20 minutes I have to go to the bakery
+  **  Hux was absorbed in an extensive spreadsheet when a knock on the doorway interrupted his attention.  He and Phasma both looked up, and he saw Phasma’s pixie standing there with a bright smile on her face.“Hey, sorry to bother you guys,” she said, nose scrunched up adorably, “but I brought some cupcakes and they’re over by the copier if you want any!”Phasma grinned.“Thank you,” she said warmly, “we’ll be out in just a minute.”“Great!”  Rey bounced off and Hux glared at the now-empty doorway.  He knew if he went out there he would almost definitely have to interact with Ren, seeing he could already hear the other man’s voice as he spoke with Rey.Phasma gave Hux a look that said  we’re going out there and socializing.   It was a look that brooked no arguments.Hux shot back a glare and a  why?  gesture.“Don’t be rude,” Phasma murmured softly, too quiet for her voice to carry through the open doorway.
+ Fine. 
+Hux closed his laptop and stretched - he hadn’t gotten up since him and Phasma returned from their yoga voyeurism and he could feel his shoulder muscles cramping up.The trials and tribulations of being an auditor.Hux had sent the rest of his staff home early on account of the entire office being quiet to the point of it almost being alarming.  As far as he could tell, everyone in the department had either never come in in the first place, or had gone home early, leaving only Ren and Finn to keep Phasma and Hux company.And now he was going to have to socialize with them.  At least it was almost the end of the day, and therefore the end of the work week.His personal opinions of both Rey and Finn had gone down once he realized that they both were friends with Ren and likely saw him, voluntarily, outside of work.  After all, birds of a feather flock together.Phasma left the office first and walked over to where the others were standing around, cupcakes in hand, while Hux trailed after her reluctantly.  Rey waved happily at Phasma from her position perched next to Finn, and then pointed to the pastry box.  Ren looked sullen in the background.“Ok, so, I wasn’t sure what everyone would want, so this one’s chocolate and marshmallow, this one’s vanilla, this one’s salted caramel, this one’s coconut, and the pink one is strawberry.”Phasma picked up the salted caramel and Hux reached past her to pluck the strawberry from the box.  He glanced over at Ren defiantly, but to his surprise the man was looking at Rey with a glint in his eye, ignoring Hux completely.  His own cupcake was chocolate topped with icing so dark it almost looked black.  Hux also couldn’t help but notice that while Finn and Rey waited for Phasma and Hux, Ren had gone ahead and taken his cupcake before they had come over.Rude.“Thank you for the cupcakes,” Phasma said, ever the diplomat, “it’s nice to get out of that room sometimes.”“I can imagine!”  Did Rey always sound like a literal ray of sunshine?  Her every word just oozed exclamation points and cheer.  “I don’t know how you guys sit here and stare at numbers all day, I’d go crazy myself.”“It’s definitely not a job for everyone, but I happen to find numbers relaxing,” Phasma said.Rey made a noise of disbelief.  “That’s what Finn says too!”  She smacked Finn’s shoulder lightly while he just smiled at her like a besotted idiot.“Some people like math, ok?” Finn said, laughing.Dull.  This conversation was dull.  Hux tuned out most of what was being said, paying just enough attention to smile and nod at the appropriate intervals while he picked at his cupcake.  The conversation meandered from the company’s CEO’s new office furniture, to their favorite restaurants to go to for lunch, and then onto childhood pets.  Fascinating.“Hey Rey, remember that time when you were convinced that you should have actually been born a dog and crawled around the house on all fours for like a week?” Ren said with a wicked smirk.  That certainly caught Hux’s attention.  What a strange thing to bring up at work.  Hux looked over at Rey, who was turning pink.“I was  seven years old  you  asshole,” she hissed, clearly embarrassed.“You even curled up to sleep with the dog on the dog bed--”“Oh no you don’t,” Rey said, pointing a finger in Ren’s face.  “You do not wanna go there with me, your life has been  so much more embarrassing  than mine, oh my god.”  Ren laughed.  It was unfairly attractive.“Or how about that time you--”“Hey  Ben,” Rey said, cutting him off, “remember that time you  joined a cult?”  Ren scowled at her.  “The  Force,” she said dramatically, taking on a silly, mystical tone, and wiggling her fingers, “it’s alllllllll around us.  It’s in  eeeeeeeverything.”“Stop it.”“And then you actually, legally, changed your name  to Kylo Ren--”“Rey--”“And then you kept it after you left!  I still can’t believe you actually kept it.”“Ok, you know that legal name changes are really expensive and ridiculously time consuming, and I wasn’t gonna go through the trouble of getting  another  one--”“But really - the icing on the cake - I’m pretty sure I could die happy remembering the look on your face when your mom was trying to be supportive and called you  Kyle Ron.”This time Ren didn’t bother trying to interrupt her - instead he darted forward and physically grabbed her around the waist, hoisting her up and over his shoulder like she weighed nothing.  His biceps bulged attractively and Hux sent up a quick thank-you for t-shirts and casual Fridays, while at the same time wondering what the hell was going on.Phasma glanced at Hux out of the corner of her eye as Ren marched away with Rey shrieking on his shoulder.  Should they do something?  Finn looked unperturbed, laughing at their antics like this was normal behavior for both of them, regardless of the fact that they were in an office setting and this was about as far from appropriate office behavior as they could get.“Finn! Help me!”“I know better than to get involved!” Finn called as they were passing Ren’s desk.  “Last time, I got a bloody nose trying to intervene,” he explained to Phasma and Hux.Ren suddenly grunted and the two of them collapsed into a heap on the ground - Rey must have done something that they couldn’t see from their vantage point.  In a maneuver that was too fast for Hux to track, she somehow had Ren on the ground with her legs around his neck, strangling him with her thighs.  He was scrabbling for purchase but she squirmed out of his grasp and hitched her grip around his throat more tightly.“Say you’re sorry!”Ren gurgled and heaved his body upwards, gaining enough traction to flip them behind his desk and out of sight.Hux glanced at Finn.  “Do they do this often?”“Eh, often enough.”There were still sound of struggle coming from behind the desk.  “Are they siblings?” Phasma asked.“No, they’re--”Suddenly Rey came flying out from behind the desk with a small “Eep!” and tumbled away gracefully, popping up into a standing position at about the same time Ren appeared from behind the desk.“Truce?” She had her hands up in front of her.“Truce.  For now.”Hux could admit to himself that Ren’s flushed, grinning face was oddly endearing.  What kind of adults tussled like unruly puppies to solve their problems?  And at work, none the less?  He really shouldn’t think that was cute.He shouldn’t.Really.“A-ny-way,” Rey said, drawing the word out as she casually strolled back over to their group, “this weekend is supposed to be super nice.  Do you guys have any fun plans?”  She propped herself up against Finn, easy-as-you-please, like she didn’t just  fight  someone in the office.Phasma took up the conversational volley, talking about some restaurant or another.  Ren slouched back against the wall near Hux and appeared to also be tuning out the conversation, glancing at Hux unusually often considering Hux wasn’t saying anything.Did that really just happen?Did Ren really join a  cult?  It would certainly explain the strange name, and might also explain some of his more antiquated beliefs - perhaps he internalized more in his time there than he realized.  This was really not Hux’s area.  Finn said that Rey and Ren weren’t siblings, so what were they?  Cousins?  Childhood friends?  Exes?  This day had turned out to be very… strange.  Hux took a bite of his cupcake, and across the way Ren mirrored his action.
+ Hypothetically, what does one do in this very specific and unusual set of circumstances? 
+ 
+
+
+
+Chapter 4
+Chapter Notes
+Trigger warnings for threats of violence and an altercation.  See end notes for more details.
+
+        See the end of the chapter for more notes
+
+
+
+
+“I need copies of the original land records.”
+Ren’s face cycled through a string of expressions until he finally settled on confused exasperation.
+“Why ?”
+“Well, I can see that in past audits the appropriate depreciation of the building and equipment was calculated, but given the building’s location, the proximity to Washington D.C., and the change in real estate values this area has undergone in the past few decades, I doubt any other firm was thorough enough to add the  appreciation  of the land value alongside the  depreciation  of the building.  Now, if I have the original land records, I will be able to do these calculations…” Hux continued talking, only half paying attention to the words coming out of his own mouth.  They had merit - some merit, anyway.  Enough that if Ren were to complain or ask around, no one would be suspicious of Hux or question his motives.  They would simply assume that he was being uncommonly thorough.
+As Hux spoke he watched the tension in Ren’s shoulders wind tighter and tighter.  It reminded Hux of a video he saw once of an owl being misted with a spray bottle and slowly poofing up in response.  Ren and the owl looked equally unimpressed with and miserable because of their predicaments.
+After another minute of talking, during which Hux was pretty sure he could have said literally anything, given how glazed-over and non-responsive Ren’s eyes were, Ren finally interrupted him.
+“You do know that the company’s been in this building and at this location for more than forty years, right?”
+“I wasn’t aware of the exact time frame, but I did know that it had been several decades, yes.  That’s precisely why I want to do these calculations.  If the land were a recent acquisition then the value would be obvious.”
+“You’re asking for records that are literally older than I am.”
+“I am aware.”
+Ren spread his arms and gestured around the office.  “Where,  exactly, do you expect me to find forty year old records?”
+Hux was just able to resist saying  that sounds like a you problem,  but he was sure the sentiment showed on his face because Ren glared fiercely at him.  Hux took a breath, still composing a suitably passive-aggressive response, when Ren cut him off before he had the chance.
+“FINE. Fine. I’ll get your-” he cut himself off, took a breath, “-your land records.”  He clenched his jaw, anger radiating from the tense lines of his body.  Hux could easily imagine the expletive that Ren had managed to bite back.
+“Thank you,” Hux said, suffusing his words with sweetness to the point of clear sarcasm, “for your assistance.”  
+Ren narrowed his eyes.  “Anything to help you do your job faster,” he bit back.
+ 
+**
+   
+
+Kylo Ren (2:46 PM): i just cannot
+Kylo Ren (2:46 PM): this man is the devil
+Kylo Ren (2:46 PM): a sexy devil but i swear to god every time he opens his mouth I want to put something in there to shut him up
+Rey Skywalker (2:47 PM): you gotta stop with that Kylo
+Finn Galfridian (2:47 PM): I'm gonna start sexting on here p soon if I have to suffer you have to suffer too
+Poe Dameron (2:48 PM): We’re not sexting at work Finn.
+Finn Galfridian (2:48 PM): Rey and I can sext without you
+Kylo Ren (2:49 PM): guysssssssssss
+Kylo Ren (2:49 PM): i am suffering
+Rey Skywalker (2:50 PM): blue balls aren't real Kylo stop being such a baby
+Kylo Ren (2:50 PM): you dont have the equipment you dont get to say
+Poe Dameron (2:51 PM): Blue balls aren't real Kylo stop being such a baby.
+Kylo Ren (2:51 PM): i h8 you guys :((((((
+Kylo Ren (2:52 PM): no one understand me
+Rey Skywalker (2:52 PM): oh yeah you're such an enigma
+Rey Skywalker (2:53 PM): I wonder what Kylo is thinking about right now
+Kylo Ren (2:54 PM): hes so nice to look at i wish he would just walk around the office looking pretty and not. talking.
+Kylo Ren (2:54 PM): ugh but he has a nice voice maybe talking but to someone that isnt me
+Rey Skywalker (2:55 PM): I can't tell if you haven't noticed I'm making fun of you or if you're just ignoring it
+Poe Dameron (2:55 PM): Sometimes I'm amazed that you actually function, you have quite the one-track mind.
+Kylo Ren (2:56 PM): i would let him step on my throat in high heels
+Rey Skywalker (2:56 PM): ………….
+Kylo Ren (2:56 PM): i wanna stab him with my blunt instrument. repeatedly ;)
+Finn Galfridian (2:57 PM): ok so you keep saying but do you actually have a plan here?
+Finn Galfridian (2:57 PM): or are you planning on waiting until he walks onto your...definitely-not-a-knife?
+Rey Skywalker (2:58 PM): uggg why are you encouraging him?
+Finn Galfridian (2:58 PM): because maybe if he actually acts on it instead of just talking about it we won't have to hear about it anymore
+Finn Galfridian (2:59 PM): just please god wait until the audit’s done
+Kylo Ren (3:00 PM): there r plenty of supply closets around here
+Kylo Ren (3:00 PM): i could just pull him into a closet and stab him there
+ 
+**
+ 
+Hux was annoyed.
+He has given Ren the instruction to find the land records in the morning, but beyond a perfunctory attempt at looking through files in the office Ren didn't appear to be taking the order seriously. The man had settled back at his desk at lunchtime and had not risen since - clearly ignoring Hux’s request. Hux had planned on leaving Ren to his own devices for a short while, but Ren had stretched Hux's patience. Despite the fact that the records were mostly unnecessary, Hux  was  planning on doing the calculations - just to be thorough. He might as well, anyway, considering he would already have them.
+The loud typing Hux could hear from the auditor’s room, clearly emanating from Ren's cubicle, was an insult that he could not abide by. Especially since Ren was unlikely to be doing work and  very  likely to be chatting with his friends.
+When Hux reached a natural pause in his work he rose to go bother Ren. He couldn't let the man get too complacent or he would lose all authority.
+Unfortunately, Hux had only made it a few steps towards Ren's cubicle  where he could totally see him typing in that damned chat box  when Maz popped up out of nowhere and startled Ren. Hux paused a respectful distance away while Maz asked some questions about the bank-processed payments and their respective cash sheets while Ren nodded along and angled his body to block his computer monitor - he hadn't minimized the chat window, perhaps assuming the action would draw attention to the fact that he wasn't working.
+The look on Maz’s face said that she knew exactly what he was doing. She held up a hand, cutting off whatever Ren's response to her question was.
+“Wait. You did what?” She rolled her eyes, and behind her thick glasses the expression magnified to a truly impressive gesture. “Just come over here and show me what you did with them.”
+Ren gave one glance back at his computer screen before grimacing and following Maz.
+Hux sighed internally. On the one hand, it appeared Ren had gotten himself in trouble, but on the other Hux had planned on being the one to annoy him.
+(Hux was trying not to think too hard about  why  he liked winding the other man up. It was all about revenge - just deserts, obviously.  Obviously. )
+A new message popped up in Ren's chat box, accompanied by a cheerful “bing.” Hux glanced around the room - everyone was in their offices, no one was out in the main area to observe him at the moment. He could just…
+Hux took a step closer to the computer screen - far enough for plausible deniability, but close enough to read the screen - and saw:
+
+Finn Galfridian (2:59 PM): just please god wait until the audit’s done
+Kylo Ren (3:00 PM): there r plenty of supply closets around here
+Kylo Ren (3:00 PM): I could just pull him into a closet and stab him there
+Rey Skywalker (3:01 PM): please don't be stupid enough to take out your “knife” at work
+Hux had taken several steps backwards before he even realized that he had moved.
+What the fuck?
+
+ What the actual fuck? 
+
+Was he in danger? Hux looked back at the monitor but there were no new comments in the box - apparently threatening to stab people was a common enough occurrence that the others didn't feel the need to say anything else.
+Hux heard Maz’s voice approaching and neatly sidestepped back into the auditor’s room, hoping that he had been out of the line of sight of his employees. None of them even glanced at his entrance. Perfect.
+Hux could only assume the comments were about him. Why else would Finn say to wait until the audit was over? And that threat - it was so specific. An ‘ugg I'm gonna kill him’ would be normal, and frankly Hux had heard far worse at some of his more contentious audits.
+But pulling him into a closet to stab him?
+That was  something else. 
+And what was with the scare quotes around knife? Was she referring to a literal knife, or a figurative knife?
+What the fuck would a figurative knife even look like?
+Hux curled his hand into a fist and dug his nails into his palm. So, the situation was less than ideal. Ok. He could just stop. Have a nice, quiet remainder of the audit and avoid Ren for the rest of his time here.
+Easy enough.
+ 
+ 
+Hux's resolve to both avoid and not antagonize Ren lasted for less than an hour, through no fault of his own. He had been walking down the hallway on his way back from speaking with the CFO about the progression of the audit when Ren popped out of an unmarked door into the hallway right in front of him.
+Ren looked, for an instant, like he was just as surprised to see Hux as Hux was to see him. Then his eyes narrowed.
+“I've been looking for your land records.”
+Hux winced internally.
+“Look,” Ren continued, opening the door he had just emerged from, gesturing inside. Hux could see it was a storage room, an old and particularly dusty one at that. “This is what I've been dealing with. Wanna come in and take a look for yourself?”
+Walking into a storage room alone with Ren, after what he read earlier? Not fucking likely.
+“I'm all right, thanks.”
+Hux could see the muscles of Ren's jaw working as he ground his teeth. Hux needed to put a stop to this, now.
+“I didn't realize that finding the records would be so much trouble for you.” An obvious lie, which did not go unnoticed by Ren. “If you can't find them then forget the request, I can make do without them.” Perfect.
+It took Hux .5 seconds to realize that this was  not  the right thing to say.
+Ren’s nostrils flared as he  slammed the storage room door closed. Hux jumped, startled by the sudden movement and the loud, reverberating BANG.
+“Why the FUCK did you have me looking for those  fucking records  if you didn't actually need them?”
+Hux was hyper aware of the fact that the hallway was empty, and the doors to the various departments were closed. Ren looked like he wanted to throw a punch. Like he was ready to.
+“I-” shit, fuck, damn it all to hell, “um.”
+Ren took a menacing step forward, then another, until he was well into Hux's personal space, and Hux felt himself take an involuntary step back. They were about equal in height, but Ren was so much  bigger  than him.
+“Is this funny to you? Are you having a good laugh?”
+“No!” Amused was the farthest emotion from what Hux was feeling right now. He could feel his breathing picking up, his heart racing, adrenaline spiking through his veins.
+“Then why? What's your angle? What do you  want from me?”
+“I- apologize, if I've been asking too much of you,” he said haltingly, “that was not my intention and I hope that you can forgive any perceived offense.” Hux took another step back, then another. “Just forget about the records. I have to-” he jerked his thumb over his shoulder, as if he had some pressing business at the other end of the hallway.
+Hux would like to be able to say that he walked away with his head held high and in a dignified manner, but he scampered and he knew it.
+Once he rounded the corner he stopped to listen if Ren was following him. He heard the other man sigh, then footsteps down the hallway in the direction of the department, a door opening, a door closing. Silence.
+Hux let his head thump back against the wall. Part of him wanted to walk back into the office like nothing had happened - chances were decent that Ren would take his apology and drop any grudges he may be holding. But what if he didn't? What if he acted like he did, but was just waiting to get Hux alone?
+Hux knew he was probably blowing this out of proportion, but… he would feel really stupid if he ended up actually getting stabbed in a storage room.
+His best option would probably be to go to HR. After all, Ren made threats on the inter-office chat program. IT surely had access to those records, proving all the proof Hux would need.
+In fact, he didn't even have to tell HR exactly what he read, that way if he had misinterpreted or misunderstood they wouldn't think he was crying wolf. He could just say that he saw inappropriate speech which he found concerning, they could pull the records, and either they would find something noteworthy or they wouldn't.
+Perhaps there was a reasonable explanation for the “stabbing” comment, had he seen the context it was in. No need to worry anyone unnecessarily.
+Having a course of action relaxed Hux a little so he stood up straight, smoothed his hands over any wrinkles in his jacket, and marched in the direction of HR.
+ 
+ 
+**
+ 
+ 
+
+Kylo Ren (4:21 PM): i may have freaked hux out a little :(
+Rey Skywalker (4:23 PM): did you invite him into a storage closet?
+Kylo Ren (4:23 PM): uhhh
+Kylo Ren (4:23 PM): technically…
+Rey Skywalker (4:23 PM): Kylo!!
+Kylo Ren (4:24 PM): it wasnt in a sexy way it was literally to look in the closet
+Kylo Ren (4:24 PM): i may have lost my temper a little
+Rey Skywalker (4:24 PM): what did you do?
+Kylo Ren (4:25 PM): nothing bad! i may have loomed a little
+Kylo Ren (4:25 PM): gotten into his personal space
+Rey Skywalker (4:27 PM): you know better
+Kylo Ren (4:27 PM): i kno :( i was gonna find him and apologize but I havent seen him around :((((
+Rey Skywalker (4:27 PM): do it tomorrow then
+Kylo Ren (4:28 PM): :((((((
+ 
+ 
+**
+ 
+ 
+First thing in the morning, Hux was summoned upstairs and deposited in a chair across from the head of Human Resources. The woman was older, had streaks of gray in her hair and a no-nonsense attitude.
+“At your request we looked through Kylo Ren’s inter-office messaging records. To be quite frank, what we found there was concerning, to say the least.”
+So they had found something, then.
+“I wanted to thank you for bringing this to our attention,” she continued, “I understand that it can be an uncomfortable position for any employee to be in, let alone when alternative lifestyles are involved as well. I'm glad you came to me.” She leaned forward, expression serious. “As a company we do not tolerate sexual harassment of any kind, and work hard to keep our workplace safe for all employees, contractors, and clients.”
+Sexual harassment? An interesting choice of terminology. But perhaps that was the best way to title it - after all, it wasn't a hate crime if no crime had been committed, and perhaps there wasn't any clear-cut hate speech on the logs either. Harassment combined with an “alternate lifestyle” was harassment due to sexuality, ergo sexual harassment.
+The logic was a little odd, but ok.
+“We have called Kylo in this morning as well, and I will be having a conversation with him about appropriate workplace behaviors as soon as I've finished with you. We will also put an official reprimand in his employee file. Beyond that, what you want us to do is up to you.”
+Hux frowned. “What do you mean?”
+“This kind of harassment is grounds for termination.”
+Hux felt- he wasn't sure how he felt. He thought for sure they would find something, but the fact that what they found was worth firing Ren over?
+“You seem hesitant.”
+Of course he was hesitant. Why were they making this his decision? While Hux had never been in this predicament before, he would have assumed there was an internal process and review, not just asking the victim whether or not the employee should be fired.
+“Honestly, I wasn't completely sure what you were going to find,” was the response he settled on. “I had seen inappropriate content on his computer screen but I didn't know the extent of it.”
+She nodded, but the glint in her eye was anything but sympathetic.  
+“You don't have to make any decisions right now, or even today. Take a bit of time. Think on it. If Kylo had multiple infractions he would be terminated regardless of your input, but this is a first time offense, so what happens from here will depend heavily on your testimony. After I speak with him I'll send him home for the day. If you're comfortable with him returning to the office, then he will be back at his desk as early as tomorrow. We could put him on unpaid leave until the audit is completed so that you won't have to see or interact with him. Or, we could terminate him. The severity of the situation is difficult for us to gage, which is why we're leaving the option up to you.”
+Something about this whole meeting seemed off, and the mean curl to her lip wasn’t helping. It almost seemed like she was waiting for an excuse to fire Ren - or, like she didn’t want to take responsibility for making the decision to terminate him. But, if Hux insisted, she could hoist the responsibility off on him.
+But what kind of HR director worries about firing one of their employees? As a straight, white, cisgendered male, Ren wouldn’t be able to make any kind case for discrimination.
+“Unfortunately there we no witnesses to his bad behavior, and we have only what he wrote to other employees. Have you had any verbal altercations with him?”
+“Yes,” Hux said slowly, thinking of their tense conversation in the hallway yesterday.
+“There was an incident in the hall yesterday,” she said.
+Hux looked at her in surprise. He felt a little bit like he was following a trail of breadcrumbs into the witch’s house, like she was waiting for him to put his foot into a snare.
+“He mentioned it to a coworker. I imagine that's what inspired you to come report the issue.”
+Hux nodded. “What did he say about it?”
+“That he got in your personal space and made you uncomfortable. He expressed an intention of apologizing for it, though I’m assuming he has not.”
+“May I ask who he had that conversation with?”
+She made a show of looking down at the file on her desk, tapping her nail on a name.
+“Rey Skywalker.”
+Hux wondered if Ren actually wanted to apologize, or if Rey had urged him to. He also wondered why the HR director hadn’t acknowledged that she knew about their altercation the day before, if she already knew. She had an angle - that much was abundantly clear - but Hux couldn’t work out what it was. And Hux did not like making decisions when he didn’t have all of the pertinent information available.
+“Take the rest of the day to make your decision. How about this: I’ll tell Ren to take off tomorrow, as well, and then we can meet again tomorrow morning and discuss where we take it from here. Does that work for you?”
+“Yes, thank you.”
+They shook hands. As she escorted him out of the office, he could see a conference room door closed - one that had been open when he came in.
+ 
+ 
+**
+ 
+ 
+Hux’s head was swimming as he walked back to the auditor’s room.  He was surprised at HR’s quick response, that they removed Ren from the department and responded to Hux’s report almost immediately. He knew that there was something for HR to find in the chat logs - Hux had read at least one instance himself, and it wasn’t much of a leap to assume that there were other opportunities in the last several weeks for Ren to complain and make threats.  Still, HR’s response surprised him.  He expected that, after a few days, he would be told that Ren would be reprimanded and never hear another word about it.
+And that bizarre conversation - Hux couldn’t get his head around it. Either they wanted to fire Ren for his violent tendencies or they didn’t.
+
+ Sexual Harassment. 
+
+A strange way to title the situation, surely. Perhaps there was more to the logs - maybe inappropriate consideration of his body, or of specific sex acts. He had certainly been called a “cock sucker” enough times. God forbid if there was speculation over whether he was a top or bottom.
+Sure, it made a certain amount of sense.
+Now the question: did he want Ren to be fired? Honestly, Hux hadn't thought the situation through well enough. He didn't think that  he  would be put in charge of Ren's fate, at least. And certainly not something so grave or serious as termination.
+A knock at the door interrupted his thoughts. Rey was standing in the doorway, looking serious.
+“Hey Hux, could I have a word?”
+“Of course.”  
+Hux wasn’t surprised that one of Ren’s friends had chosen to seek him out, even less that Rey was the one who chose to do so. He stood and followed her out of the room, wondering what she could possibly have to say to him, knowing her close relationship with Kylo, knowing what he himself had done that morning. Wondered if she was going to apologize, or chew him out for getting her friend in trouble.
+Rey walked out of the finance department and to one of the conference rooms down the hall, empty and dark. She took a key out of her pocket to unlock the door and then slipped inside. Hux questioned whether or not giving her the opportunity to speak was worth his time, when he would rather put his dealings with Ren behind him, but part of him was curious about what she thought she could accomplish.
+He closed the door behind him, stood with his arms crossed and what he knew to be an intimidating look on his face.
+“I wanted to apologize,” she said, face open and concerned. “For Kylo’s behavior. For  all  of our behavior. He said a lot of inappropriate things and we didn’t stop it because… I don’t know. I don’t really have an excuse. It seemed like it was all in good fun, I guess. I didn’t realize that you knew about it, or that it would bother you.”
+Hux raised an eyebrow.
+“I know! I know how that sounds, in retrospect, and I know that if I were in your position I would feel really uncomfortable and probably pretty upset, so.”  She made an awkward shrugging gesture, palms out.  “It was stupid.  And tactless.  And I’ve known Kylo all my life and I know that stupid and tactless are pretty much his default settings but he’s… he’s not for everyone.  He’s not always great at being a person and interacting with actual human beings, and I forget that sometimes.”
+Hux remained silent for a long, drawn out moment, wondering if she would continue to babble nervously or if she had said everything that she wanted to say. Instead of filling the silence she let it rest between them, thick, tangible. After another unbearable crawl of seconds he nodded once.
+“Apology accepted.” Before him, Rey slumped a little in relief. “Was that all you wanted to say to me?”
+Rey bit her lip, an ulterior motive obvious in the set of her shoulders. Of course she didn’t just want to come here to apologize.
+“I,” she started, then stopped, rubbing a hand over her face. She took a deep breath and met Hux’s steely gaze. “I don’t know exactly what you’ve discussed with HR and I don’t know if they or you have any… recourse, already planned. But. If you don’t.” She paused again, clearly gathering her courage. “I would like to ask you not to get Kylo fired.”
+Hux raised both eyebrows, this time.
+“Kylo’s been fucked up for a while and he just managed to get his life on track these last few years and it would really, really fuck him up if he were to get fired right now and…” Hux adopted his most unimpressed face; Rey winced, when she saw it. “You know what, you’re right. I know that what happens to him doesn’t matter to you, clearly, and I shouldn’t have even gone there at all. Not relevant. He made his bed, and I  totally get it  if you want to make him lie in it. One hundred percent.  
+“But  , it would look really, really bad if he were to get fired for sexual harassment right now. I’m sure you watch the news and know that Leia has her non-discrimination bill that she’s trying to get passed, and Kylo getting fired for sexually harassing a  man  could pretty much torpedo that bill. You know that the conservatives will take any excuse to block it, and portraying LGBT people as predators is pretty much their go-to move.”
+ Why on earth would anyone care if some random guy gets fired for sexual harassment?  Hux made sure to not allow his confusion to show. Clearly she didn’t feel the need to clarify what she meant - she expected that he was able to follow her train of thought, and he certainly didn’t want to open his mouth and look ignorant, but he honestly couldn’t see a connection between some random office administrator getting fired and the passing of a major federal law. Was it the proximity to DC? Did she think that any case of LGBT perpetrators in the next few months would be directly responsible for ‘torpedoing’ the bill?
+A dozen different responses clamored through Hux’s mind, from  are you delusional  to  why do you even care anyway, and he was groping to find the right words. He didn’t want to argue the importance of Ren’s job in connection to the bill, because that was just weird. Finally, he settled on:
+“What does it even matter to you?  You’re straight, the bill won’t affect you.” Not his most eloquent volley, but he didn’t want to touch her connection to Ren with a ten foot pole.
+Rey frowned at him.
+“Ok. First of all, I'm not straight, I'm pan and poly. And considering the chat logs HR has now read include me talking about being attracted to women, this definitely does affect me. It also affects  both  of my boyfriends and  both  of my dads. Don't assume you know someone's personal life, especially considering the lack of protections available to LGBT people right now. It's far easier to keep it quiet.”
+That brought him up short. Had she talked to Ren about her attraction to women? Did he not care? That was unexpected.
+“And even if I wasn't, there's such a thing as having empathy,” she continued. “I'm not trans and I still find the bathroom bills disgusting, even though they don't affect me personally.”
+Hux wasn't sure how to reply to that.
+Also:  two dads?   Hux had recognized the name Skywalker when he first heard her surname, but didn’t draw an immediate connection to the Air Force General with the same name. In light of new information he revised his mental map of what was happening here: it was possible that Rey was the daughter of Luke Skywalker, which would make her Leia Organa’s niece. That would also explain her first use of Organa’s first name.
+“I know it’s a lot to ask for, but this is bigger than both of us. I know the law doesn’t really affect you since you’re your own boss, but there’s an entire community that we have a responsibility to. And I am  pissed  that Ben has managed to screw this up, don’t think for a moment that I’m blaming this on you at all.”
+
+ Ben, that’s what she called him before. ‘Hey Ben, remember that time you joined a cult.’   
+
+“If this were any other time I would say that Ben,” she shook her head, “sorry, Kylo, needs to take responsibility for his actions and live with the consequences but this time the consequences could affect millions of people. And it shouldn’t. I couldn’t bear to think that his poor decision making could set back the movement.”
+Hux felt a creeping dread.
+Ben. I’ve known Kylo all my life. Hux’s immediate guess, when told that the two weren’t siblings, was that they were cousins. And if Rey really was the daughter of General Skywalker then her first cousin would be the son of Leia Organa. Organa, who had an estranged son named Ben.
+But Kylo Ren couldn’t be Ben Organa Solo.  Could he?
+“Kylo has plenty of vacation saved up - he could take off for the next couple of weeks, until the audit’s over. You’ll won’t have to see him again. And I swear to you, he doesn’t do this kind of thing often, if that’s something you’re taking into consideration. It’s not like you’re leaving the door open for him to harass other people. Even if he hasn’t learned his lesson, which I assure you he has, he actually really liked you. Personally, for some reason. Not to say that you don’t have a good personality!” She rushed, realizing the implied insult, “just that I know you two spent a lot of time… not getting along. But. I just wanted you to know that it’s not like he’s out there leering at every attractive man that walks through the door.”
+Rey hadn’t brought up bigotry or threats of violence once. Neither had HR. Talking about attraction.  Harassment . Leering at attractive men.
+
+ I can think of another reason why it might be ‘hard’ for him to work with you. 
+
+What Hux really needed was a chance to sit down and think. Rey was still talking about Ren but Hux wasn’t listening - he could feel a headache throbbing at his temples and a ball at the pit of his stomach that was telling him that he royally screwed up. His whole perspective felt flipped onto it’s head. He needed  time . He needed - he needed to get out of here.
+He held a hand up to stop her flood of words.
+“I need to think about it before I decide my next step.” Level, neutral, calm. “I would like the chance to talk to him directly, if possible.”
+“Of course!” Rey crossed the room and grabbed a piece of paper off of a printer and began scribbling on it.
+“I’m not making any promises - I might decide not to, so I don’t want you to have any expectations. I would just like the ability, should the need arise.”
+“Yeah, no, that’s totally fine.” She thrust the piece of paper into his hands, which had a phone number and an address written on it. “I’ll tell him that I gave you his info, just so he’s not surprised, but I’ll tell him not to count on anything. You don’t owe him, or me, anything. Just hearing me out was more than deserved, so.”
+Hux folded the piece of paper in half as she spoke, dragged his nail along the crease, folded it again, and again, until it made a small rectangle that he could tuck into the breast pocket of his blazer.
+Things were not working out the way he expected.
+ 
+ 
+**
+ 
+ 
+Hux escaped the conversation with Rey after a few more  thank you’s and a few more apologies. What he wanted to do was get back to work and lose himself in numbers until his mind quieted down some, but he knew that his usual method for dealing with problems wouldn’t work today. There were too many questions that needed answers, questions that would distract him. Worse, he knew that he would be able to put one particular theory to rest with a simple google search, and that would make the distraction much harder to ignore.  He knew he could always look it up on his phone but he had managed to hold onto his professional demeanor all morning. Finding out the answer might disrupt that.
+Hux didn’t want to react in front of his employees, one way or the other.
+So instead he walked through the door to the auditor’s room and announced that he wasn’t feeling well, had a headache, and that he wouldn’t be of much use today, best go home and rest. He got a few inquisitive looks from his staff - he never took sick leave, and the timing was clearly strange - but no one questioned him.
+“Feel better.  We’ll hold down the fort,” Phasma said aloud, and:  You’re going to tell me what’s really going on before I have to pry it out of you, she said with her eyes.
+Hux was fluent in Phasma’s unspoken language, and she in his. He acknowledged the unsaid demand with a bow of his head, then set about collecting his things.
+The drive home seemed like it took forever. How could one car hit  every. single. red light  in a 15 minute drive? Route 1 was built by the devil, was the obvious answer.  
+Drumming his fingers impatiently on the steering wheel, he couldn’t help but look over his amassed evidence for what felt like the millionth time.  Could he have been  that wrong?  Hux’s memory and interpretation of events was usually impeccable - it was one of the reasons why he made such a good businessman.  To have missed the mark over and over again due to crazy extenuating circumstances seemed like something out of a romcom, not his mundane life.  
+On the other hand, he didn’t know how else to interpret the conversation he had with Rey today. The assumed connection between General Skywalker, Rey, Kylo, and ultimately Senator Organa seemed incredibly improbable, but it was the only explanation of her behavior that made any sense.
+Hux ran through a series of alternative options: perhaps Rey was related to the general and the senator and Ren was someone else - a childhood friend, or ex-boyfriend, the other relations he had assumed.  Perhaps she was overthinking her own importance in the grand scheme of things, and thought that having a friend who was a violent bigot would make her aunt’s bill look bad.
+Or, maybe she wasn’t anyone, and the Skywalker name was just a coincidence, related to the general distantly, if at all.  And maybe she was trying to play to Hux’s sympathy intentionally, implying that harming her friend would have catastrophic consequences for Hux’s community.  She didn’t seem that devious or that malicious, but then again he barely knew her - maybe she was playing up her sweet-and-innocent persona to make her version of events more plausible.
+Pulling into his condo’s parking garage was a relief.  
+Hux drifted into the elevator and then down his hallway on autopilot. He unlocked his front door, snagged his laptop from the counter, ran a hand over Millicent’s head, and then curled up in the squishiest corner of his couch.  
+Taking a deep breath to try and settle the churning in his gut, he opened google and typed:  Kylo Ren 
+The first link that popped up was:
+
+Kylo Ren - Wikipedia, the free encyclopedia https://en.wikipedia.org/wiki/Kylo_Ren
+Kylo Ren, born Benjamin Organa Solo (born November 19, 1983), is the only son of American politician Leia Organa, current senator of …
+Early life · Career · Personal life · Politics
+Fuck.
+Hux took a deep breath, held it for five seconds, breathed out.  
+Clicked on the link.
+Hux scanned quickly through the article, even though most of his questions were answered by the blurb provided on google.  Son of Leia Organa and Han Solo, had a notoriously rocky relationship with his parents, changed his name to distance himself from his mother’s politics (Rey was correct: they had somehow managed to keep the whole ‘cult’ thing out of the press), and, of course, a section on his sexuality, its potential impact on Senator Organa’s politics, and the current bill.
+According to Wikipedia, Ren avoided politics and hated the public eye - but his mother’s recent bill had dragged him front and center of the political sphere.
+
+ If I hear one more word about Senator Organa’s gay son I’m going to scream. 
+
+Hux closed his computer and steepled his fingers under his chin.
+Ren was gay.  That meant that Phasma had been correct regarding the implication of his original comments - he would find it difficult to work with Hux because Ren was attracted to him and would be flustered and distracted by his presence.  His comments about the bill and Organa had to do with his personal life, not with the community.  And Hux’s attempts to figure him out happened on the Monday immediately following Organa’s announcement - his irritation with Hux was obviously only a symptom of his bad mood created by his political affiliations.  Hux had given him a hard time the week before so he had anticipated more of the same, only he didn’t have the emotional fortitude to handle Hux at his worst, and Kylo had lashed out.
+And now Hux had reported him to HR, and he was facing suspension or termination.
+Hux glanced over at his phone, resting innocuously on the coffee table.  He could call Ren and explain that there had been a terrible, multi-layered misunderstanding.  Apologize.  It was unlikely that Ren would see the humor in the situation and would merely give Hux a clipped, short reply.  This morning could be the last time Hux ever saw the man.
+Hux took the piece of paper Rey gave him out of his pocket and unfolded it.  There was Ren’s phone number, written in big, loopy writing.  He could call.  Should call.
+But.
+Just under the phone number - an address.  Would it be better, if he could look Ren in the eye when he explained?  The man had such an expressive face.  It would be far easier to make the phone call and put this entire experience behind him, but that just felt… wrong.  And if he was never going to see Ren again after this encounter, it would be nice to speak to the man away from the prying eyes of coworkers just the once.
+Maybe nice to see the man without any misunderstandings between them, at least once.
+
+
+
+Chapter End Notes
+Trigger warning details: Hux reads what he believes is a threat of violence against him on Kylo's computer. Shortly afterwards they get in an argument and Kylo slams a door, yells, and gets in Hux's personal space while Hux is clearly uncomfortable.
+ 
+I have been a terrible delinquent about updating this story and responding to comments on the last chapter.  I'M SO SORRY and I loved and cherished each comment, I just got terribly distracted by life.
+ 
+And for anyone who needs to see the owl vs the spray bottle, see water your owl until it blooms
+
+
+Chapter 5
+Chapter Notes
+
+        See the end of the chapter for  notes
+
+
+
+
+The numbers on Ren's door looked like they once had been a shiny brass, but after years of use (and likely an utter lack of upkeep) they were now chipped and faded, leaving an ugly tarnished metal underneath to boast the unit number:  107. The door itself was painted a queasy green - a color that may have been nice to look at under showroom spotlights, but looked anemic under the florescent lights of the hallway - and the carpet was threadbare and had clearly seen better days. Overall the building seemed run-down and depressing, a far cry from what one would expect an heir to (minor) European royalty and son of an American politician to be living in.
+Hux felt out of place in his designer suit and silk tie. Already a neighbor had looked at him askance while taking out the trash, though to be fair, Hux had been standing in front of the same door without knocking for at least 10 minutes. But then again, perhaps Ren had a habit of strange visitors.
+What was Ren doing, living in a place like this? Had his parents cut him off? Hux didn't know Organa’s net worth offhand but he knew it to be sizable, so she must have set up a trust when her son was born. Even estranged from his parents Ren should have access to his trust fund.
+Footsteps clomping up the grungy carpet announced the return of the judgey neighbor, who was side-eyeing Hux like he was looking to steal something or sell something.
+Fine. Enough stalling. Hux reached out and rapped three times on the door before he could talk himself out of it, then clasped his hands behind his back, awaiting his fate. Either Ren would answer the door or he wouldn't. Either he was home or he wasn't. Either he was going to ignore Hux for the rest of their perilously short time together or -
+The door swung open, revealing Ren. Ren, in his revealing yoga pants and a threadbare t-shirt, hair fluffy and sticking up in every direction like he had been running his hands through it all morning.
+Hux opened his mouth but realized that he had never actually planned out what he was going to say. A critical oversight on his end. Thankfully, Ren stepped back and opened his door wider in a non verbal invitation, giving Hux another few seconds to gather his wits.
+“So there seems to have been -”
+“I wanted to apologize -”
+They both spoke at the same time, then halted.
+“Before you say anything, I want to say that I'm sorry,” Ren - no, Kylo - started.
+“Please don't.”
+“And I know that I - what?”
+“I didn't actually come here for an apology. There was actually a bit of a, well, a misunderstanding.”
+“A misunderstanding,” Kylo repeated, looking at Hux somewhat incredulously.
+“Yes.”
+Kylo gaped for a moment while Hux tried to gather his thoughts.
+“So,” Hux started, “I guess I should start at the beginning. On my first day of work I overheard a conversation in the kitchen, about me.”
+Ren frowned for a minute, clearly thinking back to that day. A look of realization blossomed on his face, eyes wide.
+“You heard that conversation. With Poe.”
+“Yes. Well. As you were there, you should know that without context it sounded a bit, well, like something a bigot would say.”
+Ren frowned again, but this time the expression was more considering than confused. Not wanting to get distracted, Hux launched into a quick and dry explanation of what had happened over the past few weeks - the original misunderstanding, Ren’s comments about the bill, his general behavior - though he left out his more embarrassing moments, the peacocking, the  pink cupcake  which seemed so  stupid  in retrospect.
+When had Hux turned into a 12-year-old girl?
+Kylo quietly listened without interruption (aside from making the occasional face). When Hux got to the end of his ridiculous story, reading the Wikipedia article about Kylo Ren, the man in question actually laughed.
+Laughed!
+Didn't he realize he could be  fired  over this?
+“...And so I understand if you're angry with me,” Hux finished, even though Ren was grinning at him.
+“Angry? You didn't do anything wrong.”
+“Well, had I -”
+Ren held up his hand. “This is the exact sort of thing that happens to me, so if you're feeling out of sorts this is what it's like when hurricane Kylo comes storming into your life.”
+Such a stupid line should never have been quite so endearing.
+“I just figured you were blowing hot and cold because that's the sort of person you are.” Kylo grinned, “and while I found it kind of annoying, it was also pretty hot to be honest. So I wasn't exactly thinking with my upstairs brain. It  was  a bit of a shock when I got called into HR though.”
+“Oh! I had wanted to ask you about that. The woman that I spoke with…” How could he describe her strange, aggressive manner?
+“Oh yeah, she hates me. She was probably trying to get you to say you wanted me fired.”
+Ok, well, that was straightforward.
+“That did seem to be the case, yes. Why?”
+Kylo shrugged. “She hates what she calls ‘political legacy’ kids. Didn't want to hire me at first, then gave me The Talk about how I would have to do my job regardless of who my parents are, et cetera.  She did the same thing to Rey and this guy down in legal. As much as I hate to say it, that stupid bill probably saved my job. Any other time she would have jumped on an excuse to fire me, but right now it would make her look bad and maybe even bring the whole company under fire.”
+“Unless  I requested you be fired. Then she could claim that she didn't make the decision.”
+“Exactly.”
+Hux took a minute to digest that information as the last piece of the puzzle slid into place. Now the bigger picture was looming, obvious.  Kylo must think him foolish.
+“Hey Hux?”
+He looked back at Kylo, who was a few steps closer than he had been earlier in the conversation. They hadn't even made it onto the couch, or into the kitchen for a drink, they had just hashed out this conversation in the middle of Kylo's cramped living room.
+Kylo had a pleased little smile curling around the edge of his lip.
+“Thanks for not getting me fired.”
+Hux sighed and rubbed his eyes. “There is absolutely no need to thank me for that, really, I shouldn't have -”
+A hand on his elbow derailed him mid-sentence. Kylo had closed the distance between them and was standing close to him, one hand on Hux's elbow and the other hovering in the air above the opposite bicep. Hux was suddenly aware of the fact that he was in a full suit and Kylo was wearing those damned yoga pants that had been distracting him for weeks.
+He should have taken the jacket off - the feel of Kylo's hand was dulled by the layers of fabric.
+“So, correct me if I'm wrong,” Kylo said, leaning even further into Hux's space.  Hux’s heart sped up at the proximity, the look in Kylo’s eyes, his  hand  on Hux’s  arm  - what was he, some victorian damsel? “but it seems like you weren't actually  averse  to my clumsy attempts to get your attention, just…” he trailed off, looking for the right words.  Kylo bit his lower lip distractedly,  distractingly. “...unaware, of the actual intent.”
+That other hand settled on Hux's hip, inside his suit jacket. Kylo's hot palm pressed over the bone while his long, slender fingers curled around the back, dipping precariously close to Hux’s ass. Kylo smelled good, too - some kind spicy aftershave and, undoubtedly, his own unique scent.
+“Now here we are, in my apartment, no one else around…”
+Hux couldn’t help but laugh softly at Kylo’s lack of subtlety.  Here they were indeed: Hux could only imagine that the two of them made an unlikely picture, him in a full suit before Kylo in workout clothes, his own pale hair and light eyes juxtaposed against Kylo’s sharp body and dark features.  Brown eyes were watching him closely, their faces so close together that it was hard to focus.  Hux brought his free hand up to curl around the back of Kylo's neck and pulled him forward into a surprisingly chaste kiss. There was a moment of near-perfect stillness, just lips pressed against lips, before the hand on his elbow spasmed and he was pulled hard against Kylo's body.
+Kissing Kylo Ren was like kissing a wildfire. All Hux could do was hold on and try to keep up as Kylo surged against him. Kylo dominated the kiss, thrusting his tongue into Hux's mouth while running his hands all over Hux's body, seemingly wanting to have them everywhere all at once. He took a step forward, forcing Hux to step back, corralling him until Hux felt the hard wall against his back. Kylo shoved him none-too-gently and then slid a leg between Hux's, thigh coming up to rub perfectly against the bulge between his legs. Hux had to break away from the kiss to moan.
+Kylo took the opportunity to suck biting kisses in a trail down Hux's neck. When he met the resistance of Hux's collar he yanked out Hux's tie and threw it on the floor, then unfastened the top few buttons of his shirt to grant more access to his neck. One hand crept up to rub at Hux's nipple through his shirt while the other clumsily pawed at the buttons on his chest. Hux tried to shrug his jacket off but he was pressed so hard against the wall he had no space, no leverage.
+That shouldn't have been as hot as it was.
+“God, Kylo, let me just -”
+Both of Kylo's hands came down to cup his ass, pulling him slightly away from the wall. It gave Hux just enough space to slip out of his jacket, then pull his button-down and undershirt over his head in one smooth motion. As soon as that was accomplished Kylo pulled up, lifting Hux clean off the floor, and giving him little option to keep his balance other than wrapping his legs around Kylo's waist.
+Kylo grinned wolfishly as Hux settled down between Kylo and the wall. The expression made the man look younger, softer, which was deeply ironic considering the very large, very  hard  length pressing against Hux's ass.
+Kylo nuzzled into Hux's neck.
+“You are so,” bite, “fucking,” bite, “hot,”  bite , Jesus Christ, “I can't even believe you're real.”
+“You're one to talk,” Hux said, squeezing Kylo's ridiculous biceps.
+Kylo just hummed against Hux's throat and gave a particularly sharp thrust, drawing another moan from Hux.
+“God, are you gonna fuck me or what?”
+“No.”
+Hux blinked.
+“What?”
+“Lube and condoms are too far away,” Kylo said, peeling himself off of Hux chest and setting Hux back down onto his feet. He dropped gracefully to his knees and made quick work of Hux's fly, knuckles brushing teasingly against the harness underneath. Hux barely felt it as Kylo tugged off his shoes, then pulled down his slacks and underwear and tossed them out of the way. He curled a hand under Hux's knee and lifted it onto his shoulder, kissing a line up Hux's inner thigh towards his straining dick.
+“Pull my hair,” Kylo mumbled against Hux's skin.
+Hux had one hand braced against the wall, so he took his other off of Kylo's shoulder and ran his finger through that dark hair. Kylo finally turned his attention to where Hux desperately wanted it, nuzzling against his cock before laving it with long strokes of his tongue. Kylo's mouth was terribly distracting and Hux lost himself to pleasure for a while before he remembered he was supposed to be filling a request.
+“Fuck you're good at that.”
+Hux curled his hand into Kylo's hair and tugged gently. Kylo looked up at him with an arched eyebrow as though to say  is that all you got?  before pulling off.
+“Harder,” he said before diving right back in, bossy even on his knees.
+Hux laughed. “Isn't that supposed to be my line?”
+Kylo pulled away from Hux's cock and Hux would deny to his dying day that he whimpered. Kylo brushed his lips lightly along a spot on Hux's inner thigh, then bit down,  hard. 
+“Oh  fuck.”
+Hux keened as Kylo sucked viciously at the bite mark with the clear intent to bruise - all Hux could do was hold on and try not to topple over. After a few moments he realized that his hand was clenched in Kylo's hair so hard it had to hurt.
+“Oh my god.”
+“I prefer Kylo, actually,” he said, detaching himself casually like he wasn't playing a fucking  vampire a moment ago.
+Hux groaned. “That is the worst, the  actual worst  line I've ever heard.”
+Kylo grinned devilishly up at him before sucking Hux's cock into his mouth and sinking all the way down, until his nose was pressed up against Hux's stomach. The one leg Hux was still standing on felt like it turned to jelly and buckled. Before he could regain his balance, Kylo grabbed it and pulled it over his other shoulder, so that Kylo and his strength were the only thing keeping Hux pinned to the wall.
+Hux buried both hands in Kylo's hair and alternated between scratching his scalp and pulling fistfuls of hair while Kylo tried his level best to suck Hux's brain out through his dick. At some point he pulled off long enough to get a finger wet, then sucked Hux back down while teasing his finger around Hux's hole.
+Hux didn't know how much longer he would be able to last. It didn't seem like Kylo needed to breathe, and he certainly didn't have a gag reflex. Everything was so hot, so unbelievable, that he almost came when the finger finally breached him and started moving in tandem with Kylo’s mouth. It was too much - too hot - and Hux felt like he was falling to pieces.
+“Kylo, fuck, I'm gonna…”
+The finger curled, searching, until it rubbed firmly over his prostate.
+“Fuck fuck fuck.”
+Hux came hard down Kylo's throat. He could hear himself making far too much noise for the undoubtedly thin walls of the apartment but he couldn't bring himself to care, grasping frantically at Kylo's hair as he wrung every last bit of pleasure from Hux's orgasm, until Hux was nothing but a pile of useless limbs leaning limp against the wall.
+The only sound in the room was his own harsh panting as he tried to catch is breath. Kylo tugged one leg off his shoulder, then the other, but Hux wasn't strong enough to support himself so he just slid to the floor, legs splayed on either side of Kylo's knees.
+Hux realized, then, that he hadn't even gotten Kylo's shirt off. He was splayed out on the ground, completely naked, while Kylo was kneeling still fully dressed.
+The picture shouldn't have been as hot as it was.
+Those damned yoga pants were tented obscenely in the front. Hux reached clumsily forward, wanting to help but lacking the coordination, but Kylo batted his hand away and pulled out his dick himself. And that was a  beautiful  cock, hard and long and just begging for a mouth,  Hux’s  mouth. But Kylo curled his obscenely long fingers around himself and jerked off hard, and after a handful of thrusts came messily all over Hux's abs.
+Hux tried not to be disappointed that he hadn't managed to get his hands or his mouth on Ren.
+Ren sat back and stared at Hux. He knew he must look a wreck - sweaty, mussed hair, dark bruise against his inner thigh, covered in Kylo's come - but he let Kylo look his fill. After several long, heated moments, Kylo stood.
+Hux grumbled.  He wasn’t getting up for at least 20 minutes. He hadn’t felt this tired, not to mention sated, after sex in a long time.
+“C’mon, we're not passing out on the floor,” Kylo said, tugging on Hux's arm. When he realized Hux had no intention of moving he yanked Hux up and half-carried him to the bedroom, where he tossed Hux onto his unmade bed.
+Hux could admit, as he burrowed into the soft blankets and buried his face in a pillow that smelled of Kylo, that this was much more comfortable than being slumped over on the dingey carpet. He was expecting the bed to dip behind him, for Kylo to crawl in after him, so when he started nodding off, still alone in the bed, he pried his eyes open to look for the other man.
+Kylo was standing at the foot of the bed, staring hungrily at Hux's exposed ass and thighs. Hux chuckled.
+“You gonna join me?” The words were muffled by the pillow but he was sure Kylo could get the picture. He even went so far as to hitch one knee up toward his chest, giving Kylo an unobstructed view.
+Hux finally felt the bed dip between his legs. He shifted, about to make room for another body to lie next to him, but Kylo stopped him with a hand to his thigh.
+“How long before you’re ready to go again?”
+The words were practically growled, Kylo's voice gravelly from Hux's cock.
+Hux hummed. “Dunno. Why, did you have something in mind?”
+“Well,” Kylo said, running a hand up Hux's thigh, “I was thinking about eating you out until you can't even speak, then fucking you until you're screaming my name.”
+“That,” Hux said thickly, “could probably be arranged.”
+
+
+**
+
+
+“So,” Hux said, taking a drag of his cigarette, “we should probably talk about what we’re going to do about work tomorrow.” He was leaning back against the bare wall where there should have been a headboard. Kylo lay face-down on the bed with the sheet pooled around his hips like an overly-muscled stud on a romance novel cover, which Hux was almost certain he was doing for effect. He couldn't complain, though - the position put the bruises and scratches Hux had proudly left on full display.
+The dark head next to him didn’t so much as twitch in acknowledgement of Hux’s words, so he tugged at Kylo’s hair.  
+“Are you listening to me?”
+Kylo grumbled out what sounded like “always,” but also could have been “go away.”
+“I’m meeting with that terrible woman in the morning, I have to know what to tell her.”
+Kylo groaned, then flopped over onto his side so that he was at least looking at Hux.  Hux could appreciate the sentiment - he hurt in muscles he didn’t even know he had, not even taking into account the state of his ass - but he needed to have a plan for tomorrow.  They both did. Hux had managed to make enough of a fool out of himself already, he certainly didn’t want to make it worse.
+“I could give you a few hickies above the collar.  That’ll speak for itself.”
+Hux flicked his ear.
+“I have a reputation to uphold.”
+“Mmm, I’m fine with being your bit of rough.”
+“I’m not telling her that we fucked it out, thank you very much.  I suppose I could tell her that it was a misunderstanding, but I don’t particularly wish to explain everything that went back and forth, and I can imagine you wouldn’t want that on your work record anyway.”
+“Hux,” Kylo grumbled, “you’re laboring under the delusion that I  care  what you say at work.  Come up with something, I’ll smile and nod.”
+“It’s your job.  How could you possibly not care?”
+“Because I don’t care about my job, obviously.”
+Hux took a drag from his cigarette.  “Rey seemed to think that your job is very important to you.”
+“Of course she does, she’s the one who got it for me, and she loves it there.  She’s doing work in her field and has eyes on promotions and upward momentum.”
+The words were said simply, without bitterness or regret, which Hux had a hard time believing was genuine.  He  had  wondered what Kylo was doing there, toiling away in a job that he clearly didn’t care about - though, seeing where the man lived, Kylo may actually be working for a living.  A meagre living, but a living nonetheless.
+The situation seemed strange, but Hux knew that he was still in a very transient place in Kylo’s life - he couldn’t exactly ask him about his hopes and dreams, nor should he really want to.
+“I can hear you thinking,” Kylo said, propping his head up on his elbow.  Hux trailed his fingers over Kylo’s shoulder, down his bicep, then back up, along his neck, and landed in his hair.  Kylo was a bit like a giant cat - pet him right and he purred.
+“I suppose it’s foreign to me, to not care about your work,” he said carefully.  “My work is my life, so it’s something I can’t really relate to.”  That was a bit of an understatement, but Hux didn’t want to make Kylo think he was looking down at him, or that Hux thought himself better than Kylo.  While that may be somewhat true, people typically reacted poorly to such notions.
+“I'm not at dumb as I act, you know.”
+“I never said you were dumb.”
+Kylo laughed. “Oh please, a high-achieving type-A like you? You didn't need to. You forget that I grew up in the same fancy private schools you did with the same stuck up high-society drones.”
+Hux raised an eyebrow.
+“Mmmm, c’mon, it's not an insult. You know what you are.  I like your designer suits and perfectly knotted ties - your fastidiousness makes it all the sweeter when I get to drag you down to my level.”
+ And it will be even sweeter still when I can drag you up to mine , Hux thought.
+“So then you don't you do something you're actually good at? Or at least something you enjoy.”
+“Honestly?” he said slyly. “Because it annoys my mother.”
+That was certainly not the answer Hux was expecting.
+“You live like this,” Hux said slowly, gesturing to the mess around them, “to annoy your mother. Isn’t that cutting off your nose to spite your face?”
+“I like my apartment, actually,” Kylo said with unexpected seriousness. “It’s real.  It’s mine.”
+There was a lot of meaning to unpack from that statement. Hux stubbed out his cigarette on an upturned bottle cap on Kylo’s end table and waited for Kylo to elaborate.
+“You know what it's like,” Kylo said, waving a hand vaguely in front of him like that was a suitable explanation. “Parents too busy with work to bother being parents, but at the same time expect you to turn out to be the perfect model of themselves. My mom wanted me to go into law, my dad business. I went to school for music for a little while, ended up dropping out. Started a rebellious phase to get their attention.”
+“Did it work?”
+“For a little while. But then they just kept lowering their expectations further and further so it was hard to outdo them.”
+Similarities in their backgrounds aside, that was not something Hux could relate to. Though his father was disappointed that Hux had chosen not to join the military, ultimately he accepted his son’s very respectable career as an accountant and small business owner. Both of Hux's parents were distant, both in childhood and adulthood, and they certainly would not have accepted anything other than Hux being the best that he could be in whatever field he may have chosen. It was clear that, whatever Kylo's relationship with his parents was like, they loved him unconditionally.
+Hux wondered if Kylo realized how lucky he was.
+“Where did joining a cult come in?”
+Kylo laughed. “That was not my proudest moment. My mom was  pissed  though, so I don't really regret it. I got sick of it after a while, though. They required you to give up your worldly possessions and remain celibate. Wasn't worth it.”
+Hux's initial assessment of Kylo seemed to be correct - he really  was  a diamond in the rough, only most of the ‘roughness’ was a facade. Hux positively itched with the possibilities, with the  potential  for this man.
+“So now here you are, working a job you hate in an lifestyle well below your means. Is your goal in life to just… be unsuccessful?”
+The question was worth asking - Hux wanted to know what, if anything, he could expect from a future with Kylo.  He was likely getting ahead of himself, but he liked to know his options.
+“I don't have a grand plan right now. My short-term goal is to fuck you in as many places and in as many positions as you'll let me,” Kylo said with a wink.
+Hux groaned. “You're not half as charming as you think you are.”
+“You're in my bed, aren't you?”
+“Touché.”
+“And we're not so different, you and I.”
+“I beg to differ.”
+“Oh? You didn't go into the military like your father wanted. And I can't imagine your mother would approve of a brute like me for even a moment.”
+Hux struggled to come up with a suitable response. Kylo was surprisingly perceptive for someone who appeared to blunder through life with the subtlety of a sledgehammer.
+“Hush.”
+“General  Hux does have a nice ring to it.”
+“I'll take you over my knee, don't think I won't.”
+“Hot. Are you gonna punish me, General?” Kylo wrapped an arm around Hux's waist and pulled him across the distance separating them. “Make me say that I'm sorry? Make me do whatever you tell me to?” Kylo loomed over him. “I would, you know,” he whispered against Hux's lips.
+“You are incorrigible,” Hux murmured, but let Kylo kiss him anyway. “And insatiable.”
+Kylo hummed in agreement.
+
+
+**
+
+
+ 
+
+Kylo Ren (9:57 AM): 10 things i learned about hux
+Kylo Ren (9:57 AM): 1 the carpet matches the drapes
+Rey Skywalker (9:57 AM): oh my god seriously please do not
+Poe Dameron (9:57 AM): Are you actually kidding right now?
+Rey Skywalker (9:57 AM): don’t you dare
+Kylo Ren (9:57 AM): 2 hes super bendy.  and i mean b e n d y
+Finn Galfridian (9:58 AM): I have to talk to Hux, she said
+Kylo Ren (9:58 AM): 3 he doesnt have a gag reflex
+Rey Skywalker (9:58 AM): literally no one here wants to hear about your sexual escapades
+Finn Galfridian (9:58 AM): I have to make sure Kylo doesn’t get fired, she said
+Poe Dameron (9:58 AM): You literally received an official reprimand for inappropriate language on the inter-office chat this week!!
+Kylo Ren (9:58 AM): 4 he likes to switch. i have my preferences but some dudes are dedicated to one r the other and sometimes its fun to change it up so thats nice
+Poe Dameron (9:58 AM): Clearly you did not learn your lesson.
+Finn Galfridian (9:59 AM): THANKS A LOT REY
+Kylo Ren (9:59 AM): 5 hair pulling
+Rey Skywalker (9:59 AM): OH MY GOD LIKE THIS IS MY FAULT?!??
+Poe Dameron (9:59 AM): Keep your sex conversations out of the office and off of the office computers.
+Rey Skywalker (9:59 AM): I was trying to make sure that Kylo didn’t get fired and ruin everything for everyone
+Kylo Ren (10:00 AM): 6 hes rly lite so hes super easy to hold up for long amts of time
+Finn Galfridian (10:00 AM): just saying…
+Rey Skywalker (10:00 AM): I WASN’T TRYING TO GET HIM LAID
+Poe Dameron (10:00 AM): Next time you get in trouble you’re not going to have a white knight to save you from yourself.
+Rey Skywalker (10:01 AM): you were the one who was trying to convince him to actually try something with Hux
+Kylo Ren (10:01 AM): 7 bruises like a peach
+Poe Dameron (10:01 AM): You’re just going to be fired.
+Finn Galfridian (10:01 AM): oh please you know he wasn’t going to do anything about it
+Kylo Ren (10:01 AM): 8 volume. damn. had my neighbor banging on the wall n it was awesome
+Finn Galfridian (10:02 AM): if you hadn’t given Hux his address none of this would have ever happened
+Rey Skywalker (10:02 AM): I accept no responsibility whatsoever for this trainwreck
+Kylo Ren (10:02 AM): 9 he smokes and i never thought smoking was hot before but dam id never seen hux in my bed smokng a cigarette before
+Rey Skywalker (10:03 AM): Mister You-Should-Have-a-Plan-to-Seduce-Him
+Finn Galfridian (10:03 AM): I WAS TRYING TO GET HIM TO STOP TALKINGGGG
+Kylo Ren (10:04 AM): 10 that man is up for anything and i mean anything ;))))))
+Rey Skywalker (10:04 AM): WE’RE ALL TRYING TO GET HIM TO STOP TALKING
+Finn Galfridian (10:05 AM): just kill me now
+
+
+
+
+Chapter End Notes
+So that's a wrap folks!
+I was considering writing a short epilogue (and still might) but for now I'm gonna mark it as complete because I can't guarantee that I'll actually write it, and I feel like it doesn't NEED an epilogue to be finished.
+This is my first completed fic! Yay! 
+(as those of you reading from the beginning may have noticed, I am not the most consistent or reliable writer, which is why I usually don't write fic - I feel bad for starting things and then remembering them 2 months later)
+Thank you all for the kudos and comments.  I read them and loved them all, even if I didn't reply.
+Special thanks to brawlite, my beta and literally the only reason this fic was started or finished in the first place.
+Also, you can find me on tumblr.
+
+
+
+Afterword
+Please drop by the archive and comment to let the author know if you enjoyed their work!
+
+
+

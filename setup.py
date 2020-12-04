@@ -21,7 +21,7 @@ def main():
 
     # Send the following command with the subprocess command to determine the path
     # variable set up for python.
-    python_commands = [}
+    python_commands = []
     command = subprocess.Popen("python3 -V", shell=True, stdout=subprocess.PIPE,
                                 stderr=subprocess.PIPE)
     command_output, command_error = command.communicate()

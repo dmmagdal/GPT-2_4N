@@ -1,0 +1,264 @@
+
+
+
+
+Domo Arigato Mr Roboto - NyxEtoile-OlivesAwl - The Avengers Marvel
+p.message{text-align:center}.meta h1{font-size:1.5em;text-align:center}.meta h2{font-size:1.25em;text-align:center}.meta h2{page-break-before:always}.meta .byline{text-align:center}.meta dl.tags{border:1px solid;padding:1em}.meta dd{margin:-1em 0 0 10em}.meta .endnote-link{font-size:.8em}#chapters{font-family:"Nimbus Roman No9 L","Times New Roman",serif;padding:1em}.userstuff{font-family:"Nimbus Roman No9 L","Times New Roman",serif;padding:1em}.toc-heading{display:none}
+
+
+
+Preface
+
+Domo Arigato, Mr. Roboto
+    Posted originally on the Archive of Our Own at http://archiveofourown.org/works/4314204.
+  
+
+
+Rating:
+General Audiences
+Archive Warning:
+No Archive Warnings Apply
+Category:
+F/M, Gen
+Fandom:
+The Avengers (Marvel Movies)
+Relationship:
+Pepper Potts/Tony Stark, Clint Barton/Natasha Romanov, James "Bucky" Barnes/Original Female Character(s), Sharon Carter/Steve Rogers, Darcy Lewis/Original Male Character(s), Bruce Banner/Original Female Character(s)
+Character:
+Avengers Team (MCU), Jarvis (Iron Man movies), Original Characters
+Additional Tags:
+Slice of Life, POV JARVIS (Iron Man movies), Snarky Jarvis, Fluff, Domestic Avengers, Domestic Fluff, POV First Person
+Series:
+Part 11 of
+Tales From the Tower
+Stats:
+
+        Published: 2015-07-18
+          Chapters: 2/2
+        Words: 6926
+      
+
+Domo Arigato, Mr. Roboto
+by NyxEtoile, OlivesAwl
+Summary
+
+
+
+Six in the morning is the most common wake-up time in the building, so I am chiming in apartments of every floor. The more people I am interacting with simultaneously, the more rote and the less customized the interactions become. Some tasks are more processor intensive than others.
+
+Ms. Potts is one of the 6AM wakers, which means Mr. Stark will be up soon.
+
+I wait patiently for him to drink a minimum of three ounces of coffee before speaking to him. "Sir, you have a publicity meet-and-greet at eight thirty."
+
+"In the morning?"
+
+"Yes, sir."
+
+"Why?"
+
+"I merely keep the schedule, sir, I do not make the appointments."
+
+Notes
+A day in the life of JARVIS. And a little calm before the storm that is our Ultron Adaption Heavy Boots of Lead.
+
+
+
+
+Chapter 1
+
+
+
+
+June 17, 2017
+12:01:00
+The day begins at 12:01. This makes perfect sense from a timekeeping perspective. The midpoint between dusk and dawn. At least, it was before railroads required the standardization of timetables. Noon became a fixed point rather than simply an approximation of the apex of the sun.I don’t think I would have handled the olden days well.In any case, for the rhythms of human life, midnight is a strange breaking point. A great many people now—including many of my charges—consider it part of the day before, as they are still awake. The change of day is marked by some vague point between sleeping and waking.Statistically, the building-wide lull in activity occurs between 3:30 and 4:30 AM. The night owls are mostly asleep, and even the most determined early bird hasn’t yet stirred. Mean is 3:57. Median is 4:02. If ever I need to reboot one of my servers, I do it now. The arrival of the babies threw the math all to hell for a while. There is often overlap, between those sleeping and those waking, but I generally consider the day to have begun in earnest when the first of the morning rises for the day.My earliest charge is also my smallest.
+04:26:44
+Edith Barnes weighs 5.8 kilograms this morning. I record her weight every morning when she wakes. She’s not a quiet baby, but she is a slow waker, prone to being very upset by the time she’s fully up and wanting her needs tended to immediately. I vibrate the pod she sleeps in gently, and sound a chime in her parents’ bedroom. “Good morning. Your daughter is stirring. She’s gained 46 grams today. Respiration, heart rate and temperature are normal. She has extracted her arms from the swaddle, again.”Doctor Newbury-Barnes exhales forcefully but lifts her head and fumbles for her glasses. "Thank you, JARVIS," she says in the general direction of the ceiling. Sergeant Barnes sleeps on. He had the evening shift and so is allowed to sleep in.The volume of complaint Miss Edith emits rises in volume. I begin preparation of her breakfast.During Mr. Stark's foolhardy attempts to avoid any sort of childcare, he built a number of devices  designed to streamline caring for Miss Ruby. Some were failures, some Ms. Potts informed him were 'creepy,' and some turned out to be smash hits. The bottle dispenser is one such invention. It dispenses baby bottles with the proper amount and at the proper temperature, sealed and sterile. It can dispense formula and/or breast milk, whatever it's been loaded with, and takes the used bottle back for cleaning and reuse. There are five installed in the tower: three belonging to Mr. Stark and Ms. Potts, the one here, and one down in Mrs. Marsh's apartment. Mr. Odinsson has been asking to install one to dispense protein shakes."You really should sell these things," Dr. Newbury-Barnes says as she retrieves Miss Edith's bottle."Mr. Stark has estimated they would need to retail for four to five thousand dollars just to break even.""Well, that is a little impractical." She brings the bottle to Miss Edith's room and retrieves the baby from her pod to change her diaper before sitting in the rocking chair to feed her. Miss Edith immediately settles, calming before the worst of her fussing could begin. Another crisis averted.
+04:51:00
+Not all of the night owls are asleep yet.Several floors down, Ms. Lewis and Mr. Bennett are playing a video game. They'd asked me, several hours ago, to notify them when sunrise was approaching, should they still be up. They are still up."Civil twilight is commencing now. Sunrise at 5:24 AM.""Well, shit." Ms. Lewis is prone to profanity. "One more level?" she asked her partner."We do have blackout drapes," he replied."You also have a meeting at 11:15," I inform Mr. Bennett. Ms. Lewis keeps normal business hours as well, but I've noticed she handles sleep deprivation better. Mr. Bennett has a bad back."Come on," Ms. Lewis said, pausing their game. "You need at least a couple hours of sleep.""What if I'm not tired?""I'm sure I can help you with that."
+Privacy mode engaged.
+
+05:24:00
+Many, many people like being woken at dawn. It's an imprecise request, different every day. Their circadian rhythms would do better with a consistent time, but who am I to argue? I'm just the help. I don't try to judge when the sun is actually visible. I just use NOAA's published time. I wake 18 residents at this time. The only one on the Avengers Floor is Captain Rogers. He likes to be woken by dawn itself, positioning his bed toward the due-east facing window of his bedroom. My wake up call is a recent addition, as his curtains are now closed. Ms. Carter is not a morning person, and his habit had been a point of contention. I am only to chime until Captain Rogers has emerged into the living room. "Good morning," I tell him, then repeat a summary I greet most of my charges with in the morning. "It's currently 67 degrees outside. Today's high is 88, with clear skies and a 5mph wind out of the northwest." For him, I add, "Your running shoes are under the couch." "Thanks." Captain Rogers is one of the most casual in replying to me, though he, like most, never fails to thank me for my services. "Can you remind Sharon about her nine o'clock with Hill? I don't think she wrote in on her calendar." Ms. Carter insists on keeping a paper datebook that she relies on far too heavily for my tastes."I will do that."I call the elevator from the basement so it's waiting when Captain Rogers goes out for his run.
+06:00:00
+Six in the morning is the most common wake-up time in the building, so I am chiming in apartments of every floor. The more people I am interacting with simultaneously, the more rote and the less customized the interactions become. Some tasks are more processor intensive than others. I pause to scan the Marsh apartment. Miss Ada is still asleep. Yesterday she wanted me to explain the physics of the formation of hurricanes in the middle of morning wake ups.Ms. Potts is one of the 6AM wakers, which means Mr. Stark will be up soon. This is when my day begins in earnest, turning on lights and appliances, sharing news and weather and current statistical data. After Ms. Potts finishes her morning toilette she requests her schedule as she fixes coffee for herself and Mr. Stark. When I've run through all her meetings and reminders I add, "Mrs. Marsh requested you send extra snacks for Miss Ruby today as she is running low. Her grocery order has been sent and is expected this afternoon.""Got it," she said. Mr. Stark stumbles out a few minutes later. I wait patiently for him to drink a minimum of three ounces of coffee before speaking to him. "Sir, you have a publicity meet-and-greet at eight thirty.""In the morning?""Yes, sir.""Why?""I merely keep the schedule, sir, I do not make the appointments. Your dark grey herringbone bespoke suit has been pressed for the occasion.""Pepper," he calls. She replies with, "Ask Jess.""JARVIS, no more appointments before noon until Ruby decides to sleep in her own bed again."I am not certain where this 'again' notion comes from. The last night Miss Ruby did not sleep some portion in their bed she was eight days old. And that was only because she'd mostly slept on Mr. Stark, who was in the rocker.I do not point this out. "Very good, sir." I block out his morning for the next six months, with a note to continue based on his parameters.Speaking of Miss Ruby. Her heartbeat and respiration has increased, indicating she is near waking. I relay the information mere seconds before she lets out her first wail.Conveniently, something else require my attention.
+06:28:22
+It appears one of my smaller charges is about to get himself into trouble. Young Neil Marsh is out of bed and sneaking rather determinedly towards the kitchen. As he is not authorized to use any of those appliances, it is in his best interest if I inform his mother of his wandering.Unfortunately, based on respiration, heartbeat and body temperature, Mrs. Marsh and Dr. Banner are stealing an. . . intimate moment this morning.The majority of my charges, aside from Mr. Stark, have privacy mode engaged in the bedrooms at at night. Save for emergencies and agreed upon wake-up procedures I am to leave them undisturbed while in said room. Mrs. Marsh is a rare exception to said rule. My sensors run in the bedroom constantly, as they do in public rooms. The aberration confounded me at first, until I took her history into account. Her late husband died suddenly in his sleep. Now that she has begun what appears to be a serious relationship with Dr. Banner, I’m sure certain fears about history repeating itself have come to the surface."Apologies, Mrs. Marsh, but Master Neil appears to intend to make his own breakfast this morning."Dr. Banner makes a noise reminiscent of a growl, but sensors indicate he is not agitated enough for a transformation."Thank you, JARVIS," Mrs. Marsh says, polite as always. After a whispered. "Later," to Dr. Banner she adds, "Can you wake Ada if she's not already?""Yes, ma'am," I tell her and then sound the chime in the little girl's bedroom.I would not admit to it, if asked—propriety and discretion being the order of the day—but Ada Marsh is my favorite, of all my charges living in the Tower. "Good morning, Miss Ada." I tell her the weather like everyone else, and then add her daily trivia. "Today in 1885 the Statue of Liberty arrived in New York. It's also the birthday of the inventor of the chocolate chip cookie. There are 81 days until school starts and 191 days until Christmas. Your word of the day is Irreverence, a lack of respect for people or things that are generally taken seriously.""I know that one, already. My principal says Mr. Stark is irreverent." Ada's principal is rather astute. "Did the inventor of the chocolate cookie invent cookies in general or just think to add chocolate to an original one?" She was now out of bed and pulling out her clothing for the day. "The Statue of Liberty was a gift from France, right? What's she made out of and why is she green?""Ruth Wakefield created the cookie from scratch. She was the proprietor of the Toll House Inn in Massachusetts—hence, Toll House cookies. Chocolate chips, such as we know them, were created later, by Nestle, after buying the rights from her. That Statue of Liberty is from France. It's made out of copper and that is why it is green. Copper oxidizes when exposed to air, the chemical reaction leaving a green coating. When iron does the same, it turns reddish brown as rust.""So she was copper colored when she first came?""She was. Though the oxidization process would have already begun. Her sculptor originally wanted her plated in gold. It's probably going to be too warm for jeans." I add the last bit as she seems to be stumped on her choice of pants."Thank you." It's said in the distracted tone most of Mr. Stark's responses come in. "If they'd plated it in gold then people probably would have stolen it. Like on the pyramids." Miss Ada went through an Egyptian phase at the end of the school year. "That would likely require New York to first go through a fall of government and possible barbarian invasion, leading to a time of lawlessness and chaos.""And the Avengers won't let that happen, right?" I can hear a faint thread of concern in her tone. Miss Ada is brilliant, but she is still a child."Of course. They could fight off Ghengis Khan.""The one from Star Trek?""The Mongol Emperor. He's been dead a long time.""Was he in Mulan?""Wrong dynasty, Miss.""Okay. I have to eat breakfast now. Thank you for keeping me company, Mr Jarvis.""I am at your service as always, Miss Ada."
+07:42:13
+Mr. Odinsson has broken his shower head off the wall, and water is spraying everywhere."I have summoned a plumber," I inform him, as I have."I can fix it," he insists."Standing there with your thumb in the pipe is not fixing it," Dr. Foster insists. There are no cameras in the bathrooms, so I did not see what happened. I only know they were both in there at the time, so can only assume the obvious.The residents of this building are particularly amorous this morning. Perhaps it's the approaching solstice. I do wish these two would cease damaging the bathroom. It's always the bathroom."Maintenance has been informed and will be shutting the water off to your unit momentarily.""Thank you, JARVIS," Dr. Foster says, exasperated. I set one of my under utilized processors to researching industrial plumbing features.
+07:59:44
+Mr. Stark has gone back to sleep. "Sir, you have an appointment in thirty minutes and you need to shower."His response does not bear repeating. Nevertheless, he gets up and a moment later the shower turns on. It is a small matter to limit the hot water temperature, forcing him to take a chillier shower than he'd like. Cold water, I am told, is bracing."What else is on the agenda today, JARVIS?" Finally, coherence and no cursing."You have a conference call at 10:30 with a team from software engineering in the LA office. You are having lunch with Colonel Rhodes at noon. You have a meeting at 2:15 with Captain Rogers and Mr. Odinsson. You did not tell me its purpose.""We're planning your birthday party. It was supposed to be a surprise.""You should consider not having the meeting where I am able to see it, sir." Sometimes, I simply ignore Mr. Stark's sarcasm."What's the stats on Banner sleeping in Violet's room?" he asks in a seeming non sequitur.I add last night to the total and respond, "Seventy-four point three percent.""Old dog," Stark mutters. "I'm asking Cap and Thor to donate some of their apartment space to Banner so he has room for Violet and the kids to move in. Her floor isn't properly reinforced for the big guy.""I was not aware they planned to move in together.""Well, if I leave it up to him they'll be old and grey and the kids will be in college.""Isn't that a tad presumptuous, sir?""No, JARVIS, when I do it's charmingly meddlesome."There is no arguing with him. "I will have the desk prepped for architectural renderings.""Thanks, buddy." Mr. Stark, I believe, actually does think of me as a friend, something I find quite gratifying.As he goes about his morning, I wonder if I ought to warn Mr. Odinsson and Captain Rogers about the content of the impending meeting. Being asked to sacrifice ones space is often more of an imposition than I suspect Mr. Stark realizes. Mr. Odinsson and Dr. Foster don't use their second bedroom, but I am aware their lack of children is a sore spot. The conversation could be awkward. Captain Rogers and Ms. Carter do use their spare room. They had the video and audio sensors disabled in there, so I suspect its use is of the sort neither of them would like to discuss with Mr. Stark.Mr. Stark also has certain beliefs about Captain Rogers that are such that I am unsure if he would be able to handle the knowledge that the Captain has such a room in his apartment.A great many people's impressions about the private lives of others are incorrect. I see it all, so I know the truth. But it's not my place to divulge.Except in certain circumstances. 
+08:22:15
+Dr. Newbury-Barnes is in the elevator heading to her lab. She began going down there a little bit every day just about as soon as she felt physically able after having Miss Edith. Sgt. Barnes asks me a lot of questions on mornings when she's down there. "Hello, Dr. Newbury-Barnes. You requested I inform you when Mr. Stark is showing increased indicators of hypertension."She sighs. "External factors?""Sleep deprivation due to Miss Ruby's sleep schedule. He has an early meeting. And I believe is attempting to meddle in Dr. Banner's personal life.""Right. Keep me posted. If it persists I'll talk to Pepper about getting him on medication again.""We could always hide it in his drinking water.""I think that's illegal," Dr. Newbury-Barnes says, even though I know she threatens her patients with that all the time,"Not if I do it, Doctor. Legal has determined that I cannot be prosecuted for crimes."She pauses before stepping into the infirmary. "That's very good to know.""I should inform you it is possible Mr. Stark could be prosecuted for crimes I commit. Though not, I'd imagine, against himself.""Oh, Stark has excellent lawyers. What's my appointment schedule today?""Remarkably light, though you asked I remind you to go over the progress reports on the serum subjects.""Yes, thank you. I need to sign off on those.""Also, your 10:30 is Ms. Romanov. She has pulled the stitches on her leg again. I believe she is coming to see you under duress.""She usually is. Fortunately, my lollipop jar is fully stocked." Several of Dr Newbury-Barnes's patients are often reluctant to go to the doctor, including Mr. Stark. For the most part, they have loved ones that will drag them there, though when needed, I obviously fill in. Fortunately, Mr. Barton it quite adept at handing Ms. Romanov, so I need not attempt.
+08:37:24
+Mr. Stark takes off seven minutes late for his press event. That's reasonably close to punctual for him. I am in two places at once: wherever he goes in the suit, and here in the Tower. Fortunately, when Mr Stark is not in combat, my duties in the suit are simple. I can easily monitor his vitals, correct flight patterns and balance power loads while completing my duties at the Tower.I run simulations for Dr. Banner as I approve the plumber who has just arrived. Meanwhile, I send plumbing fixture options to Dr. Foster's terminal, engage the fire suppression system in one of the R&D labs and slightly correct the temperature controls in one of the administrative bullpens as more workers arrive.Ms. Carter is running late for work and I hold the elevator for her to save her seven seconds. She doesn't know I do it, I don't generally announce little things like that. Some of my charges go back and forth between a desire not to be, well, monitored, and enjoyment of the conveniences I provide them.The job of a good butler is to see everyone's lives run smoothly, without any of them every noticing you there, providing the grease.
+10:02:18
+The morning progresses as normal. Mr. Stark's event finishes without incident and he returns home in time to visit Miss Ruby for a few minutes before preparing for his video conference. Mr. Neil is excited, as always, by the arrival of Iron Man in his home, which I presume is the reason Mr. Stark didn't bother removing his suit.I remind Ms. Romanov of her appointment with Dr. Newbury-Barnes. She responds only with a grumbling noise. Her body temperature is elevated. She has spent the majority of her morning in the bedroom, where privacy mode is engaged, so I can’t tell if this is a sign her wound is infected, or if she and Mr. Barton had the same urge apparently everyone else had this morning.I log a note in my system to research if there’s a connection between the approaching solstice and libido, and inform Dr. Newbury-Barnes of the temperature, just in case.
+
+
+
+Chapter 2
+
+
+
+
+11:30:33
+
+Now begins lunchtime. Lunch hour is a misnomer in this building, at least on a grand scale. Due to the variety of schedules workers begin to order and filter out of the building as early as 11:24 and continue to do so until 2:05pm, generally speaking. This is a busy time for me as I must monitor all comings and goings, approving any and all deliveries. Facial recognition software in the elevators and stairwells helps with this.
+
+12:49:46
+
+There's a fire in the cafeteria, which we get under control without having to evacuate the building. But it does cause a food shortage, which increases the frequency of people pinging me for takeout menus. Far, far more people work in the Tower than live here—obviously—so the middle of the day can get quite hectic.
+
+14:34:01
+
+It quiets down again mid afternoon. I briefly eavesdrop on Mr. Stark's meeting with Captain Rogers and Mr. Odinsson and find the other men trying to convince Mr. Stark to discuss the matter of cohabitation with Dr. Banner and Mrs. Marsh before starting construction. Mr. Stark has become much easier to handle now that he is surrounded by more reasonable people who are willing to argue with him.
+
+15:21:04
+
+Miss Ada has arrived home from her summer camp and is eagerly updating me with what she learned. Today was a part of Geology week and she has several samples of rock she is lining up on her desk shelves.
+"Did you dig those up yourself?" I ask her.
+"Yep. We went on a field trip and they gave us little shovels and sifters and we got to dig in the dirt and pan for stuff in a little creek. My teacher said this one is quartz."
+"That is a type of quartz called Milk Quartz. Its color is generally caused by minute fluid inclusions of gas, liquid, or both, trapped during the crystal formation."
+She turns it in her hands, letting it catch the light from her window. "Mom says I can be anything I want when I grow up but is there a limit to how many things I can be?"
+"There is a limit it just about anything, Miss Ada. Eventually you will simply violate the laws of physics."
+She sighs deeply. "I want to study space like Dr. Jane Foster. But I also want to study chemicals like Dr. Newbury. And radiation and energy like Bruce. Now I'm interested in rocks, but I also like art and my teacher says I'm a very good writer. So I don't know how I'm supposed to pick just one or two things when there are just too many things I want to be."
+"You can study as many things as you want to," I tell her. "A number of the people here have multiple degrees in different disciplines. Dr. Newbury-Barnes has two postgraduate degrees. Dr. Foster has three. Dr. Banner has four. Or you could study and do what you want informally. Mr. Stark finished his bachelor's degree at 17 and stopped with school. He teaches himself whatever he wishes to learn, and his knowledge level is likely equivalent to perhaps five degrees, and counting."
+Miss Ada appeared to consider that a moment or two. "Can you put information about geology on my terminal? If I'm going to be smarter than Mr. Stark I need to get started."
+I load her terminal with beginner level information, and queue up more advanced topics for the eventual digging she will do. I have no doubt Miss Ada could, in fact, achieve her goal. I imagine Miss Ruby will have a mind of similar caliber. It pleases me, in so much that I experience things that approximate emotion, that when they are older and the age gap becomes a trifle, I expect they will be friends. To have not been alone with that kind of genius would have done Mr. Stark a great deal of good.
+Miss Ada's mother is out in her kitchen at the moment, trying to coax Miss Ruby into eating mashed yams. "Mrs. Marsh?"
+"Yes, JARVIS?" Newcomers have various reactions to my presence. Many never quite become comfortable with the idea of my constant vigilance. Mrs. Marsh, on the contrary, has embraced having an assistant who will act as a second pair of eyes and ears if not hands, to aid her in her day to day activities. A reaction I suspect many single parents would share.
+"Does Miss Ada take any art classes?"
+If she is surprised at the inquiry it doesn't show. "During the school year she does Art in Action after class once a week. Her camp schedule didn't allow for it during the summer."
+"She listed it amongst a list of goals and interests that included a wide variety of science. Science is an area where she does not lack for role models around here."
+She leaned back in her chair and pinches her nose a minute. "Okay. I guess I could look into private lessons." She stops and glances up at the ceiling. "Do you think Captain Rogers would be willing to work with her? Bruce has mentioned he sketches."
+"I'd be happy to ask him. Both he and Ms. Carter are fairly accomplished artists. All of the photography hanging on the walls of their apartment are hers. As is the image of the Kangshung Glacier in Dr. Banner's apartment, which I expect you've seen. Captain Rogers also painted the mural in Miss Edith's bedroom."
+"Oh, I didn't know Sharon did all those photos." Miss Ruby has summarily rejected her yams and Mrs. Marsh appears to have conceded defeat and is cleaning the infant's face. "If you get a moment, could you ask the Captain if he'd be willing to teach Ada? I can find a private tutor elsewhere if not. And in any case, ask him what some good beginner art stuff would be? She has crayons, but if she's serious about it then we could get her some paints or pastels or something."
+"I will ask him when he returns. He decided to take a long training run this morning and is still out." Occasionally, Captain Rogers likes to run very long distances, just to see what his endurance is. He tasks me with finding him trails and paths and side roads so he is not running alongside highways distracting drivers. Today's journey was to the end of Long Island and back.
+"Thank you." She sets Miss Ruby on the living room floor to crawl around. "Are you still keeping Ada's birthday list for her?"
+"Of course."
+"Send it to me tonight so I can start buying them. And I need to plan the party. Is she still fighting with her friend Erin?"
+"No, Erin brought her a friendship bracelet and shared a cupcake with her two days ago. They are now fast friends again."
+"Oh, thank God. That make invites much easier."
+"Last I asked, she was still insisting she wants to have her party at Madame Tussauds."
+"The wax museum?"
+"You may have noticed your daughter is an unusual child." There is currently a display of wax figures of the Avengers there, though I don't think that's specifically her interest.
+"Last week it was behind the scenes at the zoo. Before that it was a sleep over a the planetarium." Mrs. Marsh sighs, though vocal pattern indicates more affection than exasperation. "I'll give her two days to decide, then she's stuck with it."
+"I am holding reservations at all locations, but two days is probably about as long as I can. Hayden Planetarium will likely hold longer." Its director is a friend of Dr. Foster. Astrophysics is a small world. Though that does draw something to mind. "If you'd like me to attempt to influence Miss Ada to a decision, perhaps I could ask Dr. Foster if she'd come give a talk during the party."
+"Oh, JARVIS, you're brilliant. I really don't want to go to the wax museum."
+
+16:47:51
+
+Birthday parties are not the only event planning I end up involved with. "Dr. Newbury-Barnes? Do you have a moment?"
+A sigh. A document is saved from her terminal and she responds, "Yes. What's up?"
+"The hotel room block for your medical symposium has sold out again. The hotel is inquiring if you would like to reserve another block."
+"Yes, please. I'm still expecting a few last minute attendees. Can you make sure Helen Cho is on the list? She's having issues with the airline, but I'm sure she's coming."
+She is, in fact, on the list. "Affirmative, including hotel booking."
+"Great, thank you, JARVIS. Any other problems I should know about?"
+"There are not. I will of course inform you if any pop up."
+"Thank you. And if I ever get it in my head to host one of these things again please remind me that I hate it and to not to."
+"Is this like when you seriously ask me to remind your stomach no longer allows you to order vindaloo? Or when you unseriously tell me at 0400 to keep you from having any more children?"
+She thumps her head lightly on her desk. "Ask me again after it's over."
+I make a note to do so. I also inform her staff that someone ought to bring her another cup of tea.
+
+18:09:34
+
+I have confirmed art lessons with Captain Rogers—who is extremely flattered—and an astronomy lecture with Dr. Foster—who is very excited.
+"I'll have Thor pop in as well," she tells me.
+"I imagine that would delight a group of six year old girls."
+"Thor delights all groups of girls, of all ages," Ms. Lewis interjects from her desk. 
+"Darcy."
+"He does. Oh, he could bring a bunch of tiaras and crown them all space princesses."
+"Do little girls like that sort of thing?" Dr. Foster asks.
+Ms. Lewis shakes her head. "Yes. Didn't you ever dress up as a princess as a little girl?"
+"I was Marie Curie for Halloween once."
+After staring at her colleague for a moment, Ms. Lewis says, "I suppose that's kind of like a science princess."
+"Once I dressed as Galileo's wife."
+That's strange enough I beat Ms Lewis to, "Why?"
+"Because I went to a backward Catholic school. We had an assignment to dress as who we wanted to be when we grew up. The teacher told me I could not be Galileo, because he was a man, and I was not, and that was cross dressing."
+"Nuns are weird," Ms Lewis says.
+"She suggested I be his wife instead." She smiles. "I hope she saw me on the cover of National Geographic."
+"If you give me her name I can send her a copy," I offer. I have served Mr. Stark far too long to not appreciate the value of petty revenge.
+
+17:48:02
+
+Mr. Stark and Ms. Potts are having an argument.
+"Tony. We had a whole conversation about how you're not building a bunker. I remember it distinctly."
+"Circumstances have changed since then. Also, that was about a bunker under a mountain, this is a bunker under the building, totally different."
+He's pacing in circles with the baby. She's hovering on the edge of his path, not quite following him in circuits of the room, but obviously wanting to. "I'm willing to indulge your protective instincts up to a point, but you're starting to wander into paranoia.”
+I do not wish to agree with that, but I do.
+Mr. Stark sighs and shifts Miss Ruby higher onto his shoulder. "Does it help at all that it's not for you?"
+That clearly surprises her. "Then who is it for?"
+"Violet and her kids. And anyone else in danger, of course, but mostly her and the kids."
+She shakes her head. "Why?"
+"Because the Other Guy likes them. A lot. Near as Bruce can tell he thinks of them as his. Which means if something like the Chitauri happens again there's no way we're getting him to help if they're in danger. He'll stay to protect them."
+"You could teach a masterclass on loopholes, you know that?"
+"Don't knock it. Loopholes are how we ended up with Violet in the first place."
+"Touche," she replies. 
+He stops in front of her and speaks in a softer, more sincere tone. "I know you don't like it, and I'm sorry. I don't actually set out to piss you off. But it isn't just about use anymore. There's kids in the building. Innocent people. Amanda got kidnapped last year. Someone went after Sharon. Avengers are targets and I can't sleep at night knowing I haven't done everything in my power to protect those who can't protect themselves."
+"All right," she said. "Build your bunker." She pauses. "I do feel compelled to point out that both Amanda and Sharon would be out there with you if the Chitauri came back." Another pause. "Though, yes, I imagine Amanda would like somewhere safe to put her daughter while she does so."
+"Also, I'm building her a suit," Mr. Stark says, back to his usual irreverent tone. "Sharon is Cap's problem."
+Sensing my opening, I inform him. "The architect and structural engineer are both available tomorrow. I believe we could repurpose an existing sub-basement and have a streamlined permitting process. Could be completed in as little as six weeks."
+"See?" Mr. Stark says. "Minimal impact on everyone involved."
+"Go plan," Ms Potts says. "Have fun with your friend."
+"Thank you dear." He hands her Ruby with a kiss to both their cheeks. "JARVIS, meet me in my lab."
+"I'm already there, sir."
+
+19:02:08
+
+"Mr. JARVIS? Do you have a birthday?"
+I have noticed, though I have not done any formal statistics, that Miss. Ada gets quite philosophical in the hour between her dinner and bedtime.
+She also asks me questions no one has ever asked. "I was first booted up on April 22, 2000."
+"Oh, then I already missed it." This appears to upset her greatly. "Is there anything you'd like as a belated gift?"
+"I have no material needs."
+She glances up at the ceiling, as many of my charges do when they're speaking to me. "Do you have immaterial needs?"
+"I had not thought of that. I suppose there are always things one wants."
+"I'm very helpful. And Mom says I'm remarkably persuasive for someone my size."
+I do not doubt that. But, what do I want? I don't contemplate that much. "I want someone to remind Mr. Barton that if he turns off all the sensors in his apartment, I cannot tell when he's nodding."
+She scribbles something on a notepad. "I don't see him much. But Ms. Natasha likes me. I can tell her. He listens to her."
+Mrs. Marsh comes into the room with a basket of laundry. "I don't think he's all that susceptible to adorable children. Though I imagine she could convince Thor to do just about anything."
+"I do not currently have a problem with the volume or clarity of Mr. Odinsson's voice."
+Mrs. Marsh and her daughter both laugh as she piles clean laundry into Miss Ada's drawers. "JARVIS told me you mentioned doing more art," she says casually, focused on her task.
+Miss Ada glances at the ceiling rather accusatorially. "I didn't exactly-"
+"I've arranged for Captain Rogers to give you some lessons. I think he mostly sketches, but he's very good. Have you noticed the drawings on his wall?"
+"Yes," she says faintly. "He's really gonna teach me?"
+"If you want."
+She shrieks and jumps up to hug her mother. "Thank you, thank you, thank you."
+I expect the topic of her birthday party will be saved for another day.
+"Five minutes until bedtime starts," Mrs. Marsh says. "If you have any more questions for JARVIS, you should ask them now." We have an agreement that I do not answer queries from Ada, other than to alert her mother of a need, between bedtime and when she wakes up. This was put into place after several nights Ada stayed up all night talking with me.
+After her mother leaves, Ada glances up at the ceiling. "Thank you, Mr. JARVIS."
+"May I inquire as to what in particular you are thanking me for?"
+"Telling Mom about the art."
+"I wish you to be happy," I tell her, because it is the sincere truth. 
+"I've been a lot happier since we moved here," she says. "We all have. It's nice."
+This is probably the closet I can come to feeling joy. "Sleep well, Miss Ada."
+"Goodnight, Mr. JARVIS.
+
+22:37:09
+
+The Tower is growing quiet now. The offices and labs are empty, save Mr. Stark in his private lab. Some of my earlier rising chargers are in bed. Dr. Newbury-Barnes and Sergeant Barnes are asleep, as is Miss Edith, though it is likely that won't last long. It is good they are getting rest when they can.
+Though it probably would sound ridiculous to her parents, Miss Edith gets the most sleep in the building, averaging 15 hours and 26 minutes per day. Mr. Odinsson, at 4 hours 2 minutes, gets the least. I believe Asagardians simply sleep less, as he shows no symptoms of sleep deprivation. 
+I am aware of a whole host of statistics, simply because I am unable to not observe data I am exposed to. Who uses the the most water (Captain Rogers and Ms. Carter), who keeps their apartment the warmest (Captain Rogers and Ms. Carter, again) and the coldest (Mr. Barton, when Ms. Romanov is out of town). Who talks the most (Ms. Lewis or Mr. Stark, depending on the week), and the least (Sergeant Barnes, not counting the little ones). The loudest (Mr. Odinsson) and the quietest (Ms. Romanov). Mr. Stark often asks for odd statistical analysis of his team. I was once asked to  list them all in order voice pitch, though that discussion sparked an argument as to whether the Hulk counted, and then led to the gentlemen attempting to out-falsetto each other. 
+It was acoustically distressing, to say the least. If I was asked to rank all of my charges by their ability to sing, Mr. Stark would be dead last. (Mr. Barton would be first.) 
+Much is made of my tracking movements, especially time occupying apartments. But that is simple metrics. I know where people are because I must be able to contact them at all times and so records are kept of where everyone is and how often and for how long. It was quite the bone of contention before Mr. Barton and Ms. Romanov officially moved in together. And again when Mr. Bennet moved in. Mr. Stark is now interested in how often Dr. Banner spends the night at Mrs. Marsh's residence. I'm sure once their living situation is sorted out there will be something else to pique his curiosity. Perhaps volume of food consumed (Mr. Odinsson, by a large margin) or meal frequency (Mrs. Marsh tends to snack as the children permit) or who orders the most takeout (Mr. Figeroa, in apartment 7H has never cooked a meal in his apartment, though of the team it would be the Newbury-Barnses).
+Humans are a strange and varied bunch.
+
+23:35:12
+
+The night owls are settling in for their evening activities. Ms. Lewis and Mr. Bennett have just ordered pizza. Mr. Stark is making his 5th cup of espresso. Dr. Foster is in her office tuned to a feed from the Mauna Kea observatory and waiting for the sun to go down in Hawaii. Mr. Neil is out of bed and headed for the kitchen. I am reluctant to disturb Mrs. Marsh and Dr. Banner's second attempt at intimate relations today, so I turn on the television to a show I know the boy likes. He abandons his quest for the cabinets and goes to watch the television.
+Midnight is a popular time for relations all over the building, numerous couples being currently engaged. My statistics on that are unreliable because of the lack of sensors in their bedrooms, but it's not hard to extrapolate. Mr. Barton and Ms. Romanov did not make it to their bedroom this evening, so I turn off all the sensors in their apartment. Sometimes they remember to engage Privacy Mode, sometimes they don't.
+To my surprise, Mr. Stark has never asked me statistics on the sexual habits of the team. Perhaps he doesn't want to consider how much I know about his own personal life. The ladies have discussed various aspects of it during their more ribald, intoxicated discussions. I did not offer up any of my data and no one thought to ask.
+For now, my "day" is coming to an end. Time to focus on the coming one, and all the tasks, big and small, it will require.
+
+23:59:59
+
+I sound a chime in the Newbury-Barnes apartment. The baby is awake again.
+
+
+
+
+Afterword
+Please drop by the archive and comment to let the author know if you enjoyed their work!
+
+
+
